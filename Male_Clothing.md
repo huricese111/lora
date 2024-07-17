@@ -911,7 +911,33 @@ m3nstudd3dBuckl3c04t,long sleeves,standing,full body,black pants,black coat,leat
 
 #### lora:m3nsbd3n1m
 
-m3nsbd3n1m,1boy,black denim jacket,sunglasses,distressed,long hair,<lora:m3nsbd3n1m:0.7
+m3nsbd3n1m,1boy,black denim jacket,sunglasses,distressed,long hair,<lora:m3nsbd3n1m:0.7>
 
->
+#### lora:Mechanical Armor
+
+realistic,((masterpiece)),((best quality)),(detailed),cinematic,dynamic lighting,soft shadow,detailed background,professional photography,depth of field,intricate,detailed face,subsurface scattering,realistic hair,realistic eyes,muscular,manly,photo of a handsome man,mech4rmor,wearing mechanical wizard robe,glowing,holding staff,dynamic pose,fighting stance,(40 years old),white hair,witch hat,<lora:Mechanical Armor:0.6>
+
+realistic, ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, professional photography, depth of field, intricate, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, manly, photo of a handsome man, mech4rmor, wearing mechanical knight armor, glowing, holding sword, beard,<lora:Mechanical Armor:0.6>
+
+realistic, ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, professional photography, depth of field, intricate, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, manly, photo of a handsome man, mech4rmor, wearing mechanical priest robe, glowing, dynamic pose, fighting stance, (30 years old), black hair, cross,<lora:Mechanical Armor:0.6>
+
+realistic, ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, professional photography, depth of field, intricate, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, manly, photo of a handsome man, mech4rmor, wearing mechanical paladin armor, glowing, holding shield, dynamic pose, fighting stance,<lora:Mechanical Armor:0.6>
+
+realistic, ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, professional photography, depth of field, intricate, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, manly, photo of a handsome asian man, mech4rmor, wearing mechanical rogue armor, glowing, dynamic pose, fighting stance, black hair, holding dagger, outdoors, cloak, hood, futuristic city, street, alleyway, night, night sky,<lora:Mechanical Armor:0.6>
+
+realistic, ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, professional photography, depth of field, intricate, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, manly, photo of a handsome (asian man), mech4rmor, wearing mechanical power armor, glowing, dynamic pose, fighting stance, futuristic, factory, industrial, red hair, beard,<lora:Mechanical Armor:0.6>
+
+realistic, ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, professional photography, depth of field, intricate, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, manly, photo of a handsome (asian man), mech4rmor, wearing mechanical collared shirt, glowing, dynamic pose, futuristic, futuristic city, street, stubble, pants,<lora:Mechanical Armor:0.6>
+
+realistic, ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, professional photography, depth of field, intricate, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, manly, photo of a handsome (asian man), mech4rmor, wearing mechanical coat, glowing, dynamic pose, futuristic, futuristic city, street, stubble, pants,<lora:Mechanical Armor:0.6>
+
+realistic, ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, professional photography, depth of field, intricate, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, manly, photo of a handsome (asian man), mech4rmor, wearing mechanical business suit, glowing, dynamic pose, futuristic, office, foyer, beard, pants, necktie,<lora:Mechanical Armor:0.6>
+
+#### lora:MEPHISTON MK1.5 by CARAXES
+
+close-up, portrait Photo of mephiston in a desolate landscape with long platinum hair wearing intricate ornamented metallic armor, with a skull pauldron, cape, tabard, cybernetic attachment details, tubes, wires, glowing eyes, reaching hand, 
+a ruined, burning great castle looming in the distance. scifi, 
+ <lora:MEPHISTON MK1.5 by CARAXES:0.8>
+
+
 
