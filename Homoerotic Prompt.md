@@ -45,11 +45,11 @@ Muses - Erato
 (((masterpiece))),(((best quality))),,<lora: more_details:1.1>,Asian: 0.8 (homoerotic muscular Chinese man:1.3),(dickslip:1.2),cclean face,(projectile cum:1),(cum splashing:1.0) 30yo male (gripping hard penis, spread legs, sitting, relaxed, red shorts, clothes pull:1.2),detailed face,realistic eyes,park bench,night,trees (sharp focus, dark atmosphere, dim lighting, soft shadows, red_cinematic_lighting:1.3),cinematic,(saturated colors, colorful:1.2),(open mouth, yelling, pleasure:0.5)
 
 
-##### lora:128dimTurbomaleV7_128:1
+#### lora:128dimTurbomaleV7_128:1
 
 (((masterpiece))),(((best quality))),<lora: more_details:1.1>,, Asian: 0.8, (homoerotic muscular Chinese man:1.3),,,(realistic:1.4),full body,by a stream,((detailed eyes, detailed face)),realistic eyes,realistic face,highly detailed,((1large penis, 1thick penis, 1erect penis, 1glans, testicles)),(((muscular))),strong,(japanese, chinese, taiwanese, korean, asian),((t-shirt)),pantless,necklace,large pectorals,abs,strong biceps,strong triceps,(((muscular legs))),good hairstyle,short hair,<lora:28dimTurbomaleV7_128:1>
 
-### lora:POV,7.3:1
+#### lora:POV,7.3:1
 
 (((masterpiece))),(((best quality))),,<lora: more_details:1.1>,, Asian: 0.8, (homoerotic muscular Chinese man:1.3),,,(realistic:1.4),<lora:POV,7.3:1>,POV,sex,nude,male focus,lying,only penis,open your legs
 
@@ -57,15 +57,15 @@ Muses - Erato
 
 (homoerotic muscular Chinese man:1.3),,,(realistic:1.4),(full body view:1),(POV, sex, nude,male focus, lying,penis, open your legs),GS-Masculine (nude male, look at viewer:1.2),sweat,(dark skin),huge penis,veiny penis,cum,excessive cum,cum on body,<lora:128dimTurbomaleV7_128:0.5>
 
-### lora:Barracuda_MaleClimax_v1:
+#### lora:Barracuda_MaleClimax_v1:
 
 (((masterpiece))),(((best quality))),<lora: more_details:1.1>,, Asian: 0.8, (homoerotic muscular Chinese man:1.3),,,gay anal sex,<lora:muscle_slider_v1:-2>,<,<lora:POV,7.3:1>,,missonary pov anal,penis,navel,muscular,athletic,pecs,biceps,hard perky nipples,sexy,handsome with a great athletic body,(((very large hard perky nipples))) and very large and ((long erect cock)) is moaning in pleasure with a lustful expression on his face as he gets fucked by his boyfriend and cums and shoots hard.,,<lora:Barracuda_MaleClimax_v1:0.8>,,MaleBliss,MaleClimax,parted lips,open mouth,closed eyes (((cock up ass)))
 
-### lora:BDSMale:0.1
+#### lora:BDSMale:0.1
 
 (((masterpiece))),(((best quality))),,<lora: more_details:1.1>,, Asian: 0.8, (homoerotic muscular Chinese man:1.3),,,<lora:BDSMale:0.1>,face,BDSM,body,chest,equipment,chains,tied,man tied up,bulge
 
-### lora:Better_Nude_Men
+#### lora:Better_Nude_Men
 
 (((masterpiece))),(((best quality))),,<lora: more_details:1.1>,, Asian: 0.8, (homoerotic muscular Chinese man:1.3),,,<lora:Better_Nude_Men:0.5>,, big penis, ((blank background)), sunlight, hi-res, 8k, (Masterpiece, high quality:1.3), dramatic background
 
@@ -73,11 +73,11 @@ Muses - Erato
 
 (((masterpiece))),(((best quality))),,<lora: more_details:1.1>,,, Asian: 0.8, (homoerotic muscular Chinese man:1.3),,<lora:Bubble_butts_in_underwear:0.5>,, bubble butt, grey boxers, rear view, tiny waist, sunlight, bathroom, sink, window, sunlight, detailed background, hi-res, 8k, (Masterpiece, high quality:1.3), masterpiece, depth of field, bokeh, detailed, highly detailed, sharp focus, intricate, smooth, elegant, fantasy, cinematic lighting, cinematic, masterpiece, matte, photorealistic, 4k, beautiful, volumetric lighting, dramatic,
 
-### lora:Brown_bubble_butts
+#### lora:Brown_bubble_butts
 
 (((masterpiece))),(((best quality))),,<lora: more_details:1.1>, Asian: 0.8, (homoerotic muscular Chinese man:1.3),,<lora:Brown_bubble_butts:0.5>,,Photo of a mans ass,big penis, dramatic lighting,8k,sun rays,high detail,realistic,high detail,8k,(high quality:1.3),masterpiece,depth of field,bokeh,detailed,homoerotic,(homoerotic),highly detailed,sharp focus,intricate,smooth,elegant,fantasy,cinematic lighting,cinematic,masterpiece,matte,photorealistic,4k,beautiful,volumetric lighting,dramatic
 
-### lora:bussy_v1
+#### lora:bussy_v1
 
 (((masterpiece))),(((best quality))),<lora: more_details:1.1>,, Asian: 0.8, (homoerotic muscular Chinese man:1.3),,<lora:bussy_v1:0.7>,bussy, big penis,  male focus, ass, anus, slim, city centre, downtown, cyberpunk city, neons, neon lighting, terrace
 

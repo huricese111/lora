@@ -15,8 +15,3 @@ Stable Diffusion users who like to try different models can tell you how quickly
 Like textual inversion, you cannot use a LoRA model alone. It must be used with a model checkpoint file. LoRA modifies styles by applying small changes to the accompanying model file.
 
 LoRA is a great way to customize AI art models without filling up local storage.
-
-<<<<<<< HEAD
-=======
-123
->>>>>>> fa02c41aa31ca8226b76d218aa7787cd67e81ac5

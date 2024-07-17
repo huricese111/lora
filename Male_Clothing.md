@@ -25,7 +25,6 @@ Fantasy_ProFantasy - v2.2
 
 #### lora:aki:1
 
-##### Move Forward Party Polo Shirt
 (Croptop,Bikini:1.2)(Cute Russia Girl Woman Blonde,clean face, 9kai poloshirt:1.3)  Black hair,Best 
 (((masterpiece))),(((best quality))),<lora: more_details:1.1>,,shirt,solo,8k uhd,film grain,(studio lighting:1.2),(Fujifilm XT3),(photorealistic:1.3),(detailed skin:1.2),beautiful detailed sky,(nose blush),(smile:1.15),(closed mouth),(short hair:1.2),full body,student,((gaygaygay)),<lora:aki:1> gaygaygay
 
@@ -724,13 +723,195 @@ ic34rmor, wearing ice bodysuit, see-through, dynamic pose, fantasy ice palace ba
 
 ic34rmor, wearing ice bodysuit, see-through, dynamic pose, fantasy ice palace background, indoors, face portrait, (close up:1.2), nude, erection, aquamarine hair, pectorals, abs, outdoors, snow, smirk, cape, dancing, crown, from side, best quality, masterpiece, detailed background, depth of field, intricate details，<lora:Ice Armor:0.5>
 
+#### lora:ironman
 
+Close-up, Homem (Terno Ironman) , Chinese man, fotorrealista, ultra-detalhado, detalhes intrincados, super detalhado, volumático, HDR, realística, Motor irreal, 16k, foco nítido, Renderização Octane, da mais alta qualidade, Foto RAW, composição cinematográfica,,<lora:ironman:0.8>
 
+#### lora:Individual soldier exoskeleton armor suit_v1
 
+solo,((1boy)),outdoors,cityscape,(cowboy shot:1.3),<lora:Individual soldier exoskeleton armor suit_v1:0.9>,ruanyi0300,armor,assault rifle,belt,gloves,goggles,holding weapon,m4 carbine,mecha,robot,holding gun,standing,(incredibly absurdres, ultra-detailed,CG ,unity ,8k wallpaper),(masterpiece),(realistic),(photorealistic:1.2),(raw photo:1.2),(best quality:1.2),(detailed face :1.4),(beautiful detailed eyes :1.2),(detailed hair)
 
+#### lora:Jade Armor
 
+photo of a (chinese man), wearing jade knight armor, (holding sword), muscular, <lora:Jade Armor:0.6>, realistic, masterpiece, intricate details, detailed background, depth of field
 
+photo of a (chinese man), wearing jade (wizard robe armor), (holding staff), <lora: Jade Armor:0.6>, circlet, realistic, masterpiece, intricate details, detailed background, depth of field
 
+photo of a (chinese man), wearing jade paladin armor, (holding shield), muscular, <lora:Jade Armor:0.6>, helmet, cape, cross, realistic, masterpiece, intricate details, detailed background, depth of field
 
+photo of a (chinese man), wearing jade rogue ninja armor, (holding daggers), <lora:Jade Armor:0.6>, hood, half mask, rooftop, realistic, masterpiece, intricate details, detailed background, depth of field
 
+photo of a (chinese man), wearing jade barbarian armor, (holding weapon), <lora:Jade Armor:0.6>, harness, muscular, realistic, masterpiece, intricate details, detailed background, depth of field
+
+photo of a (chinese man), wearing jade (priest robe armor), (holding book), <lora:Jade Armor:0.6>, cross, realistic, masterpiece, intricate details, detailed background, depth of field
+
+photo of a (chinese man), red hair, beard, wearing jade bodysuit, <lora: Jade Armor:0.6>, realistic, masterpiece, intricate details, detailed background, depth of field
+
+photo of a (chinese man), beard, wearing jade exosuit, <lora:Clothing - Jade Armor:0.6>, realistic, masterpiece, intricate details, detailed background, depth of field
+
+photo of a  (chinese man), wearing (jade power armor), <lora:Clothing - Jade Armor:0.6>, city street, helmet, realistic, masterpiece, intricate details, detailed background, depth of field
+
+photo of a  (chinese man), wearing (jade long coat), <lora:Clothing - Jade Armor:0.6>, city street, shirt, pants, realistic, masterpiece, intricate details, detailed background, depth of field
+
+photo of a  (chinese man), wearing (jade shirt), <lora:Clothing - Jade Armor:0.6>, city street, pants, realistic, masterpiece, intricate details, detailed background, depth of field
+
+photo of a chinese man, blonde hair, goatee, wearing (jade harness), <lora:Clothing - Jade Armor:0.6>, night club, pants, realistic, masterpiece, intricate details, detailed background, depth of field
+
+photo of a  (chinese man), stubble, wearing (jade chinese dress), <lora:Jade Armor:0.6>, balcony, jewelry, realistic, masterpiece, intricate details, detailed background, depth of field
+
+photo of a  (chinese man), wearing ornate (gold jade bikini armor), <lora:Jade Armor:0.6>, city street, realistic, masterpiece, intricate details, detailed background, depth of field, (muscular), (large pectorals), (puffy nipples)
+
+#### lora:jack_sparrow_offset
+
+masterpiece, (photorealistic:1.5), best quality, beautiful lighting, real life,
+jack sparrow, solo, long hair, brown hair, long sleeves, 1boy, hat, weapon, male focus, outdoors, gun, facial hair, ocean, rope, rifle, beard, watercraft
+, intricate, high detail, sharp focus, dramatic, beautiful girl , (RAW photo, 8k uhd, film grain), caustics, subsurface scattering, reflections
+<lora:jack_sparrow_offset:1>
+
+#### lora: Latex Armor
+
+realistic, masterpiece, intricate details, detailed background, depth of field, muscular, photo of a handsome (chinese man), l4tex4rmor, wearing latex knight armor, holding sword, shiny latex,<lora: Latex Armor:1>
+
+realistic, masterpiece, intricate details, detailed background, depth of field, muscular, photo of a handsome (chinese man), l4tex4rmor, wearing latex paladin armor, shiny latex, fighting stance, dynamic pose, holding shield, cross, cape, helmet,<lora: Latex Armor:1>
+
+realistic, masterpiece, intricate details, detailed background, depth of field, muscular, photo of a handsome (chinese man), l4tex4rmor, wearing latex wizard robe, shiny latex, fighting stance, dynamic pose, holding staff, wizard hat, library,<lora: Latex Armor:1>
+
+realistic, masterpiece, intricate details, detailed background, depth of field, muscular, photo of a handsome (chinese man), l4tex4rmor, wearing latex priest robe, shiny latex, fighting stance, dynamic pose, tabard, cross, church, beard, (30 years old),<lora: Latex Armor:1>
+
+realistic, masterpiece, intricate details, detailed background, depth of field, muscular, photo of a handsome (chinese man), l4tex4rmor, wearing latex bodysuit, shiny latex, fighting stance, dynamic pose, underground club,<lora: Latex Armor:1>
+
+realistic, masterpiece, intricate details, detailed background, depth of field, muscular, photo of a handsome (chinese man), l4tex4rmor, wearing latex exosuit, shiny latex, fighting stance, dynamic pose, futuristic lab, blonde hair, medium hair,<lora: Latex Armor:1>
+
+realistic, masterpiece, intricate details, detailed background, depth of field, muscular, photo of a handsome (chinese man), l4tex4rmor, wearing latex power armor, shiny latex, fighting stance, dynamic pose, futuristic factory, (side view:0.5), mech suit, helmet,<lora: Latex Armor:1>
+
+realistic, masterpiece, intricate details, detailed background, depth of field, muscular, photo of a handsome (chinese man), l4tex4rmor, wearing latex coat, shiny latex, fighting stance, dynamic pose, futuristic city street, walking,<lora: Latex Armor:1>
+
+realistic, masterpiece, intricate details, detailed background, depth of field, muscular, photo of a handsome (chinese man), l4tex4rmor, wearing latex collared shirt, shiny latex, fighting stance, dynamic pose, futuristic city street, walking, pants, upper body portrait, open shirt,<lora: Latex Armor:1>
+
+realistic, masterpiece, intricate details, detailed background, depth of field, muscular, photo of a handsome (chinese man), l4tex4rmor, wearing latex business suit, shiny latex, fighting stance, dynamic pose, futuristic office, shirt, pants, necktie,<lora: Latex Armor:1>
+
+realistic, masterpiece, intricate details, detailed background, depth of field, muscular, photo of a handsome (chinese man), l4tex4rmor, wearing latex tank top, shiny latex, fighting stance, dynamic pose, workshop,<lora: Latex Armor:1>
+
+realistic, masterpiece, intricate details, detailed background, depth of field, muscular, photo of a handsome (chinese man), l4tex4rmor, wearing latex apron, shiny latex, fighting stance, dynamic pose, cooking in the kitchen,<lora: Latex Armor:1>
+
+(chinese man), l4tex4rmor, wearing latex shirt, shiny latex, dynamic pose, shorts, gym,, (best quality), (masterpiece), (highly detailed), cinematic, (detailed background), depth of field, intricate details, 8k, bara, photo of a handsome man,<lora: Latex Armor:1>
+
+(chinese man), l4tex4rmor, wearing latex collared shirt, shiny latex, fighting stance, dynamic pose, futuristic city street, walking, pants, (close up:1.3), portrait, open shirt,, (best quality), (masterpiece), (highly detailed), cinematic, (detailed background), depth of field, intricate details, 8k, bara, photo of a handsome man,<lora: Latex Armor:1>
+
+(chinese man), l4tex4rmor, wearing latex bodysuit, shiny latex, fighting stance, dynamic pose, underground club,, (best quality), (masterpiece), (highly detailed), cinematic, (detailed background), depth of field, intricate details, 8k, bara, photo of a handsome man,<lora: Latex Armor:1>
+
+(chinese man), l4tex4rmor, wearing latex hoodie, shiny latex, dynamic pose, street, jeans,, (best quality), (masterpiece), (highly detailed), cinematic, (detailed background), depth of field, intricate details, 8k, bara, photo of a handsome man,<lora: Latex Armor:1>
+
+#### lora:Lace Armor
+
+lac34rmor, wearing white lace knight armor, dynamic pose, ((fighting stance)), medieval fantasy city background, holding sword, realistic, masterpiece, intricate details, detailed background, depth of field, photo of a man,<lora:Lace Armor:0.6> 
+
+lac34rmor, wearing white lace paladin armor, see-through, dynamic pose, ((fighting stance)), medieval fantasy city background, holding sword, lace cape, indoors, cross, realistic, masterpiece, intricate details, detailed background, depth of field, photo of a man,<lora:Lace Armor:0.6> 
+
+lac34rmor, wearing black lace rogue armor, see-through, ((dynamic pose)), ((fighting stance)), close up, portrait, medieval fantasy city background, holding dagger, lace cloak, street, alley, pants, realistic, masterpiece, intricate details, detailed background, depth of field, photo of a man,<lora:Lace Armor:0.6> 
+
+lac34rmor, wearing (black lace priest robe), see-through, dynamic pose, medieval fantasy background, church,, realistic, masterpiece, intricate details, detailed background, depth of field, photo of a man,<lora:Lace Armor:0.6> 
+
+lac34rmor, wearing (white lace bodysuit), see-through, dynamic pose, fantasy city background,, realistic, masterpiece, intricate details, detailed background, depth of field, photo of a man,<lora:Lace Armor:0.6> 
+
+lac34rmor, wearing (black lace power armor), see-through, dynamic pose, fantasy city background, rooftop, realistic, masterpiece, intricate details, detailed background, depth of field, photo of a man,<lora:Lace Armor:0.6> 
+
+lac34rmor, wearing (white lace coat), see-through, dynamic pose, fantasy city background, street, pants, shirt, realistic, masterpiece, intricate details, detailed background, depth of field, photo of a man,<lora:Lace Armor:0.6> 
+
+lac34rmor, wearing (white lace hoodie), see-through, dynamic pose, fantasy city background, street, pants, walking, realistic, masterpiece, intricate details, detailed background, depth of field, photo of a man,<lora:Lace Armor:0.6> 
+
+lac34rmor, wearing (black lace business suit), see-through, dynamic pose, fantasy city background, office, indoors, pants, shirt, necktie, realistic, masterpiece, intricate details, detailed background, depth of field, photo of a man,<lora:Lace Armor:0.6> 
+
+lac34rmor, photo of a woman wearing (black lace dress with miniskirt), see-through, dynamic pose, ((1girl)), indoors, back, realistic, masterpiece, intricate details, detailed background, depth of field,<lora:Lace Armor:0.6> 
+
+lac34rmor, wearing (white lace coat), see-through, dynamic pose, fantasy city background, street, pants, shirt, pectorals, abs, flaccid, best quality, masterpiece, detailed background, depth of field, intricate details,<lora:Lace Armor:0.6> 
+
+lac34rmor, wearing (black lace priest robe), see-through, dynamic pose, medieval fantasy background, church, pectorals, abs, flaccid, best quality, masterpiece, detailed background, depth of field, intricate details,<lora:Lace Armor:0.6> 
+
+lac34rmor, wearing (white lace bodysuit), see-through, dynamic pose, fantasy city background, pectorals, abs, flaccid, best quality, masterpiece, detailed background, depth of field, intricate details,<lora:Lace Armor:0.6> 
+
+#### lora:landknt
+
+a landknt holding a great sword with a serious look on his face, with a hat, with armor, proud, menacing, dangerous, beard, long hair, mustache, battle, medieval setting, renaissance setting, war, busy background, highly detailed, intricate, best quality, <lora:landknt:1>
+
+portrait, a landknt (tips his hat:1.2) as a farewell gesture, with hat, head down, bowing down, reverential, friendly, smiling, inspirational, beard, long hair, mustache, renaissance setting, highly detailed, intricate, best quality, <lora:landknt:0.9>, in the style of (Rembrandt:1.1), (Caravaggio:1.1), chiarobscuro
+
+a close up portrait of a male landknt posing with a serious look on his face, holding a great sword, combat stance, with armor, battlefield, war, looking at the camera, bold, proud, long hair, with a hat, mustache, beard, Dusk, Bauhaus, (Max Klinger,Gustave Moreau:1.25),  Shattered glass,Shipwreck,Tangled roots, Labyrinthine, (Monochromatic:1.1), (Framing:1.1),  (Resist techniques:1.1), (Neon light:1.2), Fur, Sphere, ultra detailed, intricate, oil on canvas, dry brush, (surrealism:1.1), (disturbing:1.1), <lora:landknt:0.77>
+
+a close up portrait of a male landknt posing with a smug look on his face, renaissance room in the background, looking at the camera, long hair, with a hat, mustache, beard, in the style (caravaggio:1.3), in the style of (rembrandt:1.3), renaissance, oil painting, chiaroscuro, highly detailed, intricate, best quality, <lora:landknt:0.8>
+
+a landknt holding a great sword with a serious look on his face, with a hat, with armor, proud, menacing, dangerous, beard, long hair, mustache, battle, medieval setting, renaissance setting, war, busy background, highly detailed, intricate, best quality, <lora:landknt:1>
+
+a landknt holding a great sword with a serious look on his face, with a hat, with armor, proud, menacing, dangerous, beard, long hair, mustache, battle, medieval setting, renaissance setting, war, busy background, highly detailed, intricate, best quality, <lora:landknt:1>
+
+#### lora:LeisureSuit
+
+<lora:LeisureSuit:0.8>, leisuresuit, a almost bald  ugly man  in leisure suit, photo realistic, high quality, detailed face, gold necklace, (white suit and pant), ((short sleeves)),  grin, index finger raised high up pointing to sky,  smile, solo, black shoes, blue button, fat belly, short height
+
+<lora:LeisureSuit:0.95>, leisuresuit, a man in leisure suit,  high quality, detailed face, 80s, film photo, art by Brothers Hildebrandt,  photograph, medium shot of a Sleek Rod Stewart, Boundless background, Movie still, Guilty, Lightcore, specular lighting, film grain, Hasselblad, Selective focus
+
+<lora:LeisureSuit:0.9>, leisuresuit, a man  in leisure suit,  high quality, detailed face, photo realistic, 70s, film,  art by Tyler Shields,  photograph, over the shoulder shot of a man with Gray skin, Brown Bowtie, Moon in the night, rim light, film grain, Canon R5, F/8, Fujifilm Superia, hyperdetailed
+
+<lora:LeisureSuit:0.85>, leisuresuit, a woman in leisure suit, art by Stephan Martinire,  photograph, Long exposure of a Depressing Aesthetically Pleasing Male Spice merchant, Auburn hair styled as Buzz cut with a fade, at Overcast, Synthetism, film grain, Kodak portra 400, telephoto lens
+
+<lora:RapidPunches:0.96>,a man in leisure suit is punching rapidly, rapidpunches,  photo realistic, detailed face, <lora:LeisureSuit:0.93>, leisuresuit, solo
+
+#### lora:Landsknecht
+
+best quality,masterpiece,highly detailed,ultra-detailed,  <lora:Landsknecht:1>,1boy,facial hair,  landsknecht, weapon, hat, solo, holding weapon, cityscape, multicolored clotjes,
+
+#### lora:kanzon2.0
+
+A classic Yakuza member in realistic style, standing imposingly in a dimly-lit, narrow alley of Tokyo. The character exudes power and authority, with sharp, calculating eyes, and a stern, unyielding expression. Dressed in a fine, tailored black suit that signifies his rank within the organization, his posture is relaxed yet commands respect. The intricate tattoos, a mark of his loyalty and life stories, are subtly hinted beneath the cuffs of his shirt. The ambiance around him whispers tales of the underworld, a silent testament to his life in the shadows <lora:kanzon2.0:0.85>
+
+A classic Yakuza member in realistic style, standing imposingly in a dimly-lit, narrow alley of Tokyo. The character exudes power and authority, with sharp, calculating eyes, and a stern, unyielding expression. Dressed in a fine, tailored black suit that signifies his rank within the organization, his posture is relaxed yet commands respect. The intricate tattoos, a mark of his loyalty and life stories, are subtly hinted beneath the cuffs of his shirt. The ambiance around him whispers tales of the underworld, a silent testament to his life in the shadows <lora:kanzon2.0:0.75>
+
+A muscular man in a realistic style,He is wearing a black top and a shining silver necklace. Behind him, blurred figures and what may be interpreted as a nightclub setting suggest an environment of social activity. <lora:kanzon2.0:0.8>
+
+A muscular man in a realistic style, adorned with a sleek silver necklace, wearing a high-collared, short-sleeved T-shirt, positioned confidently in a bustling casino. The ambient casino lights glint off the necklace, highlighting his strong physique and the sharp cut of his attire. The background buzzes with the vibrant energy of the casino, with slot machines and gaming tables subtly visible, adding to the dynamic and luxurious atmosphere . <lora:kanzon2.0:0.8>
+
+#### lora:KaidanME
+
+KaidanME, 1boy, male focus, solo, black hair, facial hair, power armor, realistic, armor, looking at viewer, beard, science fiction,masterpiece, best quality   <lora:KaidanME:0.7>
+
+KaidanME, 1boy, male focus, solo, black hair, facial hair, armor, realistic, looking at viewer, smile, upper body, blurry background, blurry, black eyes, power armor, parted lips,masterpiece, best quality,  <lora:KaidanME:0.7>
+
+KaidanME, 1boy, male focus, solo, black hair, upper body, muscular, at the beach, ocean, palm trees, wearing sunglasses, cocktail in one hand,masterpiece, best quality,  <lora:KaidanME:0.7>
+
+KaidanME, 1boy, male focus, black hair, solo, short hair, realistic, upper body, blurry background, blurry, facial hair, indoors, closed mouth, brown eyes, uniform
+,masterpiece, best quality,  <lora:KaidanME:0.7>
+
+KaidanME, 1boy, male focus, solo, realistic, black hair, sitting at a cyberpunk bar, beer in one hand,masterpiece, best quality,  <lora:KaidanME:0.7>
+
+#### lora:jedi
+
+solo, 1boy, long_sleeves,  standing, jacket, coat,  jedi outfit, outfit<lora:jedi:0.9>
+
+1boy, boots, cape, coat, facial_hair, haori, japanese_clothes, male_focus, solo, standing, solo, looking_at_viewer, blue_eyes, brown_hair, 1boy, closed_mouth, standing, full_body, weapon, male_focus, boots, coat, facial_hair, beard, realistic, animification, jedi outfit, outfit<lora:jedi:1>
+
+#### lora:male_rubber_drones_v1.1
+
+realistic, a black man wearing black green rubber bodysuit <lora:male_rubber_drones_v1.1:0.55>,  rubber suit, bulky body, rubber , unzipped, rubber gloves, wetsuit
+
+#### lora:Male Toga_v2
+
+(Realistic),realism,hdr,masterpiece,best quality,absurdres,cinematic lighting,natural shadow,ray tracing,volumetric lighting,highest detail,professional photography,detailed background,depth of field,insane details,intricate,aesthetic,detailed face,subsurface scattering,realistic hair,realistic eyes,muscular,masculine,photo of a handsome man,menstoga,white robes,in white and gold costume,gold headpiece,gold belt,gold chains,ancient rome,palace,sitting on throne,stubble,<lora:Male Toga_v2:0.6>
+
+((best quality)), ((masterpiece)), (detailed), (realistic), cinematic, natural lighting, (detailed background), depth of field, intricate, 8k, detailed skin, (large pectorals:1), pectorals, abs, bara, photo of a handsome man, bellydancer, jewelry, dancing, arabian clothes, smirk, teeth, looking at viewer, outdoors, arabian palace, potted plants,<lora:Clothing - Sexy Belly Dancer:0.3>
+
+#### lora:mackenyu
+
+mackenyu, zoro, a man with green hair holding two swords, wearing a bandana, black hat  <lora:mackenyu:1>
+
+mackenyu, zoro, a man with green hair holding a sword <lora:mackenyu:1>
+
+#### lora:m3nstudd3dBuckl3c04t
+
+m3nstudd3dBuckl3c04t,long sleeves,standing,full body,black pants,black coat,leather,boots,<lora:m3nstudd3dBuckl3c04t:0.7>,masterpiece,best quality,simple background,white background,standing,1boy
+
+#### lora:m3nsbd3n1m
+
+m3nsbd3n1m,1boy,black denim jacket,sunglasses,distressed,long hair,<lora:m3nsbd3n1m:0.7
+
+>
 
