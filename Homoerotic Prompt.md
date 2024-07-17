@@ -1,6 +1,6 @@
 # Homoerotic Prompt
 
-![shot size cheatsheet](E:\lora\shot size cheatsheet.jpg)
+![shot size cheatsheet](shot size cheatsheet.jpg)
 
 ## Useful Checkpoint
 
