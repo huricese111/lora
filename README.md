@@ -16,3 +16,7 @@ Like textual inversion, you cannot use a LoRA model alone. It must be used with 
 
 LoRA is a great way to customize AI art models without filling up local storage.
 
+<<<<<<< HEAD
+=======
+123
+>>>>>>> fa02c41aa31ca8226b76d218aa7787cd67e81ac5
