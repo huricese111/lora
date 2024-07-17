@@ -538,7 +538,36 @@ flower4rmor, photo of a Chinese man wearing flower bodysuit, fantasy medieval ci
 
 flower4rmor, photo of a (Chinese man) wearing cherry blossom flower samurai robes, holding katana sword, ancient japan fantasy background, fighting stance, best quality, masterpiece, detailed background, depth of field, intricate details,<lora:Flower Armor:0.7>
 
+#### lora:Fractal Fairy Armor
+
+realistic,masterpiece,intricate details,detailed background,depth of field,photo of a handsome (Chinese man),fr4ctal4rmor,wearing fractal paladin armor,((dynamic pose)),fighting stance,wings,fantasy background,holding shield,cross,cape,(40 years old),beard,helmet,cinematic composition,sharp focus,(from side:0.6),<lora:Fractal Fairy Armor:0.8>,fr4ctal4rmor,wings
+
+realistic,masterpiece,intricate details,detailed background,depth of field,photo of a handsome (Chinese man),fr4ctal4rmor,wearing fractal wizard robe,(dynamic pose),((fighting stance)),wings,fantasy background,cinematic composition,sharp focus,pectorals,abs,cloak,hood,holding staff,side view,close up,<lora:Fractal Fairy Armor:0.8>,fr4ctal4rmor,wings
+
+realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome (european man), fr4ctal4rmor, wearing fractal coat, (dynamic pose), ((fighting stance)), wings, fantasy background, cinematic composition, sharp focus, close up,,<lora:Fractal Fairy Armor:0.8>,fr4ctal4rmor,wings
+
+realistic,masterpiece,intricate details,detailed background,depth of field,photo of a handsome (icelandic man),fr4ctal4rmor,wearing fractal knight armor,dynamic pose,fighting stance,wings,fantasy background,holding sword,<lora:Fractal Fairy Armor:0.8>,fr4ctal4rmor,wings
+
+realistic,masterpiece,intricate details,detailed background,depth of field,photo of a handsome (european man),fr4ctal4rmor,wearing fractal collared shirt,(dynamic pose),((fighting stance)),wings,fantasy background,cinematic composition,sharp focus,close up,<lora:Fractal Fairy Armor:0.8>,fr4ctal4rmor,wings
+
+realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome (european man), fr4ctal4rmor, wearing fractal rogue armor, (dynamic pose), ((fighting stance)), wings, fantasy background, cinematic composition, sharp focus, pectorals, abs, cloak, hood, holding daggers, side view, close up,<lora:Fractal Fairy Armor:0.8>,fr4ctal4rmor,wings
+
+realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome (european man), fr4ctal4rmor, wearing fractal priest robe, (dynamic pose), ((fighting stance)), wings, fantasy background, cinematic composition, sharp focus, side view, close up, cross,
+
+realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome (european man), fr4ctal4rmor, wearing fractal bodysuit, (dynamic pose), ((fighting stance)), wings, fantasy background, cinematic composition, sharp focus, side view, close up,
+
+realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome (european man), fr4ctal4rmor, wearing fractal exosuit, (dynamic pose), ((fighting stance)), wings, fantasy background, cinematic composition, sharp focus, side view, close up,
+
+realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome (european man), fr4ctal4rmor, wearing fractal power armor, (dynamic pose), ((fighting stance)), wings, fantasy background, cinematic composition, sharp focus, close up, helmet,
+
+realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome (european man), fr4ctal4rmor, wearing fractal coat, (dynamic pose), ((fighting stance)), wings, fantasy background, cinematic composition, sharp focus, close up,
+
+realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome (european man), fr4ctal4rmor, wearing fractal business suit, (dynamic pose), ((fighting stance)), wings, fantasy background, cinematic composition, sharp focus, close up, shirt, pants, necktie,
+
+fr4ctal4rmor, wearing fractal exosuit, fairy wings, dynamic pose, nude, penis, erection, pants,, (best quality), (masterpiece), (highly detailed), cinematic, (detailed background), depth of field, intricate details, 8k, bara, photo of a handsome man,
+
 #### lora:GaulArmor-10
+
 RAW photo, (masterpiece:1.3), subsurface scattering, heavy shadow, (high quality:1.4), (intricate, high detail:1.2), professional photography, HDR, High Dynamic Range, realistic, ultra realistic, photorealistic, high resolution, film photography, ambient lighting, atmospheric effects, OverallDetail, a fantasy Gaul warrior wearing GauAr, holding a spear and a shield, <lora:GaulArmor-10:1>, epiCPhoto
 
 RAW photo, (masterpiece:1.3), subsurface scattering, heavy shadow, (high quality:1.4), (intricate, high detail:1.2), professional photography, HDR, High Dynamic Range, realistic, ultra realistic, photorealistic, high resolution, film photography, ambient lighting, atmospheric effects, OverallDetail, a fantasy male Gaul warrior wearing GauAr armor, cowboy shot, cloak,  <lora:GaulArmor:1>, epiCPhoto
@@ -565,30 +594,51 @@ a man wearing cowsuit, cow horns, cow ears, open grassland, <lora:Gay Cow Suit:0
 
 a man wearing cowsuit, cow horns, cow ears, cow tail, open grassland, <lora:Gay Cow Suit:0.6>, (smirk:0.7), best quality, extremely detailed, intricate details, male focus
 
-#### lora:Fractal Fairy Armor
-realistic,masterpiece,intricate details,detailed background,depth of field,photo of a handsome (Chinese man),fr4ctal4rmor,wearing fractal paladin armor,((dynamic pose)),fighting stance,wings,fantasy background,holding shield,cross,cape,(40 years old),beard,helmet,cinematic composition,sharp focus,(from side:0.6),<lora:Fractal Fairy Armor:0.8>,fr4ctal4rmor,wings
+#### lora:Geomancer
 
-realistic,masterpiece,intricate details,detailed background,depth of field,photo of a handsome (Chinese man),fr4ctal4rmor,wearing fractal wizard robe,(dynamic pose),((fighting stance)),wings,fantasy background,cinematic composition,sharp focus,pectorals,abs,cloak,hood,holding staff,side view,close up,<lora:Fractal Fairy Armor:0.8>,fr4ctal4rmor,wings
+<lora:Geomancer:0.8>, realistic, masterpiece, best quality, cinematic lighting, natural shadow, highest detail, professional photography, detailed background, depth of field, insane details, intricate, aesthetic, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, masculine, photo of a handsome man, geomancer, rock, fighting stance, dynamic pose, chinese clothes, full body, beard, pectorals, open shirt, ancient china, chinese architecture
 
-realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome (european man), fr4ctal4rmor, wearing fractal coat, (dynamic pose), ((fighting stance)), wings, fantasy background, cinematic composition, sharp focus, close up,,<lora:Fractal Fairy Armor:0.8>,fr4ctal4rmor,wings
+<lora:Geomancer:0.8>,realistic, masterpiece, best quality, cinematic lighting, natural shadow, highest detail, professional photography, detailed background, depth of field, insane details, intricate, aesthetic, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, masculine, photo of a handsome man, geomancer, rock, fighting stance, dynamic pose, chinese clothes, full body, mountain,
 
-realistic,masterpiece,intricate details,detailed background,depth of field,photo of a handsome (icelandic man),fr4ctal4rmor,wearing fractal knight armor,dynamic pose,fighting stance,wings,fantasy background,holding sword,<lora:Fractal Fairy Armor:0.8>,fr4ctal4rmor,wings
+<lora:Geomancer:0.8>,realistic, masterpiece, best quality, cinematic lighting, natural shadow, highest detail, professional photography, detailed background, depth of field, insane details, intricate, aesthetic, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, masculine, photo of a handsome man, geomancer, rock, casting spell, dynamic pose, full body, beard, wizard robes,
 
-realistic,masterpiece,intricate details,detailed background,depth of field,photo of a handsome (european man),fr4ctal4rmor,wearing fractal collared shirt,(dynamic pose),((fighting stance)),wings,fantasy background,cinematic composition,sharp focus,close up,<lora:Fractal Fairy Armor:0.8>,fr4ctal4rmor,wings
+<lora:Geomancer:0.8>,realistic, masterpiece, best quality, cinematic lighting, natural shadow, highest detail, professional photography, detailed background, depth of field, insane details, intricate, aesthetic, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, masculine, photo of a handsome man, geomancer, (rock), dynamic pose, arabian robes, pectorals, abs, black hair, desert, druid,
 
-realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome (european man), fr4ctal4rmor, wearing fractal rogue armor, (dynamic pose), ((fighting stance)), wings, fantasy background, cinematic composition, sharp focus, pectorals, abs, cloak, hood, holding daggers, side view, close up,<lora:Fractal Fairy Armor:0.8>,fr4ctal4rmor,wings
+#### lora:Gold Black Marble Armor
 
-realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome (european man), fr4ctal4rmor, wearing fractal priest robe, (dynamic pose), ((fighting stance)), wings, fantasy background, cinematic composition, sharp focus, side view, close up, cross,
+(Chinese man), marb1e4rmor, wearing marble knight armor, dynamic pose, fighting stance, (fantasy medieval city background), holding sword, outdoors, close up, realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome man,<lora:Gold Black Marble Armor:0.5> ,marb1e4rmor
 
-realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome (european man), fr4ctal4rmor, wearing fractal bodysuit, (dynamic pose), ((fighting stance)), wings, fantasy background, cinematic composition, sharp focus, side view, close up,
+(Chinese man), marb1e4rmor, wearing marble paladin armor, dynamic pose, fighting stance, (fantasy medieval city background), knight helmet, cross,, realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome man,<lora:Gold Black Marble Armor:0.5> ,marb1e4rmor
 
-realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome (european man), fr4ctal4rmor, wearing fractal exosuit, (dynamic pose), ((fighting stance)), wings, fantasy background, cinematic composition, sharp focus, side view, close up,
+(Chinese man), marb1e4rmor, wearing marble barbarian armor, dynamic pose, fighting stance, (fantasy medieval background), outdoors, nature, holding weapon,, realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome man,<lora:Gold Black Marble Armor:0.5> ,marb1e4rmor
 
-realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome (european man), fr4ctal4rmor, wearing fractal power armor, (dynamic pose), ((fighting stance)), wings, fantasy background, cinematic composition, sharp focus, close up, helmet,
+(Chinese man), marb1e4rmor, wearing marble rogue armor, dynamic pose, fighting stance, (fantasy medieval background), holding dagger, marble cloak, marble hood, (from side:0.5), realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome man,<lora:Gold Black Marble Armor:0.5> ,marb1e4rmor
 
-realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome (european man), fr4ctal4rmor, wearing fractal coat, (dynamic pose), ((fighting stance)), wings, fantasy background, cinematic composition, sharp focus, close up,
+(Chinese man), marb1e4rmor, wearing marble wizard robe, dynamic pose, fighting stance, (fantasy medieval background), holding staff, library, marble cloak, realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome man,<lora:Gold Black Marble Armor:0.5> ,marb1e4rmor
 
-realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome (european man), fr4ctal4rmor, wearing fractal business suit, (dynamic pose), ((fighting stance)), wings, fantasy background, cinematic composition, sharp focus, close up, shirt, pants, necktie,
+(Chinese man), marb1e4rmor, wearing marble priest robe, dynamic pose, fighting stance, (fantasy medieval church background), cross, black gold marble tabard, close up, realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome man,<lora:Gold Black Marble Armor:0.5> ,marb1e4rmor
 
-fr4ctal4rmor, wearing fractal exosuit, fairy wings, dynamic pose, nude, penis, erection, pants,, (best quality), (masterpiece), (highly detailed), cinematic, (detailed background), depth of field, intricate details, 8k, bara, photo of a handsome man,
+(Chinese man), marb1e4rmor, wearing marble bodysuit, dynamic pose, fighting stance, (fantasy city background),, realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome man,<lora:Gold Black Marble Armor:0.5> ,marb1e4rmor
+
+(Chinese man), marb1e4rmor, wearing marble exosuit, dynamic pose, fighting stance, (fantasy city background), indoors, close up, realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome man,
+
+(Chinese man), marb1e4rmor, wearing marble power armor, dynamic pose, fighting stance, (fantasy background), outdoors, sky, realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome man,<lora:Gold Black Marble Armor:0.5> ,marb1e4rmor
+
+(Chinese man), marb1e4rmor, wearing marble coat, dynamic pose, fighting stance, (city background), street, walking, pants, shirt, close up, realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome man,<lora:Gold Black Marble Armor:0.5> ,marb1e4rmor
+
+(Chinese man), marb1e4rmor, wearing collared shirt, dynamic pose, fighting stance, (city background), indoors, walking, pants, shirt, close up, realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome man,<lora:Gold Black Marble Armor:0.5> ,marb1e4rmor
+
+(Chinese man), marb1e4rmor, wearing marble business suit, dynamic pose, fighting stance, (city background), office, walking, pants, shirt, close up, realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome man,<lora:Gold Black Marble Armor:0.5> ,marb1e4rmor
+
+(Chinese man), marb1e4rmor, wearing marble bodysuit, dynamic pose, fantasy city background, indoors, pectorals, abs, flaccid, penis, nude, massive pectorals, puffy nipples, best quality, masterpiece, detailed background, depth of field, intricate details,<lora:Gold Black Marble Armor:0.5> ,marb1e4rmor
+
+pupplay, photo of a Chinese man, collar, leash, mask, bdsm, all fours, bound, tail, pet play, best quality, masterpiece, detailed background, depth of field, intricate details,<lora:Gold Black Marble Armor:0.5> ,marb1e4rmor
+
+#### lora:Gothic_Outfit
+
+(masterpiece:1.2), (best quality,:1.2), 8k, HDR, ultra detailed, ((photorealistic)), professional light, cinematic lighting, fashion photography, ambient lighting, atmospheric effects, a Chinese male vampire hunter, wearing a long black leather coat, buttons, gothout, <lora:Gothic_Outfit:0.6>, epiCPhoto
+
+(masterpiece:1.2), (best quality,:1.2), 8k, HDR, ultra detailed, ((photorealistic)), professional light, cinematic lighting, fashion photography, ambient lighting, atmospheric effects, a Chinese man, wearing a long coat, ascot, gothout, <lora:Gothic_Outfit:0.5>, epiCPhoto
+
+
 
