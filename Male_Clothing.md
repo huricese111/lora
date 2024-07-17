@@ -18,10 +18,10 @@ Fantasy_ProFantasy - v2.2
 ## Negative prompt
 (worst quality, bad quality, low quality, poor quality:1.4),lowres,blurry,(nsfw, bent over, lying, standing:1.4),grayscale,monochrome,deformed,bad anatomy,disfigured,poorly drawn face,mutation,mutated,extra limb,ugly,disgusting,poorly drawn hands,missing limb,floating limbs,disconnected limbs,malformed hands,blurry,((((mutated hands and fingers)))),text,watermark,watermarked,oversaturated,censored,distorted hands,amputation,missing hands,obese,doubled face,double hands,fcNeg,receding hairline,((receding hairline)),bald,(bald),((balding)),balding,widows peak hairline,an14,bad-hands-5,EasyNegative,FastNegativeV2
 
-### Universal
+## Universal
 (((masterpiece))),(((best quality))),<lora: more_details:1.1>, (a Chinese muscular young man:1.3)
 
-### Parameters
+## Parameters
 
 #### lora:aki:1
 
@@ -939,5 +939,130 @@ close-up, portrait Photo of mephiston in a desolate landscape with long platinum
 a ruined, burning great castle looming in the distance. scifi, 
  <lora:MEPHISTON MK1.5 by CARAXES:0.8>
 
+#### lora:miaozunan5
 
+masterpiece, best quality, 8k, cg, hdr, side lighting, cowboy shot, Hair tie, mznan, a handsome man, (looking at viewer:1.3), clavicle, long hair, jewelry, bracelet, long sleeves, tattoo, particles, butterfly, sky, forest, <lora:miaozunan5:0.8> 
 
+#### lora:mjtoutfit
+
+masterpiece, best quality, high quality, <lora:mjtoutfit:1>, mjtoutfit, jacket, pants, red jacket, red pants, black shoes, closed jacket, solo, simple background,
+
+#### lora:nzshs-10
+
+(8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.4), ultra-detailed, (young male internet celebrity),perfect detail ,  make up,(upper body shot:1.1),China Jiangnan water town style, a man, a dress with a red and gold pattern on it<lora:nzshs-10:0.8>
+
+#### lora:qing_dynasty
+
+RAW photo, delicate, best quality, (intricate details:1.3), hyper detail, finely detailed, colorful, 1man, solo, 8k uhd, film grain, (studio lighting:1.2), (Fujifilm XT3), (photorealistic:1.3), (detailed skin:1.2),(nose blush),beautiful detailed eyes, full body,qing dynasty,bob hat,<lora:qing_dynasty:1> Qing dynasty,<lora:qing_dynasty_hat:1> bob hat
+
+#### lora:Pyromancer
+
+realistic, ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, professional photography, depth of field, intricate, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, manly, photo of a handsome man, pyromancer, dynamic pose, fighting stance, casting spell, swirling fire around man, <lora:Pyromancer:0.6>
+
+realistic, ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, professional photography, depth of field, intricate, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, manly, photo of a handsome man, pyromancer, <lora:Pyromancer:0.6>
+
+realistic, ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, professional photography, depth of field, intricate, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, manly, photo of a handsome man, pyromancer, dynamic pose, fighting stance, fire, wizard robe, hood, (40 years old), beard, cowboy shot, <lora:Pyromancer:0.6>
+
+realistic, ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, professional photography, depth of field, intricate, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, manly, photo of a handsome man, pyromancer, dynamic pose, fighting stance, fire, wizard robe, wizard hat, (40 years old), beard, holding staff, <lora:Pyromancer:0.6>
+
+realistic, ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, professional photography, depth of field, intricate, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, manly, photo of a handsome man, pyromancer, dynamic pose, fighting stance, fire, wizard robe, wizard hat, (50 years old), beard, holding staff, white hair, <lora:Pyromancer:0.6>
+
+realistic, ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, professional photography, depth of field, intricate, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, manly, photo of a handsome man, pyromancer, dynamic pose, fighting stance, fire, wizard robe, beard, holding staff, red hair, <lora:Pyromancer:0.6>
+
+realistic, ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, professional photography, depth of field, intricate, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, manly, photo of a handsome man, pyromancer, dynamic pose, fighting stance, fire, casual clothes, hoodie, pants, (20 years old), <lora:Pyromancer:0.6>
+
+realistic, ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, professional photography, depth of field, intricate, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, manly, photo of a handsome man, pyromancer, dynamic pose, fighting stance, fire, headband, pants, stubble, outdoors, <lora:Pyromancer:0.6>
+
+realistic, ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, professional photography, depth of field, intricate, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, manly, photo of a handsome man, pyromancer, dynamic pose, fighting stance, casting spell, swirling fire around man, <lora:Pyromancer:0.6>
+
+realistic, ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, professional photography, depth of field, intricate, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, manly, photo of a handsome man, pyromancer, <lora:Pyromancer:0.6>
+
+realistic, ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, professional photography, depth of field, intricate, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, manly, photo of a handsome man, pyromancer, dynamic pose, fighting stance, fire, wizard robe, hood, (40 years old), beard, cowboy shot, <lora:Pyromancer:0.6>
+
+#### lora:Pup_mask_jock
+
+ASCII,<lora:Pup_mask_jock:0.7>, photo of a man, pup mask,  eyes, necklace, window background, close up portrait, high detail, realistic, high detail, 8k, (Masterpiece, high quality:1.3), masterpiece, depth of field, bokeh, detailed, homoerotic, (homoerotic), highly detailed, sharp focus, intricate, smooth, elegant, fantasy, cinematic lighting, cinematic, masterpiece, matte, photorealistic, 4k, beautiful, volumetric lighting, dramatic,
+
+#### lora:ParrleyFLEX
+
+close up shot of 1 Parrley_armor, a Chinese man in a suit of armor ,wearing Parrley_armor, big bulky futuristic armor, serious looking, glowing armor, missiles, lasers,(battle stance, action pose, running, ), epic scene
+city ruin, explosions, smokes, dark, dim light
+(( ink and watercolor painting , art by Adrian Smith))
+photorealistic, cinematic lighting, dark atmosphere, volumetric lighting, , lots of fine detail, movie style, photography, natural textures, natural light, natural blur, photorealism, cinematic rendering, ray tracing, highest quality, highest detail, Blur Effect, Long Exposure, 8K, Ultra-HD, Natural Lighting, Moody Lighting, Cinematic Lighting, hyper-realistic, vibrant, 8k, detailed, ultra detail, <lora:ParrleyFLEX:0.6>
+
+4K, Masterpiece, highres, absurdres,photorealistic, Parrley_armor, a Chinese man in a suit of armor ,wearing Parrley_armor, big bulky futuristic armor, running, flying, moving, rocket propulsion,<lora:ParrleyFLEX:0.7>
+
+#### lora:Paper Explosion
+
+(Realistic), realism, hdr, masterpiece, best quality, absurdres, cinematic lighting, natural shadow, ray tracing, volumetric lighting, highest detail, professional photography, detailed background, depth of field, insane details, intricate, aesthetic, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, masculine, photo of a handsome man wearing a black suit, paperexplosion, motion blur, surrounded by papers, papers flying in the air, papers flying from, looking at viewer,<lora:Paper Explosion:0.7>
+
+#### lora:RetroDisco
+
+masterpiece,best quality,male,disco,1980s \(style\),disco style,<lora:RetroDisco:0.8>,
+
+#### lora:Sexy American Football Player
+
+(realistic), (photorealistic), ((masterpiece)), ((best quality)), (detailed), natural lighting, soft shadow, detailed background, photography, depth of field, intricate details, ultra detail, detailed face, subsurface scattering, realistic eyes, muscular, manly, large pectorals, pectorals, abs, photo of a handsome (man), handegg, helmet, football field, pants, holding ball, beard, dynamic pose, shirt,<lora:Sexy American Football Player:0.7>
+
+(realistic), (photorealistic), ((masterpiece)), ((best quality)), (detailed), natural lighting, soft shadow, detailed background, photography, depth of field, intricate details, ultra detail, detailed face, subsurface scattering, realistic eyes, muscular, manly, large pectorals, pectorals, abs, photo of a handsome (man), handegg, helmet, football field, jockstrap, holding ball, beard, dynamic movement, shoulder armor,<lora:Sexy American Football Player:0.7>
+
+(realistic), (photorealistic), ((masterpiece)), ((best quality)), (detailed), natural lighting, soft shadow, detailed background, photography, depth of field, intricate details, ultra detail, detailed face, subsurface scattering, realistic eyes, muscular, manly, large pectorals, pectorals, abs, photo of a handsome (man), handegg, football field, pants, holding ball, beard, dynamic movement, shoulder armor,<lora:Sexy American Football Player:0.7>
+
+(realistic), (photorealistic), ((masterpiece)), ((best quality)), (detailed), natural lighting, soft shadow, detailed background, photography, depth of field, intricate details, ultra detail, detailed face, subsurface scattering, realistic eyes, muscular, manly, large pectorals, pectorals, abs, photo of a handsome (african man), handegg, football field, jockstrap, holding ball, dynamic movement, shoulder armor,<lora:Sexy American Football Player:0.7>
+
+(realistic), (photorealistic), ((masterpiece)), ((best quality)), (detailed), natural lighting, soft shadow, detailed background, photography, depth of field, intricate details, ultra detail, detailed face, subsurface scattering, realistic eyes, muscular, manly, large pectorals, pectorals, abs, photo of a handsome (latino man), handegg, locker room, pants, ball, dynamic movement, helmet,<lora:Sexy American Football Player:0.7>
+
+(realistic), (photorealistic), ((masterpiece)), ((best quality)), (detailed), natural lighting, soft shadow, detailed background, photography, depth of field, intricate details, ultra detail, detailed face, subsurface scattering, realistic eyes, muscular, manly, large pectorals, pectorals, abs, photo of a handsome (latino man), handegg, locker room, jockstrap, dynamic movement, sitting on bench, shoulder armor, beard,<lora:Sexy American Football Player:0.7>
+
+#### lora:Rusty Armor
+
+rusty4rmor,photo of a handsome (peruvian man),wearing rusty exosuit,corrosion,torn clothes,fantasy wasteland background,post-apocalypse,outdoors,realistic,masterpiece,intricate details,detailed background,depth of field,<lora:Rusty Armor:0.7>
+
+rusty4rmor, photo of a handsome (swedish man), wearing rusty barbarian armor, corrosion, torn clothes, medieval fantasy wasteland background, post-apocalypse, holding weapon, harness, desert, realistic, masterpiece, intricate details, detailed background, depth of field,
+
+rusty4rmor, photo of a handsome (korean man), wearing rusty wizard robe, corrosion, torn clothes, fantasy wasteland background, post-apocalypse, holding staff, witch hat, ancient ruins, realistic, masterpiece, intricate details, detailed background, depth of field,
+
+rusty4rmor, photo of a handsome (ugandan man), wearing rusty priest robe, corrosion, torn clothes, fantasy wasteland background, post-apocalypse, dilapidated church, realistic, masterpiece, intricate details, detailed background, depth of field,
+
+rusty4rmor, photo of a handsome (cambodian man), wearing rusty bodysuit, corrosion, torn clothes, fantasy wasteland background, post-apocalypse, realistic, masterpiece, intricate details, detailed background, depth of field,
+
+rusty4rmor, photo of a handsome (german man), wearing rusty coat, corrosion, torn clothes, fantasy wasteland background, post-apocalypse, city, realistic, masterpiece, intricate details, detailed background, depth of field,
+
+rusty4rmor, photo of a handsome ( Indian man), wearing rusty shirt, corrosion, torn clothes, fantasy wasteland background, post-apocalypse, city, realistic, masterpiece, intricate details, detailed background, depth of field,
+
+rusty4rmor, photo of a handsome (Syrian man), wearing rusty business suit, corrosion, torn clothes, fantasy wasteland background, post-apocalypse, city, indoors, pants, shirt, necktie, realistic, masterpiece, intricate details, detailed background, depth of field,
+
+rusty4rmor, photo of a handsome man, wearing rusty coat, corrosion, torn clothes, fantasy wasteland background, post-apocalypse, outdoors, dynamic pose, (best quality), (masterpiece), (highly detailed), cinematic, (detailed background), depth of field, intricate details
+
+male focus,body hair,male only,short hair,stubble,look at the viewer,battle field,sunshine,((rusty4rmor,rusty barbarian armor)),((open mouth)),(homoerotic),real light and shadowdetailed background,detailed,atmospheric,epic,masterpiece,best quality,8k,ultrarealsitc,hyperrealistic,cinematic lighting,realistic,detailed background,clear texture,best background,depth of field,(Balance and coordination between all things),depth of field,(tentacles_optimize:1.4),bdsm,<lora:tentacles optimize_20230624233605:0.35>,spread legs,
+<lora:Style_break_realise:0>,<lora:Style_tangbohu-detailer_1.0:0.5>,<lora:Slider_contrast_slider_v10:2>,<lora:Enhanced_lighting_details_v1:0.5>,<lora:Style_anime_penis_lora:0.7>,<lora:Slider_Background_contrast_BCC_v2.0:-0.5>,<lora:Clothing - Rusty Armor:0.4>,<lora:Slider_mucle_slider:-1.5>,
+
+#### lora: Sexy Bartender_v1.1
+
+(realistic), (photorealistic), ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, photography, depth of field, intricate, detailed face, subsurface scattering, realistic eyes, muscular, manly, large pectorals, pectorals, abs, photo of a handsome man, sexybartender, vest, pants, bowtie, wrist cuffs, bar, alcohol, (smirk:0.7), beard, dynamic pose, <lora: Sexy Bartender_v1.1:0.4>
+
+(realistic), (photorealistic), ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, photography, depth of field, intricate, detailed face, subsurface scattering, realistic eyes, muscular, manly, large pectorals, pectorals, abs, photo of a handsome (african man), sexybartender, vest, pants, bowtie, wrist cuffs, bar, alcohol, (smirk:0.7), beard, dynamic pose,<lora: Sexy Bartender_v1.1:0.4>
+
+(realistic), (photorealistic), ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, photography, depth of field, intricate, detailed face, subsurface scattering, realistic eyes, muscular, manly, large pectorals, pectorals, abs, photo of a handsome (latino man), sexybartender, vest, black underwear, bowtie, wrist cuffs, bar, alcohol, (smirk:0.7), dynamic pose, black hair,<lora: Sexy Bartender_v1.1:0.4>
+
+(realistic), (photorealistic), ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, photography, depth of field, intricate, detailed face, subsurface scattering, realistic eyes, muscular, manly, large pectorals, pectorals, abs, photo of a handsome (american man), sexybartender, vest, black underwear, bowtie, wrist cuffs, bar, alcohol, (smirk:0.7), dynamic pose, blonde hair, sitting, beard,<lora: Sexy Bartender_v1.1:0.4>
+
+(realistic), (photorealistic), ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, photography, depth of field, intricate, detailed face, subsurface scattering, realistic eyes, muscular, manly, large pectorals, pectorals, abs, photo of a handsome (arabian man), sexybartender, vest, black underwear, bowtie, wrist cuffs, bar, alcohol, (smirk:0.7), dynamic pose, back,<lora: Sexy Bartender_v1.1:0.4>
+
+(realistic), (photorealistic), ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, photography, depth of field, intricate, detailed face, subsurface scattering, realistic eyes, muscular, manly, large pectorals, pectorals, abs, photo of a handsome (asian man), sexybartender, vest, black underwear, bowtie, wrist cuffs, bar, alcohol, (smirk:0.7), dynamic pose, lying, side view,<lora: Sexy Bartender_v1.1:0.4>
+
+(realistic), (photorealistic), ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, photography, depth of field, intricate, detailed face, subsurface scattering, realistic eyes, muscular, manly, large pectorals, pectorals, abs, photo of a handsome man, sexybartender, vest, pants, bowtie, wrist cuffs, bar, alcohol, (smirk:0.7), beard, dynamic pose,<lora: Sexy Bartender_v1.1:0.4>
+
+(realistic), (photorealistic), ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, photography, depth of field, intricate, detailed face, subsurface scattering, realistic eyes, muscular, manly, large pectorals, pectorals, abs, photo of a handsome (african man), sexybartender, vest, pants, bowtie, wrist cuffs, bar, alcohol, (smirk:0.7), beard, dynamic pose,<lora: Sexy Bartender_v1.1:0.4>
+
+(realistic), (photorealistic), ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, photography, depth of field, intricate, detailed face, subsurface scattering, realistic eyes, muscular, manly, large pectorals, pectorals, abs, photo of a handsome (latino man), sexybartender, vest, black underwear, bowtie, wrist cuffs, bar, alcohol, (smirk:0.7), dynamic pose, black hair,<lora: Sexy Bartender_v1.1:0.4>
+
+(realistic), (photorealistic), ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, photography, depth of field, intricate, detailed face, subsurface scattering, realistic eyes, muscular, manly, large pectorals, pectorals, abs, photo of a handsome (american man), sexybartender, vest, black underwear, bowtie, wrist cuffs, bar, alcohol, (smirk:0.7), dynamic pose, blonde hair, sitting, beard,<lora: Sexy Bartender_v1.1:0.4>
+
+(realistic), (photorealistic), ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, photography, depth of field, intricate, detailed face, subsurface scattering, realistic eyes, muscular, manly, large pectorals, pectorals, abs, photo of a handsome (arabian man), sexybartender, vest, black underwear, bowtie, wrist cuffs, bar, alcohol, (smirk:0.7), dynamic pose, back,<lora: Sexy Bartender_v1.1:0.4>
+
+(realistic), (photorealistic), ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, photography, depth of field, intricate, detailed face, subsurface scattering, realistic eyes, muscular, manly, large pectorals, pectorals, abs, photo of a handsome (asian man), sexybartender, vest, black underwear, bowtie, wrist cuffs, bar, alcohol, (smirk:0.7), dynamic pose, lying, side view,<lora: Sexy Bartender_v1.1:0.4>
+
+#### lora:Sexy Baseball Player
+
+baseballplayer, photo of a Belgian man, holding baseball bat, helmet, white pants, gloves, baseball field, dugout, realistic, masterpiece, intricate details, detailed background, depth of field,<lora:Sexy Baseball Player:0.65> 
