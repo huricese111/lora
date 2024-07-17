@@ -1145,4 +1145,430 @@ realistic, masterpiece, intricate details, detailed background, depth of field, 
 
 realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome (chinese man), gym, leggings, dynamic pose, sweaty, pull up bar, from behind, exercise,<lora: Sexy Fitness Trainer:0.65>
 
-(ugandan man), gym, shirt, sweatpants, dynamic pose, sweaty, exercise, full body, ((facing viewer)),, (best quality), (masterpiece), (highly detailed), cinematic, (detailed background), depth of field, intricate details, 8k, bara, photo of a handsome man,<lora: Sexy Fitness Trainer:0.65>
+(Chinese man), gym, shirt, sweatpants, dynamic pose, sweaty, exercise, full body, ((facing viewer)),, (best quality), (masterpiece), (highly detailed), cinematic, (detailed background), depth of field, intricate details, 8k, bara, photo of a handsome man,<lora: Sexy Fitness Trainer:0.65>
+
+#### lora:Sexy One-piece Swimsuit
+
+(Chinese man),wearing white one-piece swimsuit,see-through,wet clothes,poolside,(smirk:0.7),dynamic pose,bulge,muscular,realistic,masterpiece,intricate details,detailed background,depth of field,photo of a handsome man,<lora:Sexy One-piece Swimsuit:0.8>
+
+(Chinese man), wearing blue one-piece swimsuit, see-through, wet clothes, poolside, (smirk:0.7), dynamic pose, bulge, muscular, (side view:0.5), realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome man,<lora:Sexy One-piece Swimsuit:0.8>
+
+(Chinese man), wearing red one-piece swimsuit, see-through, wet clothes, beach, (smirk:0.7), dynamic pose, bulge, muscular, back, realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome man,<lora:Sexy One-piece Swimsuit:0.8>
+
+(Chinese man), wearing green one-piece swimsuit, see-through, wet clothes, beach, (smirk:0.7), dynamic pose, bulge, muscular, side view, realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome man,<lora:Sexy One-piece Swimsuit:0.8>
+
+(Chinese man), wearing orange one-piece swimsuit, see-through, wet clothes, tropical rainforest, (smirk:0.4), dynamic pose, bulge, muscular, hands on hips, realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome man,<lora:Sexy One-piece Swimsuit:0.8>
+
+(Chinese man), wearing (pink one-piece swimsuit), see-through, wet clothes, tropical rainforest, (smirk:0.4), dynamic pose, bulge, muscular, armpit, blonde hair, (from side:0.3), realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome man,<lora:Sexy One-piece Swimsuit:0.8>
+
+(Chineseman), wearing (yellow one-piece swimsuit), see-through, wet clothes, tropical hotel room, (smirk:0.4), dynamic pose, bulge, muscular, (from side:0.5), realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome man,<lora:Sexy One-piece Swimsuit:0.8>
+
+(Chinese man), wearing (black one-piece swimsuit), see-through, wet clothes, tropical hotel room, (smirk:0.4), dynamic pose, bulge, muscular, ass, window, trees, realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome man,<lora:Sexy One-piece Swimsuit:0.8>
+
+#### lora:Sexy Mummy
+
+mummy costume, bandages, dynamic pose, Egyptian tomb, jewelry, bandaged arm, bandaged legs, bandaged torso,, realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome man,<lora:Sexy Mummy:0.6>
+
+mummy costume, bandages, dynamic pose, Egyptian tomb, evil, jewelry, outdoors, realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome man,<lora:Sexy Mummy:0.6>
+
+mummy costume, bandages, dynamic pose, bandaged arm, bandaged legs, bandaged torso, (smirk:0.9), halloween, street, jack-o'-lantern, realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome man,<lora:Sexy Mummy:0.6>
+
+mummy costume, bandages, dynamic pose, bandaged arm, bandaged legs, bandaged torso, (smirk:0.9), halloween, street, jack-o'-lantern, back, realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome man,<lora:Sexy Mummy:0.6>
+
+mummy, bandages, penis, erection, best quality, masterpiece, highly detailed, realistic, (detailed background), depth of field, soft focus, intricate details, 8k, cartoon, 3d, photo of a man,<lora:Sexy Mummy:0.6>
+
+mummy, bandages, penis, erection, Halloween, dynamic pose, outdoors, night, best quality, masterpiece, highly detailed, realistic, (detailed background), depth of field, soft focus, intricate details, 8k, cartoon, 3d, photo of a man,<lora:Sexy Mummy:0.6>
+
+mummy, bandages, flaccid penis, dynamic pose, Egyptian tomb, evil, jewelry, outdoors, (side view:0.7), best quality, masterpiece, highly detailed, realistic, (detailed background), depth of field, soft focus, intricate details, 8k, cartoon, 3d, photo of a man,<lora:Sexy Mummy:0.6>
+
+#### lora:Sexy Men's Bodysuit
+
+bodysu1t, photo of a (chinese man) wearing bodysuit, see-through, underground nightclub, dancing, facial hair, realistic, masterpiece, intricate details, detailed background, depth of field,<lora:Sexy Men's Bodysuit:1>
+
+bodysu1t, photo of a (chinese man) wearing bodysuit, see-through, underground club, blonde hair, realistic, masterpiece, intricate details, detailed background, depth of field,<lora:Sexy Men's Bodysuit:1>
+
+bodysu1t, photo of a man wearing bodysuit, see-through, realistic, masterpiece, intricate details, detailed background, depth of field,<lora:Sexy Men's Bodysuit:1>
+
+bodysu1t, photo of a (chinese man) wearing bodysuit, see-through, nightclub, dancing, beard, back, realistic, masterpiece, intricate details, detailed background, depth of field,<lora:Sexy Men's Bodysuit:1>
+
+bodysu1t, photo of a (chinese man) wearing bodysuit, see-through, street, night, leaning against wall, from side, looking at viewer, realistic, masterpiece, intricate details, detailed background, depth of field,<lora:Sexy Men's Bodysuit:1>
+
+bodysu1t, photo of a (chinese man) wearing bodysuit, see-through, dungeon, (from side:0.5), looking at viewer, realistic, masterpiece, intricate details, detailed background, depth of field,<lora:Sexy Men's Bodysuit:1>
+
+#### lora:Sexy Mechanic Overalls
+
+realistic, masterpiece, best quality, cinematic, dynamic lighting, natural shadow, ray tracing, volumetric lighting, highest detail, professional photography, detailed background, depth of field, insane details, intricate, aesthetic, detailed face, detailed skin, subsurface scattering, realistic hair, realistic eyes, muscular, masculine, large pectorals, (shiny skin:1), (sweat:0.5), pecs, abs, photo of a handsome man, mechanicoveralls, naked overall, glove, wrench, goggles on head, workshop, car, smirk,<lora:Sexy Mechanic Overalls:0.65>
+
+realistic, masterpiece, best quality, cinematic, dynamic lighting, natural shadow, ray tracing, volumetric lighting, highest detail, professional photography, detailed background, depth of field, insane details, intricate, aesthetic, detailed face, detailed skin, subsurface scattering, realistic hair, realistic eyes, muscular, masculine, large pectorals, (shiny skin:1), (sweat:0.5), pecs, abs, photo of a handsome man, mechanicoveralls, naked overall, glove, holding wrench, baseball cap, workshop, car, beard, smirk, dynamic pose,<lora:Sexy Mechanic Overalls:0.65>
+
+realistic, masterpiece, best quality, cinematic, dynamic lighting, natural shadow, ray tracing, volumetric lighting, highest detail, professional photography, detailed background, depth of field, insane details, intricate, aesthetic, detailed face, detailed skin, subsurface scattering, realistic hair, realistic eyes, muscular, masculine, large pectorals, (shiny skin:1), (sweat:0.5), pecs, abs, photo of a handsome man, mechanicoveralls, green naked overalls, glove, holding wrench, workshop, car, beard, smirk, dynamic pose,<lora:Sexy Mechanic Overalls:0.65>
+
+realistic, masterpiece, best quality, cinematic, dynamic lighting, natural shadow, ray tracing, volumetric lighting, highest detail, professional photography, detailed background, depth of field, insane details, intricate, aesthetic, detailed face, detailed skin, subsurface scattering, realistic hair, realistic eyes, muscular, masculine, large pectorals, (shiny skin:1), (sweat:0.5), pecs, abs, photo of a handsome man, mechanicoveralls, red naked overalls, glove, goggles on head, holding wrench, workshop, car, beard, smirk, dynamic pose,<lora:Sexy Mechanic Overalls:0.65>
+
+#### lora:Sexy Loincloth
+
+realistic, ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, professional photography, depth of field, intricate, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, manly, sweat, pectorals, abs, photo of a handsome man, sexyloincloth, jungle, tribal, necklace, armband, bracelet, animal print, medium messy hair, <lora:Sexy Loincloth:0.8>
+
+realistic, ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, professional photography, depth of field, intricate, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, manly, sweat, pectorals, abs, photo of a handsome man, sexyloincloth, jungle, tribal, necklace, armband, bracelet, animal print, medium messy hair, brown eyes, back view, waterfall, ass, water,<lora:Sexy Loincloth:0.8>
+
+realistic, ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, professional photography, depth of field, intricate, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, manly, pectorals, abs, photo of a handsome (latino man), sexyloincloth, jungle, tribal, necklace, armband, bracelet, medium messy hair, brown eyes, waterfall, water, vines, beard, back,<lora:Sexy Loincloth:0.8>
+
+realistic, ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, professional photography, depth of field, intricate, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, manly, pectorals, abs, photo of a handsome (southeast asian man), sexyloincloth, jungle, tribal, necklace, armband, bracelet, medium messy hair, brown eyes, waterfall, water, vines, sitting, stubble,<lora:Sexy Loincloth:0.8>
+
+realistic, ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, professional photography, depth of field, intricate, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, manly, pectorals, abs, photo of a handsome (southeast asian man), sexyloincloth, jungle, tribal, necklace, armband, bracelet, medium messy hair, brown eyes, water, vines, lying, stubble, from above, armpit, wet,<lora:Sexy Loincloth:0.8>
+
+#### lora:Sexy Ledenhosen
+
+l3denh0sen, photo of a handsome chinese man, muscular, celebrating oktoberfest, suspenders, shorts, socks, shoes, topless male, realistic, masterpiece, intricate details, detailed background, depth of field,<lora:Sexy Ledenhosen:0.6>
+
+l3denh0sen, photo of a handsome chinese man, muscular, celebrating oktoberfest, suspenders, shorts, socks, shoes, shirt, sleeves rolled up, beer mug, realistic, masterpiece, intricate details, detailed background, depth of field,<lora:Sexy Ledenhosen:0.6>
+
+l3denh0sen, photo of a handsome young polish man, muscular, celebrating oktoberfest, suspenders, shorts, shirt, hat, beer mug, sitting at bar, (30 years old), realistic, masterpiece, intricate details, detailed background, depth of field,<lora:Sexy Ledenhosen:0.6>
+
+l3denh0sen, photo of a handsome young polish man, muscular, celebrating oktoberfest, suspenders, shorts, topless male, leaning over the counter, outdoor bar, back, realistic, masterpiece, intricate details, detailed background, depth of field,<lora:Sexy Ledenhosen:0.6>
+
+l3denh0sen, photo of a handsome young dutch man, muscular, celebrating oktoberfest, suspenders, shorts, tank top, leaning on the counter, outdoor bar, realistic, masterpiece, intricate details, detailed background, depth of field,<lora:Sexy Ledenhosen:0.6>
+
+l3denh0sen, photo of a handsome young swiss man, muscular, suspenders, shorts, topless male, lake, cabin, mountain, chopping wood, axe, realistic, masterpiece, intricate details, detailed background, depth of field,<lora:Sexy Ledenhosen:0.6>
+
+l3denh0sen, photo of a handsome young hungarian man, muscular, suspenders, shorts, topless male, lake, cabin, mountain, hands on hips, back, realistic, masterpiece, intricate details, detailed background, depth of field,<lora:Sexy Ledenhosen:0.6>
+
+#### lora:Sexy Firemen Outfit
+
+Realistic, masterpiece, best quality, cinematic lighting, natural shadow, highest detail, professional photography, detailed background, depth of field, insane details, intricate, aesthetic, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, masculine, large pectorals, (shiny skin:1), (sweat:0.5), pecs, abs, photo of a handsome man, firemenoutfit, suspenders, pants, helmet, jacket, holding axe,<lora:Sexy Firemen Outfit:0.65>
+
+realistic, masterpiece, best quality, cinematic lighting, natural shadow, highest detail, professional photography, detailed background, depth of field, insane details, intricate, aesthetic, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, masculine, large pectorals, (shiny skin:1), (sweat:0.5), pecs, abs, photo of a handsome man, firemenoutfit, suspenders, pants, holding axe, beard, helmet,<lora:Sexy Firemen Outfit:0.65>
+
+realistic, masterpiece, best quality, cinematic lighting, natural shadow, highest detail, professional photography, detailed background, depth of field, insane details, intricate, aesthetic, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, masculine, large pectorals, (shiny skin:1), (sweat:0.5), pecs, abs, photo of a handsome man, firemenoutfit, suspenders, pants, jacket, holding axe, beard,<lora:Sexy Firemen Outfit:0.65>
+
+realistic, masterpiece, best quality, cinematic lighting, natural shadow, highest detail, professional photography, detailed background, depth of field, insane details, intricate, aesthetic, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, masculine, large pectorals, (shiny skin:1), (sweat:0.5), pecs, abs, photo of a handsome man, firemenoutfit, suspenders, pants, facial hair, helmet, holding axe,<lora:Sexy Firemen Outfit:0.65>
+
+realistic, masterpiece, best quality, cinematic lighting, natural shadow, highest detail, professional photography, detailed background, depth of field, insane details, intricate, aesthetic, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, masculine, large pectorals, (shiny skin:1), (sweat:0.5), pecs, abs, photo of a handsome man, firemenoutfit, suspenders, pants, jacket, smoke in background,<lora:Sexy Firemen Outfit:0.65>
+
+realistic, masterpiece, best quality, cinematic lighting, natural shadow, highest detail, professional photography, detailed background, depth of field, insane details, intricate, aesthetic, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, masculine, large pectorals, (shiny skin:1), (sweat:0.5), pecs, abs, photo of a handsome man, firemenoutfit, suspenders, pants, smoke in background,<lora:Sexy Firemen Outfit:0.65>
+
+#### lora:Sexy Doctor
+
+realistic, masterpiece, best quality, detailed, natural lighting, soft shadow, detailed background, photography, depth of field, intricate details, detailed face, subsurface scattering, realistic eyes, muscular, photo of a handsome man, sexydoctor, coat, (30 years old), hospital, stethoscope, surgical mask, pants,<lora:Sexy Doctor:0.6>
+
+realistic, masterpiece, best quality, detailed, natural lighting, soft shadow, detailed background, photography, depth of field, intricate details, detailed face, subsurface scattering, realistic eyes, muscular, photo of a handsome man, sexydoctor, stethoscope, (collared shirt), necktie, pants, hospital, (40 years old), beard, brown hair,<lora:Sexy Doctor:0.6>
+
+realistic, masterpiece, best quality, detailed, natural lighting, soft shadow, detailed background, photography, depth of field, intricate details, detailed face, subsurface scattering, realistic eyes, muscular, photo of a handsome (chinese man), sexydoctor, ((scrubs)), (30 years old), beard, gloves, surgical mask,<lora:Sexy Doctor:0.6>
+
+realistic, masterpiece, best quality, detailed, natural lighting, soft shadow, detailed background, photography, depth of field, intricate details, detailed face, subsurface scattering, realistic eyes, muscular, photo of a handsome (chinese man), sexydoctor, scrubs, (30 years old), beard, gloves, hospital,<lora:Sexy Doctor:0.6>
+
+realistic, masterpiece, best quality, detailed, natural lighting, soft shadow, detailed background, photography, depth of field, intricate details, detailed face, subsurface scattering, realistic eyes, muscular, photo of a handsome man, sexydoctor, coat, (30 years old), hospital, stethoscope, pants, (shirt), necktie,<lora:Sexy Doctor:0.6>
+
+realistic, masterpiece, best quality, detailed, natural lighting, soft shadow, detailed background, photography, depth of field, intricate details, detailed face, subsurface scattering, realistic eyes, muscular, photo of a handsome (chineseman), sexydoctor, stethoscope, open shirt, pants, hospital, (40 years old),<lora:Sexy Doctor:0.6>
+
+#### lora:Sexy Delivery Man - UPS
+
+realistic, masterpiece, best quality, natural lighting, soft shadow, insane detail, detailed background, professional photography, depth of field, intricate, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, masculine, photo of a handsome man, outdoors, urban, dynamic pose, ups-outfit, shorts, open clothes, hat, holding box, belt, shoes, happy, looking at viewer,<lora:Sexy Delivery Man - UPS:0.65> 
+
+realistic, masterpiece, best quality, natural lighting, soft shadow, insane detail, detailed background, professional photography, depth of field, intricate, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, masculine, photo of a handsome man, outdoors, urban, street, ups-outfit, shorts, polo shirt, belt, happy, looking at viewer, holding box on shoulder,<lora:Sexy Delivery Man - UPS:0.65> 
+
+realistic, masterpiece, best quality, natural lighting, soft shadow, insane detail, detailed background, professional photography, depth of field, intricate, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, masculine, photo of a handsome man, outdoors, urban, street, dynamic pose, ups-outfit, shorts, open shirt, hat, holding box, belt, happy, looking at viewer,<lora:Sexy Delivery Man - UPS:0.65> 
+
+realistic, masterpiece, best quality, natural lighting, soft shadow, insane detail, detailed background, professional photography, depth of field, intricate, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, masculine, photo of a handsome man, outdoors, urban, street, dynamic pose, ups-outfit, shorts, collared shirt, belt, happy, looking at viewer, partially unbuttoned,<lora:Sexy Delivery Man - UPS:0.65> 
+
+((best quality)), ((masterpiece)), (detailed), (realistic), cinematic, dynamic lighting, (detailed background), depth of field, intricate, 8k, detailed skin, (large pectorals:1.4), nude, pectorals, abs, penis, erection, photo of a handsome man, outdoors, urban, dynamic pose, ups-outfit, shorts, open clothes, hat, holding box, belt, happy, looking at viewer,<lora:Sexy Delivery Man - UPS:0.65> 
+
+((best quality)), ((masterpiece)), (detailed), (realistic), cinematic, dynamic lighting, (detailed background), depth of field, intricate, 8k, detailed skin, (large pectorals:1.4), (nude), pectorals, abs, (penis), erection, photo of a handsome man, outdoors, urban, dynamic pose, ups-outfit, shorts, open clothes, holding box, happy, looking at viewer,<lora:Sexy Delivery Man - UPS:0.65> 
+
+((best quality)), ((masterpiece)), (detailed), (realistic), cinematic, dynamic lighting, (detailed background), depth of field, intricate, 8k, detailed skin, (large pectorals:1.4), (nude), pectorals, abs, (penis), erection, photo of a handsome man, outdoors, urban, ups-outfit, shorts, (polo shirt), belt, happy, looking at viewer, hat,<lora:Sexy Delivery Man - UPS:0.65> 
+
+((best quality)), ((masterpiece)), (detailed), (realistic), cinematic, dynamic lighting, (detailed background), depth of field, intricate, 8k, detailed skin, (large pectorals:1.4), (nude), pectorals, abs, (penis), erection, photo of a handsome man, outdoors, urban, ups-outfit, belt, happy, looking at viewer, dynamic pose, carrying box,<lora:Sexy Delivery Man - UPS:0.65> 
+
+#### lora:Sexy Garter and Suspenders_v1.1
+
+realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome (caucasian man), legwear garter, suspenders, bedroom, sitting, dynamic pose, (40 years old), beard, grey hair, dynamic pose, cinematic composition, full body,<lora:Sexy Garter and Suspenders_v1.1:0.65> 
+
+realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome (latino man), legwear garter, suspenders, office, dynamic pose, (0 years old), beard, grey hair, dynamic pose, cinematic composition, full body,<lora:Sexy Garter and Suspenders_v1.1:0.65> 
+
+realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome (korean man), legwear garter, suspenders, office, dynamic pose, back, dynamic pose, cinematic composition, full body,<lora:Sexy Garter and Suspenders_v1.1:0.65> 
+
+realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome (lebanese man), legwear garter, suspenders, college classroom, sitting on desk, dynamic pose, dynamic pose, cinematic composition, full body, looking at viewer,<lora:Sexy Garter and Suspenders_v1.1:0.65> 
+
+realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome (jamaican man), legwear garter, suspenders, changing room, from side, dynamic pose, dynamic pose, cinematic composition, full body, looking at viewer, (boxer brief),<lora:Sexy Garter and Suspenders_v1.1:0.65> 
+
+realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome (filipino man), legwear garter, suspenders, luxurious bathroom, window, mirror, dynamic pose, dynamic pose, cinematic composition, full body, looking at viewer, (boxer brief),<lora:Sexy Garter and Suspenders_v1.1:0.65> 
+
+realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome (brazilian man), legwear garter, suspenders, labcoat, futuristic science lab, dynamic pose, dynamic pose, cinematic composition, full body, looking at viewer,<lora:Sexy Garter and Suspenders_v1.1:0.65> 
+
+realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome (icelandic man), legwear garter, suspenders, coat, bar, sitting, (from side:0.5), dynamic pose, dynamic pose, cinematic composition, looking at viewer,<lora:Sexy Garter and Suspenders_v1.1:0.65> 
+
+(chinese man), legwear garter, suspenders, office, dynamic pose, (0 years old), beard, grey hair, dynamic pose, cinematic composition, full body,, (best quality), (masterpiece), (highly detailed), cinematic, (detailed background), depth of field, intricate details, 8k, bara, photo of a handsome man,<lora:Sexy Garter and Suspenders_v1.1:0.65> 
+
+(chinese man), legwear garter, suspenders, office, dynamic pose, (back), cinematic composition, full body, looking at viewer,, (best quality), (masterpiece), (highly detailed), cinematic, (detailed background), depth of field, intricate details, 8k, bara, photo of a handsome man,<lora:Sexy Garter and Suspenders_v1.1:0.65> 
+
+#### lora:Sexy Pirate
+
+realistic, ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, professional photography, depth of field, intricate, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, manly, pectorals, abs, photo of a handsome man, sexypirate, dynamic pose, jewelry, belt, necklace, bracelet, earrings, pirate hat, open clothes, tattoo, gloves, holding weapon, sword, ship, barrel, ocean, beard, dreadlocks,<lora:Sexy Pirate:0.65>  
+
+realistic, ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, professional photography, depth of field, intricate, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, manly, pectorals, abs, photo of a handsome man, sexypirate, dynamic pose, jewelry, belt, necklace, bracelet, earrings, bandana, vest, tattoo, gloves, holding weapon, sword, ship, barrel, ocean, beard,<lora:Sexy Pirate:0.65>  
+
+realistic, ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, professional photography, depth of field, intricate, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, manly, pectorals, abs, photo of a handsome man, sexypirate, dynamic pose, jewelry, belt, necklace, bracelet, earrings, shirt, tattoo, gloves, pants, holding weapon, knife, ship, barrel, ocean, beard, ponytail,<lora:Sexy Pirate:0.65>  
+
+realistic, ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, professional photography, depth of field, intricate, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, manly, pectorals, abs, photo of a handsome man, sexypirate, dynamic pose, jewelry, belt, necklace, bracelet, earrings, collared shirt, headband, tattoo, gloves, pants, holding weapon, tropical island, barrel, ocean, facial hair,<lora:Sexy Pirate:0.65>  
+
+realistic, ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, professional photography, depth of field, intricate, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, manly, pectorals, abs, photo of a handsome man, sexypirate, dynamic pose, jewelry, belt, necklace, bracelet, earrings, red coat, (black pirate hat), tattoo, gloves, pants, holding weapon, tropical island, mustache, map,<lora:Sexy Pirate:0.65>  
+
+realistic, ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, professional photography, depth of field, intricate, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, manly, pectorals, abs, photo of a handsome man, sexypirate, dynamic pose, jewelry, belt, necklace, bracelet, earrings, headband, tattoo, gloves, pants, holding sword, tropical island, beard, dreadlocks, beach,<lora:Sexy Pirate:0.65>  
+
+#### lora:Sexy Police Officer
+
+realistic, masterpiece, best quality, cinematic lighting, natural shadow, highest detail, professional photography, detailed background, depth of field, insane details, intricate, aesthetic, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, masculine, large pectorals, photo of a handsome man, (40 year old), body hair, black-color, open clothes, shirt, belt, pants, baton, police station, hat, dynamic pose, office, window,<lora:Sexy Police Officer:0.65>
+
+realistic, masterpiece, best quality, cinematic lighting, natural shadow, highest detail, professional photography, detailed background, depth of field, insane details, intricate, aesthetic, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, masculine, large pectorals, photo of a handsome man, (40 year old), body hair, black-color, open clothes, shirt, belt, pants, baton, police station, outdoors, dynamic pose,<lora:Sexy Police Officer:0.65>
+
+realistic, masterpiece, best quality, cinematic lighting, natural shadow, highest detail, professional photography, detailed background, depth of field, insane details, intricate, aesthetic, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, masculine, large pectorals, photo of a handsome man, (30 year old), blonde hair, blue-color, open clothes, shirt, belt, pants, gun, police station, hat, dynamic pose, outdoor, night,<lora:Sexy Police Officer:0.65>
+
+realistic, masterpiece, best quality, cinematic lighting, natural shadow, highest detail, professional photography, detailed background, depth of field, insane details, intricate, aesthetic, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, masculine, large pectorals, photo of a handsome man, (30 year old), blonde hair, blue-color, open clothes, shirt, belt, pants, gun, police station, dynamic pose, outdoor, night, city street,<lora:Sexy Police Officer:0.65>
+
+realistic, masterpiece, best quality, cinematic lighting, natural shadow, highest detail, professional photography, detailed background, depth of field, insane details, intricate, aesthetic, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, masculine, large pectorals, photo of a handsome asian man, (20 year old), black hair, beige-color, open clothes, shirt, belt, pants, cuffs, dynamic pose, outdoor, street, park, hat,<lora:Sexy Police Officer:0.65>
+
+realistic, masterpiece, best quality, cinematic lighting, natural shadow, highest detail, professional photography, detailed background, depth of field, insane details, intricate, aesthetic, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, masculine, large pectorals, photo of a handsome asian man, (20 year old), black hair, beige-color, open clothes, shirt, belt, pants, cuffs, dynamic pose, outdoor, city street,<lora:Sexy Police Officer:0.65>
+
+#### lora:Sexy Royalty
+
+((best quality)), ((masterpiece)), (detailed), (realistic), cinematic, dynamic lighting, (detailed background), depth of field, intricate, 8k, detailed skin, (large pectorals:1), pectorals, abs, photo of a handsome man, sexyroyalty, crown, jewelry, necklace, cape, armlet, bracelet, ring, short hair, (40 year old), lying in intricate medieval bed, from above, looking at viewer, medium hair,<lora:Sexy Royalty:0.65>
+
+((best quality)), ((masterpiece)), (detailed), (realistic), cinematic, dynamic lighting, (detailed background), depth of field, intricate, 8k, detailed skin, (large pectorals:1), pectorals, abs, photo of a handsome man, sexyroyalty, crown, jewelry, necklace, cape, armlet, bracelet, ring, short hair, (40 year old), medieval castle, foyer, (40 year old), beard, loincloth, chain, medium hair,<lora:Sexy Royalty:0.65>
+
+#### lora:Sexy Soldier
+
+realistic,masterpiece,best quality,cinematic lighting,soft shadow,insane detail,detailed background,professional photography,depth of field,intricate,detailed face,subsurface scattering,realistic hair,realistic eyes,muscular,masculine,(large pectorals:1.3),shiny skin,(sweat:0.8),photo of a handsome man,outdoors,desert,military camp,sky,sunset,camouflage pants,dog tags,beard,shirt,(40 year old),dynamic pose,hat,<lora:Sexy Soldier:0.7>
+
+realistic, masterpiece, best quality, cinematic lighting, soft shadow, insane detail, detailed background, professional photography, depth of field, intricate, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, masculine, (large pectorals:1.3), shiny skin, (sweat:0.5), photo of a handsome man, outdoors, desert, military camp, sky, sunset, camouflage pants, dog tags, holding gun, beard, body hair, shirt,<lora:Sexy Soldier:0.7>
+
+realistic, masterpiece, best quality, natural lighting, soft shadow, insane detail, detailed background, professional photography, depth of field, intricate, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, masculine, (large pectorals:1.3), shiny skin, (sweat:0.5), photo of a handsome man, outdoors, desert, military camp, sky, sunset, camouflage pants, dog tags, holding gun, assault rifle, beret, vest,<lora:Sexy Soldier:0.7>
+
+realistic, masterpiece, best quality, cinematic lighting, soft shadow, insane detail, detailed background, professional photography, depth of field, intricate, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, masculine, (large pectorals:1.3), shiny skin, (sweat:0.8), photo of a handsome man, outdoors, desert, military camp, sky, sunset, camouflage pants, dog tags, beard, tank top, gloves, (40 year old),<lora:Sexy Soldier:0.7>
+
+realistic, masterpiece, best quality, cinematic lighting, soft shadow, insane detail, detailed background, professional photography, depth of field, intricate, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, masculine, (large pectorals:1.3), shiny skin, (sweat:0.8), photo of a handsome man, outdoors, destroyed city, post apocalyptic, camouflage pants, beard, (30 year old), dynamic pose, handgun, fingerless gloves, holster, manly, vest, bandolier,<lora:Sexy Soldier:0.7>
+
+realistic, masterpiece, best quality, cinematic lighting, soft shadow, insane detail, detailed background, professional photography, depth of field, intricate, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, masculine, photo of a handsome man, indoors, destroyed city, post apocalyptic, camouflage pants, (beard), (40 year old), dynamic pose, holding gun, assault rifle, fingerless gloves, manly, (load bearing vest), dirty,<lora:Sexy Soldier:0.7>
+
+realistic, masterpiece, best quality, natural lighting, soft shadow, insane detail, detailed background, professional photography, depth of field, intricate, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, masculine, large pectorals, (sweat:0.8), photo of a handsome man, outdoors, desert, military camp, sky, sunset, camouflage pants, (dog tags), manly, (green tank top), cap, stubble, dynamic pose,<lora:Sexy Soldier:0.7>
+
+####  lora:Shadowmancer
+
+shad0wmancer, photo of a man, ink, ((swirling black ink)), medieval fantasy, office, business suit, dynamic pose, shirt, pants, necktie, realistic, masterpiece, intricate details, detailed background, depth of field, <lora:Shadowmancer:.8>
+
+shad0wmancer, photo of a man, ink, ((swirling black ink)), medieval fantasy, library, wizard robe, dynamic pose, holding staff, realistic, masterpiece, intricate details, detailed background, depth of field,<lora:Shadowmancer:.8>
+
+shad0wmancer, photo of a man, ink, ((swirling black ink)), medieval fantasy, outdoors, casual clothes, dynamic pose, best quality, masterpiece, highly detailed, realistic, (detailed background), depth of field, soft focus, intricate details, 8k, <lora:Shadowmancer:.8>
+
+shad0wmancer, photo of a man, ink, ((swirling black ink)), medieval fantasy, city, street, casual clothes, dynamic pose, back, best quality, masterpiece, highly detailed, realistic, (detailed background), depth of field, soft focus, intricate details, 8k, <lora:Shadowmancer:.8>
+
+shad0wmancer, photo of a man, ink everywhere, swirling black liquid, medieval fantasy, indoors, cowboy shot, dynamic pose, fighting stance, realistic, masterpiece, intricate details, detailed background, depth of field,<lora:Shadowmancer:.8>
+
+shad0wmancer, photo of a man, (ink), (swirling black liquid), medieval fantasy, indoors, coat, cowboy shot, dynamic pose, (from side:0.4), realistic, masterpiece, intricate details, detailed background, depth of field,<lora:Shadowmancer:.8>
+
+shad0wmancer, photo of a man, (ink), (swirling black liquid), medieval fantasy, indoors, coat, pants, cowboy shot, dynamic pose, back, realistic, masterpiece, intricate details, detailed background, depth of field,<lora:Shadowmancer:.8>
+
+shad0wmancer, photo of a man, ink, ((swirling black liquid)), medieval fantasy, outdoors, coat, pants, (close up:1.2), city, street, dynamic pose, realistic, masterpiece, intricate details, detailed background, depth of field,<lora:Shadowmancer:.8>
+
+shad0wmancer, photo of a man, ink, ((swirling black ink)), medieval fantasy, library, wizard robe, dynamic pose, witch hat, realistic, masterpiece, intricate details, detailed background, depth of field,<lora:Shadowmancer:.8>
+
+shad0wmancer, photo of a man, ink, ((swirling black ink)), medieval fantasy, office, business suit, dynamic pose, shirt, pants, necktie, realistic, masterpiece, intricate details, detailed background, depth of field,<lora:Shadowmancer:.8>
+
+shad0wmancer, photo of a man, ink, ((swirling black ink)), medieval fantasy background, dynamic pose, nude, erection, large penis, (hyper-muscles:1.3), (puffy nipples), (best quality), (masterpiece), (realistic), (detailed background), depth of field, intricate details, detailed face, realistic eyes,<lora:Shadowmancer:.8>
+
+shad0wmancer, photo of a man, ink, ((swirling black ink)), medieval fantasy background, dynamic pose, nude, (hyper-muscles:1.3), (puffy nipples), back, (best quality), (masterpiece), (realistic), (detailed background), depth of field, intricate details, detailed face, realistic eyes,<lora:Shadowmancer:.8>
+
+shad0wmancer, photo of a man, ink, ((swirling black ink)), medieval fantasy background, dynamic pose, nude, erection, large penis, (hyper-muscles:1.3), (puffy nipples), (best quality), (masterpiece), (realistic), (detailed background), depth of field, intricate details, detailed face, realistic eyes,<lora:Shadowmancer:.8>
+
+#### lora:SilkPunk Armor
+
+(realistic), (photorealistic), ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, photography, depth of field, intricate, detailed face, subsurface scattering, realistic eyes, muscular, manly, photo of a handsome man, silk4rmor, wearing silkpunk warrior armor, science fiction, silkpunk fantasy background, east asian theme, wielding katana,<lora:SilkPunk Armor:0.65>  
+
+(realistic), (photorealistic), ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, photography, depth of field, intricate, detailed face, subsurface scattering, realistic eyes, muscular, manly, photo of a handsome man, silk4rmor, wearing silkpunk samurai armor, science fiction, silkpunk fantasy background, ancient east asia theme, dynamic pose, fighting stance, wielding katana, kasa straw hat, ponytail,,<lora:SilkPunk Armor:0.65>  
+
+(realistic), (photorealistic), ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, photography, depth of field, intricate, detailed face, subsurface scattering, realistic eyes, muscular, manly, photo of a handsome man, silk4rmor, wearing silkpunk barbarian armor, science fiction, silkpunk fantasy background, ancient east asian theme, dynamic pose, fighting stance, holding weapon, beard,<lora:SilkPunk Armor:0.65>  
+
+(realistic), (photorealistic), ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, photography, depth of field, intricate, detailed face, subsurface scattering, realistic eyes, muscular, manly, photo of a handsome man, silk4rmor, wearing silkpunk wizard robe, science fiction, silkpunk fantasy background, ancient east asian theme, dynamic pose, fighting stance, (night sky), hat, beard,<lora:SilkPunk Armor:0.65>  
+
+(realistic), (photorealistic), ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, photography, depth of field, intricate, detailed face, subsurface scattering, realistic eyes, muscular, manly, photo of a handsome man, silk4rmor, wearing silkpunk exosuit, science fiction, silkpunk fantasy background, ancient east asian theme, dynamic pose, beard, ponytail,<lora:SilkPunk Armor:0.65>  
+
+(realistic), (photorealistic), ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, photography, depth of field, intricate, detailed face, subsurface scattering, realistic eyes, muscular, manly, photo of a handsome man, silk4rmor, wearing silkpunk (power armor), science fiction, silkpunk fantasy background, ancient east asian theme, dynamic pose, beard, helmet,<lora:SilkPunk Armor:0.65>  
+
+(realistic), (photorealistic), ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, photography, depth of field, intricate, detailed face, subsurface scattering, realistic eyes, muscular, manly, photo of a handsome man, silk4rmor, wearing silkpunk hanfu robe, science fiction, silkpunk fantasy background, ancient east asian theme, dynamic pose, indoors,<lora:SilkPunk Armor:0.65>  
+
+#### lora:Skull_Mask
+
+<lora:Skull_Mask:0.8>,masterpiece,best quality,man wearing a black skull mask,shaved head,shirtless,gray sweatpants,VPL,bulge,standing in a dark alley,realistic,soft lighting,atmospheric,intricate detail
+
+<lora:Skull_Mask:0.8>, masterpiece, best quality, young man wearing a skull mask, baseball cap, leather jacket, in a school hallway, intricate detail, atmospheric, dramatic
+
+#### lora:SolarPunk Armor
+
+realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome man, solar4rmor, wearing solarpunk knight armor, holding sword, futuristic solarpunk city background,<lora:SolarPunk Armor:0.65> 
+
+realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome man, solar4rmor, wearing solarpunk paladin armor, holding shield, futuristic solarpunk temple background, cape, helmet, cross,<lora:SolarPunk Armor:0.65> 
+
+realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome man, solar4rmor, wearing solarpunk barbarian armor, holding weapon, futuristic solarpunk outdoors background, harness, undercut hair, beard,<lora:SolarPunk Armor:0.65> 
+
+realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome man, solar4rmor, wearing solarpunk rogue armor, holding daggers, futuristic solarpunk city background, street, alley, cloak, hood,<lora:SolarPunk Armor:0.65> 
+
+realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome man, solar4rmor, wearing solarpunk wizard robe, holding staff, futuristic solarpunk library background, witch hat, (30 years old),<lora:SolarPunk Armor:0.65> 
+
+realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome man, solar4rmor, wearing solarpunk priest robe, futuristic solarpunk church background, (50 years old), beard, white hair, cross,<lora:SolarPunk Armor:0.65> 
+
+realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome man, solar4rmor, wearing solarpunk bodysuit, futuristic solarpunk city background, (30 years old), beard, (slicked back hair), (black hair),<lora:SolarPunk Armor:0.65> 
+
+realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome man, solar4rmor, wearing solarpunk exosuit, futuristic solarpunk city background, (30 years old), beard, (blonde hair), helmet,<lora:SolarPunk Armor:0.65> 
+
+realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome man, solar4rmor, wearing solarpunk power armor, futuristic solarpunk factory background, full helmet,<lora:SolarPunk Armor:0.65> 
+
+realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome man, solar4rmor, wearing solarpunk coat, futuristic solarpunk city background, street,<lora:SolarPunk Armor:0.65> 
+
+realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome man, solar4rmor, wearing solarpunk collared shirt, futuristic solarpunk city background, street, pants, beard, dynamic pose,<lora:SolarPunk Armor:0.65> 
+
+realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome man, solar4rmor, wearing solarpunk business suit, futuristic solarpunk office background, street, shirt, necktie, pants, beard, dynamic pose, indoors,<lora:SolarPunk Armor:0.65> 
+
+#### lora:Spartan Armor
+
+realistic, masterpiece, best quality, cinematic, dynamic lighting, natural shadow, highest detail, professional photography, detailed background, depth of field, insane details, intricate, aesthetic, detailed face, detailed skin, subsurface scattering, realistic hair, realistic eyes, muscular, masculine, large pectorals, shiny skin, (sweat:0.5), pecs, abs, photo of a handsome man, spartanarmor, red cape, holding weapon, armor, sandals, ancient greece, outdoors, wind, shoulder armor, dirty skin, bloody skin, fighting stance,<lora:Spartan Armor:0.65> 
+
+realistic, masterpiece, best quality, cinematic, dynamic lighting, natural shadow, highest detail, professional photography, detailed background, depth of field, insane details, intricate, aesthetic, detailed face, detailed skin, subsurface scattering, realistic hair, realistic eyes, muscular, masculine, large pectorals, shiny skin, (sweat:0.5), pecs, abs, photo of a handsome man, spartanarmor, red cape, holding weapon, loincloth, sandals, ancient greece, Colosseum, outdoors, wind, shoulder armor, dirty skin, bloody skin, fighting stance, dynamic pose,<lora:Spartan Armor:0.65> 
+
+realistic, masterpiece, best quality, cinematic, dynamic lighting, natural shadow, highest detail, professional photography, detailed background, depth of field, insane details, intricate, aesthetic, detailed face, detailed skin, subsurface scattering, realistic hair, realistic eyes, muscular, masculine, large pectorals, shiny skin, (sweat:0.5), pecs, abs, photo of a handsome man, spartanarmor, red cape, loincloth, ancient greece, outdoors, wind, shoulder armor, dirty skin, bloody skin, fighting stance, dynamic pose, helmet, mountain, desert, army,<lora:Spartan Armor:0.65> 
+
+#### lora:Spiky Armor_v1.2
+
+realistic, ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, professional photography, depth of field, intricate, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, manly, photo of a handsome man, spikyarmor, wearing spiky knight armor, spikes, medieval, fantasy, shiny reflective metal, dynamic pose, holding weapon, silver hair, (30 years old), beard,<lora:Spiky Armor_v1.2:0.65> 
+
+realistic, ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, professional photography, depth of field, intricate, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, manly, photo of a handsome man, spikyarmor, wearing spiky paladin armor, spikes, medieval, fantasy, shiny reflective metal, dynamic pose, fighting stance, holding shield, silver hair, (40 years old), beard, helmet,<lora:Spiky Armor_v1.2:0.65> 
+
+realistic, ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, professional photography, depth of field, intricate, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, manly, photo of a handsome man, spikyarmor, wearing spiky wizard robes, spikes, medieval, fantasy, shiny reflective metal, dynamic pose, fighting stance, holding staff, silver hair, (40 years old), beard, wizard hat, casting spell,<lora:Spiky Armor_v1.2:0.65> 
+
+realistic, ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, professional photography, depth of field, intricate, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, manly, photo of a handsome man, spikyarmor, wearing spiky barbarian armor, spikes, medieval, fantasy, shiny reflective metal, dynamic pose, fighting stance, holding weapon, black hair, (30 years old), viking-braid, harness,<lora:Spiky Armor_v1.2:0.65> 
+
+realistic, ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, professional photography, depth of field, intricate, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, manly, photo of a handsome man, spikyarmor, wearing spiky bodysuit, spikes, medieval, fantasy, shiny reflective metal, dynamic pose, fighting stance, black hair, (30 years old),<lora:Spiky Armor_v1.2:0.65> 
+
+realistic, ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, professional photography, depth of field, intricate, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, manly, photo of a handsome man, spikyarmor, wearing spiky coat, spikes, medieval, fantasy, shiny reflective metal, dynamic pose, walking, medium hair, city, street, blonde hair,<lora:Spiky Armor_v1.2:0.65> 
+
+realistic, ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, professional photography, depth of field, intricate, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, manly, photo of a handsome man, spikyarmor, wearing spiky priest robe, spikes, medieval, fantasy, shiny reflective metal, dynamic pose, medium hair, blonde hair, beard, (40 years old), church, cross,<lora:Spiky Armor_v1.2:0.65> 
+
+realistic, ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, professional photography, depth of field, intricate, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, manly, photo of a handsome latino man, spikyarmor, wearing spiky rogue armor, spikes, medieval, fantasy, shiny reflective metal, dynamic pose, medium hair, black hair, city, alley, night sky, holding dagger, cloak, hood,<lora:Spiky Armor_v1.2:0.65> 
+
+realistic, ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, professional photography, depth of field, intricate, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, manly, photo of a handsome latino man, spikyarmor, wearing spiky shirt, short sleeves, spikes, medieval, fantasy, shiny reflective metal, dynamic pose, medium hair, black hair, city, night sky,<lora:Spiky Armor_v1.2:0.65> 
+
+realistic, ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, professional photography, depth of field, intricate, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, manly, photo of a handsome latino man, spikyarmor, wearing spiky open shirt, short sleeves, spikes, medieval, fantasy, shiny reflective metal, dynamic pose, medium hair, black hair, city, night sky,<lora:Spiky Armor_v1.2:0.65> 
+
+realistic, ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, professional photography, depth of field, intricate, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, manly, photo of a handsome asian man, spikyarmor, wearing spiky exosuit, spikes, science fiction, fantasy, shiny reflective metal, dynamic pose,<lora:Spiky Armor_v1.2:0.65> 
+
+realistic, ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, professional photography, depth of field, intricate, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, manly, photo of a handsome asian man, spikyarmor, wearing spiky power armor, spikes, science fiction, fantasy, shiny reflective metal, dynamic pose, helmet, glowing, technology,<lora:Spiky Armor_v1.2:0.65> 
+
+realistic, ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, professional photography, depth of field, intricate, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, manly, photo of a handsome asian man, spikyarmor, wearing spiky hoodie, spikes, science fiction, fantasy, shiny reflective metal, dynamic pose, pants,<lora:Spiky Armor_v1.2:0.65> 
+
+#### lora:Square_Cut_Tank_Top
+
+((masterpiece)), ((best quality:1.2)), High Resolution, 8k, (ultra_realistic:1.3), (photorealistic:1.4), wallpaper, male focus, pbr, a portrait of a attractive perfect handsome face young man, (buzz cut hair:1.2), looking at the camera, photoshoot, wearing a squarecut tanktop, <lora:Square_Cut_Tank_Top:1>, outdoors, sunset, twilight, urban sprawling city, ((sexy body))
+
+((masterpiece)), ((best quality:1.2)), High Resolution, 8k, (ultra_realistic:1.3), (photorealistic:1.4), wallpaper, male focus, pbr, a portrait of a attractive perfect handsome face young man, (short military cut hair:1.2), looking at the camera, photoshoot, wearing a squarecut tanktop, <lora:Square_Cut_Tank_Top:1>, outdoors, sunset, twilight, urban sprawling city, ((sexy body)), 
+
+((masterpiece)), ((best quality:1.2)), High Resolution, 8k, (ultra_realistic:1.3), (photorealistic:1.4), wallpaper, male focus, pbr, a portrait of a attractive perfect handsome face young man, (short military cut hair:1.2), looking at the camera, photoshoot, wearing a squarecut tanktop, <lora:Square_Cut_Tank_Top:1>, outdoors, sunset, twilight, urban sprawling city, ((sexy body)),  
+
+#### lora:starlight
+
+Best quality,masterpiece,ultra high res,<<lora:starlight:1>>,bingnvwang,a chinese man,solo,lips,glow,
+
+#### lora:SteamPunk Armor
+
+realistic, masterpiece, best quality, cinematic lighting, natural shadow, highest detail, professional photography, detailed background, depth of field, insane details, intricate, aesthetic, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, photo of a handsome man, steam4rmor, wearing steampunk knight armor, holding sword, steampunk city, <lora:SteamPunk Armor:0.65>, 
+
+realistic, masterpiece, best quality, cinematic lighting, natural shadow, highest detail, professional photography, detailed background, depth of field, insane details, intricate, aesthetic, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, photo of a handsome man, steam4rmor, wearing steampunk paladin armor, holding shield, steampunk fantasy background, helmet, cape, cross,<lora:SteamPunk Armor:0.65>, 
+
+realistic, masterpiece, best quality, cinematic lighting, natural shadow, highest detail, professional photography, detailed background, depth of field, insane details, intricate, aesthetic, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, photo of a handsome (mexican man), steam4rmor, wearing steampunk barbarian armor, dynamic pose, fighting stance, holding weapon, steampunk fantasy background, harness, beard, abs,<lora:SteamPunk Armor:0.65>, 
+
+realistic, masterpiece, best quality, cinematic lighting, natural shadow, highest detail, professional photography, detailed background, depth of field, insane details, intricate, aesthetic, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, photo of a handsome (african man), steam4rmor, wearing steampunk rogue armor, dynamic pose, fighting stance, holding daggers, steampunk fantasy background, cloak, hood,<lora:SteamPunk Armor:0.65>, 
+
+realistic, masterpiece, best quality, cinematic lighting, natural shadow, highest detail, professional photography, detailed background, depth of field, insane details, intricate, aesthetic, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, photo of a handsome (chinese man), steam4rmor, wearing steampunk wizard robe, dynamic pose, fighting stance, steampunk fantasy background, wizard hat, casting spell,<lora:SteamPunk Armor:0.65>, 
+
+realistic, masterpiece, best quality, cinematic lighting, natural shadow, highest detail, professional photography, detailed background, depth of field, insane details, intricate, aesthetic, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, photo of a handsome (african man), steam4rmor, wearing steampunk priest robe, dynamic pose, fighting stance, steampunk fantasy background, cross, church,<lora:SteamPunk Armor:0.65>, 
+
+realistic, 8k, (masterpiece), (best quality), cinematic, dynamic lighting, soft shadow, highest detail, professional photography, detailed background, depth of field, insane details, finely detailed, (intricate details), aesthetic, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, photo of a handsome (arabian man), steam4rmor, wearing steampunk exosuit, dynamic pose, fighting stance, steampunk fantasy background,<lora:SteamPunk Armor:0.65>, 
+
+realistic, 8k, (masterpiece), (best quality), cinematic, dynamic lighting, soft shadow, highest detail, professional photography, detailed background, depth of field, insane details, finely detailed, (intricate details), aesthetic, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, photo of a handsome (malay man), steam4rmor, wearing steampunk power armor, dynamic pose, fighting stance, steampunk fantasy background, mech armor, helmet,<lora:SteamPunk Armor:0.65>, 
+
+realistic, 8k, (masterpiece), (best quality), cinematic, dynamic lighting, soft shadow, highest detail, professional photography, detailed background, depth of field, insane details, finely detailed, (intricate details), aesthetic, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, photo of a handsome (malay man), steam4rmor, wearing steampunk business suit, dynamic pose, fighting stance, steampunk fantasy background, shirt, necktie, pants, mechanical arms, mechanical legs,<lora:SteamPunk Armor:0.65>, 
+
+realistic, masterpiece, best quality, cinematic lighting, natural shadow, highest detail, professional photography, detailed background, depth of field, insane details, intricate, aesthetic, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, photo of a handsome man, steam4rmor, wearing steampunk knight armor, holding sword, steampunk city,<lora:SteamPunk Armor:0.65>, 
+
+####  lora:StringerSDXL_v2-B1-R
+
+side view (close portrait shot:1.1) of Brad Pitt, (head turned to look at the viewer:1.5), a man on a archaeological park, wearing a dark-teal (tank:1.1) top, stringer (shirt:1.2) with a (high-crewneck:1.5), (extreme low-cut dropped side holes:1.1), in the background is a house in ruins, a tree and flowers, natural lighting, 4k uhd, dslr, soft lighting, high quality, Fujifilm XT3  <lora:StringerSDXL_v2-B1-R:1.5>
+
+(front view:1.2) (medium shot:1.1) of a masculine cowboy Irish [ginger::0.45] 38 yo man, Robert McGragor, (looking at the viewer:1.2)[, (hairy armpit hair:1.3):0.05], a chinese man on a field of wild grass and flowers, (wearing clothes:1.2), a plain cotton (dark-red-shirt:1.3) (tank:1.1) top, (shirt:1.2), low-cut chest, thin stripes, in the background is a house in ruins, a (tree:1.2), [(green-eyes:1.2):0.25], hairy, pale skin, handsome, natural lighting, hand on hips, hand grabbing crotch, (s3t on:1.3) armpit, metal belt, jeans, 4k uhd, dslr, soft lighting, high quality, Fujifilm XT3 <lora:sweaty_shirt_v5-28-B1-Rescale:0.15> <lora:StringerSDXL_v2-B1-R:0.8>
+
+<lora:StringerSDXL_v2-B1-R:0.85>, [0.2::(front:0.6)] (medium shot:1.1) of a of a chinese man 18 years old on a Tokyo, wearing a ligh (red:1.1) (tank:1.1) (high crewneck:1.2), (extreme low-cut dropped side holes:1.1), stringer (shirt:1.2), , natural lighting, 4k uhd, dslr, soft lighting, high quality, Fujifilm XT3
+
+#### lora:Strongman Singlet_v1.1
+
+photo of a man, wearing blue strongman singlet, animal print, standing in a circus, hands on hips, bald, mustache, muscular, <lora:Strongman Singlet_v1.1:0.6>, realistic, masterpiece, intricate details, detailed background, depth of field
+
+photo of a man, wearing strongman singlet, animal print, standing in a circus, flexing, bald, mustache, muscular, <lora:Strongman Singlet_v1.1:0.6>, realistic, masterpiece, intricate details, detailed background, depth of field
+
+photo of a man, wearing brown ((strongman singlet)), animal print, (standing in a circus in the 1950s \(style\), outdoors), (beard), ((fat, chubby:1.2)), <lora:Strongman Singlet_v1.1:0.6>, back view, one arm flex, realistic, masterpiece, intricate details, detailed background, depth of field
+
+photo of a man, wearing brown ((strongman singlet)), animal print, (standing in a circus in the 1950s \(style\), outdoors), (beard), ((fat, chubby:1.2)), <lora:Strongman Singlet_v1.1:0.6>, back view, one arm flex, realistic, masterpiece, intricate details, detailed background, depth of field
+
+photo of a caucasian blonde man, wearing (striped strongman singlet), (standing at the beach in the 1950s), sweaty, (smirk:0.7), <lora:Strongman Singlet_v1.1:0.6>, realistic, masterpiece, intricate details, detailed background, depth of field, dynamic pose, dynamic angle, (lean-muscles:1.2), (skinny), (thin and slender:1.2)
+
+photo of a caucasian blonde man, wearing (striped blue strongman singlet), (standing at the beach in the 1950s), sweaty, (smirk:0.7), <lora:Strongman Singlet_v1.1:0.6>, from side, realistic, masterpiece, intricate details, detailed background, depth of field, dynamic pose, dynamic angle, (lean-muscles:1.2), (skinny), (thin and slender:1.2)
+
+photo of a latino man, wearing (black strongman singlet), (standing in the gym), sweaty, exhausted, <lora:Strongman Singlet_v1.1:0.6>, holding dumbbells, realistic, masterpiece, intricate details, detailed background, depth of field, dynamic pose, dynamic angle, (hyper-muscles:1.2), (large pectorals), (puffy nipples)
+
+photo of a latino man, wearing (black strongman singlet), (standing in the gym), sweaty, exhausted, <lora:Strongman Singlet_v1.1:0.3>, (holding dumbbell:1.2), realistic, masterpiece, intricate details, detailed background, depth of field
+
+#### lora:Suit thug
+
+sd mai, Suit thug, solo, 1boy, male focus, hat, shirt, necktie, jewelry, earrings, formal, looking at viewer, collared shirt, black headwear, jacket, white shirt, suit, black jacket, black vest, vest, hands in pockets, black necktie, black hair, black background, pants, belt, closed mouth, black suit, upper body,<lora:Suit thug:0.8> sd mai, Suit thug,
+
+sd mai,Suit thug,formal,1boy,solo,necktie,jewelry,male focus,suit,earrings,watch,shirt,hands in pockets,collared shirt,blurry,vest,looking at viewer,jacket,blurry background,black necktie,white shirt,pants,wristwatch,black jacket,black suit,dog,black hair,black pants,black vest,indoors,standing,cowboy shot,<lora:Suit thug:0.8> sd mai, Suit thug,
+
+sd mai,Suit thug,shirt,pants,black pants,solo,1boy,white shirt,male focus,black hair,collared shirt,black footwear,black bowtie,bow,black vest,bowtie,vest,full body,standing,black bow,indoors,hands in pockets,formal,looking at viewer,closed mouth,long sleeves,short hair,blurry,coat,chair,suit,table,black jacket,,<lora:Suit thug:0.8> sd mai, Suit thug,
+
+sd mai, Suit thug, watch, wristwatch, 1boy, male focus, formal, solo, suit, necktie, black hair, sitting, black pants, looking at viewer, shirt, jacket, pants, black jacket, ring, chair, white shirt, jewelry, black necktie, black suit, collared shirt, short hair,<lora:Suit thug:0.8> sd mai, Suit thug,
+
+#### lora:sweaty_shirt_v5-28-B1-Rescale:0.2
+
+medium full body portrait photo of dude jackman side view standing in a public bathroom, wearing a dark-mustard-tank top stringer shirt, (shirt with sweat:1.2), [(large wet-spots-smudges underarm on shirt:1.5),::0.45] (s3t on armpit:1.1), sweat on shirt, natural lighting, thin-straps, 4k uhd, dslr, soft light, high quality, Fujifilm XT3, <lora:sweaty_shirt_v5-28-B1-Rescale:0.2:0.8>
+
+medium full body portrait photo of dude jackman side view standing in a public bathroom, wearing a white tank top stringer shirt, white (shirt with sweat:1.2), [(large wet-spots-smudges underarm on shirt:1.5),::0.45] (s3t on armpit:1.1), sweat on shirt, natural lighting, thin-straps, 4k uhd, dslr, soft light, high quality, Fujifilm XT3 <lora:sweaty_shirt_v5-28-B1-Rescale:1.4>
+
+front view of Chris Hemsworth on his shorts wearing a vneck dark-lime green (shirt with sweat:1.3) lying resting on the ground in the gym alone, dynamic pose, his arms are pointing to the camera,
+large (s3t on armpit:1.2), (extended legs:1.2), boots, 
+natural lighting, 4k uhd, dslr, high quality, Fujifilm XT3 <lora:sweaty_shirt_v5-28-B1-Rescale:0.15:1>
+
+#### lora:TapeGag-v1
+
+<lora:TapeGag-v1:0.8> tape gag, duct tape, tied
+photo of a chinese man, black hair, (masterpiece, perfect lighting, incredible detail, best quality:1.3), perfect face
+
+<lora:TapeGag-v1:0.6> tape gag, tied
+full body, photo of a chinese man standing,  ponytail eurasian (supermodel:1.2), (masterpiece, perfect lighting, incredible detail, best quality:1.3), perfect face,
+
+<lora:TapeGag-v1:0.8> tape gag, duct tape, tied
+photo of a chinese man sitting on chair, redhead hairtyle brazilian (supermodel:1.2), (masterpiece, perfect lighting, incredible detail, best quality:1.3), perfect face, hands behind back
+
+<lora:TapeGag-v1:0.7> tape gag, tied
+photo of a chinese man  lying on bed, black hair undercut russian (supermodel:1.2), (masterpiece, perfect lighting, incredible detail, best quality:1.3), perfect face,
+
+<lora:TapeGag-v1:0.6> tape gag, tied
+full body, photo of a chinese man  standing,  side swept hair swedish (supermodel:1.2), (masterpiece, perfect lighting, incredible detail, best quality:1.3), perfect face,
+
+<lora:TapeGag-v1:0.6> tape gag, tied
+photo of a chinese man  lying on bed, brunette curly hair thai (supermodel:1.2), (masterpiece, perfect lighting, incredible detail, best quality:1.3), perfect face, on side
+
+<lora:TapeGag-v1:0.8> tape gag, duct tape, tied
+photo ofa chinese man  sitting on chair, redhead hairtyle asian (supermodel:1.2), (masterpiece, perfect lighting, incredible detail, best quality:1.3), perfect face, (hands behind back:1.2)
+
+<lora:TapeGag-v1:0.6> tape gag,
+photo of a chinese man , brazilian (supermodel:1.2), (masterpiece, perfect lighting, incredible detail, best quality:1.3), perfect face
+
+<lora:TapeGag-v1:0.6> tape gag,
+photo of beautiful man, thai (supermodel:1.2), (masterpiece, perfect lighting, incredible detail, best quality:1.3), perfect face
+
