@@ -321,16 +321,69 @@ realistic, 8k, (masterpiece), (best quality), cinematic, dynamic lighting, soft 
 realistic, 8k, (masterpiece), (best quality), cinematic, dynamic lighting, soft shadow, highest detail, professional photography, detailed background, depth of field, insane details, finely detailed, (intricate details), aesthetic, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, photo of a handsome (nordic man), crystal4rmor, wearing crystal bodysuit, glowing, sparkle, lens flare, dynamic pose, fighting stance, fantasy background, city,<lora:Crystal Armor:0.5>
 
 #### lora:Cyber Wizard
-realistic,((masterpiece)),((best quality)),(detailed),cinematic,dynamic lighting,soft shadow,detailed background,professional photography,depth of field,intricate,detailed face,subsurface scattering,realistic hair,realistic eyes,muscular,manly,pectorals,abs,photo of a handsome Chinese muscular young man,cyberwizard,magic circle,casting spell,cyberpunk,science fiction,magic,full body,dynamic pose,fighting stance,magic circle in background,<lora:Cyber Wizard:0.35>,<lora:more_details:0.9>
+realistic, ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, professional photography, depth of field, intricate, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, manly, pectorals, abs, photo of a handsome man, cyberwizard, magic circle, casting spell, cyberpunk, science fiction, magic, full body, dynamic pose, fighting stance, magic circle in background, dynamic angle, glowing, beard,<lora:Cyber Wizard:0.35>,<lora:more_details:0.9>
+
+realistic, ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, professional photography, depth of field, intricate, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, manly, pectorals, abs, photo of a handsome man, cyberwizard, magic circle, casting spell, cyberpunk, science fiction, magic, full body, dynamic pose, fighting stance, magic circle in background,<lora:Cyber Wizard:0.35>,<lora:more_details:0.9>
+
+realistic, ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, professional photography, depth of field, intricate, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, manly, pectorals, abs, photo of a handsome man, cyberwizard, magic circle, casting spell, cyberpunk, science fiction, magic, dynamic pose, fighting stance, magic circle in background, dynamic angle, glowing, white hair, beard, glowing eyes, hologram,<lora:Cyber Wizard:0.35>,<lora:more_details:0.9>
+
+realistic, ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, professional photography, depth of field, intricate, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, manly, photo of a handsome man, cyberwizard, magic circle, casting spell, cyberpunk, science fiction, magic, dynamic pose, fighting stance, magic circle in background, dynamic angle, glowing, white hair, beard, glowing eyes, hologram, wizard hat,<lora:Cyber Wizard:0.35>,<lora:more_details:0.9>
+
+realistic, ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, professional photography, depth of field, intricate, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, manly, photo of a handsome man, cyberwizard, magic circle, casting spell, cyberpunk, science fiction, magic, dynamic pose, fighting stance, magic circle in background, dynamic angle, glowing, beard, glowing eyes, hologram, bodysuit,<lora:Cyber Wizard:0.35>,<lora:more_details:0.9>
+
+realistic, ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, professional photography, depth of field, intricate, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, manly, photo of a handsome man, cyberwizard, magic circle, casting spell, cyberpunk, science fiction, magic, neon lights, dynamic pose, fighting stance, magic circle in background, dynamic angle, glowing, beard, glowing eyes, hologram, bodysuit, sunglasses, purple hair,
+
+realistic, ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, professional photography, depth of field, intricate, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, manly, photo of a handsome man, cyberwizard, magic circle, casting spell, cyberpunk, science fiction, magic, neon lights, magic circle in background, glowing, beard, glowing eyes, hologram, bodysuit, sunglasses, purple hair, hood, dynamic pose,<lora:Cyber Wizard:0.35>,<lora:more_details:0.9>
+
+realistic, ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, professional photography, depth of field, intricate, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, manly, photo of a handsome man, cyberwizard, magic circle, casting spell, cyberpunk, science fiction, magic, neon lights, magic circle in background, glowing, glowing eyes, purple hair, power armor, dynamic pose, fighting stance,<lora:Cyber Wizard:0.35>,<lora:more_details:0.9>
 
 #### lora:CYPHER MK1 by CARAXES
-upper body focus,photo of (a handsome Chinese muscular young man),cypher,full armor,armor details,skull ornament,gold trimmings,hood,green robe,black tabard,dual wielding,holding guns,pointing guns,guns akimbo,carrying weapon on the back,sheathed sword,<lora:tool - add_detail:1>,close-up,standing by desert storm,sandstorm,dune,dark ambiance,<lora:CYPHER MK1 by CARAXES:0.7>
+COWBOY SHOT, cinematic shot, masterpiece, best quality, high quality,  shadowy face, 1boy, (detailed armor:1.3),wearing cypher armor, hood details, WHITE HOOD, BLACK cape, full armor, black armor,  black trimmings, DETAILED ornament, holding gun, pointing gun, tall stature, dark ambiance, armor detail, weapon on back, <lora:CYPHER MK1 by CARAXES:0.75>
+
+cinematic shot, masterpiece, best quality, high quality,  shadowy face, 1boy, (detailed armor:1.3),wearing cypher armor, hood details, red cape, full armor, black armor,  black trimmings, skull ornament, holding gun, pointing gun, tall stature, dark ambiance, armor detail, scenery <lora:CYPHER MK1 by CARAXES:0.7>
+
+photo of 1boy, cypher, full armor, pauldron, black armor, armor details, skull ornament,  red trimmings, hood, cape, carrying sword on back, sheathed sword, tall stature, 
+standing by dark alley, dim light, dark ambiance, rain,   <lora:CYPHER MK1 by CARAXES:0.75>
+
+upper body focus, photo of 1boy, cypher, full armor, armor details, skull ornament, gold trimmings, hood, green robe, black tabard, dual wielding, holding guns, pointing guns, guns akimbo, carrying weapon on the back, sheathed sword, close-up standing by desert storm, sandstorm, dune, dark ambiance,   <lora:CYPHER MK1 by CARAXES:0.7>
 
 #### lora:Dark Priest
-realistic,masterpiece,best quality,cinematic lighting,natural shadow,highest detail,professional photography,detailed background,depth of field,insane details,intricate,aesthetic,detailed face,subsurface scattering,realistic hair,realistic eyes,muscular,masculine,large pectorals,pectorals,abs,photo of a handsome man,darkpriest,tabard,armor,cape,gloves,torn clothes,jewelry,necklace,chain,spikes,blood,holding staff,magic,fire,black hair,dynamic movement,dynamic pose,<lora:Dark Priest:0.7>,darkpriest
+realistic, masterpiece, best quality, cinematic lighting, natural shadow, highest detail, professional photography, detailed background, depth of field, insane details, intricate, aesthetic, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, masculine, large pectorals, pectorals, abs, photo of a handsome man, darkpriest, red robe, armor, cape, gloves, torn clothes, jewelry, necklace, chain, spikes, blood, holding staff, magic, fire, black hair, dynamic movement, dynamic pose, hood,<lora:Dark Priest:0.7>,darkpriest
+
+realistic, masterpiece, best quality, cinematic lighting, natural shadow, highest detail, professional photography, detailed background, depth of field, insane details, intricate, aesthetic, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, masculine, large pectorals, pectorals, abs, photo of a handsome man, darkpriest, robe, armor, cape, tabard, boots, gloves, torn clothes, jewelry, necklace, chain, spikes, blood, skull, holding staff, book, magic, fire, glowing eyes,<lora:Dark Priest:0.7>,darkpriest
+
+realistic, masterpiece, best quality, cinematic lighting, natural shadow, highest detail, professional photography, detailed background, depth of field, insane details, intricate, aesthetic, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, masculine, large pectorals, pectorals, abs, photo of a handsome man, darkpriest, robe, armor, cape, tabard, boots, gloves, torn clothes, jewelry, necklace, chain, spikes, blood, skull, holding staff, book, magic, fire, glowing eyes, hood,<lora:Dark Priest:0.7>,darkpriest
+
+realistic, masterpiece, best quality, cinematic lighting, natural shadow, highest detail, professional photography, detailed background, depth of field, insane details, intricate, aesthetic, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, masculine, large pectorals, pectorals, abs, photo of a handsome man, darkpriest, tabard, armor, cape, gloves, torn clothes, jewelry, necklace, chain, spikes, blood, holding staff, magic, fire, black hair, dynamic movement, dynamic pose,<lora:Dark Priest:0.7>,darkpriest
+
+realistic, masterpiece, best quality, cinematic lighting, natural shadow, highest detail, professional photography, detailed background, depth of field, insane details, intricate, aesthetic, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, masculine, large pectorals, photo of a handsome man, darkpriest, robe, armor, cape, gloves, torn clothes, jewelry, necklace, chain, spikes, blood, magic, fire, black hair, dynamic movement, dynamic pose, book,<lora:Dark Priest:0.7>,darkpriest
 
 #### lora:DesertPunk Armor
-(((masterpiece))),(((best quality))),,<lora: more_details:1.1>,(a Chinese young muscular man man:1.3), cinematic, natural lighting, soft shadow, detailed background, photography, depth of field, intricate, detailed face, subsurface scattering, realistic eyes, , manly,, des3rt4rmor, wearing desertpunk knight armor, holding sword,,,<lora:DesertPunk Armor:0.3>
+(realistic), (photorealistic), ((masterpiece)), ((best quality)), (detailed), cinematic, natural lighting, soft shadow, detailed background, photography, depth of field, intricate, detailed face, subsurface scattering, realistic eyes, muscular, manly, photo of a handsome (russian man), des3rt4rmor, wearing desertpunk knight armor, holding sword,<lora:DesertPunk Armor:0.3>,des3rt4rmor
+
+(realistic), (photorealistic), ((masterpiece)), ((best quality)), (detailed), cinematic, natural lighting, soft shadow, detailed background, photography, depth of field, intricate, detailed face, subsurface scattering, realistic eyes, muscular, manly, photo of a handsome (italian man), des3rt4rmor, wearing desertpunk paladin armor, holding shield, cross, cape, helmet,<lora:DesertPunk Armor:0.3>,des3rt4rmor
+
+(realistic), (photorealistic), ((masterpiece)), ((best quality)), (detailed), cinematic, natural lighting, soft shadow, detailed background, photography, depth of field, intricate, detailed face, subsurface scattering, realistic eyes, muscular, manly, photo of a handsome (scottish man), des3rt4rmor, wearing desertpunk barbarian armor, holding weapon, harness, beard,<lora:DesertPunk Armor:0.3>,des3rt4rmor
+
+(realistic), (photorealistic), ((masterpiece)), ((best quality)), (detailed), cinematic, natural lighting, soft shadow, detailed background, photography, depth of field, intricate, detailed face, subsurface scattering, realistic eyes, muscular, manly, photo of a handsome (southeast asian man), des3rt4rmor, wearing desertpunk rogue armor, holding dagger, cloak, hood, city, mask,<lora:DesertPunk Armor:0.3>,des3rt4rmor
+
+(realistic), (photorealistic), ((masterpiece)), ((best quality)), (detailed), cinematic, natural lighting, soft shadow, detailed background, photography, depth of field, intricate, detailed face, subsurface scattering, realistic eyes, muscular, manly, photo of a handsome (turkish man), des3rt4rmor, wearing desertpunk wizard robe, holding staff, wizard hat,<lora:DesertPunk Armor:0.3>,des3rt4rmor
+
+(realistic), (photorealistic), ((masterpiece)), ((best quality)), (detailed), cinematic, natural lighting, soft shadow, detailed background, photography, depth of field, intricate, detailed face, subsurface scattering, realistic eyes, muscular, manly, photo of a handsome (swedish man), des3rt4rmor, wearing desertpunk priest robe, tabard, cross, chain, necklace, church,<lora:DesertPunk Armor:0.3>,des3rt4rmor
+
+(realistic), (photorealistic), ((masterpiece)), ((best quality)), (detailed), cinematic, natural lighting, soft shadow, detailed background, photography, depth of field, intricate, detailed face, subsurface scattering, realistic eyes, muscular, manly, photo of a handsome (asian man), des3rt4rmor, wearing desertpunk bodysuit,<lora:DesertPunk Armor:0.3>,des3rt4rmor
+
+(realistic), (photorealistic), ((masterpiece)), ((best quality)), (detailed), cinematic, natural lighting, soft shadow, detailed background, photography, depth of field, intricate, detailed face, subsurface scattering, realistic eyes, muscular, manly, photo of a handsome (native american man), des3rt4rmor, wearing desertpunk exosuit, single braid,<lora:DesertPunk Armor:0.3>,des3rt4rmor
+
+(realistic), (photorealistic), ((masterpiece)), ((best quality)), (detailed), cinematic, natural lighting, soft shadow, detailed background, photography, depth of field, intricate, detailed face, subsurface scattering, realistic eyes, muscular, manly, photo of a handsome (american man), des3rt4rmor, wearing desertpunk power armor, blonde hair, beard, dynamic pose,<lora:DesertPunk Armor:0.3>,des3rt4rmor
+
+(realistic), (photorealistic), ((masterpiece)), ((best quality)), (detailed), cinematic, natural lighting, soft shadow, detailed background, photography, depth of field, intricate, detailed face, subsurface scattering, realistic eyes, muscular, manly, photo of a handsome (african man), des3rt4rmor, wearing desertpunk coat, dynamic pose,<lora:DesertPunk Armor:0.3>,des3rt4rmor
+
+(realistic), (photorealistic), ((masterpiece)), ((best quality)), (detailed), cinematic, natural lighting, soft shadow, detailed background, photography, depth of field, intricate, detailed face, subsurface scattering, realistic eyes, muscular, manly, photo of a handsome (latino man), des3rt4rmor, wearing desertpunk shirt, dynamic pose, torn clothes,<lora:DesertPunk Armor:0.3>,des3rt4rmor
+
+(realistic), (photorealistic), ((masterpiece)), ((best quality)), (detailed), cinematic, natural lighting, soft shadow, detailed background, photography, depth of field, intricate, detailed face, subsurface scattering, realistic eyes, muscular, manly, photo of a handsome (russian man), des3rt4rmor, wearing desertpunk knight armor, holding sword,<lora:DesertPunk Armor:0.3>,des3rt4rmor
+
+(realistic), (photorealistic), ((masterpiece)), ((best quality)), (detailed), cinematic, natural lighting, soft shadow, detailed background, photography, depth of field, intricate, detailed face, subsurface scattering, realistic eyes, muscular, manly, photo of a handsome (italian man), des3rt4rmor, wearing desertpunk paladin armor, holding shield, cross, cape, helmet,<lora:DesertPunk Armor:0.3>,des3rt4rmor
 
 #### lora:dosifuku
 (((masterpiece))),(((best quality))),,<lora: more_details:1.1>,(a Chinese young muscular man man:1.3), wearing traditional Chinese attire stands in front of a grey background,with his arms crossed. He is dressed in a yellow robe that has black stripes on the sleeve edges,and adorned with a circular symbol under the right arm. The symbol consists of a black circle with two lines through it beneath a yellow circle. On his head,he holds a brown wooden sword with intricate carvings,with the handle of the sword resting against his right shoulder and the tip pointing upwards. The overall appearance of the man exudes an air of confidence.,<lora:dosifuku:0.75>
@@ -338,35 +391,179 @@ realistic,masterpiece,best quality,cinematic lighting,natural shadow,highest det
 #### lora:Dreadlocks
 (((masterpiece))),(((best quality))),<lora: more_details:1.1>,,(a Chinese young muscular man man:1.3),, solo, adult, long hair, toppless, blue shorts, beach, hands behind your head,  perfect lighting, detailed face, detailed body,,<lora:Dreadlocks:0.8>,, dreadlocks
 
+(mature man:1.3), solo, adult, black hair, brown eyes, leather jacket, black jeans, sitting on the curb, night, smile, (high quality), (best quality), (detailed), perfect lighting, detailed face, detailed body, <lora:Dreadlocks:1>, dreadlocks,
+
+(mature man:1.3), solo, adult, black hair, brown eyes, pajama pants, bare torso, badroom, (high quality), (best quality), (detailed), perfect lighting, detailed face, detailed body, <lora:Dreadlocks:1>, dreadlocks,
+
 #### lora:DS9XLVGRAD3
-(((masterpiece))),(((best quality))),,<lora: more_details:1.1>,,,(a Chinese young man man:1.3), on Mars,  in black and grey ds9st uniform,red collar, professional photo, shot on Hasselblad,<lora:DS9XLVGRAD3:0.8>
+asian man in black and grey ds9st uniform,teal collar,cowboy hat,on prairie<lora:DS9XLVGRAD3:0.8>
+
+Elon Musk on Mars,  in black and grey ds9st uniform,red collar, professional photo, shot on Hasselblad <lora:DS9XLVGRAD3:0.8>
+
+blond man,small moustache, in black and grey ds9st uniform,red collar,professional photo, shot on Hasselblad <lora:DS9XLVGRAD3:0.8>
 
 #### lora:edg90hh
-(((masterpiece))),(((best quality))),<lora: more_details:1.1>,,,,(a Chinese young man man:1.3),smirk, grin, edg90hh, man in black clothes ,wearing edg90hh_clothing,,<lora:edg90hh:0.9>
+masterpiece,4K,best quality,absurdres, smirk, grin, edg90hh, a Asian man wearing a black jacket ,wearing edg90hh_clothing <lora:edg90hh:0.9>
+
+masterpiece,4K,best quality,absurdres, dark skin,edg90hh, a Asian manin a black shirt and colorful pants ,wearing edg90hh_clothing,<lora:edg90hh:0.9>
 
 #### lora:Electromancer_v1
-(((masterpiece))),(((best quality))),<lora: more_details:1.1>,,photo of a Chinese man knight wielding thunder-weapon, electricity, holding sword, realistic, masterpiece, intricate details, detailed background, depth of field,,<lora:Electromancer_v1.1:0.8>
+photo of a male Asian wizard wielding thunder-staff, electricity, holding staff, realistic, masterpiece, intricate details, detailed background, depth of field,<lora:Electromancer_v1.1:0.8>, thunder-staff
+
+photo of a male Asian knight wielding thunder-weapon, electricity, holding sword, realistic, masterpiece, intricate details, detailed background, depth of field,<lora:Electromancer_v1.1:0.8>, thunder-staff
+
+photo of a male asian man, thunder-hand, electricity, priest robe, tabard, church, realistic, masterpiece, intricate details, detailed background, depth of field,<lora:Electromancer_v1.1:0.8>, thunder-staff
+
+photo of a latino man, thunder-aura, electricity, mech suit, rooftop, swirling electrical energy, realistic, masterpiece, intricate details, detailed background, depth of field,<lora:Electromancer_v1.1:0.8>, thunder-staff
+
+photo of a swedish man, thunder-staff, electricity, outdoors, holding staff, wizard robe, witch hat, from side, realistic, masterpiece, intricate details, detailed background, depth of field,<lora:Electromancer_v1.1:0.8>, thunder-staff
+
+photo of a canadian man, thunder-aura, electricity, outdoors, levitation, in the sky, casual clothes, from below, jumping, cliff, realistic, masterpiece, intricate details, detailed background, depth of field,<lora:Electromancer_v1.1:0.8>, thunder-staff
+
+photo of a italian man, thunder-hands, electricity, outdoors, forest, casual clothes, from side, shooting lighting from hands, realistic, masterpiece, intricate details, detailed background, depth of field,<lora:Electromancer_v1.1:0.8>, thunder-staff
+
+photo of a filipino man, thunder-hands, electricity, outdoors, open field, exosuit, (from side:0.7), shooting lighting from hands, fighting stance, casting spell, hand slightly raised, (lightning bolt), realistic, masterpiece, intricate details, detailed background, depth of field,<lora:Electromancer_v1.1:0.8>, thunder-staff
+
+photo of a brazilian man, thunder-weapon, electricity, outdoors, open field, full armor, cape, (from side:0.7), dynamic pose, (lightning bolt), wielding two-handed sword, realistic, masterpiece, intricate details, detailed background, depth of field,<lora:Electromancer_v1.1:0.8>, thunder-staff
 
 #### lora:Ember Armor_v2
-(((masterpiece))),(((best quality))),(Chinese man),<lora:Ember Armor_v2:0.75>,emb3r4rmor,wearing embers knight armor,burning,glowing,dynamic pose,fighting stance,fantasy city background,holding sword,best quality,masterpiece,highly detailed,realistic,(detailed background),depth of field,soft focus,intricate details,8k,cartoon,3d,unreal engine 5,photo of a man
+(Chinese man), emb3r4rmor, wearing embers knight armor, burning, glowing, dynamic pose, fighting stance, fantasy city background, holding sword,, best quality, masterpiece, highly detailed, realistic, (detailed background), depth of field, soft focus, intricate details, 8k, cartoon, 3d,  unreal engine 5, photo of a man,<lora:Ember Armor_v2:0.75>,emb3r4rmor
+
+(Chinese man), emb3r4rmor, wearing embers paladin armor, burning, glowing, dynamic pose, fighting stance, (fantasy city background), holding shield, cape, helmet, cross, best quality, masterpiece, highly detailed, realistic, (detailed background), depth of field, soft focus, intricate details, 8k, cartoon, 3d,  unreal engine 5, photo of a man,<lora:Ember Armor_v2:0.75>,emb3r4rmor
+
+(Chinese man), emb3r4rmor, wearing embers rogue armor, burning, glowing, dynamic pose, fighting stance, (fantasy city background), (holding daggers), cloak, hood, ((night)), pants,, best quality, masterpiece, highly detailed, realistic, (detailed background), depth of field, soft focus, intricate details, 8k, cartoon, 3d,  unreal engine 5, photo of a man,<lora:Ember Armor_v2:0.75>,emb3r4rmor
+
+(Chinese man), emb3r4rmor, wearing embers wizard robe, burning, glowing, dynamic pose, fighting stance, (fantasy library background), indoors,, realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome man,<lora:Ember Armor_v2:0.75>,emb3r4rmor
+
+(Chinese man), emb3r4rmor, wearing embers priest robe, burning, glowing, dynamic pose, fighting stance, (fantasy church background), indoors, cross, realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome man,<lora:Ember Armor_v2:0.75>,emb3r4rmor
+
+(Chinese man), emb3r4rmor, wearing embers bodysuit, burning, glowing, dynamic pose, fighting stance, (fantasy city background),, realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome man,<lora:Ember Armor_v2:0.75>,emb3r4rmor
+
+(Chinese man), emb3r4rmor, wearing embers exosuit, burning, glowing, dynamic pose, fighting stance, (fantasy city background),, realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome man,<lora:Ember Armor_v2:0.75>,emb3r4rmor
+
+(Chinese man), emb3r4rmor, wearing embers coat, burning, glowing, dynamic pose, fighting stance, (fantasy city background),, realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome man,<lora:Ember Armor_v2:0.75>,emb3r4rmor
+
+(Chinese man), emb3r4rmor, wearing collared shirt, burning, glowing, dynamic pose, fighting stance, (fantasy city background), pants,, realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome man,<lora:Ember Armor_v2:0.75>,emb3r4rmor
+
+(Chinese man), emb3r4rmor, wearing business suit, burning, glowing, dynamic pose, fighting stance, (office background), pants, shirt, necktie, indoors, window, city,, realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome man,<lora:Ember Armor_v2:0.75>,emb3r4rmor
 
 #### lora:Pyromancer
-(((masterpiece))),(((best quality))),natural lighting,soft shadow,insane detail,detailed background,professional photography,<lora:Pyromancer:0.8>,depth of field,intricate,detailed face,subsurface scattering,realistic hair,realistic eyes,muscular,masculine,shiny skin,pectorals,abs,photo of a handsome man,f1remonk,burn1ngf1st,flaming hand,gloves,belt,beads,dougi,pants,bandages,sleeveless,torn clothes,fighting stance
+realistic, ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, professional photography, depth of field, intricate, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, manly, photo of a handsome man, pyromancer, dynamic pose, fighting stance, casting spell, swirling fire around man,<lora:Pyromancer:0.8>, pyromancer, fire
+
+realistic, ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, professional photography, depth of field, intricate, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, manly, photo of a handsome man, pyromancer,<lora:Pyromancer:0.8>, pyromancer, fire
+
+realistic, ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, professional photography, depth of field, intricate, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, manly, photo of a handsome man, pyromancer, dynamic pose, fighting stance, fire, wizard robe, hood, (40 years old), beard, cowboy shot,<lora:Pyromancer:0.8>, pyromancer, fire
+
+realistic, ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, professional photography, depth of field, intricate, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, manly, photo of a handsome man, pyromancer,<lora:Pyromancer:0.8>, pyromancer, fire
+
+realistic, ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, professional photography, depth of field, intricate, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, manly, photo of a handsome man, pyromancer, dynamic pose, fighting stance, fire, wizard robe, hood, (40 years old), beard, cowboy shot,<lora:Pyromancer:0.8>, pyromancer, fire
+
+realistic, ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, professional photography, depth of field, intricate, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, manly, photo of a handsome man, pyromancer, dynamic pose, fighting stance, fire, wizard robe, hood, (40 years old), beard, cowboy shot,<lora:Pyromancer:0.8>, pyromancer, fire
+
+realistic, ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, professional photography, depth of field, intricate, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, manly, photo of a handsome man, pyromancer, dynamic pose, fighting stance, fire, wizard robe, wizard hat, (40 years old), beard, holding staff,<lora:Pyromancer:0.8>, pyromancer, fire
+
+realistic, ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, professional photography, depth of field, intricate, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, manly, photo of a handsome man, pyromancer, dynamic pose, fighting stance, fire, wizard robe, wizard hat, (50 years old), beard, holding staff, white hair,<lora:Pyromancer:0.8>, pyromancer, fire
+
+realistic, ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, professional photography, depth of field, intricate, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, manly, photo of a handsome man, pyromancer, dynamic pose, fighting stance, fire, wizard robe, beard, holding staff, red hair,<lora:Pyromancer:0.8>, pyromancer, fire
+
+realistic, ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, professional photography, depth of field, intricate, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, manly, photo of a handsome man, pyromancer, dynamic pose, fighting stance, fire, casual clothes, hoodie, pants, (20 years old),<lora:Pyromancer:0.8>, pyromancer, fire
+
+realistic, ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, professional photography, depth of field, intricate, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, manly, photo of a handsome man, pyromancer, dynamic pose, fighting stance, fire, headband, pants, stubble, outdoors,<lora:Pyromancer:0.8>, pyromancer, fire
+
+realistic, ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, professional photography, depth of field, intricate, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, manly, photo of a handsome man, pyromancer, dynamic pose, fighting stance, casting spell, swirling fire around man,<lora:Pyromancer:0.8>, pyromancer, fire
+
+realistic, ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, professional photography, depth of field, intricate, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, manly, photo of a handsome man, pyromancer,<lora:Pyromancer:0.8>, pyromancer, fire
+
+realistic, ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, professional photography, depth of field, intricate, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, manly, photo of a handsome man, pyromancer, dynamic pose, fighting stance, fire, wizard robe, hood, (40 years old), beard, cowboy shot,<lora:Pyromancer:0.8>, pyromancer, fire
+
+realistic, ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, professional photography, depth of field, intricate, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, manly, photo of a handsome man, pyromancer, dynamic pose, fighting stance, fire, wizard robe, hood, (40 years old), beard, cowboy shot,<lora:Pyromancer:0.8>, pyromancer, fire
 
 #### lora:Flesh Armor_v1.2
-(((masterpiece))),(((best quality))),(a Chinese man),fl3sh4rmor,wearing flesh exosuit,blood,meat,veins,fantasy background,dynamic pose,fighting stance,realistic,masterpiece,intricate details,detailed background,depth of field,photo of a handsome man,<lora:Flesh Armor_v1.2:0.8>
+(Chinese man), fl3sh4rmor, wearing flesh exosuit, blood, meat, veins, fantasy background, dynamic pose, fighting stance,, realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome man,<lora:Flesh Armor_v1.2:0.8>
+
+(Chinese man), fl3sh4rmor, wearing flesh knight armor, blood, meat, veins, fantasy background, dynamic pose, fighting stance, holding sword,, realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome man,,<lora:Flesh Armor_v1.2:0.8>
+
+(Chinese man), fl3sh4rmor, wearing flesh paladin armor, blood, meat, veins, fantasy background, dynamic pose, fighting stance, holding shield, helmet, cape, cross,, realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome man,<lora:Flesh Armor_v1.2:0.8>
+
+(Chinese man), fl3sh4rmor, wearing flesh rogue armor, blood, meat, veins, fantasy background, dynamic pose, fighting stance, holding daggers, cloak, hood,, realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome man,<lora:Flesh Armor_v1.2:0.8>
+
+(Chinese man), fl3sh4rmor, wearing flesh barbarian armor, blood, meat, veins, fantasy background, dynamic pose, fighting stance, holding weapon, harness,, realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome man,<lora:Flesh Armor_v1.2:0.8>
+
+(Chinese man), fl3sh4rmor, wearing flesh wizard robe, blood, meat, veins, fantasy background, dynamic pose, fighting stance, staff, hood,, realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome man,<lora:Flesh Armor_v1.2:0.8>
+
+(Chinese man), fl3sh4rmor, wearing flesh priest robe, blood, meat, veins, fantasy background, dynamic pose, fighting stance, tabard, cross, church,, realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome man,<lora:Flesh Armor_v1.2:0.8>
+
+(Chinese man), fl3sh4rmor, wearing flesh bodysuit, blood, meat, veins, fantasy background, dynamic pose, fighting stance,, realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome man,<lora:Flesh Armor_v1.2:0.8>
+
+(Chinese man), fl3sh4rmor, wearing flesh power armor, blood, meat, veins, fantasy background, dynamic pose, fighting stance,, realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome man,<lora:Flesh Armor_v1.2:0.8>
+
+(Chinese man), fl3sh4rmor, wearing flesh coat, blood, meat, veins, fantasy background, dynamic pose, fighting stance,, realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome man,<lora:Flesh Armor_v1.2:0.8>
+
+(Chinese man), fl3sh4rmor, wearing flesh (collared shirt), blood, meat, veins, fantasy background, dynamic pose, fighting stance, pants,, realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome man,<lora:Flesh Armor_v1.2:0.8>
+
+(Chinese man), fl3sh4rmor, wearing flesh (business suit), blood, meat, veins, fantasy background, dynamic pose, fighting stance, pants, (shirt), (necktie), office, indoors,, realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome man,<lora:Flesh Armor_v1.2:0.8>
 
 #### lora:Flower Armor
-(((masterpiece))),(((best quality))),(a Chinese man),<lora:Flower Armor:0.7>,flower4rmor,photo of a brazilian man wearing flower knight armor,fantasy medieval city background,holding flower sword,realistic,masterpiece,intricate details,detailed background,depth of field
+flower4rmor, photo of a Chinese man wearing flower knight armor, fantasy medieval city background, holding flower sword, realistic, masterpiece, intricate details, detailed background, depth of field,<lora:Flower Armor:0.7>
+
+flower4rmor, photo of a Chinese man wearing flower paladin armor, fantasy medieval city background, holding flower shield, helmet, cape, cross, realistic, masterpiece, intricate details, detailed background, depth of field,<lora:Flower Armor:0.7>
+
+flower4rmor, photo of a Chinese man wearing flower rogue armor, fantasy medieval city background, dynamic movement, holding flower daggers, cloak, hood, alley, (night), moon, realistic, masterpiece, intricate details, detailed background, depth of field,<lora:Flower Armor:0.7>
+
+flower4rmor, photo of a Chinese man wearing flower wizard robe, fantasy medieval library background, dynamic movement, holding flower staff, witch hat, on hand on hips, realistic, masterpiece, intricate details, detailed background, depth of field,<lora:Flower Armor:0.7>
+
+flower4rmor, photo of a Chinese man wearing flower priest robe, fantasy medieval church background, dynamic movement, praying, cross, realistic, masterpiece, intricate details, detailed background, depth of field,<lora:Flower Armor:0.7>
+
+flower4rmor, photo of a Chinese man wearing flower bodysuit, fantasy medieval city background, dynamic movement, indoors, red hair, realistic, masterpiece, intricate details, detailed background, depth of field,<lora:Flower Armor:0.7>
+
+flower4rmor, photo of a Chinese man wearing flower exosuit, fantasy medieval city background, dynamic movement, indoors, realistic, masterpiece, intricate details, detailed background, depth of field,<lora:Flower Armor:0.7>
+
+flower4rmor, photo of a Chinese man wearing flower power armor, fantasy medieval city background, dynamic movement, helmet, sky,, realistic, masterpiece, intricate details, detailed background, depth of field,<lora:Flower Armor:0.7>
+
+flower4rmor, photo of a Chinese man wearing flower coat, fantasy medieval city background, dynamic movement, street, shirts, pants, realistic, masterpiece, intricate details, detailed background, depth of field,<lora:Flower Armor:0.7>
+
+flower4rmor, photo of a Chinese man wearing flower collared shirt, fantasy medieval city background, dynamic movement, street, pants, realistic, masterpiece, intricate details, detailed background, depth of field,<lora:Flower Armor:0.7>
+
+flower4rmor, photo of a Chinese man wearing flower hoodie, fantasy medieval city background, dynamic movement, street, jeans, realistic, masterpiece, intricate details, detailed background, depth of field,<lora:Flower Armor:0.7>
+
+flower4rmor, photo of a Chinese man wearing flower tank top, fantasy medieval beach background, dynamic movement, shorts, realistic, masterpiece, intricate details, detailed background, depth of field,<lora:Flower Armor:0.7>
+
+flower4rmor, photo of a (Chinese man) wearing cherry blossom flower samurai robes, holding katana sword, ancient japan fantasy background, fighting stance, realistic, masterpiece, intricate details, detailed background, depth of field,<lora:Flower Armor:0.7>
+
+flower4rmor, photo of a (Chinese man) wearing hibiscus flower druid robes, holding staff, tropical forest fantasy background, (40 years old), hood down, realistic, masterpiece, intricate details, detailed background, depth of field,<lora:Flower Armor:0.7>
+
+flower4rmor, photo of a (Chinese man) wearing hydrangea flower hanbok, ancient korea fantasy background, (30 years old), realistic, masterpiece, intricate details, detailed background, depth of field,<lora:Flower Armor:0.7>
+
+flower4rmor, photo of a Chinese man wearing flower bodysuit, fantasy medieval city background, dynamic movement, indoors, red hair, best quality, masterpiece, detailed background, depth of field, intricate details,<lora:Flower Armor:0.7>
+
+flower4rmor, photo of a (Chinese man) wearing cherry blossom flower samurai robes, holding katana sword, ancient japan fantasy background, fighting stance, best quality, masterpiece, detailed background, depth of field, intricate details,<lora:Flower Armor:0.7>
 
 #### lora:GaulArmor-10
-RAW photo,(masterpiece:1.3),subsurface scattering,heavy shadow,(high quality:1.4),(intricate, high detail:1.2),professional photography,HDR,High Dynamic Range,realistic,ultra realistic,photorealistic,high resolution,film photography,ambient lighting,atmospheric effects,OverallDetail,a fantasy Gaul warrior wearing GauAr,holding a spear and a shield,<lora:GaulArmor-10:1>,epiCPhoto
+RAW photo, (masterpiece:1.3), subsurface scattering, heavy shadow, (high quality:1.4), (intricate, high detail:1.2), professional photography, HDR, High Dynamic Range, realistic, ultra realistic, photorealistic, high resolution, film photography, ambient lighting, atmospheric effects, OverallDetail, a fantasy Gaul warrior wearing GauAr, holding a spear and a shield, <lora:GaulArmor-10:1>, epiCPhoto
+
+RAW photo, (masterpiece:1.3), subsurface scattering, heavy shadow, (high quality:1.4), (intricate, high detail:1.2), professional photography, HDR, High Dynamic Range, realistic, ultra realistic, photorealistic, high resolution, film photography, ambient lighting, atmospheric effects, OverallDetail, a fantasy male Gaul warrior wearing GauAr armor, cowboy shot, cloak,  <lora:GaulArmor:1>, epiCPhoto
+
+RAW photo, (masterpiece:1.3), subsurface scattering, heavy shadow, (high quality:1.4), (intricate, high detail:1.2), professional photography, HDR, High Dynamic Range, realistic, ultra realistic, photorealistic, high resolution, film photography, ambient lighting, atmospheric effects, OverallDetail, a fantasy male Celtic warrior wearing GauAr armor, beard, holding a shield and a sword, cowboy shot, cloak,  <lora:GaulArmor:1>,  , epiCPhoto
+
+RAW photo, (masterpiece:1.3), subsurface scattering, heavy shadow, (high quality:1.4), (intricate, high detail:1.2), professional photography, HDR, High Dynamic Range, realistic, ultra realistic, photorealistic, high resolution, film photography, ambient lighting, atmospheric effects, OverallDetail, a fantasy male Celtic warrior wearing GauAr armor, beard, holding a shield and a sword, cowboy shot, cloak,  <lora:GaulArmor:1>, epiCPhoto
 
 #### lora:Gay Cupid Costume
-(((masterpiece))),(((best quality))),<lora: more_details:1.1>,(a Chinese muscular young man man:1.3),<lora:Gay Cupid Costume:1>,wearing cupid costume,(white hair),beard,wings,flying,halo,(white robe),armor,(surrounded by clouds),ethereal,(seductive smile:0.6),rntricate details,detailed background,depth of field,(muscular),(large pectorals),(puffy nipples)
+Photo of a man wearing cupid costume, (white hair), beard, wings, flying, halo, (white robe), armor, (surrounded by clouds), ethereal, (seductive smile:0.6), <lora:Gay Cupid Costume:0.6>, realistic, masterpiece, intricate details, detailed background, depth of field, (muscular), (large pectorals), (puffy nipples)
+
+Photo of a man wearing cupid costume, (white hair), wings, flying, halo, (white toga robe), red scarf, armor, (surrounded by clouds), ethereal, (seductive smile:0.6), <lora:Gay Cupid Costume:0.3>, from side, realistic, masterpiece, intricate details, detailed background, depth of field
+
+Photo of a man wearing cupid costume, (white hair), beard, wings, flying, halo, (white robe), armor, (harness), (surrounded by clouds), ethereal, (seductive smile:0.6), <lora:Gay Cupid Costume:0.3>, dynamic movement, best quality, extremely detailed, intricate details, male focus
+
+Photo of a man wearing cupid costume, (pink hair), wings, flying, halo, (pink robe), armor, (surrounded by clouds), ethereal, (seductive smile:0.6), <lora:Gay Cupid Costume:0.3>, jewelry, from side, holding weapon, best quality, extremely detailed, intricate details, male focus
 
 #### lora:Gay Cow Suit
-(((masterpiece))),(((best quality))),<lora: more_details:1.1>,(a Chinese muscular young man man:1.3),wearing cowsuit,cow horns,cow ears,cow tail,barn farm,<lora:Gay Cow Suit:0.6>,(smirk:0.7),realistic,masterpiece,intricate details,detailed background,depth of field
+a man wearing cowsuit, cow horns, cow ears, cow tail, barn farm, <lora:Gay Cow Suit:0.6>, (smirk:0.7), realistic, masterpiece, intricate details, detailed background, depth of field
+
+a man wearing cowsuit, cow horns, cow ears, village street, <lora:Gay Cow Suit:0.6>, (smirk:0.7), back, realistic, masterpiece, intricate details, detailed background, depth of field
+
+a man wearing cowsuit, cow horns, cow ears, open grassland, <lora:Gay Cow Suit:0.6>, (smirk:0.7), realistic, masterpiece, intricate details, detailed background, depth of field
+
+a man wearing cowsuit, cow horns, cow ears, cow tail, open grassland, <lora:Gay Cow Suit:0.6>, (smirk:0.7), best quality, extremely detailed, intricate details, male focus
 
 #### lora:Fractal Fairy Armor
 realistic,masterpiece,intricate details,detailed background,depth of field,photo of a handsome (Chinese man),fr4ctal4rmor,wearing fractal paladin armor,((dynamic pose)),fighting stance,wings,fantasy background,holding shield,cross,cape,(40 years old),beard,helmet,cinematic composition,sharp focus,(from side:0.6),<lora:Fractal Fairy Armor:0.8>,fr4ctal4rmor,wings
@@ -394,5 +591,4 @@ realistic, masterpiece, intricate details, detailed background, depth of field, 
 realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome (european man), fr4ctal4rmor, wearing fractal business suit, (dynamic pose), ((fighting stance)), wings, fantasy background, cinematic composition, sharp focus, close up, shirt, pants, necktie,
 
 fr4ctal4rmor, wearing fractal exosuit, fairy wings, dynamic pose, nude, penis, erection, pants,, (best quality), (masterpiece), (highly detailed), cinematic, (detailed background), depth of field, intricate details, 8k, bara, photo of a handsome man,
-
 
