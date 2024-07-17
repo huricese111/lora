@@ -329,9 +329,6 @@ upper body focus,photo of (a handsome Chinese muscular young man),cypher,full ar
 #### lora:Dark Priest
 realistic,masterpiece,best quality,cinematic lighting,natural shadow,highest detail,professional photography,detailed background,depth of field,insane details,intricate,aesthetic,detailed face,subsurface scattering,realistic hair,realistic eyes,muscular,masculine,large pectorals,pectorals,abs,photo of a handsome man,darkpriest,tabard,armor,cape,gloves,torn clothes,jewelry,necklace,chain,spikes,blood,holding staff,magic,fire,black hair,dynamic movement,dynamic pose,<lora:Dark Priest:0.7>,darkpriest
 
-#### lora:Dark Priest
-realistic,masterpiece,best quality,cinematic lighting,natural shadow,highest detail,professional photography,detailed background,depth of field,insane details,intricate,aesthetic,detailed face,subsurface scattering,realistic hair,realistic eyes,muscular,masculine,large pectorals,pectorals,abs,photo of a handsome man,darkpriest,tabard,armor,cape,gloves,torn clothes,jewelry,necklace,chain,spikes,blood,holding staff,magic,fire,black hair,dynamic movement,dynamic pose,<lora:Dark Priest:0.7>,darkpriest
-
 #### lora:DesertPunk Armor
 (((masterpiece))),(((best quality))),,<lora: more_details:1.1>,(a Chinese young muscular man man:1.3), cinematic, natural lighting, soft shadow, detailed background, photography, depth of field, intricate, detailed face, subsurface scattering, realistic eyes, , manly,, des3rt4rmor, wearing desertpunk knight armor, holding sword,,,<lora:DesertPunk Armor:0.3>
 
