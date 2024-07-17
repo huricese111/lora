@@ -1,25 +1,23 @@
 # Homoerotic Prompt
 
-![](https://imagecache.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/fa18e0be-4a3f-4795-32f2-85c5fa5c1900/width=525)
-
-[TOC]
+![shot size cheatsheet](E:\lora\shot size cheatsheet.jpg)
 
 ## Useful Checkpoint
 
-##### GaiJourney
+GaiJourney
 
-##### GSMaleto Photoreal
+GSMaleto Photoreal
 
-##### ManlyAlpha
+ManlyAlpha
 
-##### Muses - Erato
+Muses - Erato
 
 ## Negative prompt
 (worst quality, bad quality, low quality, poor quality:1.4),lowres,blurry,(nsfw, bent over, lying, standing:1.4),grayscale,monochrome,deformed,bad anatomy,disfigured,poorly drawn face,mutation,mutated,extra limb,ugly,disgusting,poorly drawn hands,missing limb,floating limbs,disconnected limbs,malformed hands,blurry,((((mutated hands and fingers)))),text,watermark,watermarked,oversaturated,censored,distorted hands,amputation,missing hands,obese,doubled face,double hands,fcNeg,receding hairline,((receding hairline)),bald,(bald),((balding)),balding,widows peak hairline,an14,bad-hands-5,EasyNegative,FastNegativeV2
 
 ### Universal
 
-(((masterpiece))),(((best quality))),<lora: more_details:1.1>, Asian: 0.8, (muscular Chinese man:1.3),<lora:Adonis_belt:1>,<lora:Better_Nude_Men:0.5>,
+(((masterpiece))),(((best quality))),<lora: more_details:1.1>, Asian: 0.8, (a muscular Chinese man:1.3),<lora:Adonis_belt:1>,<lora:Better_Nude_Men:0.5>,
 
 ### GaiJourney Support
 

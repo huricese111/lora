@@ -4,22 +4,22 @@
 
 ## Useful Checkpoint
 
-#### Male_HomoFidelis - v4.0
+Male_HomoFidelis - v4.0
 
-#### Realism_photon_v1
+Realism_photon_v1
 
-#### Male_Rugged Resolve Studios - v4.0
+Male_Rugged Resolve Studios - v4.0
 
-#### Male_GSMaleto Photoreal
+Male_GSMaleto Photoreal
 
-#### Fantasy_ProFantasy - v2.2
+Fantasy_ProFantasy - v2.2
 
 
 ## Negative prompt
 (worst quality, bad quality, low quality, poor quality:1.4),lowres,blurry,(nsfw, bent over, lying, standing:1.4),grayscale,monochrome,deformed,bad anatomy,disfigured,poorly drawn face,mutation,mutated,extra limb,ugly,disgusting,poorly drawn hands,missing limb,floating limbs,disconnected limbs,malformed hands,blurry,((((mutated hands and fingers)))),text,watermark,watermarked,oversaturated,censored,distorted hands,amputation,missing hands,obese,doubled face,double hands,fcNeg,receding hairline,((receding hairline)),bald,(bald),((balding)),balding,widows peak hairline,an14,bad-hands-5,EasyNegative,FastNegativeV2
 
 ### Universal
-(((masterpiece))),(((best quality))),<lora: more_details:1.1>, (a Chinese muscular young man man:1.3)
+(((masterpiece))),(((best quality))),<lora: more_details:1.1>, (a Chinese muscular young man:1.3)
 
 ### Parameters
 
@@ -639,6 +639,98 @@ pupplay, photo of a Chinese man, collar, leash, mask, bdsm, all fours, bound, ta
 (masterpiece:1.2), (best quality,:1.2), 8k, HDR, ultra detailed, ((photorealistic)), professional light, cinematic lighting, fashion photography, ambient lighting, atmospheric effects, a Chinese male vampire hunter, wearing a long black leather coat, buttons, gothout, <lora:Gothic_Outfit:0.6>, epiCPhoto
 
 (masterpiece:1.2), (best quality,:1.2), 8k, HDR, ultra detailed, ((photorealistic)), professional light, cinematic lighting, fashion photography, ambient lighting, atmospheric effects, a Chinese man, wearing a long coat, ascot, gothout, <lora:Gothic_Outfit:0.5>, epiCPhoto
+
+#### lora:Halloween
+
+masterpiece, best quality, incrshlwn, <lora:Halloween:0.7>, halloween, halloween costume, night sky, outdoors, a Chinese muscular young man, vampire costume, ascot,
+
+####  lora:hanfu_feiyu_style
+
+RAW photo,1asian,standing,ancient Chinese garden background,looking aiming at viewer,(high detailed skin:1.2),8k uhd,dslr,soft lighting,high quality,film grain,(Fujifilm XT3),<lora:hanfu_feiyu_style:0.8>,hanfu,(depth of field:1.1),(bokeh:1.1),feiyu,fine fabric emphasis,,golden hour lighting,
+
+#### lora:hcs
+
+full body medium shot of hcs man wearing black and blue combat armor, sharp focus, masterpiece, highly detailed , <lora:hcs:1>
+
+#### lora:hevsuit
+
+a man with a long beard wearing hevsuit mk5 standing in a field of grass, realistic skin, afternoon, realistic armor, shiny materials, dramatic lighting, ultra realistic, carbon fiber armor, armor shine, wallpaper, intricate, sharp focus, ray tracing, rtx, professionally color graded, professional photography, masterpiece, ultra detailed, high quality, best quality, 4k, 8k, raw, <lora:hevsuit:0.6>
+
+#### lora:HayataShin
+
+1man,solo,sssp uniform,upper body,1970s \(style\),outdoors,  tokyo tower, <lora:HayataShin:0.5>, RAW photo, (high detailed skin:1.2), 8k uhd, dslr, soft lighting, high quality, film grain, Fujifilm XT3, (natural light),photon mapping,professional lighting, photon mapping, radiosity, physically-based rendering,amazing physically based rendering, complex lighting,
+
+#### lora:Hydro Armor
+
+(realistic), (photorealistic), ((masterpiece)), ((best quality)), (detailed), cinematic, natural lighting, soft shadow, detailed background, photography, depth of field, intricate, detailed face, subsurface scattering, realistic eyes, muscular, manly, photo of a handsome (latino man), hydr04rmor, wearing hydropunk knight armor, dynamic pose, holding sword, tube, cable,<lora:Hydro Armor:0.8>,hydr04rmor
+
+(realistic), (photorealistic), ((masterpiece)), ((best quality)), (detailed), cinematic, natural lighting, soft shadow, detailed background, photography, depth of field, intricate, detailed face, subsurface scattering, realistic eyes, muscular, manly, photo of a handsome (german man), hydr04rmor, wearing hydropunk wizard robe, dynamic pose, glowing, tube, cable, holding staff, diving mask, underwater, air bubbles, floating hair, pants,<lora:Hydro Armor:0.8>,hydr04rmor
+
+(realistic), (photorealistic), ((masterpiece)), ((best quality)), (detailed), cinematic, natural lighting, soft shadow, detailed background, photography, depth of field, intricate, detailed face, subsurface scattering, realistic eyes, muscular, manly, photo of a handsome (southeast asian man), hydr04rmor, wearing hydropunk bodysuit, dynamic movement, dynamic pose, glowing, tube, cable, underwater, diver helmet, air bubble,<lora:Hydro Armor:0.8>,hydr04rmor
+
+(realistic), (photorealistic), ((masterpiece)), ((best quality)), (detailed), cinematic, natural lighting, soft shadow, detailed background, photography, depth of field, intricate, detailed face, subsurface scattering, realistic eyes, muscular, manly, photo of a handsome (middle eastern man), hydr04rmor, wearing hydropunk exosuit, dynamic movement, dynamic pose, glowing, tube, cable,<lora:Hydro Armor:0.8>,hydr04rmor
+
+(realistic), (photorealistic), ((masterpiece)), ((best quality)), (detailed), cinematic, natural lighting, soft shadow, detailed background, photography, depth of field, intricate, detailed face, subsurface scattering, realistic eyes, muscular, manly, photo of a handsome (middle eastern man), hydr04rmor, wearing hydropunk exosuit, dynamic movement, dynamic pose, glowing, tube, cable,<lora:Hydro Armor:0.8>,hydr04rmor
+
+(realistic), (photorealistic), ((masterpiece)), ((best quality)), (detailed), cinematic, natural lighting, soft shadow, detailed background, photography, depth of field, intricate, detailed face, subsurface scattering, realistic eyes, muscular, manly, photo of a handsome (south american man), hydr04rmor, wearing hydropunk collared shirt, dynamic movement, dynamic pose, glowing, tube, cable, underwater, diving mask, air bubble, medium hair, pants,<lora:Hydro Armor:0.8>,hydr04rmor
+
+#### lora:Hydromancer
+
+realistic, masterpiece, best quality, natural lighting, soft shadow, insane detail, detailed background, professional photography, depth of field, intricate, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, masculine, photo of a handsome man, hydr0mancer, water, waves, hydrokinesis, splashing, fighting stance, chinese clothes, open shirt, pants, lake, martial arts, looking at viewer, <lora:Hydromancer:0.5>
+
+realistic, masterpiece, best quality, natural lighting, soft shadow, insane detail, detailed background, professional photography, depth of field, intricate, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, masculine, photo of a handsome man, hydr0mancer, water, waves, hydrokinesis, splashing, fighting stance, chinese clothes, open shirt, pants, lake, martial arts, looking at viewer,<lora:Hydromancer:0.5>
+
+realistic, masterpiece, best quality, natural lighting, soft shadow, insane detail, detailed background, professional photography, depth of field, intricate, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, masculine, photo of a handsome man, hydr0mancer, water, hydrokinesis, splashing, fighting stance, open shirt, pants, martial arts, looking at viewer, Tonraq, blue coat, fur trim, belt, waistband, bracers, necklace, glacier, ocean, iceberg,<lora:Hydromancer:0.5>
+
+realistic, masterpiece, best quality, natural lighting, soft shadow, insane detail, detailed background, professional photography, depth of field, intricate, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, masculine, photo of a handsome man, hydr0mancer, water, splashing, fighting stance, open coat, pants, martial arts, looking at viewer, Tonraq, blue coat, fur trim, belt, waistband, bracers, necklace, glacier, ocean, iceberg,<lora:Hydromancer:0.5>
+
+realistic, masterpiece, best quality, natural lighting, soft shadow, insane detail, detailed background, professional photography, depth of field, intricate, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, masculine, photo of a handsome man, hydr0mancer, water, splashing, hydrokinesis, full body, male focus, greaves, shoulder armor, holding sword, black hair, fighting stance, pectorals, abs, bracers,<lora:Hydromancer:0.5>
+
+realistic, masterpiece, best quality, natural lighting, soft shadow, insane detail, detailed background, professional photography, depth of field, intricate, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, masculine, photo of a handsome man, hydr0mancer, water, splashing, hydrokinesis, business suit, necktie, city, street, (40 year old),<lora:Hydromancer:0.5>
+
+realistic, masterpiece, best quality, natural lighting, soft shadow, insane detail, detailed background, professional photography, depth of field, intricate, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, masculine, photo of a handsome man, hydr0mancer, water, splashing, hydrokinesis, beard, black hair, casting spell, swirling water magic, water orb, wizard robe, pants, holding staff, indoors, library, window, sunlight,<lora:Hydromancer:0.5>
+
+realistic, masterpiece, best quality, natural lighting, soft shadow, insane detail, detailed background, professional photography, depth of field, intricate, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, masculine, photo of a handsome man, hydr0mancer, water, splashing, hydrokinesis, beard, white hair, casting spell, swirling water magic, water orb, priest vestment, collar, shirt, pants, kneeling, wide shot, indoors, church, stained glass, window, sunlight, (symmetry),<lora:Hydromancer:0.5>
+
+realistic, masterpiece, best quality, natural lighting, soft shadow, insane detail, detailed background, professional photography, depth of field, intricate, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, masculine, photo of a handsome man, hydr0mancer, water, wave, splashing, hydrokinesis, mechamerman, merman, monster boy, fins, floating hair, tattoo, crown, armor, bracelet, ring, shoulder armor, necklace, jewelry, sky, rock, ocean,<lora:Hydromancer:0.5>
+
+#### lora:Ice Armor
+
+ic34rmor, wearing ice bodysuit, see-through, dynamic pose, ((fighting stance)), fantasy city background, indoors, (face portrait), (extreme close up:1.2),, realistic, masterpiece, intricate details, detailed background, depth of field, photo of a man,<lora:Ice Armor:0.5>
+
+ic34rmor, wearing ice knight armor, dynamic pose, fighting stance, holding ice sword, medieval fantasy city background, full armor, realistic, masterpiece, intricate details, detailed background, depth of field, photo of a man,<lora:Ice Armor:0.5>
+
+ic34rmor, wearing ice paladin armor, ((fighting stance)), holding ice shield, medieval fantasy city background, indoors, helmet, cape, cross,, realistic, masterpiece, intricate details, detailed background, depth of field, photo of a man,<lora:Ice Armor:0.5>
+
+ic34rmor, wearing ice paladin armor, see-through, ((fighting stance)), medieval fantasy city background, street, alley, holding dagger, cloak, hood, from side, (face portrait), (extreme close up:1.4), realistic, masterpiece, intricate details, detailed background, depth of field, photo of a man,<lora:Ice Armor:0.5>
+
+ic34rmor, wearing ice barbarian armor, see-through, ((fighting stance)), medieval fantasy city background, outdoors, holding weapon, (face portrait), (extreme close up:1.4), harness, realistic, masterpiece, intricate details, detailed background, depth of field, photo of a man,<lora:Ice Armor:0.5>
+
+ic34rmor, wearing ice wizard robe, see-through, ((fighting stance)), medieval fantasy library background, indoors, holding staff, (face portrait), (extreme close up:1.2), witch hat, realistic, masterpiece, intricate details, detailed background, depth of field, photo of a man,<lora:Ice Armor:0.5>
+
+ic34rmor, wearing ice priest robe, see-through, dynamic pose, ((fighting stance)), medieval fantasy church background, indoors, (face portrait), (extreme close up:1.2), cross, hands raised, praying, realistic, masterpiece, intricate details, detailed background, depth of field, photo of a man,<lora:Ice Armor:0.5>
+
+ic34rmor, wearing ice exosuit, see-through, dynamic pose, ((fighting stance)), fantasy city background, outdoors, (face portrait), (extreme close up:1.2), (from side:0.8), realistic, masterpiece, intricate details, detailed background, depth of field, photo of a man,<lora:Ice Armor:0.5>
+
+ic34rmor, wearing ice coat, see-through, dynamic pose, ((fighting stance)), fantasy city background, outdoors, (face portrait), (extreme close up:1.2), street, shirt, pants, realistic, masterpiece, intricate details, detailed background, depth of field, photo of a man,<lora:Ice Armor:0.5>
+
+ic34rmor, wearing ice hoodie, see-through, dynamic pose, ((fighting stance)), fantasy city background, outdoors, (face portrait), (extreme close up:1.2), street, pants, realistic, masterpiece, intricate details, detailed background, depth of field, photo of a man,<lora:Ice Armor:0.5>
+
+ic34rmor, wearing ice business suit, see-through, dynamic pose, ((fighting stance)), fantasy city background, indoors, (face portrait), (extreme close up:1.2), office, pants, shirt, necktie, realistic, masterpiece, intricate details, detailed background, depth of field, photo of a man,<lora:Ice Armor:0.5>
+
+ic34rmor, wearing ice bodysuit, see-through, dynamic pose, fantasy ice palace background, indoors, face portrait, (close up:1.2), nude, erection, aquamarine hair, pectorals, abs, outdoors, snow, smirk, cape, dancing, crown, best quality, masterpiece, detailed background, depth of field, intricate details<lora:Ice Armor:0.5>
+
+ic34rmor, wearing ice bodysuit, see-through, dynamic pose, fantasy ice palace background, indoors, face portrait, (close up:1.2), nude, erection, aquamarine hair, pectorals, abs, outdoors, snow, smirk, cape, dancing, crown, ass, back, best quality, masterpiece, detailed background, depth of field, intricate details，<lora:Ice Armor:0.5>
+
+ic34rmor, wearing ice bodysuit, see-through, dynamic pose, fantasy ice palace background, indoors, face portrait, (close up:1.2), nude, erection, aquamarine hair, pectorals, abs, outdoors, snow, smirk, cape, dancing, crown, from side, best quality, masterpiece, detailed background, depth of field, intricate details，<lora:Ice Armor:0.5>
+
+
+
+
+
+
+
+
 
 
 
