@@ -1041,28 +1041,108 @@ male focus,body hair,male only,short hair,stubble,look at the viewer,battle fiel
 
 (realistic), (photorealistic), ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, photography, depth of field, intricate, detailed face, subsurface scattering, realistic eyes, muscular, manly, large pectorals, pectorals, abs, photo of a handsome man, sexybartender, vest, pants, bowtie, wrist cuffs, bar, alcohol, (smirk:0.7), beard, dynamic pose, <lora: Sexy Bartender_v1.1:0.4>
 
-(realistic), (photorealistic), ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, photography, depth of field, intricate, detailed face, subsurface scattering, realistic eyes, muscular, manly, large pectorals, pectorals, abs, photo of a handsome (african man), sexybartender, vest, pants, bowtie, wrist cuffs, bar, alcohol, (smirk:0.7), beard, dynamic pose,<lora: Sexy Bartender_v1.1:0.4>
+(realistic), (photorealistic), ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, photography, depth of field, intricate, detailed face, subsurface scattering, realistic eyes, muscular, manly, large pectorals, pectorals, abs, photo of a handsome (japanese man), sexybartender, vest, pants, bowtie, wrist cuffs, bar, alcohol, (smirk:0.7), beard, dynamic pose,<lora: Sexy Bartender_v1.1:0.4>
 
-(realistic), (photorealistic), ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, photography, depth of field, intricate, detailed face, subsurface scattering, realistic eyes, muscular, manly, large pectorals, pectorals, abs, photo of a handsome (latino man), sexybartender, vest, black underwear, bowtie, wrist cuffs, bar, alcohol, (smirk:0.7), dynamic pose, black hair,<lora: Sexy Bartender_v1.1:0.4>
+(realistic), (photorealistic), ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, photography, depth of field, intricate, detailed face, subsurface scattering, realistic eyes, muscular, manly, large pectorals, pectorals, abs, photo of a handsome (japanese man), sexybartender, vest, black underwear, bowtie, wrist cuffs, bar, alcohol, (smirk:0.7), dynamic pose, black hair,<lora: Sexy Bartender_v1.1:0.4>
 
-(realistic), (photorealistic), ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, photography, depth of field, intricate, detailed face, subsurface scattering, realistic eyes, muscular, manly, large pectorals, pectorals, abs, photo of a handsome (american man), sexybartender, vest, black underwear, bowtie, wrist cuffs, bar, alcohol, (smirk:0.7), dynamic pose, blonde hair, sitting, beard,<lora: Sexy Bartender_v1.1:0.4>
+(realistic), (photorealistic), ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, photography, depth of field, intricate, detailed face, subsurface scattering, realistic eyes, muscular, manly, large pectorals, pectorals, abs, photo of a handsome (japanese man), sexybartender, vest, black underwear, bowtie, wrist cuffs, bar, alcohol, (smirk:0.7), dynamic pose, blonde hair, sitting, beard,<lora: Sexy Bartender_v1.1:0.4>
 
-(realistic), (photorealistic), ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, photography, depth of field, intricate, detailed face, subsurface scattering, realistic eyes, muscular, manly, large pectorals, pectorals, abs, photo of a handsome (arabian man), sexybartender, vest, black underwear, bowtie, wrist cuffs, bar, alcohol, (smirk:0.7), dynamic pose, back,<lora: Sexy Bartender_v1.1:0.4>
+(realistic), (photorealistic), ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, photography, depth of field, intricate, detailed face, subsurface scattering, realistic eyes, muscular, manly, large pectorals, pectorals, abs, photo of a handsome (japanese man), sexybartender, vest, black underwear, bowtie, wrist cuffs, bar, alcohol, (smirk:0.7), dynamic pose, back,<lora: Sexy Bartender_v1.1:0.4>
 
-(realistic), (photorealistic), ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, photography, depth of field, intricate, detailed face, subsurface scattering, realistic eyes, muscular, manly, large pectorals, pectorals, abs, photo of a handsome (asian man), sexybartender, vest, black underwear, bowtie, wrist cuffs, bar, alcohol, (smirk:0.7), dynamic pose, lying, side view,<lora: Sexy Bartender_v1.1:0.4>
+(realistic), (photorealistic), ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, photography, depth of field, intricate, detailed face, subsurface scattering, realistic eyes, muscular, manly, large pectorals, pectorals, abs, photo of a handsome (japanese man), sexybartender, vest, black underwear, bowtie, wrist cuffs, bar, alcohol, (smirk:0.7), dynamic pose, lying, side view,<lora: Sexy Bartender_v1.1:0.4>
 
 (realistic), (photorealistic), ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, photography, depth of field, intricate, detailed face, subsurface scattering, realistic eyes, muscular, manly, large pectorals, pectorals, abs, photo of a handsome man, sexybartender, vest, pants, bowtie, wrist cuffs, bar, alcohol, (smirk:0.7), beard, dynamic pose,<lora: Sexy Bartender_v1.1:0.4>
 
-(realistic), (photorealistic), ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, photography, depth of field, intricate, detailed face, subsurface scattering, realistic eyes, muscular, manly, large pectorals, pectorals, abs, photo of a handsome (african man), sexybartender, vest, pants, bowtie, wrist cuffs, bar, alcohol, (smirk:0.7), beard, dynamic pose,<lora: Sexy Bartender_v1.1:0.4>
+(realistic), (photorealistic), ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, photography, depth of field, intricate, detailed face, subsurface scattering, realistic eyes, muscular, manly, large pectorals, pectorals, abs, photo of a handsome (japanese man), sexybartender, vest, pants, bowtie, wrist cuffs, bar, alcohol, (smirk:0.7), beard, dynamic pose,<lora: Sexy Bartender_v1.1:0.4>
 
-(realistic), (photorealistic), ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, photography, depth of field, intricate, detailed face, subsurface scattering, realistic eyes, muscular, manly, large pectorals, pectorals, abs, photo of a handsome (latino man), sexybartender, vest, black underwear, bowtie, wrist cuffs, bar, alcohol, (smirk:0.7), dynamic pose, black hair,<lora: Sexy Bartender_v1.1:0.4>
+(realistic), (photorealistic), ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, photography, depth of field, intricate, detailed face, subsurface scattering, realistic eyes, muscular, manly, large pectorals, pectorals, abs, photo of a handsome (japanese man), sexybartender, vest, black underwear, bowtie, wrist cuffs, bar, alcohol, (smirk:0.7), dynamic pose, black hair,<lora: Sexy Bartender_v1.1:0.4>
 
-(realistic), (photorealistic), ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, photography, depth of field, intricate, detailed face, subsurface scattering, realistic eyes, muscular, manly, large pectorals, pectorals, abs, photo of a handsome (american man), sexybartender, vest, black underwear, bowtie, wrist cuffs, bar, alcohol, (smirk:0.7), dynamic pose, blonde hair, sitting, beard,<lora: Sexy Bartender_v1.1:0.4>
+(realistic), (photorealistic), ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, photography, depth of field, intricate, detailed face, subsurface scattering, realistic eyes, muscular, manly, large pectorals, pectorals, abs, photo of a handsome (japanese man), sexybartender, vest, black underwear, bowtie, wrist cuffs, bar, alcohol, (smirk:0.7), dynamic pose, blonde hair, sitting, beard,<lora: Sexy Bartender_v1.1:0.4>
 
-(realistic), (photorealistic), ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, photography, depth of field, intricate, detailed face, subsurface scattering, realistic eyes, muscular, manly, large pectorals, pectorals, abs, photo of a handsome (arabian man), sexybartender, vest, black underwear, bowtie, wrist cuffs, bar, alcohol, (smirk:0.7), dynamic pose, back,<lora: Sexy Bartender_v1.1:0.4>
+(realistic), (photorealistic), ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, photography, depth of field, intricate, detailed face, subsurface scattering, realistic eyes, muscular, manly, large pectorals, pectorals, abs, photo of a handsome (japanese man), sexybartender, vest, black underwear, bowtie, wrist cuffs, bar, alcohol, (smirk:0.7), dynamic pose, back,<lora: Sexy Bartender_v1.1:0.4>
 
-(realistic), (photorealistic), ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, photography, depth of field, intricate, detailed face, subsurface scattering, realistic eyes, muscular, manly, large pectorals, pectorals, abs, photo of a handsome (asian man), sexybartender, vest, black underwear, bowtie, wrist cuffs, bar, alcohol, (smirk:0.7), dynamic pose, lying, side view,<lora: Sexy Bartender_v1.1:0.4>
+(realistic), (photorealistic), ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, photography, depth of field, intricate, detailed face, subsurface scattering, realistic eyes, muscular, manly, large pectorals, pectorals, abs, photo of a handsome (japanese man), sexybartender, vest, black underwear, bowtie, wrist cuffs, bar, alcohol, (smirk:0.7), dynamic pose, lying, side view,<lora: Sexy Bartender_v1.1:0.4>
 
 #### lora:Sexy Baseball Player
 
-baseballplayer, photo of a Belgian man, holding baseball bat, helmet, white pants, gloves, baseball field, dugout, realistic, masterpiece, intricate details, detailed background, depth of field,<lora:Sexy Baseball Player:0.65> 
+baseballplayer, photo of a japanese man, holding baseball bat, helmet, white pants, gloves, baseball field, dugout, realistic, masterpiece, intricate details, detailed background, depth of field,<lora:Sexy Baseball Player:0.65> 
+
+baseballplayer, photo of a japanese man, holding baseball bat, baseball uniform, helmet, white pants, gloves, baseball field, dugout, realistic, masterpiece, intricate details, detailed background, depth of field,<lora:Sexy Baseball Player:0.65> 
+
+baseballplayer, photo of a japanese man, holding baseball bat, baseball cap, white pants, baseball mitts, baseball field, pitching mound, realistic, masterpiece, intricate details, detailed background, depth of field,<lora:Sexy Baseball Player:0.65> 
+
+baseballplayer, photo of an (japanese  man), (baseball cap), open shirt, boxer brief, (baseball mitts), catcher mound, multiple men, dynamic movement, realistic, masterpiece, intricate details, detailed background, depth of field,<lora:Sexy Baseball Player:0.65> 
+
+baseballplayer, photo of an japanese man, holding baseball bat, reverse baseball cap, boxer brief, gloves, baseball field, multiple men, realistic, masterpiece, intricate details, detailed background, depth of field,<lora:Sexy Baseball Player:0.65> 
+
+baseballplayer, photo of an japanese man, (catcher helmet), boxer brief, (baseball mitts), catcher mound, multiple men, squatting, realistic, masterpiece, intricate details, detailed background, depth of field,<lora:Sexy Baseball Player:0.65> 
+
+baseballplayer, photo of an (japanese man), (baseball cap), jockstrap, (baseball mitts), locker room, bench, multiple men, dynamic movement, back, baseball bat, realistic, masterpiece, intricate details, detailed background, depth of field,<lora:Sexy Baseball Player:0.65> 
+
+baseballplayer, photo of an (japanese man), helmet, jockstrap, glove, locker room, sitting on bench, legs spread, multiple men, dynamic movement, baseball bat, realistic, masterpiece, intricate details, detailed background, depth of field,<lora:Sexy Baseball Player:0.65> 
+
+baseballplayer, photo of a japanese man, baseball cap, white pants, baseball mitts, baseball field, pitching mound, topless male, best quality, masterpiece, detailed background, depth of field, intricate details,<lora:Sexy Baseball Player:0.65> 
+
+baseballplayer, photo of an (japanese man), baseball cap, jockstrap, glove, locker room, sitting on bench, legs spread, dynamic pose, baseball bat, topless male, best quality, masterpiece, detailed background, depth of field, intricate details,<lora:Sexy Baseball Player:0.65> 
+
+#### lora:Sexy Blacksmith
+
+sexyblacksmith, gloves, naked apron, goggles, holding hammer, fire, anvil, spark, photo of a man forging a sword, realistic, masterpiece, intricate details, detailed background, depth of field,<lora:Sexy Blacksmith:0.6>
+
+sexyblacksmith, gloves, naked apron, faceplate, holding hammer, fire, anvil, furnace, spark, photo of a man forging, from side, realistic, masterpiece, intricate details, detailed background, depth of field,<lora:Sexy Blacksmith:0.6>
+
+sexyblacksmith, gloves, naked overalls, goggles on head, holding hammer, fire, anvil, furnace, spark, photo of a man forging, from side, realistic, masterpiece, intricate details, detailed background, depth of field,<lora:Sexy Blacksmith:0.6>
+
+sexyblacksmith, gloves, naked overalls, headband, holding hammer, fire, anvil, furnace, spark, photo of a man forging a sword,, realistic, masterpiece, intricate details, detailed background, depth of field,<lora:Sexy Blacksmith:0.6>
+
+sexyblacksmith, gloves, naked apron, goggles, holding hammer, fire, anvil, furnace, spark, photo of a man working the smelter, sweaty, back, realistic, masterpiece, intricate details, detailed background, depth of field,<lora:Sexy Blacksmith:0.6>
+
+sexyblacksmith, gloves, naked apron, holding hammer, fire, anvil, furnace, spark, photo of a man smithing, sweaty, shirtless, hitting the anvil with a hammer, realistic, masterpiece, intricate details, detailed background, depth of field,<lora:Sexy Blacksmith:0.6>
+
+#### lora:Sexy Construction Worker
+
+(Realistic), masterpiece, best quality, cinematic lighting, natural shadow, highest detail, professional photography, detailed background, depth of field, insane details, intricate, aesthetic, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, masculine, pectorals, abs, photo of a handsome man, constructionworker, open clothes, vest, jeans, gloves, belt, smile, beard, holding sledgehammer, helmet,<lora:Sexy Construction Worker:0.65>,
+
+(Realistic), masterpiece, best quality, cinematic lighting, natural shadow, highest detail, professional photography, detailed background, depth of field, insane details, intricate, aesthetic, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, masculine, pectorals, abs, photo of a handsome man, constructionworker, open clothes, vest, jeans, gloves, belt, smile, beard, holding sledgehammer,<lora:Sexy Construction Worker:0.65>,
+
+(Realistic), masterpiece, best quality, cinematic lighting, natural shadow, highest detail, professional photography, detailed background, depth of field, insane details, intricate, aesthetic, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, masculine, pectorals, abs, photo of a handsome man, constructionworker, jeans, gloves, belt, smirk, facial hair, helmet, topless male,<lora:Sexy Construction Worker:0.65>,
+
+#### lora:Sexy Cowboy
+
+realistic, masterpiece, best quality, cinematic lighting, natural shadow, highest detail, professional photography, detailed background, depth of field, insane details, intricate, aesthetic, detailed face, subsurface scattering, realistic hair, realistic eyes, shiny skin, muscular, masculine, photo of a handsome man, sexycowboy, hat, jeans, red plaid shirt, belt, rope, ranch, sky, outdoors, (30 year old), blonde hair, photo background,<lora:Sexy Cowboy:0.65>  
+
+realistic, masterpiece, best quality, cinematic lighting, natural shadow, highest detail, professional photography, detailed background, depth of field, insane details, intricate, aesthetic, detailed face, subsurface scattering, realistic hair, realistic eyes, shiny skin, muscular, masculine, photo of a handsome man, sexycowboy, hat, open clothes, shirt, chaps, neckerchief, belt, rope, riding, horse,<lora:Sexy Cowboy:0.65>  
+
+realistic, masterpiece, best quality, cinematic lighting, natural shadow, highest detail, professional photography, detailed background, depth of field, insane details, intricate, aesthetic, detailed face, subsurface scattering, realistic hair, realistic eyes, shiny skin, muscular, masculine, photo of a handsome man, sexycowboy, open clothes, vest, chaps, neckerchief, belt, rope, riding, horse, smirk, teeth, sky, outdoors,<lora:Sexy Cowboy:0.65>  
+
+realistic, masterpiece, best quality, cinematic lighting, natural shadow, highest detail, professional photography, detailed background, depth of field, insane details, intricate, aesthetic, detailed face, subsurface scattering, realistic hair, realistic eyes, shiny skin, muscular, masculine, photo of a handsome man, sexycowboy, hat, jeans, neckerchief, belt, rope, horse,  smirk, teeth, sky, outdoors, (30 year old), blonde hair,<lora:Sexy Cowboy:0.65>  
+
+realistic, masterpiece, best quality, cinematic lighting, natural shadow, highest detail, professional photography, detailed background, depth of field, insane details, intricate, aesthetic, detailed face, subsurface scattering, realistic hair, realistic eyes, shiny skin, muscular, masculine, photo of a handsome man, sexycowboy, western, red neckerchief, pants, denim vest, belt, rope, sky, outdoors, (30 year old), blonde hair, horse,<lora:Sexy Cowboy:0.65>  
+
+realistic, masterpiece, best quality, cinematic lighting, natural shadow, highest detail, professional photography, detailed background, depth of field, insane details, intricate, aesthetic, detailed face, subsurface scattering, realistic hair, realistic eyes, shiny skin, muscular, masculine, photo of a handsome man, sexycowboy, pants, belt, rope, one arm up, sky, outdoors, (30 year old), black hair, hat, stubble, road, smirk, dynamic pose, topless male,<lora:Sexy Cowboy:0.65>  
+
+realistic, masterpiece, best quality, cinematic lighting, natural shadow, highest detail, professional photography, detailed background, depth of field, insane details, intricate, aesthetic, detailed face, subsurface scattering, realistic hair, realistic eyes, shiny skin, muscular, masculine, photo of a handsome man, sexycowboy, pants, belt, one arm up, sky, outdoors, (30 year old), black hair, red neckerchief, stubble, fence, field, dynamic pose, topless male,<lora:Sexy Cowboy:0.65>  
+
+realistic, masterpiece, best quality, cinematic lighting, natural shadow, highest detail, professional photography, detailed background, depth of field, insane details, intricate, aesthetic, detailed face, subsurface scattering, realistic hair, realistic eyes, shiny skin, muscular, masculine, photo of a handsome man, sexycowboy, chaps, (denim vest), belt, one arm up, sky, outdoors, (30 year old), brown hair, (red neckerchief), beard, fence, field, dynamic pose, horse, riding,<lora:Sexy Cowboy:0.65>  
+
+realistic, masterpiece, best quality, cinematic lighting, natural shadow, highest detail, professional photography, detailed background, depth of field, insane details, intricate, aesthetic, detailed face, subsurface scattering, realistic hair, realistic eyes, shiny skin, muscular, masculine, photo of a handsome man, sexycowboy, chaps, (plaid vest), belt, one arm up, sky, outdoors, (30 year old), brown hair, (red neckerchief), beard, fence, field, dynamic pose, horse, hat,<lora:Sexy Cowboy:0.65>  
+
+#### lora: Sexy Fitness Trainer
+
+realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome (chinese man), gym, tank top, shorts, holding dumbbell, dynamic pose,<lora: Sexy Fitness Trainer:0.65>
+
+realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome (chinese man), gym, tank top, shorts, dynamic pose, sweaty, carrying bag,<lora: Sexy Fitness Trainer:0.65>
+
+realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome (chinese man), gym, white tank top, black shorts, dynamic pose, sweaty, flexing, cap, sidepec, beard,<lora: Sexy Fitness Trainer:0.65>
+
+realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome (chinese man), gym, sleeveless hoodie, sweatpants, dynamic pose, sweaty, cap, sidepec, beard, exercise, full body,<lora: Sexy Fitness Trainer:0.65>
+
+realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome (chinese man), gym, shirt, sweatpants, dynamic pose, sweaty, (exercise), full body, ((facing viewer)),<lora: Sexy Fitness Trainer:0.65>
+
+realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome (chinese man), gym, shirt, shorts, dynamic pose, sweaty, exercise, full body, ((facing viewer)),<lora: Sexy Fitness Trainer:0.65>
+
+realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome (chinese man), gym, leggings, dynamic movement, sweaty, running, full body,<lora: Sexy Fitness Trainer:0.65>
+
+realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome (chinese man), gym, leggings, dynamic pose, sweaty, pull up bar, from behind, exercise,<lora: Sexy Fitness Trainer:0.65>
+
+(ugandan man), gym, shirt, sweatpants, dynamic pose, sweaty, exercise, full body, ((facing viewer)),, (best quality), (masterpiece), (highly detailed), cinematic, (detailed background), depth of field, intricate details, 8k, bara, photo of a handsome man,<lora: Sexy Fitness Trainer:0.65>
