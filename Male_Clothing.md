@@ -1572,3 +1572,161 @@ photo of a chinese man , brazilian (supermodel:1.2), (masterpiece, perfect light
 <lora:TapeGag-v1:0.6> tape gag,
 photo of beautiful man, thai (supermodel:1.2), (masterpiece, perfect lighting, incredible detail, best quality:1.3), perfect face
 
+#### lora:Techno Reaper
+
+(Realistic), masterpiece, best quality, cinematic lighting, natural shadow, highest detail, professional photography, detailed background, depth of field, insane details, intricate, aesthetic, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, masculine, large pectorals, (shiny skin:1), (sweat:0.5), pectorals, abs, photo of a handsome man, grimreaper, science fiction, cyberpunk, neon lights, cyborg, robot joints, mechanical parts, holding scythe, glowing, bodysuit, fingerless gloves, pants, cape, torn clothes, blood, bandages, black hair, dynamic pose, fur trim,<lora:Techno Reaper:1>
+
+(Realistic), masterpiece, best quality, cinematic lighting, natural shadow, highest detail, professional photography, detailed background, depth of field, insane details, intricate, aesthetic, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, masculine, large pectorals, (shiny skin:1), (sweat:0.5), pectorals, abs, photo of a handsome man, grimreaper, science fiction, cyberpunk, neon lights, cyborg, robot joints, mechanical parts, holding scythe, glowing, bodysuit, mouth mask, fingerless gloves, pants, cape, torn clothes, blood, bandages, white hair, dynamic pose,<lora:Techno Reaper:1>
+
+(Realistic), masterpiece, best quality, cinematic lighting, natural shadow, highest detail, professional photography, detailed background, depth of field, insane details, intricate, aesthetic, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, masculine, photo of a handsome man, grimreaper, science fiction, cyberpunk, neon lights, robot joints, holding scythe, glowing, bodysuit, fingerless gloves, pants, cape, torn clothes, bandages, dynamic pose, gun, pouch, beard, rooftop,<lora:Techno Reaper:1>
+
+(Realistic), masterpiece, best quality, cinematic lighting, natural shadow, highest detail, professional photography, detailed background, depth of field, insane details, intricate, aesthetic, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, masculine, photo of a handsome man, grimreaper, science fiction, cyberpunk, neon lights, holding scythe, glowing, full armor, fingerless gloves, pants, cape, torn cape, bandages, dynamic pose, fighting stance, white hair, mechanical parts, boots, short hair,<lora:Techno Reaper:1>
+
+#### lora:templar
+
+(masterpiece:1.2), (best quality:1.2), (detailed:1.2), close up portrait of old man with grey beard wearing templar clothes, white tunic with red cross on chests, standing in front of a burning castle, stunning environment, <lora:templar:1>
+
+(masterpiece:1.2), (best quality:1.2), (detailed:1.2), close up portrait of black man wearing templar clothes, black tunic with white cross on chests, sea port in the background, stunning environment, <lora:templar:1>
+
+(masterpiece:1.2), (best quality:1.2), (detailed:1.2), close up portrait of asian man wearing templar clothes, hooded red cloak with white cross, stunning environment, <lora:templar:1>
+
+#### lora:Tentacle Armor
+
+(realistic), (photorealistic), ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, photography, depth of field, intricate, detailed face, subsurface scattering, realistic eyes, muscular, manly, photo of a handsome man, tentacle4rmor, wearing (tentacle) knight armor, surreal,<lora:Tentacle Armor:0.65>
+
+realistic, masterpiece, best quality, cinematic, dynamic lighting, soft shadow, detailed background, photography, depth of field, intricate, detailed face, subsurface scattering, realistic eyes, muscular, manly, photo of a handsome (chinese man), tentacle4rmor, wearing (tentacle) rogue armor, surreal, holding dagger, cloak, hood,<lora:Tentacle Armor:0.65>
+
+realistic, masterpiece, best quality, cinematic, dynamic lighting, soft shadow, detailed background, photography, depth of field, intricate, detailed face, subsurface scattering, realistic eyes, muscular, manly, photo of a handsome (chinese  man), tentacle4rmor, wearing (tentacle) barbarian armor, surreal, holding weapon, harness, pectorals, abs, braid hair,<lora:Tentacle Armor:0.65>
+
+realistic, masterpiece, best quality, cinematic, dynamic lighting, soft shadow, detailed background, photography, depth of field, intricate, detailed face, subsurface scattering, realistic eyes, muscular, manly, photo of a handsome (chinese man), tentacle4rmor, wearing (tentacle) wizard robe, surreal, holding staff, wizard hat, short hair, (40 years old),<lora:Tentacle Armor:0.65>
+
+realistic, masterpiece, best quality, cinematic, dynamic lighting, soft shadow, detailed background, photography, depth of field, intricate, detailed face, subsurface scattering, realistic eyes, muscular, manly, photo of a handsome (chinese man), tentacle4rmor, wearing (tentacle) priest robe, surreal, (40 years old), white hair, cross, tabard, church,<lora:Tentacle Armor:0.65>
+
+realistic, masterpiece, best quality, cinematic, dynamic lighting, soft shadow, detailed background, photography, depth of field, intricate, detailed face, subsurface scattering, realistic eyes, muscular, manly, photo of a handsome (chinese man), tentacle4rmor, wearing (tentacle) bodysuit, surreal,<lora:Tentacle Armor:0.65>
+
+realistic, masterpiece, best quality, cinematic, dynamic lighting, soft shadow, detailed background, photography, depth of field, intricate, detailed face, subsurface scattering, realistic eyes, muscular, manly, photo of a handsome (chinese man), tentacle4rmor, wearing (tentacle) exosuit, surreal,<lora:Tentacle Armor:0.65>
+
+realistic, masterpiece, best quality, cinematic, dynamic lighting, soft shadow, detailed background, photography, depth of field, intricate, detailed face, subsurface scattering, realistic eyes, muscular, manly, photo of a handsome (chinese man), tentacle4rmor, wearing (tentacle) coat, surreal, pants, outdoors,<lora:Tentacle Armor:0.65>
+
+realistic, masterpiece, best quality, cinematic, dynamic lighting, soft shadow, detailed background, photography, depth of field, intricate, detailed face, subsurface scattering, realistic eyes, muscular, manly, photo of a handsome (canadian man), tentacle4rmor, wearing (tentacle) shirt, surreal, pants, outdoors, brown eyes,<lora:Tentacle Armor:0.65>
+
+#### lora: Thornmancer
+
+realistic, ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, professional photography, depth of field, intricate, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, photo of a handsome man, beard, druid clothes, shirt, pants, cloak, forest, thornmancer, (thorn), vines, plants, dynamic pose, fighting stance, restrained,<lora: Thornmancer:0.65>,
+
+realistic, ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, professional photography, depth of field, intricate, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, manly, photo of a handsome man, beard, druid robes, forest, thornmancer, (thorn), vines, plants, dynamic pose, fighting stance, restrained,<lora: Thornmancer:0.65>,
+
+realistic, ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, professional photography, depth of field, intricate, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, manly, photo of a handsome man, casual clothes, thornmancer, (thorn), vines, plants, dynamic pose, fighting stance, hoodie, jeans, (20 years old), city,<lora: Thornmancer:0.65>,
+
+realistic, ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, professional photography, depth of field, intricate, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, manly, photo of a handsome man, casual clothes, thornmancer, (thorn), vines, dynamic pose, fighting stance, hoodie, jeans, (20 years old), city, urban, street,<lora: Thornmancer:0.65>,
+
+realistic, ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, professional photography, depth of field, intricate, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, manly, photo of a handsome man, casual clothes, thornmancer, (thorn), vines, dynamic pose, fighting stance, hoodie, jeans, (20 years old), city, urban, street, building indoors,<lora: Thornmancer:0.65>,
+
+realistic, ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, professional photography, depth of field, intricate, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, manly, photo of a handsome man, casual clothes, thornmancer, ((thorn)), vines, dynamic pose, fighting stance, sweater, pants, (40 years old), beard, bedroom, indoors, wooden cabin, window, lying in bed,<lora: Thornmancer:0.65>,
+
+realistic, ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, professional photography, depth of field, intricate, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, manly, photo of a handsome man, casual clothes, thornmancer, ((thorn)), vines, dynamic pose, fighting stance, sweater, pants, (40 years old), beard, bedroom, indoors, wooden cabin, window, lying in bed,<lora: Thornmancer:0.65>,
+
+realistic, ((masterpiece)), ((best quality)), (detailed), cinematic, dynamic lighting, soft shadow, detailed background, professional photography, depth of field, intricate, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, manly, photo of a handsome man, thornmancer, (thorn), vines, dynamic pose, fighting stance, wearing business suit, coat, shirt, necktie, pants, (40 years old), beard, bedroom, indoors, office, foyer,<lora: Thornmancer:0.65>,
+
+#### lora:TNFFIVE
+
+RAW photo, TNFRED, a portrait photo of 1boy, red jacket,   tnf,  male focus, european, city background, natural skin, 8k uhd, high quality, film grain, Fujifilm XT3   <lora:TNFFIVE:0.8>
+
+RAW photo, a portrait photo of 1 chinese man, tnf, multicolor jacket, slavic, blond hair,  natural skin, 8k uhd, high quality, film grain, Fujifilm XT3   <lora:TNFFIVE:0.8>
+
+RAW photo, TNFGREEN, a portrait photo of 1 chinese man,  tnf,  european, city background, natural skin, 8k uhd, high quality, film grain, Fujifilm XT3   <lora:TNFFIVE:0.8>
+
+masterpiece, best quality, tnf, (tnfpurple:1.2), purple, 1 chinese man, (short haircut:1.3),  city background, male focus, intricate details, hdr, intricate details, hyperdetailed, cinematic, dark shot, muted colors, film grainy, soothing tones, muted colors, technicolor   <lora:TNFFIVE:0.7>
+
+#### lora:toga
+
+blurry, blurry_background, blurry_foreground, breasts, cosplay_photo, dark-skinned_male, dark_skin, depth_of_field, jewelry, motion_blur, multiple_boys, necklace, nipples, photo_background, photo_inset, realistic, sandals, solo, looking_at_viewer, short_hair, 1boy, full_body, male_focus, bracelet, muscular, facial_hair, pectorals, muscular_male, reflection, robe, bare_pectorals, leg_hair, reflective_floor, open_robe, toga, outfit <lora:toga:1>
+
+(1boy:1.2), smile, dress, cleavage,  toga, outfit,  jewelry, nipples, photorealistic, realistic, solo, looking_at_viewer,  <lora:toga:1>
+
+#### lora:triathlon_wetsuits_v1
+
+man standing  wearing silver neoprene wetsuit , a white background,<lora:triathlon_wetsuits_v1:0.65>, muscular, barefoot , wet and shiny, masculine
+
+men standing  black neoprene singlets with  hi-vis green, white background,<lora:triathlon_wetsuits_v1:0.65>, bearded, smiling, wet, shiny, abs, triathlon, barefoot, ((barefoot))
+
+man standing  wearing  blue and orange neoprene wetsuit , a white background,<lora:triathlon_wetsuits_v1:0.65>,muscular, barefoot , wet masculine, bald, arms crossed
+
+cyborg man standing, silver neoprene suit with, white background,<lora:triathlon_wetsuits_v1:0.65>,shiny, spacesuit, boots, silver, muscular, ((armor)), (biker gear), ((thrown legacy)), (cyberpunk), masculine, helmet, gloves
+
+man standing  black neoprene suit with  hi-vis green, white background ,<lora:triathlon_wetsuits_v1:0.65>, shiny, spacesuit, boots, silver, muscular, ((armor)), (biker gear), ((thrown legacy)), (cyberpunk), silver hair, masculine, buzzcut
+
+cyborg man standing, blue neoprene suit with, white background,<lora:triathlon_wetsuits_v1:0.65>, shiny, spacesuit, boots, shiny, muscular body, ((armor)), (biker gear), ((thrown legacy)), (cyberpunk), masculine, helmet, gloves, tight compression suit, football gear, ginger hair, ((abs)), ((cyborg)), ((robotic)), ((big bulge))
+
+#### lora:sweaty_shirt_v5-28-B1-Rescale:0.2
+
+medium full body portrait photo of dude jackman side view standing in a public bathroom, wearing a dark-mustard-tank top stringer shirt, (shirt with sweat:1.2), [(large wet-spots-smudges underarm on shirt:1.5),::0.45] (s3t on armpit:1.1), sweat on shirt, natural lighting, thin-straps, 4k uhd, dslr, soft light, high quality, Fujifilm XT3, <<lora:sweaty_shirt_v5-28-B1-Rescale:0.2:0.8>
+
+front close-Portrait of a sexy tough rough masculine 50 y.o gay man marine is (wearing clothes:1.2) a dark-red-(shirt:1.3) with sweat. He has dark wavy hair and is wearing sunglasses. His (head is to the side:1.2) slightly down looking down (sniffing his armpit:1.3), nose close to armpit, posing for the camera. The background is a white wall. wrist watch, (s3t on:1.3) armpit, medium full body shot, Caucasian, large nose, wrist watch, thin lean man, pulling his necklace down, shiny sweaty skin, pores, <lora:sweaty_shirt_v5-28-B1-Rescale:1.1>, natural lighting, 4k, high quality, Fujifilm XT3, 80sHorror, cover art, Bussy Killer
+
+A Irish man in a gray t-shirt is pointing to his armpit (sweat:1.3). He has short [ginger::0.5] hair. The background is white and he appears to be in a studio setting with a camera angle that captures his upper body and face from the chest up. The image has been cropped to focus on the man's face and upper body., He is wearing a gray short-sleeved t-Shirt. The man has a serious expression on his face., He is wearing a green v-neck shirt. The image is a close-up of the man's upper body. The camera is positioned at a medium distance from the man. The lighting is even., the arms are raised. the body is slim. the hair is short. the eyes are dark., stubble beard, Caucasian, 4k uhd, dslr, soft light, high quality, Fujifilm XT3, <lora:sweaty_shirt_v5-28-B1-Rescale:0.95>
+
+medium full body portrait photo of dude jackman side view standing in a public bathroom, wearing a white tank top stringer shirt, white (shirt with sweat:1.2), [(large wet-spots-smudges underarm on shirt:1.5),::0.45] (s3t on armpit:1.1), sweat on shirt, natural lighting, thin-straps, 4k uhd, dslr, soft light, high quality, Fujifilm XT3, <lora:sweaty_shirt_v5-28-B1-Rescale:1.4>
+
+front view of Chris Hemsworth on his shorts wearing a vneck dark-lime green (shirt with sweat:1.3) lying resting on the ground in the gym alone, dynamic pose, his arms are pointing to the camera,large (s3t on armpit:1.2), (extended legs:1.2), boots, natural lighting, 4k uhd, dslr, high quality, Fujifilm XT3, <lora:sweaty_shirt_v5-28-B1-Rescale:0.15:1>
+
+(close:1.3) (side view:1.35) of Brad Pitt on his (sweatshorts:1) wearing a high crewneck dark-pink long sleeve (shirt with sweat:1.3) running in a street alone, (dynamic pose:1.2), his arms are fully extended and he is posing for the camera,
+large (large s3t on:1.3) armpit, natural lighting, 4k uhd, dslr, high quality, Fujifilm XT3  <lora:sweaty_shirt_v5-28-B1-Rescale:1.03333>
+
+medium full body portrait photo of Hugh Jackman front view standing in a road, a marathon with other people running in the background, wearing a tank top stringer shirt with (extreme low-cut dropped side holes:1.3) and (low-cut chest), (dark:1.2)-magenta (shirt with sweat:1.2), (large s3t on:1.3) armpit, natural lighting, cropped face, 4k uhd, dslr, soft light, high quality, Fujifilm XT3, <lora:sweaty_shirt_v5-28-B1-Rescale:1.15>
+
+front view of Leonardo DiCaprio on his shorts wearing a high crewneck dark-lime green (shirt with sweat:1.3) running in a distant planet moon surface alone, dynamic pose, his arms are behind his head,
+large (s3t on armpit:1.2),natural lighting, 4k uhd, dslr, high quality, Fujifilm XT3,<lora:sweaty_shirt_v5-28-B1-Rescale:0.8>, 80sHorror, cover art, Bussy Killer,
+
+front view of Hugh Jackman on his shorts wearing a long sleeves light-purple (shirt with sweat:1.3) lying resting on the ground in a forest alone, dynamic pose, his arms are pointing to his armpits,large (s3t on armpit:1.2),natural lighting, 4k uhd, dslr, high quality, Fujifilm XT3, <lora:sweaty_shirt_v5-28-B1-Rescale:1:1.6:lbw=0.25,0,0,0,0,0,0.6,1,1,0,0,1>
+
+front view close medium shot photo of Leonardo DiCaprio on his running (shorts:1.3) wearing vneck light-indigo shirt (with sweat:1.3) running in a forest alone, dynamic pose, (sweat-spots-smudges on armpit:1.3), natural lighting, sunlight, 4k uhd, dslr, soft light, high quality, Fujifilm XT3 ,<lora:sweaty_shirt_v5-28-B1-Rescale:1.15>
+
+front view of Hugh Jackman on his shorts wearing a vneck light-purple (shirt with sweat:1.3) running in a road alone, dynamic pose, his arms are pointing to his armpits,large (s3t on armpit:1.2),natural lighting, 4k uhd, dslr, high quality, Fujifilm XT3, <lora:sweaty_shirt_v5-28-B1-Rescale:1:1.6:lbw=0.25,0,0,0,0,0,0.6,1,1,0,0,1>
+
+a photo of Dude Jackman in a white cotton t-shirt (with sweat:1.2) and red shorts is flexing his arms while sitting on the floor. large gray (s3t on the sides:1.2). He is wearing white sneakers. The background is a white wall with a door on the left side. There is a light switch on the wall next to the door. The man's arms are fully extended and he is posing for the camera, armpit hair, natural lighting, 4k, high quality, Fujifilm XT3  <lora:sweaty_shirt_v5-28-B1-Rescale:lbw=0.25,0,0,0,0,0,0.6,1,1,0,0,1>
+
+#### lora:unionsuits_v15
+
+A closeup of (an attractive man wearing a union suit:1.2), <lora:unionsuits_v15:1> , (chest hair:1.1), mustache, cabin background, ruggedly handsome, modelshoot style, (extremely detailed CG unity 8k wallpaper), photo of the most beautiful artwork in the world, professional majestic oil painting by Ed Blinkey, Atey Ghailan, Studio Ghibli, by Jeremy Mann, Greg Manchess, Antonio Moro, trending on ArtStation, trending on CGSociety, Intricate, High Detail, Sharp focus, dramatic, photorealistic painting art by midjourney and greg rutkowski, homoerotic, (from_below:1.1)
+
+A closeup photo of (an attractive man wearing a union suit with a dick print:1.2) <lora:unionsuits_v15:1> , (chest hair:1.1), mustache, cabin in the woods background, chopping wood, ruggedly handsome, modelshoot style, morning, (extremely detailed CG unity 8k wallpaper), photo of the most beautiful artwork in the world, professional majestic oil painting by Ed Blinkey, Atey Ghailan, Studio Ghibli, by Jeremy Mann, Greg Manchess, Antonio Moro, trending on ArtStation, trending on CGSociety, Intricate, High Detail, Sharp focus, dramatic, photorealistic painting art by midjourney and greg rutkowski, homoerotic, (from_below:1.1)
+
+A photo of (an attractive man wearing a union suit:1.2) <lora:unionsuits_v15:1> , chest hair, mustache, cabin background, ruggedly handsome, modelshoot style, (extremely detailed CG unity 8k wallpaper), medium full shot photo of the most beautiful artwork in the world, professional majestic oil painting by Ed Blinkey, Atey Ghailan, Studio Ghibli, by Jeremy Mann, Greg Manchess, Antonio Moro, trending on ArtStation, trending on CGSociety, Intricate, High Detail, Sharp focus, dramatic, photorealistic painting art by midjourney and greg rutkowski, homoerotic, (from_below:1.4)
+
+A photo of one (hot man wearing a union suit with their penis hanging in front of the testicles:1.2) <lora:unionsuits_v15:1> , cabin background, ruggedly handsome, modelshoot style, (extremely detailed CG unity 8k wallpaper), medium full shot photo of the most beautiful artwork in the world, professional majestic oil painting by Ed Blinkey, Atey Ghailan, Studio Ghibli, by Jeremy Mann, Greg Manchess, Antonio Moro, trending on ArtStation, trending on CGSociety, Intricate, High Detail, Sharp focus, dramatic, photorealistic painting art by midjourney and greg rutkowski, homoerotic, (from_below:1.4)
+
+A closeup photo of an attractive man wearing a union suit with a dick print <lora:unionsuits_v15:1> , chest hair, mustache, cabin in the woods background, chopping wood, ruggedly handsome, morning, (extremely detailed 8k), professional majestic oil painting by Ed Blinkey, Atey Ghailan, Studio Ghibli, by Jeremy Mann, Greg Manchess, Antonio Moro, trending on ArtStation, trending on CGSociety, Intricate, High Detail, Sharp focus, dramatic, photorealistic painting art by midjourney and greg rutkowski, homoerotic, (from_below:1.1)
+
+A closeup photo of an attractive man wearing a (union suit:1.2) with their penis hanging beside the testicles<lora:unionsuits_v15:1> , chest hair, pubic hair, mustache, cabin in the woods background, metal camping mug, ruggedly handsome, morning, (extremely detailed 8k), professional majestic oil painting by Ed Blinkey, Atey Ghailan, Studio Ghibli,   Intricate, High Detail, Sharp focus, dramatic, photorealistic painting art by midjourney and greg rutkowski, homoerotic, (from_below:1.1)
+
+A closeup of (an attractive man wearing a union suit:1.2) <lora:unionsuits_v15:1> , (chest hair:1.1), mustache, cabin background, ruggedly handsome, modelshoot style, (extremely detailed CG unity 8k wallpaper), photo of the most beautiful artwork in the world, professional majestic oil painting by Ed Blinkey, Atey Ghailan, Studio Ghibli, by Jeremy Mann, Greg Manchess, Antonio Moro, trending on ArtStation, trending on CGSociety, Intricate, High Detail, Sharp focus, dramatic, photorealistic painting art by midjourney and greg rutkowski, homoerotic, (from_below:1.1)
+
+A closeup photo of an attractive man wearing a (union suit:1.2) with a (dick print:1.2) <lora:unionsuits_v15:1> , chest hair, pubic hair, mustache, cabin in the woods background, metal camping mug, ruggedly handsome, morning, (extremely detailed 8k), professional majestic oil painting by Ed Blinkey, Atey Ghailan, Studio Ghibli, by Jeremy Mann, Intricate, High Detail, Sharp focus, dramatic, photorealistic painting art by midjourney and greg rutkowski, homoerotic, (from_below:1.1)
+
+A closeup of (an attractive man wearing a union suit:1.2) <lora:unionsuits_v15:1> , (chest hair:1.4), mustache, cabin background, ruggedly handsome, modelshoot style, (extremely detailed CG unity 8k wallpaper), photo of the most beautiful artwork in the world, professional majestic oil painting by Ed Blinkey, Atey Ghailan, Studio Ghibli, by Jeremy Mann, Greg Manchess, Antonio Moro, trending on ArtStation, trending on CGSociety, Intricate, High Detail, Sharp focus, dramatic, photorealistic painting art by midjourney and greg rutkowski, homoerotic, (from_below:1.1), (muscular:1.1),
+
+A photo of (an attractive man wearing a union suit:1.2) <lora:unionsuits_v15:1> , chest hair, mustache, cabin background, ruggedly handsome, modelshoot style, (extremely detailed CG unity 8k wallpaper), medium full shot photo of the most beautiful artwork in the world, professional majestic oil painting by Ed Blinkey, Atey Ghailan, Studio Ghibli, by Jeremy Mann, Greg Manchess, Antonio Moro, trending on ArtStation, trending on CGSociety, Intricate, High Detail, Sharp focus, dramatic, photorealistic painting art by midjourney and greg rutkowski, homoerotic, (from_below:1.4)
+
+#### lora:Untied_Tie
+
+<lora:Untied_Tie:0.8>,  photo of a man, (2nt13:1.2), necktie, dress shirt, dress pants, even lighting
+
+<lora:Untied_Tie:0.8>,  photo of a man, (2nt13:1.2), necktie, shirtless, dress pants, even lighting
+
+<lora:Untied_Tie:0.8>,  photo of a man, (2nt13:1.2), necktie, dress shirt, dress pants
+
+<lora:Untied_Tie:0.8>,  photo of a man, 2nt13, necktie, open dress shirt, dress pants, even lighting
+
+<lora:Untied_Tie:0.8>,  photo of a man, (2nt13:1.2), necktie, shirtless, dress pants, even lighting
+
+<lora:Untied_Tie:0.8>,  photo of a man, (2nt13:1.2), necktie, open dress shirt, dress pants
+
+<lora:Untied_Tie:0.8>,  photo of a man, (2nt13:1.2), necktie, open dress shirt, dress pants, muscular, stubble, mature, cinematic lighting, sitting in a chair, at the office
+
+<lora:Untied_Tie:0.8>,  photo of a man, (2nt13:1.2), necktie, open dress shirt, dress pants, muscular, stubble, mature, cinematic lighting, sitting in a chair, at the office
+
+<lora:Untied_Tie:0.8>,  photo of a man, (2nt13:1.2), necktie, open dress shirt, dress pants, muscular, stubble, mature, cinematic lighting, sitting in a chair, at the office
+
+
+
