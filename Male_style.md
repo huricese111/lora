@@ -1,5 +1,7 @@
 # Male Style
 
+[toc]
+
 #### lora:Vintage_Gay_Porn_Magazine
 
 VGPMS, male underwear, underwear, male focus, white male underwear, open shirt, briefs, muscular, open clothes, 1boy, bulge, shirt, nipples, black hair, muscular male, pectorals, navel, sitting, abs, cover, english text, parody, bara, short hair, dark skin, dark-skinned male, <lora:Vintage_Gay_Porn_Magazine:1>

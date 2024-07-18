@@ -2,6 +2,8 @@
 
 ![shot size cheatsheet](shot size cheatsheet.jpg)
 
+[toc]
+
 ## Useful Checkpoint
 
 GaiJourney
