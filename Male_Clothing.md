@@ -1857,3 +1857,7 @@ unzipped pants, man walking in street <lora:unzipped_v10:1>, penis
 
 <lora:work Trousers:1> ((fly open, erect penis)), man standing, dirty work trousers, body hair, beard, shirtless, immaculate lighting, rim lighting, [intricate detailed eyes]
 
+#### lora:BomberMale
+
+artstudt, (official art, extremely detailed CG unity 8k wallpaper),(1boy:1.3),beautifully detailed eyes, detailed fine nose, detailed fingers, (8k), (best quality), ( masterpiece:1.2), (realistic), ( photorealistic:1.37), extremely detailed
+handsome gentleman, vintage hair, blue bomber, uniform, magazine cover, textless, high quality, clothing details, fine fabric, full body, 8k, cinematic lighting, brown hair, no gloss, <lora:add_detail:0.2> <lora:BomberMale:0.6>
