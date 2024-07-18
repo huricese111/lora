@@ -247,5 +247,15 @@ simple background, three point lighting, male focus, black hair, black eyes, bla
 
 beach background, male focus, (black hair), black eyes, looking at viewer, open shirt, (red speedo:1.1), hairy, chest hair, (veiny), sunglasses, kiosk, <lora:Carlos_Oliveira:0.8>
 
+### Tarzan (1999 movie)
+
+#### Clayton
+
+clayton, (smirk), arrogant, moustaches, sideburns, undercut, yellow shirt, suspenders, hairy arms, red tie, yellow trousers, broad shoulders, hot, sexy,  face turned to the viewer,  forest, daylight, ultra realistic, <lora:clayton_disney-50:0.55>
+
+clayton, solo, young man, short hair, brown hair, 1boy, sitting, male focus, pants, muscular, facial hair, frown, crossed arms, thick eyebrows, tank top, pectorals, muscular male, bara, large pectorals, sideburns, mature male, mustache, chest hair, pectoral cleavage, arm hair, hairy, <lora:clayton_disney-50:0.65>,
+
+clayton, shirtless, forest, (smirk), arrogant, moustaches, mature man, undercut, sideburn, (((hairy chest))), muscular, hairy,  <lora:clayton_disney-50:0.55>, large penis, erection
+
 
 
