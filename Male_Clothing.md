@@ -1728,5 +1728,31 @@ A photo of (an attractive man wearing a union suit:1.2) <lora:unionsuits_v15:1> 
 
 <lora:Untied_Tie:0.8>,  photo of a man, (2nt13:1.2), necktie, open dress shirt, dress pants, muscular, stubble, mature, cinematic lighting, sitting in a chair, at the office
 
+#### lora:Wax Armor
 
+realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome (Chinese man), w4x4rmor, wearing wax knight armor, (dynamic pose), ((fighting stance)), fantasy background, cinematic composition, holding sword, dripping white liquid, covered in white liquid,<lora:Wax Armor:0.65>
+
+realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome (Chinese man), w4x4rmor, wearing wax paladin armor, (dynamic pose), fighting stance, fantasy background, cinematic composition, holding sword, covered in white liquid, cross, cape, helmet, (side view:0.5),<lora:Wax Armor:0.65>
+
+realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome (Chinese man), w4x4rmor, wearing wax barbarian armor, (dynamic pose), fighting stance, fantasy background, cinematic composition, holding weapon, covered in white liquid, harness, pectorals, abs, thighs,<lora:Wax Armor:0.65>
+
+realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome (Chinese man), w4x4rmor, wearing wax wizard robe, (dynamic pose), fighting stance, fantasy background, cinematic composition, holding staff, covered in white liquid, pectorals, thighs, portrait, candle, hood,
+
+realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome (Chinese man), w4x4rmor, wearing wax priest robe, (dynamic pose), fighting stance, fantasy background, cinematic composition, covered in white liquid, pectorals, thighs, portrait, candle, tabard, cross, church,
+
+realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome (Chinese man), w4x4rmor, wearing wax bodysuit, (dynamic pose), fighting stance, fantasy background, cinematic composition, covered in white liquid, pectorals, thighs, portrait, fantasy city background, (from side:0.7),<lora:Wax Armor:0.65>
+
+realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome (Chinese man), w4x4rmor, wearing wax power armor, (dynamic pose), fighting stance, fantasy background, cinematic composition, covered in white liquid, pectorals, thighs, portrait, fantasy lab background, (from side:0.7), mech suit,<lora:Wax Armor:0.65>
+
+realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome (Chinese man), w4x4rmor, wearing wax long coat, (dynamic pose), fighting stance, fantasy background, cinematic composition, covered in white liquid, pectorals, thighs, portrait, fantasy city background, walking, from side, close up,<lora:Wax Armor:0.65>
+
+realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome (Chinese man), w4x4rmor, wearing wax collared shirt, (dynamic pose), fighting stance, fantasy background, cinematic composition, covered in white liquid, pectorals, thighs, portrait, fantasy city background, walking, close up,<lora:Wax Armor:0.65>
+
+realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome (Chinese man), w4x4rmor, wearing wax business suit, (dynamic pose), fighting stance, fantasy background, cinematic composition, covered in white liquid, pectorals, thighs, portrait, office, shirt, pants, necktie,<lora:Wax Armor:0.65>
+
+realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome (Chinese man), w4x4rmor, wearing wax hoodie, (dynamic pose), fighting stance, fantasy background, cinematic composition, covered in white liquid, pectorals, thighs, portrait, city street, pants, from side,<lora:Wax Armor:0.65>
+
+(Chinese man), w4x4rmor, wearing wax bodysuit, (dynamic pose), fighting stance, fantasy background, cinematic composition, covered in white liquid, pectorals, thighs, portrait, fantasy city background, (from side:0.7),, (best quality), (masterpiece), (highly detailed), cinematic, (detailed background), depth of field, intricate details, 8k, bara, photo of a handsome man,<lora:Wax Armor:0.65>
+
+(Chinese man), w4x4rmor, wearing wax collared shirt, (dynamic pose), fighting stance, fantasy background, cinematic composition, covered in white liquid, pectorals, thighs, portrait, fantasy city background, walking, close up,, (best quality), (masterpiece), (highly detailed), cinematic, (detailed background), depth of field, intricate details, 8k, bara, photo of a handsome man,<lora:Wax Armor:0.65>
 
