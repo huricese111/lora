@@ -56,6 +56,22 @@ ice, blue, cold, energy, aura, swirl water, <lora:ARWmksubzero:1>
 
 1man, portrait of mksubzero battle with group of ninja, glowing eyes, ice, blue, cold, energy, aura, swirl water, ornate, detail, <lora:ARWmksubzero:1>
 
+#### Kotal Kahn
+
+face photo of kotalkahn11, , face portrait, glowing blue eye color,  beefy, burly,  angry, Scars, imperfect skin, extreme face closeup,<lora:Kotal_Kahn_MK11_Bald_Version:1> 
+
+kotalkahn11, Front facing, 3/4 body medium close-up, glowing blue eye color, (Strong, burly, stocky, muscular),  angry, Scars, ((white body tattoo)). imperfect skin, ancient aztec city background, sunlight, sun rays focused on kotalkahn11,  haze, realistic cinematic lighting, Kodak Motion Picture Film Style, realistic, masterpiece, intricate details, detailed background, depth of field, dynamic pose,<lora:Kotal_Kahn_MK11_Bald_Version:1> 
+
+photo of kotalkahn11, realistic, masterpiece, best quality, cinematic, dynamic lighting, soft shadow, highest detail, professional photography, detailed background, depth of field, insane details, intricate, aesthetic, detailed face, subsurface scattering, realistic hair, realistic eyes, 1boy, muscular, burly, (large pectorals:1), in a amazon rainforest, wet, glowing eyes, body tattoo, necklace,<lora:Kotal_Kahn_MK11_Bald_Version:1> 
+
+bald shirtless kotalkahn11, muscular bodybuilder body, desert arena background, walking through smoke, angry face, holding very big broad sword, ,necklace, green body paint, blue glowing eyes,<lora:Kotal_Kahn_MK11_Bald_Version:1> 
+
+muscular shirtless kotalkahn11, leather loin cloth, arabian castle, sitting on a throne, sunny environment, necklace, yellow body tattoo, ((glowing eyes)), noble face, serious,<lora:Kotal_Kahn_MK11_Bald_Version:1> 
+
+kotalkahn11, Front facing, 3/4 body medium close-up, glowing blue eye color, (Strong, burly, stocky, muscular),  angry, Scars, ((yellow body tattoo)). imperfect skin, forest background, sunlight, sun rays focused on kotalkahn11,  wearing loin cloth, bulge, haze, realistic cinematic lighting, Kodak Motion Picture Film Style, realistic, masterpiece, intricate details, detailed background, depth of field, dynamic pose,<lora:Kotal_Kahn_MK11_Bald_Version:1> 
+
+muscular, burly, kotalkahn11, glowing eyes, (hyperdefined), natural bright colours, unusual-angle, artwork, flames, steaming body, complex lighting, (fine-details:1.2), absurdres, ultradetailed, swirling smoke around man, sunlight sun rays directed on kotalkahn11, dynamic pose, fighting stance, serious face, pectorals, puffy nipples, abs, dynamic movement, realistic, masterpiece, intricate details, detailed background, depth of field, sun god theme,<lora:Kotal_Kahn_MK11_Bald_Version:1> 
+
 ### Assassin's Creed Odyssey
 
 #### Alexios
@@ -183,7 +199,25 @@ comic book art of  Cinematic Film stock footage in (arri alexa style) Kodak film
 
 1man, black hair, blue eyes, square jaw, trench coat, black shirt, blank expression, view from front, face focus, looking at viewer, simple background, <lora:Billy Butcher:0.7>, beautiful character design, perfect eyes, perfect face, expressive eyes, perfect balance,official art, extremely detailed CG unity 8k wallpaper, perfect lighting, Colorful, Bright_Front_face_Lighting, (masterpiece:1.0),(best_quality:1.0), ultra high res,4K,ultra-detailed, photography, 8K, HDR, highres, absurdres:1.2, Kodak portra 400, film grain, blurry background, professional photograph, <lora:more_details:0.1>
 
-### King of Fighters
+### The King of Fighters
+
+#### Iori Yagami
+
+<lora:IoriYagami:0.75> ,iorikof, solo, simple background, 1boy, white background, upper body, male focus, red hair, choker, hair over one eye, fire, pectorals, pectoral cleavage, pyrokinesis, purple fire
+
+<lora:IoriYagami:0.75> ,iorikof, 1boy, solo, simple background, red hair, from behind, black background, crescent
+
+<lora:IoriYagami:0.75> , iorikof, solo, looking at viewer, open mouth, simple background, 1boy, male focus, red hair, teeth, choker, hair over one eye, collar, black choker, black background, portrait
+
+<lora:IoriYagami:0.75> , iorikof, solo, smile, red eyes, 1boy, male focus, red hair, teeth, choker, hair over one eye, grin, instrument
+
+<lora:IoriYagami:0.75> ,iorikof, solo, simple background, red eyes, 1boy, jewelry, standing, full body, male focus, red hair, shoes, choker, belt, pants, necklace, black footwear, hair over one eye, coat, black background, red pants, pyrokinesis
+
+<lora:IoriYagami:0.75> ,iorikof, solo, smile, simple background, shirt, red eyes, long sleeves, 1boy, jacket, white shirt, male focus, red hair, pants, hair over one eye, grin, black jacket, black background, red pants, pyrokinesis
+
+<lora:IoriYagami:0.75> ,iorikof, solo, open mouth, 1boy, yellow eyes, male focus, red hair, choker, pants, hair over one eye, glowing, transparent background, glowing eyes, glowing eye, red pants
+
+
 
 #### billy kane
 
@@ -638,3 +672,273 @@ douglas_reed, ((hand behind head)),(((arrogant smirk))), (evil sight), mature ma
 (masterpiece, top quality, best quality, official art, detailed:1.2),<lora:ezio-v1:0.7>, ezio_soul3142, solo, gloves, 1boy, weapon, male focus, blade, hood, cape, armor, vambraces
 
 (masterpiece, top quality, best quality, official art, detailed:1.2),<lora:ezio-v1:0.7>, ezio_soul3142, solo, black hair, 1boy, brown eyes, upper body, male focus, looking to the side, facial hair, beard, realistic, mustache, manly
+
+### Fire Force
+
+#### Akitaru Obi 
+
+(masterpiece, best quality:1.2), <lora:fireforce_oubi-11:1>, cowboy shot, solo, male focus, 1boy, obi akitaru, expressionless, closed mouth, looking at viewer, black shirt, suspenders, pants
+
+#### Vulcan Joseph
+
+(masterpiece, best quality:1.2), <lora:fireforce_vulcanjoseph-10:1>, cowboy shot, solo, male focus, 1boy, vulcan joseph, muscular male, smile, looking at viewer, black tank top, orange pants, (gloves:1.1)
+
+### Fist of the North Star / Hokuto no Ken / 北斗の拳
+
+#### Fist of the North Star Comic Style(Buronson style)
+
+<lora:FistoftheNorthStar_ComicStyle-000060:0.8:lbw=outall>,1boy, mohawk, bald, shoulder armor,grin,christmas, gift,, (best quality, masterpiece:1.3)
+
+<lora:FistoftheNorthStar_ComicStyle-000060:0.8:lbw=outall>, 1boy, santa hat, bronde hair, muscular, reindeer, boy riding reindeer,, (best quality, masterpiece:1.3)
+
+#### Kenshiro
+
+HokutoNoKen1024, a man with scares on the chest, blue leather suit, post apocalyptic background , lightning strike, dramatic, highly detailed, photography, ultra sharp, film, bokeh, professional, 64k,<lora:HokutoNoKen1024:0.8>
+
+HokutoNoKen1024, a man with scares on the chest, blue leather suit, post apocalyptic background , highly detailed, photography, ultra sharp, film, bokeh, professional, 64k   <lora:HokutoNoKen1024:0.8>
+
+HokutoNoKen1024, a man with scares on the chest, blue leather suit, post apocalyptic background , highly detailed, photography, ultra sharp, film, bokeh, professional, 64k   <lora:HokutoNoKen1024:0.8>
+
+#### ラオウ（拳王）
+
+<lora:Hraoh:1>,raoh,1boy,smile,pose,looking_at_viewer,upper_body,
+
+raoh,1boy,<lora:Hraoh:1>,looking_at_viewer,fighting_stance,
+
+#### 義星の男レイ
+
+<lora:Hrei:1>,rei,1boy,light blue hair,long hair,portrait,
+
+
+
+### Fairy Tail
+
+#### Gajeel Redfox
+
+masterpiece, best quality, wallpaper, 1boy, solo, male focus, looking at viewer, upper body, , , realistic, <lora:gajeel_redfox:0.72>, gajeel_redfox, black hair, red eyes, long hair
+
+masterpiece, best quality, wallpaper, 1boy, solo, male focus, looking at viewer, upper body, depth of field, ligne claire, , <lora:gajeel_redfox:0.74>, gajeel_redfox, black hair, red eyes, long hair, , Mordor: A dark and evil land ruled by the dark lord Sauron, 8k resolution
+
+masterpiece, best quality, wallpaper, 1boy, solo, male focus, looking at viewer , <lora:gajeel_redfox:0.72>, gajeel_redfox, black hair, red eyes, long hair, piercing
+
+masterpiece, best quality, movie still, 1boy, solo, male focus, looking at viewer,,realistic, <lora:gajeel_redfox:0.72>, gajeel_redfox, black hair, red eyes, long hair, piercing, , feudal japan, High definition
+
+#### Gray Fullbuster
+
+masterpiece, best quality, illustration, 1boy, solo, male focus, looking at viewer, upper body, depth of field, , , <lora:gray_fullbuster:0.74>, gray_fullbuster, black hair, black eyes, spiked hair, necklace
+
+masterpiece, best quality, , 1boy, solo, male focus, looking at viewer, upper body, depth of field, , , <lora:gray_fullbuster:0.66>, gray_fullbuster, black hair, black eyes, spiked hair, , denim jacket, , science fiction alternate history, 12k resolution
+
+masterpiece, best quality, , 1boy, solo, male focus, looking at viewer, upper body, depth of field, , , <lora:gray_fullbuster:0.66>, gray_fullbuster, black hair, black eyes, spiked hair, , denim jacket, , science fiction alternate history, 12k resolution
+
+masterpiece, best quality, wallpaper, 1boy, solo, male focus, looking at viewer, , depth of field, ligne claire, , <lora:gray_fullbuster:0.74>, gray_fullbuster, black hair, black eyes, spiked hair, necklace, , rooftop,
+
+masterpiece, best quality, movie still, 1boy, solo, male focus, looking at viewer, upper body, depth of field, anime coloring, , <lora:gray_fullbuster:0.68>, gray_fullbuster, black hair, black eyes, spiked hair, necklace, taxi driver costume, The Vale of Shadows: A dark and foreboding valley where no sunlight ever penetrates, HDR
+
+masterpiece, best quality, movie still, 1boy, solo, male focus, looking at viewer, upper body, , anime coloring, , <lora:gray_fullbuster:0.66>, gray_fullbuster, black hair, black eyes, spiked hair, necklace, , , Atlantis: A lost city of great wisdom and power, now drowned beneath the sea, 2k resolution
+
+masterpiece, best quality, movie still, 1boy, solo, male focus, looking at viewer, upper body, , , realistic, <lora:gray_fullbuster:0.68>, gray_fullbuster, black hair, black eyes, spiked hair, necklace, cargo pants, , science fiction cyber-thriller, HD
+
+masterpiece, best quality, illustration, 1boy, solo, male focus, looking at viewer, , , (watercolor illustration, soft pastel colors:1.1), realistic, <lora:gray_fullbuster:0.70>, gray_fullbuster, black hair, black eyes, spiked hair, necklace, topless male, tattoo, , caps, science fiction cyber-noir, Blu-ray
+
+masterpiece, best quality, game cg, 1boy, solo, male focus, looking at viewer, upper body, , ligne claire, , <lora:gray_fullbuster:0.70>, gray_fullbuster, black hair, black eyes, spiked hair, , , , infirmary, 8k resolution
+
+### The Legend of Zelda: Ocarina of Time
+
+#### Ganondorf 
+
+masterpiece, best quality,  <lora:ganondorf-nvwls-v1:0.9> ganondorf, earrings, cape, armor, dark skin, armored legwear, furrowed brow, fist, cowboy shot, looking at viewer, furrowed brow, from above, flames, red background
+
+masterpiece, best quality,  <lora:ganondorf-nvwls-v1:0.9> ganondorf, earrings, cape, armor, dark skin, armored legwear, furrowed brow, fist, punching, standing, fighting stance, yelling
+
+masterpiece, best quality,  <lora:ganondorf-nvwls-v1:0.9> ganondorf, earrings, cape, armor, dark skin, armored legwear, furrowed brow, upper body, serious, from side, night, chiaroscuro, shaded eyes
+
+masterpiece, best quality, <lora:ganondorf-nvwls-v1:0.8> ganondorf, earrings, armor, dark skin, armored legwear, standing, from side, looking at viewer, furrowed brow, night, castle, gothic architecture, night sky, field, red moon, staring
+
+### The Beauty and the Beast
+
+#### Gaston 
+
+gaston_disney, solo, black hair, 1boy, male focus, upper body focus, close up,  belt, muscular, crossed arms, red shirt, hairy chest, outside, landscape, village, sky, daylight,  <lora:gaston_disney:0.6>
+
+gaston_disney, solo, jeans, looking at you, muscular, shirtless, hairy chest, crossed arms,  street, daylight, <lora:gaston_disney:0.6>
+
+gaston_disney, solo, looking at viewer, smile, open mouth, blue eyes, shirt, black hair, 1boy, nipples, upper body, male focus, open clothes, tongue, open shirt, muscular, pectorals, muscular male, red shirt, bara, large pectorals, sideburns, bare pectorals<lora:gaston_disney:0.6>,  <lora:ChestHairAlrightALT:1>
+
+gaston_disney, solo, looking at viewer, blush, smile, short hair, shirt, black hair, 1boy, underwear, nipples, white shirt, male focus, open clothes,  grin, open shirt, muscular, facial hair, erection,  thick eyebrows, undressing, pectorals, muscular male, bara, large pectorals, bulge, sideburns, male underwear, bare pectorals, long sideburns, erection under clothes, chest hair, navel hair, hairy, white male underwear <lora:gaston_disney:0.6>
+
+gaston_disney, solo, long hair, looking at viewer, smile, blue eyes, simple background, black hair, 1boy, ponytail, ass, male focus, nude, hairy body, looking back, from behind, completely nude, muscular, back, thick eyebrows, muscular male, bara, beach <lora:gaston_disney:0.6>
+
+gaston_disney, solo, long hair, looking at viewer, smile, blue eyes, black hair, 1boy, navel, nipples, ponytail, male focus, thighs, nude, penis, armpits, stomach, pubic hair, completely nude, uncensored, muscular, feet out of frame, thick thighs, erection, abs, testicles, thick eyebrows, pectorals, muscular male, male pubic hair, bara, large pectorals, veins, mature male, veiny penis, large penis, chest hair, huge penis, biceps, navel hair, armpit hair, leg hair, arm hair, hairy, flexing <lora:gaston_disney:0.6>,  <lora:BettercocksFlaccid:0.6>
+
+gaston_disney, solo, long hair, blush, open mouth, black hair, 1boy, navel, nipples, closed eyes, male focus, thighs, nude, lying, penis, spread legs, on back, stomach, pillow, pubic hair, completely nude, saliva, uncensored, muscular, feet out of frame, facial hair, on bed, thick thighs, erection, abs, testicles, sleeping, pectorals, muscular male, drooling, male pubic hair, bara, large pectorals, veins, sideburns, mature male, stubble, veiny penis, large penis, chest hair, navel hair, leg hair, mouth drool, hairy <lora:gaston_disney:0.6>,  <lora:BettercocksFlaccid:0.6>
+
+### The Witcher 3 : Wild Hunt
+
+#### Geralt of Rivia
+
+<lora:geraltW3:0.6>, geralt_soul3142, slit pupils,  facial hair, scar across eye, portrait, beard, <lora:add_detail:0.5>,
+
+<lora:geraltW3:0.6>, geralt_soul3142, 1man, beard, sitting, bar, liquor, alcohol, <lora:add_detail:0.5>
+
+<lora:geraltW3:0.6>, geralt_soul3142, solo, white shirt, upper body, belt, blood, facial hair, scar, beard, blood on clothes, <lora:add_detail:0.5>,
+
+<lora:geraltW3:0.6>, geralt_soul3142, beard, chainmail, medallion, <lora:add_detail:0.5>,
+
+<lora:geraltW3:0.6>, geralt_soul3142, sunglasses, playing poker, casino,  <lora:add_detail:0.5>,
+
+<lora:geraltW3:0.6>, geralt_soul3142, 1man, beard, (tuxedo), bowtie, yellow eyes, sitting, chair, coffee, table, cafe, window, street, city, from side,<lora:add_detail:0.5>
+
+<lora:geraltW3:0.6>, geralt_soul3142, playing guitar,  <lora:add_detail:0.5>,
+
+<lora:geraltW3:0.6>, geralt_soul3142, 1boy, long hair, beard, sunglasses, black sweatshirt, shorts, sitting, table, (food), beach, seascape, clouds, waves, tropical, palm trees
+
+<lora:geraltW3:0.6>, geralt_soul3142,   solo, gloves, holding, weapon, outdoors, sky, day, sword, cloud, cape, armor, facial hair, bird, grass, scenery, beard, fantasy, castle
+
+<lora:geraltW3:0.6>, geralt_soul3142,  solo, gloves, standing, jacket, white hair, beard, outdoors, open clothes, belt, pants, open jacket, gun, black shirt, tattoo, black pants, holding gun, handgun, smoke, science fiction, cigarette, city, realistic, smoking, road, mechanical arms, motorcycle, cyborg, prosthesis, prosthetic arm, cyberpunk, neon lights, medallion
+
+### webcomic This Guy
+
+#### Giant
+
+giant_this_guy, solo, blush, smile, 1boy, arrogant look, upper body, male focus, grin, muscular, tank top, seen from below, broad shoulders, large pectorals, outdoors, street <lora:giant_this_guy-50:0.5>
+
+giant_this_guy, solo, blush, man bun, smile, arrogant look, upper body, male focus, grin, muscular, tank top, ((seen from above)), big biceps, broad shoulders, large pectorals, outdoors, street <lora:giant_this_guy-50:0.5>
+
+giant_this_guy, solo, blush, man bun, smile, arrogant look, upper body, male focus, grin, muscular, shirtless, hands behind head, big biceps, broad shoulders, large pectorals, outdoors, street, <lora:giant_this_guy-50:0.5>
+
+giant_this_guy, looking at viewer, smile, male focus, tight shirt, shorts, muscular, pectorals, cafe, daylight, tattoos,
+<lora:giant_this_guy-50:0.6>
+
+giant_this_guy, looking at viewer, smile,  male focus, swimming shorts, muscular, pectorals, muscular male, yaoi, ((hands on hips)), hairy armpits, beach, <lora:giant_this_guy-50:0.6>
+
+giant_this_guy, blush, short hair,  male focus, nude, multiple boys, 2boys, muscular, pectorals, muscular male, bara, yaoi, <lora:giant_this_guy-50:0.6>
+
+giant_this_guy, looking at viewer, smile, ponytail,  male focus, apron, muscular, pectorals, muscular male, bara, yaoi, hands on hips, naked apron <lora:giant_this_guy-50:0.6>  <lora:add_detail:0.7>
+
+giant_this_guy, solo, smile, 1boy, arrogant look, grin, muscular,  shirtless,  sweat, bedroom,  large penis, erection, realistic <lora:giant_this_guy-50:0.55>
+
+giant_this_guy, looking at viewer, smile,  male focus, apron, muscular, pectorals, muscular male, bara, yaoi, hands on hips, naked apron, hairy armpits <lora:giant_this_guy-50:0.6>  <lora:add_detail:0.7>
+
+giant_this_guy, looking at viewer, smile,  male focus, apron, muscular, pectorals, muscular male, bara, yaoi, ((hands on hips)), naked apron, hairy armpits,<lora:giant_this_guy-50:0.6>
+
+giant_this_guy, solo, blush, man bun, smile, arrogant look, upper body, male focus, grin, muscular, shirtless, seen from above, big biceps, broad shoulders, large pectorals, outdoors, street, <lora:giant_this_guy-50:0.5>
+
+### Fate
+
+#### Gilgamesh 
+
+GilgameshTopless, solo, looking at viewer, smile, short hair, blonde hair, red eyes, 1boy, jewelry, male focus, earrings, necklace, armor, tattoo, glowing, chain, crossed arms, glowing eyes, topless male, gold armor, upper body, backlit, gold background, head tilt, smirk, parted lips, bright background, (glowing chains), (overexposure), petals, light particles, embers,<lora:Gilgamesh:0.8>
+
+GilgameshCasual, solo, looking at viewer, short hair, blonde hair, shirt, red eyes, long sleeves, 1boy, closed mouth, standing, collarbone, jacket, white shirt, male focus, cowboy shot, open clothes, pants, open jacket, black jacket, black pants, backlit, backlighting, city, street, night, japanese city,<lora:Gilgamesh:0.8>
+
+(GilgameshTopless:1.05), solo, looking at viewer, short hair, blonde hair, red eyes, 1boy, male focus, sitting, crossed legs, (completely nude:1.2), tones, tattoos, [from side], from below, fire, rumbles, ruined city, smiling, looking at viewer, looking down, dark background, sitting on debris, night, smoke, cowboy shot,<lora:Gilgamesh:0.8>
+
+GilgameshTopless, solo, short hair, blonde hair, red eyes, 1boy, jewelry, weapon, male focus, sword, necklace, armor, tattoo, topless male, black background, particle effects, light effects, cowboy shot, gold armor, looking at viewer, annoyed, crossed arms, from below, hair slicked back,  <lora:Gilgamesh:0.8>
+
+### Death Parade
+
+#### Ginti 
+
+[RAW candid cinema, 16mm, color graded portra 400 film, remarkable color, ultra realistic, textured skin, remarkable detailed pupils, realistic dull skin noise, visible skin detail, skin fuzz, dry skin, shot with cinematic camera, highly detailed face, highly detailed background, perfect lighting etc:5],Mature Male, close-up photo of Ginti, (red hair, yellow eyes, white shirt, black vest), (sitting on the bar, shot glass in hand), looking at viewer, <lora:Ginti DP:1>
+
+### 王者荣耀/Honor of kings
+
+#### Gaun yu(关羽-百相守梦
+
+guanyu,white bangs,Streaked hair,1boy,masterpiece, best quality,face, long beard,<lora:guanyu-3-000008:1>
+
+guanyu,white bangs,Streaked hair,1boy,muscular,masterpiece, best quality, long beard,<lora:guanyu-3-000008:1>
+
+### 王牌战士/Ace Force
+
+#### 赵海龙（zhao hai long）
+
+hailong,1male,goggles,brown spike hair,POV, sex, nude,male focus, lying,penis, open your legs,<lora:hailong-2:1>,<lora:anal_20230702184124:0.7>
+
+hailong,1male,brown spike hair,partially underwater shot,floating city,illustration,masterpiece,best quality,High resolution, hignity 8k wallpaper,detailed background,beautiful detailed water,fluttered detailed splashs,intricate detail,highres,
+<lora:hailong-2:1>
+
+hailong,1male,Soft Lighting,Cinematic Lighting,detailed and intricate,incredibly_absurdres, masterpiece, best quality, <lora:hailong:1>
+
+### Slam Dunk
+
+#### Hanamichi Sakuragi
+
+hanamichi sakuragi, young man, red dyed hair, asian, looking at you, muscular, shorts, basketball outfit, basketball shirt, basketball field, inside, daylight, broad shoulders, navel hair, buzzcut, arrogant smirk,realistic,<lora:Hanamichi_Sakuragi:1> 
+
+hanamichi sakuragi, young man, red dyed hair, shirt, asian, looking at you, muscular, pants, ((japanese high school male uniform)), daylight, broad shoulders, pompadour, arrogant smirk,<lora:Hanamichi_Sakuragi:1> 
+
+hanamichi sakuragi, young man, red dyed hair, asian, looking at you, muscular, pants, japanese high school male uniform, daylight, broad shoulders, navel hair, pompadour, arrogant smirk,<lora:Hanamichi_Sakuragi:1> 
+
+hanamichi sakuragi, young man, red dyed hair, asian, looking at you, muscular, navel hair, shorts, tank top, park, daylight, broad shoulders, navel hair,<lora:Hanamichi_Sakuragi:1> 
+
+hanamichi sakuragi, young man, red dyed hair, asian, looking at you, muscular, shorts, basketball outfit, basketball field, inside, daylight, broad shoulders, navel hair, buzzcut, arrogant smirk,<lora:Hanamichi_Sakuragi:1> 
+
+hanamichi sakuragi, muscular, black background, shower, wet, large penis, erection, looking at you, arrogant smug, proud, self confident, pubic hair, red dyed hair, asian, buzzcut,<lora:Hanamichi_Sakuragi:1> 
+
+hanamichi sakuragi, young man, asian, looking at you, muscular, navel hair, shorts, shirtless, park, daylight, broad shoulders,<lora:Hanamichi_Sakuragi:1> 
+
+hanamichi sakuragi, muscular, lying on bed, head on pillow, sweaty, shiny skin, sweat, large penis, erection, looking at you, arrogant smug, proud, self confident, pubic hair, red dyed hair, asian, buzzcut, ejaculation, from above,<lora:Hanamichi_Sakuragi:1> 
+
+hanamichi sakuragi, muscular, lying on bed, head on pillow, sweaty, shiny skin, sweat, large penis, erection, looking at you, arrogant smug, proud, self confident, pubic hair, red dyed hair, asian, buzzcut, ejaculation, from above, cum, sperm, cumshot, (armpit hair), cum leaking, cum drops,<lora:Hanamichi_Sakuragi:1> 
+
+hanamichi sakuragi, muscular, lying on bed, head on pillow, sweaty, shiny skin, sweat, large penis, erection, looking at you, arrogant smug, proud, self confident, pubic hair, red dyed hair, asian, buzzcut, ejaculation, from above, cum, sperm, cumshot, (armpit hair), cum leaking, cum drops,<lora:Hanamichi_Sakuragi:1> 
+
+hanamichi sakuragi, solo, sitting, short hair, open mouth, 1boy, navel, nipples, male focus, thighs, nude, red hair, penis, shoes, muscular, erection, abs, testicles, pectorals, muscular male, sneakers, bara, large pectorals, dumbbell, weightlifting, looking at you, cumshot, sweaty, sweat, lifting up,<lora:Hanamichi_Sakuragi:1> 
+
+### Soul Calibur  III
+
+#### Hwang 
+
+male focus, muscular, black undercut hair,less stubble,handsome,detailed face,
+(Hwang_Soulcalibur_III),<lora:Hwang_Soulcalibur_III-03:0.75>, kneeling on ground, (((small penis), bottomless)), sunshine, outside, cum, spread legs, testicles, (ancient ((battle field))), sword, (scars, wounds), green top, bandage, sunlight, blood, ((surrounded by ((traditional Chinese clothes) Chinese people looking at him))),<lora:Slider_people_count_slider_v1:3> ,laughing,(((arms behind back))),masterpiece,8k,depth of field,bokeh,detailed,homoerotic,(homoerotic),highly detailed,sharp focus,intricate,smooth,elegant,4k,8k,fantasy,cinematic lighting,cinematic,masterpiece,matte,photorealistic,beautiful,volumetric lighting,dramatic,<lora:Style_break_realise:0>, <lora:Style_add_detail:0.5>
+
+Hwang_Soulcalibur_III, solo, short hair, brown hair, black hair, 1boy, full body, flower, male focus, pants, muscular, headband, bandages, eyepatch, pectorals, muscular male, bara, pink flower background, large pectorals, sideburns, white pants, sidepec, <lora:Hwang_Soulcalibur_III-03:0.75>, green top, flower ground, green clothes, korean clothes, boot, spread legs, beach,, (masterpiece,best quality:1.5)
+
+Hwang_Soulcalibur_III, solo, short hair, brown hair, black hair, 1boy, male focus, muscular, headband, bandages, eyepatch, pectorals, muscular male, bara, background, large pectorals, sideburns, sidepec, <lora:Hwang_Soulcalibur_III-03:0.75>, boot, (spread legs), nude, naked, penis, green top, barefoot, bandages socks,, (masterpiece,best quality:1.5)
+
+### 犬夜叉
+
+#### Inuyasha 
+
+(a man),  inuyasha, ((upper body, head turned to the side)), japanese forest with a shrine in the background,daytime, standing,  <lora:inuyasha_v1_1:1>
+
+unparalleled masterpiece, 8k, RAW photo,best quality, (masterpiece:1.2),(anime style), raytracing, ultra high res, detailed eyes, eyes
+
+### Jackson Wang 王嘉尔
+
+male, handsome,pink hair, earrings, smile, (photorealistic:1.4), best quality, masterpiece, photography, looking forward, on stage, stage lights, bokeh, upper body, orange hoodie,<lora:jackson:1> 
+
+male, handsome, brown hair, earrings, (photorealistic:1.4), best quality, masterpiece, photography, looking at viewer, wearing jacket, standing, street, day,<lora:jackson:1> 
+
+male, handsome,pink hair, earrings, smile, (photorealistic:1.4), best quality, masterpiece, photography, looking at viewer, on stage, stage lights, bokeh, upper body, black jacket,<lora:jackson:1> 
+
+### Live A Hero
+
+#### Kyoichi Ootomo
+
+(1 image only),  solo male,  bara,  Kyoichi Ootomo,  Live A Hero,  Asian,  Japanese,  hero,  short hair,  black hair,  green streaked hair,  sideburns,  black eyes,  facial hair,  goatee,  (wore glasses),  tan skin,  white bandaid on nose,  goggles,  grey&green bodysuit,  skin tight,  green fingerless gloves,  smile,  blush,  mature,  handsome,  charming,  alluring,  standing,  upper body,  perfect anatomy,  perfect proportions,  (best quality,  masterpiece),  (perfect eyes,  perfect eye pupil),  perfect hands,  high_resolution,  dutch angle,  Japanese city street,<lora:Kyoichi-240216_ep10_lora:1>  
+
+(1 image only),  solo male,  bara,  Kyoichi Ootomo,  Live A Hero,  Asian,  Japanese,  hero,  short hair,  black hair,  green streaked hair,  sideburns,  black eyes,  facial hair,  goatee,  (wore glasses),  tan skin,  white bandaid on nose,  glasses,  complete topless,  shirtless,  grey athletic shorts,  shy,  blush,  smile,  mature,  handsome,  charming,  alluring,  laying on bed,  on back,  perfect anatomy,  perfect proportions,  (best quality,  masterpiece),  (perfect eyes,  perfect eye pupil),  perfect hands,  high_resolution,  dutch angle,<lora:Kyoichi-240216_ep10_lora:1>  
+
+(1 image only),  solo male,  bara,  Kyoichi Ootomo,  Live A Hero,  Asain,  Japanese,  athlete,  PE teacher,  short hair,  black hair,  green streaked hair,  sideburns,  black eyes,  facial hair,  goatee,  (wore glasses),  tan skin,  white bandaid on nose,  white t-shirt,  ((pure green athletic jacket,  open jacket)),  grey shorts,  sneakers,  smile,  blush,  mature,  handsome,  charming,  alluring,  standing,  upper body,  perfect anatomy,  perfect proportions,  (best quality,  masterpiece),  (perfect eyes,  perfect eye pupil),  perfect hands,  high_resolution,  dutch angle,  school sports ground, (1man), best quality,<lora:Kyoichi-240216_ep10_lora:1>  
+
+(1 image only),  solo male,  bara,  Kyoichi Ootomo,  Live A Hero,  Asain,  Japanese,  athlete,  PE teacher,  short hair,  black hair,  green streaked hair,  sideburns,  black eyes,  facial hair,  goatee,  (wore glasses),  tan skin,  white bandaid on nose,  white t-shirt,  ((pure green athletic jacket,  open jacket)),  grey shorts,  sneakers,  smile,  blush,  mature,  handsome,  charming,  alluring,  standing,  upper body,  perfect anatomy,  perfect proportions,  (best quality,  masterpiece),  (perfect eyes,  perfect eye pupil),  perfect hands,  high_resolution,  dutch angle,  school sports ground, (1man), best quality,<lora:Kyoichi-240216_ep10_lora:1>  
+
+### 新世界狂欢
+
+### 昆西
+
+1man, kunxi, brwon hair, short hair, brown eyes, (detailed eyes), bara man, manly , masterpiece, (best quality:1.2), rating explicit, official style, uncensored, male_focus,1man, man focus, black hair, black eyes, Jinx_Jaekyung,rating explicit, focus male, Best aesthetic, official_art, illustration, detailed eyes, bara man, manly , masterpiece, best quality:1.2), rating explicit, official style, uncensored, man focus, vein muscle, (bdsm), caught, arms tied, (floating hands), (hands_everywhere:1.5), large penis, leaking cum, ejaculated, masturbation, (hands all over body), pec grab, foot grab, belly grab, stomach grab, armpit grab, blushing, giggling, excited, screaming, male orgasm,<lora:kunxi:1> 
+
+kunxi, blonde hair,orangeeyes,mature male,muscle,pecs,pectorals,upshot pecs, penis, pov,close-up, look down,Sunlight filters through the leaves, casting dappled light across his face,<lora:kunxi:1> 
+
+### Tokyo Ghoul
+
+#### Koutarou Amon
+
+masterpiece, best quality, movie still, 1boy, solo, male focus, looking at viewer, realistic, <lora:koutarou_amon:0.72>, koutarou_amon, black hair, black eyes
+
+masterpiece, best quality, movie still, 1boy, solo, male focus, looking at viewer, (watercolor illustration, soft pastel colors:1.1), , <lora:koutarou_amon:0.66>, koutarou_amon, black hair, black eyes,
+
