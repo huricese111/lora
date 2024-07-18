@@ -72,6 +72,13 @@ kotalkahn11, Front facing, 3/4 body medium close-up, glowing blue eye color, (St
 
 muscular, burly, kotalkahn11, glowing eyes, (hyperdefined), natural bright colours, unusual-angle, artwork, flames, steaming body, complex lighting, (fine-details:1.2), absurdres, ultradetailed, swirling smoke around man, sunlight sun rays directed on kotalkahn11, dynamic pose, fighting stance, serious face, pectorals, puffy nipples, abs, dynamic movement, realistic, masterpiece, intricate details, detailed background, depth of field, sun god theme,<lora:Kotal_Kahn_MK11_Bald_Version:1> 
 
+#### Kenshi 
+
+<lora:Kenshi_v1:0.7>,Masterpiece, best quality, (highly detailed raw photo:1. 2), 8k arnold, volumetric lighting, volumetric shadows, phil haley style <lora:more_details:0.6>, <lora:epi_noiseoffset2:0.7>,1boy, blindfold with headband, holding a katana, zombie pose, ((armor:1.2)) ,<lora:more_details:0.6>,camp
+
+<lora:Kenshi_v1:0.7>,Masterpiece, best quality, (highly detailed raw photo:1. 2), 8k arnold, volumetric lighting, volumetric shadows, phil haley style <lora:more_details:0.6> <lora:epi_noiseoffset2:0.7>,1boy, blindfold with headband, holding a katana, paw pose, ((armor:1.2)) ,<lora:more_details:0.6> ,moon
+
+
 ### Assassin's Creed Odyssey
 
 #### Alexios
@@ -122,7 +129,7 @@ AssaJacob, 1boy, male focus, solo, beard, victorian, smirk, london
 
 ((ultra detailed, masterpiece, absurdres)), <lora:AWAlan:0.8>,AWAlan, 1boy, black hair, beard, blue eyes, looking at viewer, walking down a busy urban street, exuding charisma
 
-### The_seven_deadly_sins
+### The Seven Deadly Sins
 
 #### Ban
 
@@ -217,8 +224,6 @@ comic book art of  Cinematic Film stock footage in (arri alexa style) Kodak film
 
 <lora:IoriYagami:0.75> ,iorikof, solo, open mouth, 1boy, yellow eyes, male focus, red hair, choker, pants, hair over one eye, glowing, transparent background, glowing eyes, glowing eye, red pants
 
-
-
 #### billy kane
 
 billykane, medium shot, 1guy, male,bandana, jacket, denim pants, belt, muscular, holding staff, smirk, arrogant, confident, at a very fancy mafia office <lora:BillyKane:1>,detailed eyes, best quality, masterpiece, highres, perfect picture, highly detailed, high contrast , digital colors, bright colors
@@ -244,6 +249,36 @@ BrianBattler,  1guy,  muscular,  face paint,  holding beer can,  sitting,  male,
 BrianBattler,  1guy,  muscular,  face paint,  male,  ((blue jersey,  shoulder armor),  star,  denim pants,  fighting stance,  on the beach,  cinematic lighting,  detailed face,  detailed eyes,  masterpiece,  high_res,  perfect face,  , High detailed , nijistyle, 3DMM, Color magic, csr style, <lora:BrianBattler-byDocStasis:1>
 
 BrianBattler,  1guy,  muscular,  face paint,  male,  blue jersey,  shoulder armor,  star,  denim pants,  cinematic lighting,  detailed face,  detailed eyes,  masterpiece,  high_res,  perfect face, <lora:BrianBattler-byDocStasis:1>
+
+#### Orochi
+
+(masterpiece:1.2, best quality),  KOFOrochi, 1man, muscular, white hair, medium hair, body paint, hands raised, white pants, belt, green abstract background <lora:KOFOROCHI:0.65>
+
+#### Kim Kaphwan
+
+kimkaphwan, dobok, taekwondo uniform, fingerless gloves, at the river, fighting stance, (detailed:1.2),  atmospheric, <lora:KimKaphwan:1>
+
+kimkaphwan, dobok, taekwondo uniform, at the dojo, sitting, relaxing (detailed:1.2),  40yo, atmospheric, <lora:KimKaphwan:1>  detailed eyes, best quality, masterpiece, highres, perfect picture, highly detailed, high contrast , digital colors, bright colors
+
+kimkaphwan, dobok, taekwondo uniform,  fingerless gloves,1guy, male,, at the dojo , detailed eyes, best quality, masterpiece, highres, perfect picture, highly detailed, high contrast , digital colors, bright colors <lora:KimKaphwan:1>
+
+kimkaphwan, dobok, taekwondo uniform, reading a book in coffeeshop,  <lora:KimKaphwan:1>  detailed eyes, best quality, masterpiece, highres, perfect picture, highly detailed, high contrast , digital colors, bright colors
+
+kimkaphwan, solo, 1guy, dobok, taekwondo uniform, fingerless gloves, masterpiece, detailed eyes, medium shot, highres, at mega city <lora:KimKaphwan:1>
+
+#### K'
+
+kdash, 1boy, solo, necklace, black leather jacket, leather pants, masterpiece, detailed eyes, hands on pocket,  (inside the church, colored vitrals,sun rays, candles:1.2), raw photo, highres, sharp picture, cinematic lighting, white hair, red glove, intricate details, handsome man , detailed eyes, <lora:KDashKOF:1> 
+
+kdash, 1boy, solo, necklace, black leather jacket, leather pants,  red lens sunglasses, masterpiece,(city night:1.2), raw photo, highres, sharp picture, cinematic lighting, white hair, red glove, intricate details, <lora:KDashKOF:1>
+
+kdash, 1boy, solo, necklace, leather jacket, leather pants, masterpiece, detailed eyes,  red glove,  destroyed building,  full body, highres, sharp picture, mood lighting, white hair, intricate details, handsome man , detailed eyes,<lora:KDashKOF:1>
+
+kdash, 1boy, solo, necklace, black leather jacket, leather pants, masterpiece, sitting. sunset, (in a beach,  sea:1.2), raw photo, highres, sharp picture, cinematic lighting, white hair, red glove, intricate details, handsome man , detailed eyes, <lora:KDashKOF:1>
+
+kdash, 1boy, solo, necklace,  detailed face, black leather jacket, black pants, sweaty skin, detailed face, sunglasses, red glove, masterpiece, detailed eyes, sea, (full body:1.3), (black boots:1.2), on sand, beach, palms, highres, sharp picture, mood lighting, white hair, intricate details, handsome man , detailed eyes, <lora:KDashKOF:1>  
+
+kdash, 1boy, solo, necklace, shirtlesss, leather pants, masterpiece, detailed eyes, sunglasses, sweaty, smirk, hands behind head, bulge:1.2, medium shot, lying on bed, bedroom,  highres, sharp picture, mood lighting, white hair, intricate details, erotic picture, handsome man , detailed eyes, lora:KDashKOF:1>
 
 ### Grimmjow Jaegerjaquez 
 
@@ -530,6 +565,16 @@ creedo_jacob, solo, goatee, hairy armpits, looking at viewer, hairy chest, short
 best quality,masterpiece,highres,<lora:Darius-League of Legends:1>,darius,1boy,male focus,solo,muscular,manly,muscular maleblack hairfacial hair,short hair,scar on face,thick eyebrows,upper body, full frontal,portrait, armor, looking at viewer, 
 
 best quality,masterpiece,highres,<lora:Darius-League of Legends:1>,darius,1boy,male focus,solo,muscular,manly,muscular maleblack hairfacial hair,short hair,scar,scar on face,thick eyebrows,full body,armor,weapon,shoulder armor,axe,holding,standing,(park:1.1)
+
+#### Kayn The Shadow Reaper
+
+Highly detailed, High Quality, Masterpiece, beautiful <lora:more_details:1>, <lora:Kayn-08:0.7>, kayn, 1boy, solo,  <lora:HeadpatPOV:1>, Headpat, Headpat, POV
+
+Highly detailed, High Quality, Masterpiece, beautiful <lora:more_details:1>, <lora:Kayn-08:0.7>, kayn, 1boy, solo, ruins,
+
+Highly detailed, High Quality, Masterpiece, beautiful <lora:more_details:1>, <lora:Kayn-08:0.7>, kayn, 1boy, solo, In the rugged, war-torn lands of Valorguard, emotions run wild, threatening to tear society apart. As a battle-hardened warrior with a unique gift for stable diffusion, you must forge alliances, confront powerful foes, and harness the strength of your emotions to bring peace back to the realm
+
+Highly detailed, High Quality, Masterpiece, beautiful <lora:more_details:1>, <lora:Kayn-08:0.7>, kayn, 1boy, solo, A realm of mythical creatures is on the verge of destruction due to uncontrolled emotions. You are the last of the 'EmoRiders,' a revered order of knights who ride majestic emotion-fueled beasts. Embark on a thrilling quest to restore the emotional balance and protect the creatures from extinction, long_shot
 
 ### David Licauco
 
@@ -941,4 +986,20 @@ kunxi, blonde hair,orangeeyes,mature male,muscle,pecs,pectorals,upshot pecs, pen
 masterpiece, best quality, movie still, 1boy, solo, male focus, looking at viewer, realistic, <lora:koutarou_amon:0.72>, koutarou_amon, black hair, black eyes
 
 masterpiece, best quality, movie still, 1boy, solo, male focus, looking at viewer, (watercolor illustration, soft pastel colors:1.1), , <lora:koutarou_amon:0.66>, koutarou_amon, black hair, black eyes,
+
+### Cyberpunk 2077
+
+#### Kerry Eurodyne
+
+(masterpiece, best quality:1.3),< <lora:add_detail:0.7>, <lora:KerryEurodyneCyber:0.7>,KerryEurodyneCyber, 1boy, solo, white hair, jewelry,
+
+(masterpiece, best quality:1.3),<lora:add_detail:0.5> <lora:KerryEurodyneCyber:0.8>,KerryEurodyneCyber, 1boy, solo, white hair, lavender farm, midday, fragrant and picturesque with fields of purple under bright sunlight
+
+(masterpiece, best quality:1.3),<lora:add_detail:0.5>, <lora:KerryEurodyneCyber:0.8>,KerryEurodyneCyber, 1boy, solo, white hair, winter wonderland, midday, crisp and bright with glistening snow and clear blue skies
+
+(masterpiece, best quality:1.3),<lora:add_detail:0.5>, <lora:KerryEurodyneCyber:0.8>,KerryEurodyneCyber, 1boy, solo, white hair, historic mansion, twilight, elegant and atmospheric with warm, candlelit interiors
+
+(masterpiece, best quality:1.3), <lora:add_detail:0.5> .<lora:KerryEurodyneCyber:0.8>,KerryEurodyneCyber, 1boy, solo, white hair, cyberpunk, vibrant street art district, twilight, colorful and artistic with murals illuminated by fading daylight
+
+(masterpiece, best quality:1.3), <lora:add_detail:0.5>, <lora:KerryEurodyneCyber:0.7>,KerryEurodyneCyber, 1boy, solo, white hair, cyberpunk, portrait
 
