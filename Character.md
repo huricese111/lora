@@ -4,11 +4,13 @@
 
 ### Checkpoint
 
-##### realcartoon3d_v13
+#### realcartoon3d_v13
 
-##### dreamshaper_8
+#### dreamshaper_8
 
-##### maturemalemix_v14
+#### maturemalemix_v14
+
+#### airfucksBruteMix_v10
 
 ### One Piece
 
@@ -78,8 +80,42 @@ muscular, burly, kotalkahn11, glowing eyes, (hyperdefined), natural bright colou
 
 <lora:Kenshi_v1:0.7>,Masterpiece, best quality, (highly detailed raw photo:1. 2), 8k arnold, volumetric lighting, volumetric shadows, phil haley style <lora:more_details:0.6> <lora:epi_noiseoffset2:0.7>,1boy, blindfold with headband, holding a katana, paw pose, ((armor:1.2)) ,<lora:more_details:0.6> ,moon
 
+#### Jago 
 
-### Assassin's Creed Odyssey
+Jago_KI_I, ninja mask, solo, black hair, blue gloves, 1boy, male focus, boots, mask, muscular, mouth mask, ninja, blue torn pants, <lora:Jago_KI_I-03:1>, headband, torn clothes, cowboy shot, (red shoulder strap), lying on ground, ultra realistic,32k,RAW photo,(high detailed skin:1.2), 8k uhd, dslr, soft lighting, high quality, film grain
+
+Jago_KI_I, ninja mask, solo, black hair, gloves, 1boy, male focus, boots, mask, muscular, mouth mask, ninja, <lora:Jago_KI_I-03:1>, headband, torn clothes, cowboy shot, red shoulder strap, ultra realistic,32k,RAW photo,(high detailed skin:1.2), 8k uhd, dslr, soft lighting, high quality, film grain
+
+Jago_KI_I, ninja mask, solo, black hair, gloves, 1boy, male focus, boots, mask, muscular, mouth mask, ninja, <lora:Jago_KI_I-03:1>, headband, ultra realistic,32k,RAW photo,(high detailed skin:1.2), 8k uhd, dslr, soft lighting, high quality, film grain
+
+Jago_KI_I, ninja mask, solo, black hair, gloves, 1boy, male focus, boots, mask, muscular, mouth mask, ninja, <lora:Jago_KI_I-03:1>, headband, torn clothes, cowboy shot,, ultra realistic,32k,RAW photo,(high detailed skin:1.2), 8k uhd, dslr, soft lighting, high quality, film grain
+
+Jago_KI_I, ninja mask, solo, black hair, blue gloves, 1boy, male focus, boots, mask, muscular, mouth mask, ninja, <lora:Jago_KI_I-03:1>, headband, torn clothes, cowboy shot, red shoulder strap, ultra realistic,32k,RAW photo,(high detailed skin:1.2), 8k uhd, dslr, soft lighting, high quality, film grain
+
+Jago_KI_I, ninja mask, solo, black hair, blue gloves, 1boy, male focus, boots, mask, muscular, mouth mask, ninja, <lora:Jago_KI_I-03:1>, headband, torn clothes, cowboy shot, (red shoulder strap), penis, lying glasses, penis,, ultra realistic,32k,RAW photo,(high detailed skin:1.2), 8k uhd, dslr, soft lighting, high quality, film grain
+
+Jago_KI_I, ninja mask, solo, black hair, blue gloves, 1boy, male focus, boots, mask, muscular, mouth mask, ninja, <lora:Jago_KI_I-03:1>, headband, torn clothes, cowboy shot, (red shoulder strap), penis, lying glasses, ultra realistic,32k,RAW photo,(high detailed skin:1.2), 8k uhd, dslr, soft lighting, high quality, film grain
+
+Jago_KI_I, ninja mask, solo, black hair, blue gloves, 1boy, male focus, boots, mask, muscular, mouth mask, ninja, <lora:Jago_KI_I-03:1>, headband, torn clothes, cowboy shot, (red shoulder strap), penis, lying glasses, ultra realistic,32k,RAW photo,(high detailed skin:1.2), 8k uhd, dslr, soft lighting, high quality, film grain
+
+Jago_KI_I, ninja mask, solo, black hair, blue gloves, 1boy, male focus, boots, mask, muscular, mouth mask, ninja, <lora:Jago_KI_I-03:1>, headband, torn clothes, cowboy shot, (red shoulder strap), penis, lying on ground,, ultra realistic,32k,RAW photo,(high detailed skin:1.2), 8k uhd, dslr, soft lighting, high quality, film grain
+
+Jago_KI_I, ninja mask, solo, black hair, blue gloves, 1boy, male focus, boots, mask, muscular, mouth mask, ninja, <lora:Jago_KI_I-03:1>, headband, torn clothes, cowboy shot, (red shoulder strap), lying on ground, ultra realistic,32k,RAW photo,(high detailed skin:1.2), 8k uhd, dslr, soft lighting, high quality, film grain
+
+Jago_KI_I, ninja mask, solo, black hair, blue gloves, 1boy, male focus, boots, mask, muscular, mouth mask, ninja,pants, <lora:Jago_KI_I-03:1>, headband, torn clothes, cowboy shot, (red shoulder strap), lying on ground, ultra realistic,32k,RAW photo,(high detailed skin:1.2), 8k uhd, dslr, soft lighting, high quality, film grain
+
+Jago_KI_I, ninja mask, solo, black hair, blue gloves, 1boy, male focus, boots, mask, muscular, mouth mask, ninja,blue torn pants  <lora:Jago_KI_I-03:1>, headband, torn clothes, cowboy shot, (red shoulder strap), lying on ground, ultra realistic,32k,RAW photo,(high detailed skin:1.2), 8k uhd, dslr, soft lighting, high quality, film grain
+
+#### Liu Kang
+
+<lora:mklkng_v3-000011:1> mklkng, masterpiece, best cinematic quality, photorealistic highly detailed 8k raw photo, volumetric lighting, volumetric shadows, man, Lying on the back, pretending to make a snow angel, autumn background
+
+<lora:mklkng_v3-000011:1> mklkng, masterpiece, best cinematic quality, photorealistic highly detailed 8k raw photo, volumetric lighting, volumetric shadows, man, dynamic pose, fire, A labyrinthine catacomb, with crumbling walls and ancient tombs background
+
+<lora:mklkng_v3-000009:1> mklkng, masterpiece, best cinematic quality, photorealistic highly detailed 8k raw photo, volumetric lighting, volumetric shadows, man, Mimicking a clumsy ballet dancer, jungle background
+
+
+### Assassin's Creed 
 
 #### Alexios
 
@@ -110,6 +146,22 @@ AssaJacob, 1boy, male focus, solo, beard, boots, facial hair, realistic, sitting
 
 ((masterpiece, best quality)),<lora:add_detail:0.8>, <lora:Assa Jacob:0.8>, 
 AssaJacob, 1boy, male focus, solo, beard, victorian, smirk, london
+
+#### Alexios 
+
+alexios in spartan armor and red cape, (jumping:1.2), cinematic, atmospheric, light particles, bokeh, soft lighting, (digital art by Martin Deschambault:1.5) <lora:Nlo_Alexios_v1:0.8>
+
+A (full body:1.3) shot at 8k resolution, splash art, fantastic comic book style, photorealistic, intense look, anatomical photorealistic digital painting portrait of alexios, human (warrior:1.3) in black and gold intricate (heavy armor:1.3) in a (dark and moody universe:1.3), light particle, very detailed skin, very detailed eyes, (elden ring style:1.3), (warhammer style:1.1), concept artist, global illumination, depth of field, splash art, art by artgerm and greg rutkowski and viktoria gavrilenko <lora:Nlo_Alexios_v1:1>
+
+alexios, (angry:1.1), blood stain on face, cinematic, atmospheric, light particles, soft lighting, (digital art by Martin Deschambault, by Dean Cornwell, by Alphonse Mucha:1.2) <lora:Nlo_Alexios_v1:0.8>
+
+alexios, (angry:1.1), cinematic, atmospheric, light particles, soft lighting, (digital art by Martin Deschambault, by Dean Cornwell, by Alphonse Mucha, painterly:1.2) <lora:Nlo_Alexios_v1:0.8>
+
+(digital art by Martin Deschambault, by Dean Cornwell, by Alphonse Mucha, painterly:1.5), Alexios had bronze skin, a strong chin and a fierce determination in his deep brown eyes. He wore long, leather sandals with thick straps and a heavy, wool cape draped over his torso and embroidered with his family crest. He carried two powerful swords, one with a long, curved blade and the other a short, metal shaft studded with iron spikes. Alexios moved with a purposeful stride, his muscles rippling with strength and agility. Every step, every action was motivated by honor and duty. He was a proud spartan mercenary that could not be deterred from his chosen path. cinematic, atmospheric, light particles, soft lighting, in ancient Greece,<lora:Nlo_Alexios_v1:0.8>
+
+alexios looking up, at night, raining, with a mountain background, cinematic, atmospheric, light particles, soft lighting, digital art by Martin Deschambault <lora:Nlo_Alexios_v1:1>
+
+alexios playing in the water, smile, gold laurel headwreath, topless, bare shoulders, loincloth, tan, dark skinned male, <lora:Nlo_Alexios_v1:1>
 
 ### Alan Wake 2
 
@@ -254,6 +306,8 @@ BrianBattler,  1guy,  muscular,  face paint,  male,  blue jersey,  shoulder armo
 
 (masterpiece:1.2, best quality),  KOFOrochi, 1man, muscular, white hair, medium hair, body paint, hands raised, white pants, belt, green abstract background <lora:KOFOROCHI:0.65>
 
+ 
+
 #### Kim Kaphwan
 
 kimkaphwan, dobok, taekwondo uniform, fingerless gloves, at the river, fighting stance, (detailed:1.2),  atmospheric, <lora:KimKaphwan:1>
@@ -279,6 +333,14 @@ kdash, 1boy, solo, necklace, black leather jacket, leather pants, masterpiece, s
 kdash, 1boy, solo, necklace,  detailed face, black leather jacket, black pants, sweaty skin, detailed face, sunglasses, red glove, masterpiece, detailed eyes, sea, (full body:1.3), (black boots:1.2), on sand, beach, palms, highres, sharp picture, mood lighting, white hair, intricate details, handsome man , detailed eyes, <lora:KDashKOF:1>  
 
 kdash, 1boy, solo, necklace, shirtlesss, leather pants, masterpiece, detailed eyes, sunglasses, sweaty, smirk, hands behind head, bulge:1.2, medium shot, lying on bed, bedroom,  highres, sharp picture, mood lighting, white hair, intricate details, erotic picture, handsome man , detailed eyes, lora:KDashKOF:1>
+
+#### Kyo Kusanagi
+
+nestskyo, 1guy, solo, white jacket, fingerless gloves, black t-shirt, cross t-shirt, denim pants, medium shot, brown eyes, charming, masterpiece, highres, detailed face,detailed eyes, detailed face,detailed eyes, smirk, at the dojo <lora:KyoNests:1>
+
+nestskyo, 1guy, solo, white jacket, fingerless gloves, black t-shirt, cross t-shirt, denim pants, medium shot, brown eyes, portrait, , handsome, smiling, charming, masterpiece, highres, detailed face,detailed eyes, smirk, at the church, <lora:KyoNests:1>
+
+nestskyo, 1guy, solo, (white jacket:1.1), chains, denim pants, brown eyes,  shirtless:1.3, pectorals, abs, bulge:1.1, laying on bed, relaxing,oily skin, smirk, hands behind head, handsome, charming, masterpiece, highres, detailed face, detailed eyes, erotic feelings, pillow, perfect picture, highly detailed, high contrast , colored, bright colors, perfect color palette,<lora:KyoNests:0.95>
 
 ### Grimmjow Jaegerjaquez 
 
@@ -889,11 +951,16 @@ GilgameshTopless, solo, short hair, blonde hair, red eyes, 1boy, jewelry, weapon
 
 ### 王者荣耀/Honor of kings
 
-#### Gaun yu(关羽-百相守梦
+#### Gaun yu 关羽-百相守梦
 
 guanyu,white bangs,Streaked hair,1boy,masterpiece, best quality,face, long beard,<lora:guanyu-3-000008:1>
 
 guanyu,white bangs,Streaked hair,1boy,muscular,masterpiece, best quality, long beard,<lora:guanyu-3-000008:1>
+
+#### Liu bei 刘备-百相守梦
+
+liubei,public hair,bulge,nude,muscular,white hair,ponytail,red mark,1boy,masterpiece, best quality,<lora:liubei-3-000008:0.7>,
+outdoor
 
 ### 王牌战士/Ace Force
 
@@ -1002,4 +1069,222 @@ masterpiece, best quality, movie still, 1boy, solo, male focus, looking at viewe
 (masterpiece, best quality:1.3), <lora:add_detail:0.5> .<lora:KerryEurodyneCyber:0.8>,KerryEurodyneCyber, 1boy, solo, white hair, cyberpunk, vibrant street art district, twilight, colorful and artistic with murals illuminated by fading daylight
 
 (masterpiece, best quality:1.3), <lora:add_detail:0.5>, <lora:KerryEurodyneCyber:0.7>,KerryEurodyneCyber, 1boy, solo, white hair, cyberpunk, portrait
+
+### Fire Emblem: Blazing Blade
+
+#### Jaffar 
+
+(masterpiece,best quality:1.2),1boy,jaffarfe,standing,holding dagger,fingerless gloves,cowboy shot,headband,sleeveless,tattoo,midriff,navel,cape,cloak,headband,pants,looking at viewer,(indoors,in dark castle:1.2),expressionless,<lora:JaffarFE:0.85>, 
+
+### Tekken
+
+#### Jin Kazama
+
+masterpiece, best quality, male focus, jin kazama, jacket, fingerless gloves <lora:jin_kazama-000018:0.9>
+
+masterpiece, best quality, male focus, jin kazama, jacket, zipper, neon lights, <lora:jin_kazama-000018:0.7> <lora:blade-runner:0.5>
+
+masterpiece, best quality, male focus, jin kazama, jacket, fingerless gloves, looking at viewer,  <lora:jin_kazama-000018:0.8> <lora:blade-runner:0.6>
+
+masterpiece, best quality, male focus, jin kazama, jacket, zipper, neon lights, fighting stance, pants, fingerless gloves, shirt, boots,  <lora:jin_kazama-000018:0.7> <lora:blade-runner:0.35>
+
+masterpiece, best quality, male focus, jin kazama, muscular man walking to <lora:jin_kazama-000018:0.3>  <lora:Jojowalk:1>
+
+masterpiece, best quality, male focus, jin kazama, jacket, zipper, fighting stance, fingerless gloves, shirt, <lora:jin_kazama-000018:0.5>  <lora:Muscle:1>
+
+Jin_Kazama_Tekken, solo, black hair, standing, male focus, muscular, abs, pectorals, topless male, <lora:Jin_Kazama_Tekken3:0.7>, forest, naked, nude, penis
+
+Jin_Kazama_Tekken, solo, black hair, 1boy, navel, male focus, barefoot, pants, muscular, abs, gauntlets, topless male <lora:Jin_Kazama_Tekken3-07:0.7>, tattoo, japanese room, ultra realistic,32k,RAW photo,(high detailed skin:1.2), 8k uhd, dslr, soft lighting, high quality, film grain
+
+Jin_Kazama_Tekken, solo, black hair, 1boy, navel, male focus, barefoot, pants, muscular, abs, red gauntlets, topless male <lora:Jin_Kazama_Tekken3-07:0.7>, japanese room, kneeling, red eyes, masterpiece, high quality, highres, ultra realistic,32k,RAW photo,(high detailed skin:1.2), 8k uhd, dslr, soft lighting, high quality, film grain
+
+#### Miguel Caballero
+
+FlynnRider,  1guy,  necklaces,  white shirt,  red stash,  matador pants,  facial  hair,  belt,  pants,  boots,  best quality:1.2),  smirk,  masterpiece,  highness,  perfect face,  perfect picture,  detailed eyes,  sharp focus,  standing,  waterfall, MiguelTekken, <lora:MiguelTekken-DocStasis:1.1>
+
+FlynnRider,  1guy,  necklaces,  orange shirt,  belt,  pants,  medium shot,  best quality:1.2),  smirk,  masterpiece,  highness,  perfect face,  perfect picture,  detailed eyes,  sharp focus,  standing,  forest,  , MiguelTekken, <lora:MiguelTekken-DocStasis:1.1>
+
+1guy,  at the city,  fingerless gloves,  red jacket,  shirt,  ,  stubble,  medium shot,  necklaces,  ( best quality:1.2),  smirk,  masterpiece,  highness,  perfect face,  perfect picture,  detailed eyes,  sharp focus,  , MiguelTekken,<lora:MiguelTekken-DocStasis:1.1>
+
+1guy,  at the park,  stubble,  relaxing,  red jacket,  trousers,  belt, ,  medium shot,  necklaces,  (best quality:1.2),  smirk,  masterpiece,  highness,  perfect face,  perfect picture,  detailed eyes,  sharp focus,  , MiguelTekken, <lora:MiguelTekken-DocStasis:1.1>
+
+FlynnRider,  1guy,  holding beer pint,  curly hair,  at the pub,  medium shot,  necklaces,  orange shirt,  best quality:1.2),  smirk,  masterpiece,  highness,  perfect face,  perfect picture,  detailed eyes,  sharp focus,  , MiguelTekken, <lora:MiguelTekken-DocStasis:1.1>
+
+FlynnRider,  1guy,  denim shorts,  curly hair,  at poolside,  medium shot,  necklaces,  orange shirt,  best quality:1.2),  smirk,  masterpiece,  highness,  perfect face,  perfect picture,  detailed eyes,  sharp focus,  , MiguelTekken, <lora:MiguelTekken-DocStasis:1.1>
+
+1guy,  white shirt,  matador pants,  red stash,  cowboy shot,  matador clothes,  ,  at the waterfall,  skin,  smirk,  medium shot,  necklaces,  (best quality:1.2),  smirk,  masterpiece,  highness,  perfect face,  perfect picture,  detailed eyes,  sharp focus,  , MiguelTekken, <lora:MiguelTekken-DocStasis:1.1>
+
+FlynnRider,  1guy,  shirtless,  facial  hair,  belt,  pants,  boots,  best quality:1.2),  smirk,  masterpiece,  highness,  perfect face,  perfect picture,  detailed eyes,  sharp focus,  kneeling,  beach , MiguelTekken,<lora:MiguelTekken-DocStasis:1.1>
+
+### Jujutsu Kaisen
+
+#### Toji Fushiguro
+
+(masterpiece, best quality:1.2), <lora:jjk_fushigurotouji-11:1.0>, green theme, cowboy shot, solo, male focus, 1boy, fushiguro toji, muscular male, evil grin, looking at viewer, black shirt, short sleeves, pants
+
+(masterpiece, best quality:1.2), <lora:jjk_fushigurotouji-11:0.9>, cowboy shot, solo, male focus, 1boy, fushiguro toji, muscular male, expressionless, looking at viewer, hand on hip, black shirt, short sleeves, pants, monster
+
+### Dynasty Warriors
+
+#### Lu Meng
+
+(((full body view))), lumeng, dw7outfit, (((a man))), (((thinking pose))), 8k, unreal engine, octane render, by seunghee lee, Jang Tae-Hwan, Chocofing R, seungho lee, trending on pixiv, fanbox, skeb, masterpiece, smooth soft skin, big dreamy eyes, beautiful intricate colored hair, symmetrical, anime wide eyes, soft lighting, concept art, digital painting, <lora:lumeng:0.4>
+
+anime, ((medium up of lumeng)), dw7outfit, a man, (((thinking pose))), dark brown hair, goatee beard, by seunghee lee, Jang Tae-Hwan, Chocofing R, seungho lee, smooth soft skin, big dreamy eyes, beautiful intricate colored hair, symmetrical, anime wide eyes, soft lighting, concept art, digital painting, detailed face, <lora:lumeng:0.4>
+
+### SSBU
+
+#### Little Mac
+
+Little_Mac, solo, black hair, 1boy, black hair, male focus, thighs, shorts, spread legs, muscular, thick thighs, abs, tank top, pectorals, muscular male, bara, bulge, green shorts, boxing gloves, green gloves, <lora:Little_Mac-03:0.7>
+
+Little_Mac, solo, black hair, 1boy, black hair, male focus, thighs, spread legs, muscular, thick thighs, abs, tank top, pectorals, muscular male, bara, boxing gloves, green gloves, nude, naked, penis,<lora:Little_Mac-03:0.7>
+
+Little_Mac, solo, black hair, 1boy, black hair, male focus, standing, muscular, pectorals, muscular male, bara, boxing gloves, green gloves, (completely nude, naked, penis), <lora:Little_Mac-03:0.7>, green eyes
+
+### Mulan 1998
+
+li_shang, solo, shirtless, sweaty,  soft smirk, hands behind head, hairy armpits, flexing, large pectorals, muscular, big biceps, sexy, flirty, looking at you,  grey pants, shirtless, <lora:li_shang-30:0.65>
+
+li_shang,  upper body focus, cape, long sleeves, armor, serious look, muscular, mountain background, grass field, close up,   <lora:li_shang-30:0.65>,  <lora:add_detail:1>
+
+li_shang, shirtless, muscular male, broad shoulders, large pectorals, big biceps, grass field, mountains in the background,  ultra realistic, front view,  sweat,   <lora:li_shang-30:0.65>,  <lora:add_detail:1>
+
+li_shang, shirtless, muscles, broad shoulders, large pectorals, big biceps, modern street,  ultra realistic, (crossed arms), front view,  sweat,   <lora:li_shang-30:0.65>,  <lora:add_detail:1>
+
+li_shang, solo, shirtless, soft smirk, hands behind head, hairy armpits, flexing, large pectorals, muscular, big biceps, sexy, flirty, looking at you,  grey pants,  ((hairy chest)), hairy body, <lora:li_shang-30:0.65>
+
+li_shang, solo, long hair, looking at viewer, wet, muscular, large penis, erection, navel hair, big biceps, lake, night,  <lora:li_shang-30:0.65>,  <lora:BettercocksFlaccid:0.5>
+
+li_shang, solo, inside tent, sitting, muscular, hot, sexy, desperate face, ejaculation, large penis, erection, big biceps, broad shoulders, large pectorals,  <lora:li_shang-30:0.65>,  <lora:BettercocksFlaccid:0.5>
+
+### Tomorrowverse (DC Comics)
+
+#### Lex Luthor
+
+<lora:Lex Luthor (Tomorrowverse)_v1:1> lex luthor, bald, green eyes, green jacket, black shirt, turtleneck, brown pants, upper body, cityscape background
+
+### Leslie Cheung 張國榮
+
+a man with a black shirt, masterpiece, best quality, 1boy, man, simple background, solo, portrait, black shirt, lesliecheung, (high detailed skin:1.2), 8k uhd, dslr, soft lighting, high quality, film grain, Fujifilm XT3,<lora:lesliecheung_v4:1>
+
+###  Adventure Time: Fionna & Cake
+
+#### Marshall Lee
+
+marshall_lee_fionna, young man, 23 years old, muscular, large pectorals, broad shoulders,  shirt, black hair, red jacket, white shirt, upper body, dreadlocks, ponytail,, dark skin, smiling, building, couch,  <lora:marshall_lee_fionna-30:0.6>
+
+marshall_lee_fionna, 1boy, young man, 23 years old, dark skin, stubble, muscular, broad shoulders, short hair, black hair, dreadlocks, tank top, looking at you, arrogant smirk, room, jeans, <lora:marshall_lee_fionna-30:0.6>
+
+marshall_lee_fionna, 1boy, young man, 23 years old, dark skin, stubble, muscular, broad shoulders, short hair, black hair, dreadlocks, shirtless, looking at you, arrogant smirk, room, jeans, <lora:marshall_lee_fionna-30:0.6>
+
+marshall_lee_fionna, hands behind head, 1boy, young man, 23 years old, dark skin, stubble, muscular, broad shoulders, short hair, black hair, dreadlocks, shirtless, looking at you, arrogant smirk, room, jeans, <lora:marshall_lee_fionna-30:0.6>
+
+### Judgment
+
+#### Masaharu Kaito
+
+(1 image only),  solo male,  1boy,  Masaharu Kaito,  Yakuza,  38 years old,  Asian,  Japanese,  brown eyes,  black hair,  short hair,  cropped black hair,  chinstrap beard,  small scar cuts through left eyebrow,  handsome,  tall and muscular build,  orange and yellow and black floral silk button down shirt,  light grey dress pants,  black slip-on leather loafers,  fit body,  mature,  manly,  hunk,  masculine,  virile,  confidence,  charming,  alluring,  upper body in frame,  night at Kabukicho Tokyo,  perfect anatomy,  perfect proportions,  8k,  HQ,  (best quality:1.5,  hyperrealistic:1.5,  photorealistic:1.4,  madly detailed CG unity 8k wallpaper:1.5,  masterpiece:1.3,  madly detailed photo:1.2),  (hyper-realistic lifelike texture:1.4,  realistic eyes:1.2),  high_resolution,  picture-perfect face,  perfect eye pupil,  detailed eyes,  perfecteyes,  perfecteyes,  dutch angle,<lora:Masaharu_240205_10_lora:1>
+
+(1 image only),  solo male,  1boy,  Masaharu Kaito,  Yakuza,  38 years old,  Asian,  Japanese,  brown eyes,  black hair,  short hair,  cropped black hair,  chinstrap beard,  small scar cuts through left eyebrow,  handsome,  (topless,  shirtless),  light grey dress pants,  black slip-on leather loafers,  fit body,  mature,  manly,  hunk,  masculine,  virile,  confidence,  charming,  alluring,  upper body in frame,  night at Kabukicho Tokyo,  perfect anatomy,  perfect proportions,  8k,  HQ,  (best quality:1.5,  hyperrealistic:1.5,  photorealistic:1.4,  madly detailed CG unity 8k wallpaper:1.5,  masterpiece:1.3,  madly detailed photo:1.2),  (hyper-realistic lifelike texture:1.4,  realistic eyes:1.2),  high_resolution,  picture-perfect face,  perfect eye pupil,  detailed eyes,  perfecteyes,  perfecteyes,  dutch angle,<lora:Masaharu_240205_10_lora:1>
+
+(1 image only),  solo male,  1boy,  Masaharu Kaito,  Yakuza,  38 years old,  Asian,  Japanese,  brown eyes,  black hair,  short hair,  cropped black hair,  chinstrap beard,  small scar cuts through left eyebrow,  handsome,  (topless,  shirtless),  short and tight fundoshi,  (pure red fundoshi:1.2),  bulge,  (bare groin),  bare thigh,  bare calf,  bare buttocks,  abs,  show abdomen,  ,  fit body,  mature,  manly,  hunk,  masculine,  virile,  confidence,  charming,  alluring,  upper body in frame,  night at Kabukicho Tokyo,  perfect anatomy,  perfect proportions,  8k,  HQ,  (best quality:1.5,  hyperrealistic:1.5,  photorealistic:1.4,  madly detailed CG unity 8k wallpaper:1.5,  masterpiece:1.3,  madly detailed photo:1.2),  (hyper-realistic lifelike texture:1.4,  realistic eyes:1.2),  high_resolution,  picture-perfect face,  perfect eye pupil,  detailed eyes,  perfecteyes,  perfecteyes,  dutch angle, Fundoshi, sitting girl,<lora:Masaharu_240205_10_lora:1>
+
+### Max Payne 3
+
+#### Max Payne
+
+<lora:max_payne-10:0.7>, maxMP3_soul3142, beard, facial hair, male focus, blood, manly,realistic, bald, mustache
+
+<lora:max_payne-10:0.6>, maxMP3_soul3142, 1boy, solo, male focus, facial hair, blood, beard, mustache, tank top, blood on face, manly, muscular, realistic
+
+<lora:max_payne-10:0.7>, maxMP3_soul3142, 1boy, solo, male focus, realistic, facial hair, night, beard
+
+<lora:max_payne-10:0.7>, maxMP3_soul3142, 1boy, male focus, solo, facial hair, beard, manly, mustache
+
+<lora:max_payne-10:0.6>, maxMP3_soul3142, 1boy,  male focus, solo, blood, facial hair, manly, beard, brown hair
+
+<lora:max_payne-10:0.7>, maxMP3_soul3142, 1boy, solo, male focus, weapon, gun, handgun, bald, dual wielding, facial hair, beard, manly, holding, realistic, tank top, muscular, blood
+
+<lora:max_payne-13:0.7>, maxMP3_soul3142, facial hair,  tank top, beard
+
+<lora:max_payne-10:0.7>, maxMP3_soul3142,  facial hair, bald, beard, shirt, looking at viewer, upper body, realistic, closed mouth, hawaiian shirt, open clothes
+
+<lora:max_payne-10:0.7>, maxMP3_soul3142, 1boy, looking at viewer, male focus, solo, facial hair, beard, manly, mustache, cowboy shot,
+
+<lora:max_payne-10:0.7>, maxMP3_soul3142, 1boy, male focus, solo, shirt, facial hair, jacket, collared shirt, short hair, formal, beard, upper body, suit, open clothes, closed mouth, looking at viewer, black hair
+
+### Mass Effect: Andromeda
+
+#### Reyes 
+
+((ultra detailed, masterpiece, best quality)), <lora:MEAReyes:0.8>,MEAReyes, 1boy, solo, brown hair, short hair, portrait
+
+((ultra detailed, masterpiece, best quality)), <lora:MEAReyes:0.8>,MEAReyes, 1boy, solo, brown hair, short hair, In an upscale loft with industrial aesthetics, sharp business attire, large windows with city views, standing near a leather couch with a confident look
+
+((ultra detailed, masterpiece, best quality)), <lora:MEAReyes:0.8>,MEAReyes, 1boy, solo, brown hair, short hair, Under a neon-lit city sign, edgy streetwear ensemble, nighttime ambiance, leaning against a graffiti-covered wall with a cool and collected attitude
+
+((ultra detailed, masterpiece, best quality)), <lora:MEAReyes:0.8>,MEAReyes, 1boy, solo, brown hair, short hair, hands on knees, sitting , alien planet
+
+((ultra detailed, masterpiece, best quality)), <lora:MEAReyes:0.8>,MEAReyes, 1boy, solo, brown hair, short hair, Within a bustling city square, business-casual attire, surrounded by urban life, confidently strolling with a coffee cup in hand
+
+((ultra detailed, masterpiece, best quality)), <lora:MEAReyes:0.8>,MEAReyes, 1boy, solo, brown hair, short hair, Within a traditional tatami room, sleek yakuza attire, low table with a spilled glass of whiskey, engaged in an intense conversation
+
+
+
+### Attack on Titan
+
+#### Mike Zacharias
+
+mike zacharias, blonde, muscular, hairy, shirtless, looking at you, standing, hairy chest, large pectorals, stubble, living room, daylight, sweaty, jeans, bulge,<lora:Mike_Zacharias_-_Attack_on_Titan:1> 
+
+mike zacharias, muscular, shirtless, hairy, stubble, blonde hair, looking at you, standing, beach, daylight,<lora:Mike_Zacharias_-_Attack_on_Titan:1> 
+
+mike zacharias, looking at you, muscular, large pectorals, biceps, hairy, crossed arms, hairy arms, tank top, shorts, sweaty, daylight, park,<lora:Mike_Zacharias_-_Attack_on_Titan:1> 
+
+mike zacharias, blonde, muscular, hairy, shirtless, looking at you, standing, hairy chest, large pectorals, stubble, living room, daylight, sweaty, jeans, bulge,best quality,<lora:Mike_Zacharias_-_Attack_on_Titan:1> 
+
+mike zacharias, blonde, muscular, hairy, shirtless, looking at you, standing, hairy chest, large pectorals, stubble, living room, daylight, sweaty, nude, large penis, erection,<lora:Mike_Zacharias_-_Attack_on_Titan:1> 
+
+mike zacharias, naked, locker room, flexing muscles, hairy chest, ultra realistic, hairy arms, sweat, large penis, erection, ejaculation, blonde hair, masturbating,<lora:Mike_Zacharias_-_Attack_on_Titan:1> 
+
+mike zacharias, pole dancer, hairy, muscular, broad shoulders, biceps, (hairy chest:1.25), looking at you, shirtless, stubble, sweaty, nude, large penis, throbbing cum, cum dripping, ((hairy)), best quality, blonde hair, arrogant smug,<lora:Mike_Zacharias_-_Attack_on_Titan:1> 
+
+#### Nile Dok
+
+(1 image only),  solo male,  1boy,  Nile Dok,  Attack on Titan,  lean,  facial hair,  light mustache,  light goatee,  dark brown eyes,  black hair,  short hair,  paradis military uniform,  handsome,  mature,  charming,  alluring,  upper body in frame,  perfect anatomy,  perfect proportions,  8k,  HQ,  (best quality:1.2,  hyperrealistic:1.2,  photorealistic:1.2,  masterpiece:1.3,  madly detailed photo:1.2),  (hyper-realistic lifelike texture:1.2,  realistic eyes:1.2),  high_resolution,  perfect eye pupil,  dutch angle,<lora:Nile_240209_ep10_lora:1> 
+
+(1 image only),  solo male,  1boy,  Nile Dok,  Attack on Titan,  lean,  facial hair,  light mustache,  light goatee,  dark brown eyes,  black hair,  short hair,  paradis military uniform,  bolo tie,  handsome,  mature,  charming,  alluring,  upper body in frame,  perfect anatomy,  perfect proportions,  8k,  HQ,  (best quality:1.2,  hyperrealistic:1.2,  photorealistic:1.2,  masterpiece:1.3,  madly detailed photo:1.2),  (hyper-realistic lifelike texture:1.2,  realistic eyes:1.2),  high_resolution,  perfect eye pupil,  dutch angle,<lora:Nile_240209_ep10_lora:1> 
+
+(1 image only),  solo male,  1boy,  Nile Dok,  Attack on Titan,  lean,  facial hair,  light mustache,  light goatee,  dark brown eyes,  black hair,  short hair,  paradis military uniform,  bolo tie,  handsome,  mature,  charming,  alluring,  upper body in frame,  perfect anatomy,  perfect proportions,  8k,  HQ,  (best quality:1.2,  hyperrealistic:1.2,  photorealistic:1.2,  masterpiece:1.3,  madly detailed photo:1.2),  (hyper-realistic lifelike texture:1.2,  realistic eyes:1.2),  high_resolution,  perfect eye pupil,  dutch angle, Nile Dok,<lora:Nile_240209_ep10_lora:1> 
+
+
+
+### モロボシ·ダン 诸星团 MoroboshiDan
+
+a japanese man, 25 years old, handsome,<lora:moroboshidan:1>
+
+
+
+### Musclehunk Billy Herrington
+
+<lora:BulkedUpAIR1.5:0.3>. (face), (close up body shot:0.7), Bodybuilder:1.2, at outdoor military base, sweaty:1.2, , wearing military shorts, (wearing open SWAT vest:1.1), confident, handsome, (((masterpiece))), (((best quality))), <lora:more_details:0.1>, large pecs, big muscles, ((hands on waist),  jock hairstyle:1.2, male, <lora:Musclehunk_Billy_Herrington:1>
+
+<lora:BulkedUpAIR1.5:0.1>. (close up body shot:0.7), at outdoor construction site, sweaty:1.2, , wearing tight shorts, (wearing open construction vest:1.1), confident, handsome, (((masterpiece))), (((best quality))), <lora:more_details:0.25>, (bodybuilder:1.3), large pectorals, big muscles, ((hands on waist), face focus:1.2, <lora:Musclehunk_Billy_Herrington:1>
+
+male, portrait, <lora:BulkedUpAIR1.5:0.4>. (close up body shot:0.7), jock hairstyle, at outdoor gym site, sweaty:1.2, , wearing tight shorts, wearing tight tanktop:1.3, confident, handsome, (((masterpiece))), (((best quality))), <lora:more_details:0.1>, (bodybuilder:1.1), large pectorals, big muscles, ((hands on waist), <lora:Musclehunk_Billy_Herrington:1>
+
+(face focus). (close up shot:0.9), <lora:BulkedUpAIR1.5:0.3>, (masculine:1.4), at outdoor sunny wedding, ((bodybuilder wearing designer formal suit)), sexy pose:1.0, confident, handsome, (((masterpiece))), (((best quality))), <lora:more_details:0.1>, (hands on waist), male, athletic, looking at viewer, smile, big pecs:1.2, <lora:Musclehunk_Billy_Herrington:1.1>
+
+
+
+### Patrick Fillion
+
+#### Naked Justic
+
+Masterpiece, Detailed, Dynamic, Photorealistic, portrait of male twunk, naked_justice, red mask, looking at viewer, handsome face, green eyes, orange hair, smiling, perfect teeth, solo, male focus, clean shaven, <lora:NakedJustice-v1.0-10:0.90>
+
+Masterpiece, Detailed, Dynamic, Photorealistic, male twunk, naked_justice, red mask, red thighhighs, red gloves, huge veiny erection, large veiny testicles, standing in spotlight, hands on hips, heroic pose, looking at viewer, handsome face, green eyes, orange hair, smiling, solo, male focus, indoors,<lora:NakedJustice-v1.0-10:0.90>
+
+Masterpiece, Detailed, Dynamic, Photorealistic, male twunk, naked_justice, red mask, red thighhighs, red gloves, huge thick veiny erect penis, large veiny testicles, standing, hands on hips, heroic pose, looking at viewer, handsome face, green eyes, orange hair, smiling, solo, male focus, daytime, city in background. <lora:NakedJustice-v1.0-10:0.90>
 
