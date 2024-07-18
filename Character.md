@@ -267,9 +267,69 @@ beach background, male focus, (black hair), black eyes, looking at viewer, open 
 
 (masterpiece, best quality:1.2), cowboy shot, solo, male focus, 1boy, dmc3dante, smirk, looking at viewer, coat, fingerless gloves, pants <lora:dmc3_dante-10:1>
 
-(masterpiece, best quality:1.2), solo, male focus, 1boy, dmc3dante, smirk, IncrsUnsheathingAKatanaMeme, sheath, holding sheath, coat, bandeau, fingerless gloves <lora:dmc3_dante-10:1> <lora:ChihiroUnsheathingAKatanaMeme:1>
+(masterpiece, best quality:1.2), solo, male focus, 1boy, dmc3dante, smirk, IncrsUnsheathingAKatanaMeme, sheath, holding sheath, coat, bandeau, fingerless gloves <lora:dmc3_dante-10:1> 
 
+#### Nero
 
+(masterpiece, best quality:1.2), <lora:dmc_nero-10:1>, cowboy shot, solo, male focus, 1boy, nero \(dmc4\), expressionless, closed mouth, looking at viewer, coat, hood, pants, (gloves:1.1)
+
+(masterpiece, best quality:1.2), <lora:dmc_nero-10:1>, cowboy shot, solo, male focus, 1boy, nero \(dmc4\), expressionless, closed mouth, looking at viewer, coat, hood, pants, (gloves:1.1)
+
+(masterpiece, best quality:1.2), <lora:dmc_nero-10:1>, cowboy shot, solo, male focus, 1boy, nero \(dmc5\), smile, closed mouth, looking at viewer, coat, hood, pants, (gloves:1.1)
+
+#### Dante
+
+((ultra detailed, masterpiece, absurdres))
+ <lora:DmCDante:0.9>
+DmCDante, 1boy, solo, short hair, brown hair, portrait
+
+((ultra detailed, masterpiece, absurdres))
+ <lora:DmCDante:0.9>
+DmCDante, 1boy, solo, short hair, brown hair, Mountain lake at twilight, dynamic lighting, reflection of stars, snow-capped peaks
+
+((ultra detailed, masterpiece, absurdres))
+ <lora:DmCDante:0.9>
+DmCDante, 1boy, solo, short hair, brown hair, Twilight on a vineyard, dynamic lighting, grapevines, rolling hills
+
+((ultra detailed, masterpiece, absurdres))
+ <lora:DmCDante:0.9>
+DmCDante, 1boy, solo, short hair, brown hair, Nightclub atmosphere, neon lights, sexy pose against graffiti wall, edgy charisma
+
+((ultra detailed, masterpiece, absurdres))
+ <lora:DmCDante:0.9>
+DmCDante, 1boy, solo, short hair, brown hair, Elegant tuxedo, spotlight on stage, standing confidently, red carpet sophistication
+
+((ultra detailed, masterpiece, absurdres))
+ <lora:DmCDante:0.9>
+DmCDante, 1boy, solo, short hair, brown hair, Sci-fi space explorer outfit, cosmic backdrop, standing with futuristic accessories, exploring the unknown
+
+((ultra detailed, masterpiece, absurdres))
+ <lora:DmCDante:0.9>
+DmCDante, 1boy, solo, short hair, brown hair, High-rise rooftop, city lights backdrop, standing, sleek suit, confident power stance
+
+((ultra detailed, masterpiece, absurdres))
+ <lora:DmCDante:0.9>
+DmCDante, 1boy, solo, short hair, brown hair, Nomadic traveler attire, desert backdrop, dynamic lighting, standing with a worn-out map, adventurer spirit
+
+((ultra detailed, masterpiece, absurdres))
+ <lora:DmCDante:0.9>
+DmCDante, 1boy, solo, short hair, brown hair, Samurai-inspired ensemble, moonlit night, dynamic pose with a katana, stoic and powerful
+
+((ultra detailed, masterpiece, absurdres))
+ <lora:DmCDante:0.9>
+DmCDante, 1boy, solo, short hair, brown hair, Rooftop bar, city skyline, cowboy shot, stylish cocktail attire, confident charisma
+
+((ultra detailed, masterpiece, absurdres))
+ <lora:DmCDante:0.9>
+DmCDante, 1boy, solo, short hair, brown hair, Snow-covered forest at dawn, dynamic lighting, frost-covered branches, serene atmosphere
+
+((ultra detailed, masterpiece, absurdres))
+ <lora:DmCDante:0.9>
+DmCDante, 1boy, solo, short hair, brown hair, Moonlit castle courtyard with dynamic lighting, highlighting detailed stonework, statues, and lush vegetation
+
+((ultra detailed, masterpiece, absurdres))
+ <lora:DmCDante:0.9>
+DmCDante, 1boy, solo, short hair, brown hair, Underwater city ruins with dynamic lighting filtering through the ocean, highlighting detailed architecture and marine life
 
 ### Resident Evil 5
 
@@ -310,6 +370,86 @@ DMC5Dante, 1boy, solo, short hair, white hair, Crystal Cavern, bioluminescent fl
 ((ultra detailed, masterpiece, absurdres))
 <lora:DMC5Dante:0.9>
 DMC5Dante, 1boy, solo, short hair, white hair, Sleek leather jacket, rainy night, dynamic lighting, sexy pose against a wet glass window
+
+#### Nero
+
+((ultra detailed, masterpiece, absurdres))
+<lora:DMC5Nero:0.9>
+DMC5Nero, 1boy, solo, short hair, white hair, blue eyes, portrait
+
+((ultra detailed, masterpiece, absurdres))
+<lora:DMC5Nero:0.9>
+DMC5Nero, 1boy, solo, short hair, white hair, blue eyes, Samurai-inspired ensemble, moonlit night, dynamic pose with a katana, stoic and powerful
+
+((ultra detailed, masterpiece, absurdres))
+<lora:DMC5Nero:0.9>
+DMC5Nero, 1boy, solo, short hair, white hair, blue eyes, Casual chic denim, cityscape background, dynamic lighting, leaning against a graffiti-covered wall, street style attitude
+
+((ultra detailed, masterpiece, absurdres))
+<lora:DMC5Nero:0.9>
+DMC5Nero, 1boy, solo, short hair, white hair, blue eyes, Sci-fi warrior in futuristic armor, standing pose, dynamic lighting, glowing accents, powerful stance
+
+((ultra detailed, masterpiece, absurdres))
+<lora:DMC5Nero:0.9>
+DMC5Nero, 1boy, solo, short hair, white hair, blue eyes, Rooftop bar, city skyline, cowboy shot, stylish cocktail attire, confident charisma
+
+((ultra detailed, masterpiece, absurdres))
+<lora:DMC5Nero:0.9>
+DMC5Nero, 1boy, solo, short hair, white hair, blue eyes, Steampunk-inspired attire, warm tungsten lighting, sitting on a vintage leather chair, retro-futuristic cool
+
+((ultra detailed, masterpiece, absurdres))
+<lora:DMC5Nero:0.9>
+DMC5Nero, 1boy, solo, short hair, white hair, blue eyes, Street dancer in hip-hop attire, dynamic mid-move pose, urban graffiti background, energetic lighting
+
+#### Vergil 
+
+((ultra detailed, masterpiece, absurdres))
+ <lora:DMC5Vergil:0.9>
+DMC5Vergil, 1boy, solo, short hair, white hair, portrait
+
+((ultra detailed, masterpiece, absurdres))
+ <lora:DMC5Vergil:0.9>
+DMC5Vergil, 1boy, solo, short hair, white hair, High-fashion avant-garde ensemble, abstract studio lighting, striking pose, pushing fashion boundaries
+
+((ultra detailed, masterpiece, absurdres))
+ <lora:DMC5Vergil:0.9>
+DMC5Vergil, 1boy, solo, short hair, white hair, Athletic activewear, gym setting with dramatic sidelight, dynamic posing, showcasing fitness
+
+((ultra detailed, masterpiece, absurdres))
+ <lora:DMC5Vergil:0.9>
+DMC5Vergil, 1boy, solo, short hair, white hair, Meadow with wildflowers, dynamic lighting, bokeh, colorful blooms
+
+((ultra detailed, masterpiece, absurdres))
+ <lora:DMC5Vergil:0.9>
+DMC5Vergil, 1boy, solo, short hair, white hair, Tranquil lake surrounded by pine trees, dynamic lighting, reflections, calm waters
+
+((ultra detailed, masterpiece, absurdres))
+ <lora:DMC5Vergil:0.9>
+DMC5Vergil, 1boy, solo, short hair, white hair, Athlete in sportswear, running pose, motion blur, stadium floodlights, determined expression
+
+((ultra detailed, masterpiece, absurdres))
+ <lora:DMC5Vergil:0.9>
+DMC5Vergil, 1boy, solo, short hair, white hair, Vintage aviator in leather flight jacket, sitting pose on wing, sunset lighting, nostalgic feel
+
+((ultra detailed, masterpiece, absurdres))
+ <lora:DMC5Vergil:0.9>
+DMC5Vergil, 1boy, solo, short hair, white hair, Retro 80s synthwave outfit, neon city lights, sitting on a sports car, retro-futuristic coolness
+
+((ultra detailed, masterpiece, absurdres))
+ <lora:DMC5Vergil:0.9>
+DMC5Vergil, 1boy, solo, short hair, white hair, Vintage car garage, classic car backdrop, standing, rolled-up sleeves, mechanic vibe
+
+((ultra detailed, masterpiece, absurdres))
+ <lora:DMC5Vergil:0.9>
+DMC5Vergil, 1boy, solo, short hair, white hair, A bustling, colorful street fair with festive decorations and lively music
+
+((ultra detailed, masterpiece, absurdres))
+ <lora:DMC5Vergil:0.9>
+DMC5Vergil, 1boy, solo, short hair, white hair, Casual urban explorer in cargo pants, standing pose, dynamic city lights, adventurous look
+
+((ultra detailed, masterpiece, absurdres))
+ <lora:DMC5Vergil:0.9>
+DMC5Vergil, 1boy, solo, short hair, white hair, Sunflower field at midday, dynamic lighting, blue sky, yellow blooms
 
 ### Tarzan (1999 movie)
 
@@ -408,7 +548,47 @@ DaysGoneBoozer, 1boy, solo, bald, Amidst a field of tall grass, rugged jeans and
  <lora:DaysGoneBoozer:0.8>
 DaysGoneBoozer, 1boy, solo, bald, swimtrunks, ocean, Seychelles
 
+### Deek 
 
+((ultra detailed, masterpiece, best quality))
+ <lora:DaysGoneDeek:0.8>
+DaysGoneDeek, 1boy, solo, portrait, looking at viewer
+
+((ultra detailed, masterpiece, best quality))
+ <lora:DaysGoneDeek:0.8>
+DaysGoneDeek, 1boy, solo, portrait, Within a traditional tatami room, sleek yakuza attire, low table with a spilled glass of whiskey, engaged in an intense conversation
+
+((ultra detailed, masterpiece, best quality))
+ <lora:DaysGoneDeek:0.8>
+DaysGoneDeek, 1boy, solo, portrait, On a sleek rooftop bar, casual yet stylish streetwear, city lights illuminating the night, leaning against a chic bar counter
+
+((ultra detailed, masterpiece, best quality))
+ <lora:DaysGoneDeek:0.8>
+DaysGoneDeek, 1boy, solo, portrait, In an upscale loft with industrial aesthetics, sharp business attire, large windows with city views, standing near a leather couch with a confident look
+
+((ultra detailed, masterpiece, best quality))
+ <lora:DaysGoneDeek:0.8>
+DaysGoneDeek, 1boy, solo, portrait, Under the glow of a streetlamp, fitted leather jacket, casual yet stylish, a glimpse of tattoos visible, hands in pockets with a nonchalant pose
+
+((ultra detailed, masterpiece, best quality))
+ <lora:DaysGoneDeek:0.8>
+DaysGoneDeek, 1boy, solo, portrait, Under a neon-lit city sign, edgy streetwear ensemble, nighttime ambiance, leaning against a graffiti-covered wall with a cool and collected attitude
+
+((ultra detailed, masterpiece, best quality))
+ <lora:DaysGoneDeek:0.8>
+DaysGoneDeek, 1boy, solo, portrait, On a dramatic cliffside, rugged outdoor attire, windswept hair, overlooking a breathtaking landscape with an adventurous spirit
+
+### Lito Perezito's Reed 900
+
+#### Douglas Reed
+
+douglas_reed,  mature man,  beard,  brown hair,  very muscular,  big biceps,  large shoulders,  big pectorals,  strong arms,  crossed arms,  (((tank top)),  short sleeves,  jeans,  living room,  arrogant smile,  looking at you,  daylight, <lora:add_detail:0.800000>, , <lora:more_details:0.800000>, , <lora:douglas_reed-20:0.550000>
+
+douglas_reed,  mature man,  beard,  brown hair,  very muscular,  (((collared shirt))),  short sleeves,  jeans,  living room,  arrogant smile,  looking at you,  daylight, <lora:add_detail:0.800000>, , <lora:more_details:0.800000>, , <lora:douglas_reed-20:0.650000>
+
+douglas_reed,  (((arrogant smirk))),  (evil sight),  mature man,  beard,  brown hair,  very muscular,  big biceps,  large shoulders,  big pectorals,  strong arms,  hairy armpits,  hand behind head,  sitting,  big penis out,  leaking cum,  erection,  ,  (((tank top)),  short sleeves,  jeans,  living room,  arrogant smile,  looking at you,  daylight,<lora:douglas_reed-20:0.650000>
+
+douglas_reed, ((hand behind head)),(((arrogant smirk))), (evil sight), mature man, beard, brown hair, very muscular, big biceps, large shoulders, big pectorals, strong arms, hairy armpits, sitting, big penis out, leaking cum, erection, , (((tank top)), short sleeves, jeans, living room, arrogant smile, looking at you, daylight, <lora:add_detail:0.8>, <lora:more_details:0.8>, <lora:douglas_reed-20:0.6>
 
 
 
