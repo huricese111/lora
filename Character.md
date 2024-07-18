@@ -26,6 +26,34 @@ ace, cowboy shot, solo, 1boy, black hair, hat, jewelry, belt, necklace, grin, ta
 
 ace, cowboy shot, solo, 1boy, black hair, hat, jewelry, belt, necklace, tattoo, scar, abs, fire, (not smiling:1.2) pectorals, freckles, (topless male:1.2), (natural light:1.2), beach, (ivory skin:1.2), pyrokinesis, <lora:Ace:0.7>
 
+#### Sanji
+
+sanjiop, handsome man in front of (clean plain yellow background:1), one model, studio portrait, medium close-up, detailed skin, pores, goosebumps, scaled skin, sony alpha, advertising photography, bright high-key lighting, professional headshot, smirk, black blazer, tie <lora:OnePiece_Sanji_V1-08:0.9>
+
+closeup upper body portrait of handsome man sanjiop, wearing a jacket, (bisexual lighting:1.15), promotional photograph, (hdr),sharp focus, (cinematic), soothing tones, exposure blend, rim lighting, looking at viewer <lora:OnePiece_Sanji_V1-08:0.8>
+
+portrait of handsome man sanjiop, natural skin texture, 24mm, 4k textures, soft cinematic light, (hdr:1.2), intricate, elegant, highly detailed, sharp focus, (cinematic:1.3), soothing tones, insane details, intricate details, hyperdetailed, exposure blend, indoors, wearing black blazer, (shirtless:1.1) <lora:OnePiece_Sanji_V1-08:0.8>
+
+#### Smoker 
+
+(masterpiece, best quality:1.2), <lora:onepiece_smoker-10:1.0>, cowboy shot, solo, male focus, 1boy, smoker \(one piece\), mature male, muscular male, looking at viewer, crossed arms, smoking, cigar, sunglasses, jacket, epaulettes, pants
+
+#### Roronoa Zoro
+
+(masterpiece, best quality:1.2), <lora:onepiece_zoro-10:1>, cowboy shot, solo, male focus, 1boy, roronoa zoro, scar, muscular male, grin, looking at viewer, (dual wielding:1.2) katanas, crossed arms, japanese clothes, green kimono
+
+(masterpiece, best quality:1.2), <lora:onepiece_zoro-10:1>, cowboy shot, solo, male focus, 1boy, roronoa zoro, scar, muscular male, grin, looking at viewer, one eye closed, scar across eye, crossed arms, japanese clothes, green kimono
+
+2male, muscular male,  moan, handsome, exhausted (realistic, masterpiece, best quality, detail eye,  smooth:1.3), full naked, penis, sweaty, cum, dungeon, dog collar, anal sex, orgasm, erection, bend over, zoro, from side<lora:onepiece_zoro-10:1>
+
+deep jungle,  handsome face,  (zoro_optimize:1.2), scar across left eye, tentacle sex, plant tentacle , huge green tentacle in ass, arms up, exhausted, big bugle, tentacles on body, sweat, (scar_optimize:1.2),(plant tentacles_optimize:1.2), anal penetration,  huge tentacle in ass, (achieve anal penetration), stare to viewer, sweat, oily, wet, cum, plant tentacle pit , orgasm, huge tentacle in penis, ejaculation (achieve blowjob),  full naked, muscular, strong arms, bicep, abs, big pectorals, exhausted, saliva, big pregnant<lyco:Oviposition_Pony:1><lora:onepiece_zoro-10:1>
+
+roronoa zoro, green hair, scar across right eye, single earing, scar blade on chest, naked, male focus, solo focus, on bed, male, hairy, beefy, scruffy, manly, multiple boys, 2boys, penis, multiple penises, anal, sex, erection, uncensored, blush, on back, lying, testicles, large pectorals, thick thighs, muscular male, short hair, brown hair, happy sex, moaning, ejaculation, cum in ass, ejaculating while penetrated, cum on body, sweat, brown eyes, armpits, looking at viewer,  bottomless, spread legs, wet, sweat, oily<lora:onepiece_zoro-10:1>
+
+(masterpiece, best quality:1.2),<lora:onepiece_zoro-10:1.3>,roronoa zoro,muscular male,scar,scar across eye,japanese clothes,green kimono,1man, adult,solo,(green hair:1.2),(scar across left eye:1.3),cowboy shot,crossed arms, sitting on tatami,japanese temple background,
+
+Highly detailed, High Quality, Masterpiece, beautiful, <lora:UnlimitedBladeWorksV0.3:0.8>, (Staff:1.2), 1boy, solo, roronoa zoro, muscular male, scar, scar across eye, japanese clothes, green kimono, green hair, <lora:Char_OnePeace_Zoro:1>, (detailed face and eyes:1.3)
+
 ### Yakuza (龍が如く)
 
 #### Akiyama Shun (秋山 駿)
@@ -193,7 +221,7 @@ ban (7), solo, looking at viewer, smile, short hair, open mouth, simple backgrou
 
 ban (7), looking at viewer, short hair, open mouth, red eyes, 1boy, navel, nipples, grey hair, male focus, nude, sweat, multiple boys, solo focus, tongue, 2boys, sex, tongue out, completely nude, muscular, fangs, scar, abs, bottle, pectorals, muscular male, spiked hair, sex from behind, anal, yaoi, scar on face, toned, doggystyle, candle, toned male, <lora:Ban_The_seven_deadly_sins-02:1>, smile, open mouth, forest
 
-### Final Fantasy XVI
+### Final Fantasy 
 
 #### Barnabas Tharmr
 
@@ -204,6 +232,24 @@ Best quality,masterpiece,ultra high res,1boy,barnabas_tharmr,looking at viewer,u
 Best quality,masterpiece,ultra high res,1boy,barnabas_tharmr,looking at viewer,full body,(barnabas_armor:1.2),<lora:barnabas:1>
 
 Best quality,masterpiece,ultra high res,1boy,barnabas_tharmr,looking at viewer,full body,(barnabas_outfit:1.2),<lora:barnabas:1>
+
+#### Noctis Lucis Caelum 
+
+masterpiece, best quality, noctis, black jacket, fingerless gloves, black shirt, belt, cowboy shot, sky, desert,<lora:noctis-nvwls-v1-final:0.9>
+
+masterpiece, best quality, noctis, shirtless, black pants, beach, water, standing, smile,<lora:noctis-nvwls-v1-final:0.9>
+
+best quality, Mature male, Sitting, <lora:noctis-nvwls-v1-final:.9> ,noctis, black jacket, fingerless gloves, black shirt, belt, black pants, boots
+
+masterpiece,best quality,Highres,Realistic,RAW photo,1boy,noctis,yaoi,18 years old,very very handsome,perfect face,cute face,extremly detailed face,fingerless gloves,nude,pecs,full body,penis,ornate futuristic castle background,Professional photography,Sharp focus,8k, <lora:noctis-nvwls-v1-final:.9>
+
+masterpiece,best quality,Highres,Realistic,RAW photo,1boy,noctis,yaoi,18 years old,no shirt,nude,very very handsome,perfect face,cute face,extremly detailed face,perfect hands,5 fingers,fingerless gloves,pecs,full body,penis,ornate futuristic castle background,Professional photography,Sharp focus,8k,lora:noctis-nvwls-v1-final:.9
+
+masterpiece,best quality,Highres,Realistic,RAW photo,1boy,noctis,yaoi,18 years old,no shirt,nude,very very handsome,perfect face,cute face,extremly detailed face,beautiful and detailed eyes,perfect hands,5 fingers,fingerless gloves,pecs,full body,large penis,erection,ornate futuristic castle background,Professional photography,Sharp focus,8k,lora:noctis-nvwls-v1-final:.9
+
+masterpiece, best quality, Highres, Realistic, RAW photo, 1boy, noctis, yaoi, 18 years old, very very handsome, perfect face, cute face, fingerless gloves, nude, pecs, full body, penis, ornate futuristic castle background,lora:noctis-nvwls-v1-final:.9
+
+best quality, solo, mature male focus, looking off into the distance, <lora:noctis-nvwls-v1-final:.9> noctis, black jacket, fingerless gloves, black shirt, belt, black pants, boots
 
 ### Batman
 
@@ -620,6 +666,24 @@ creedo_jacob, solo, goatee, hairy armpits, looking at viewer, hairy chest, short
 
 <lora:Damon_Baird:0.75> damon_baird, standing, armor, living room, television
 
+#### OG Marcus Fenix
+
+og_marcus_fenix, muscular, holding a gun, armor, fire, mountain, lava, dramatic, looking at viewer, <lora:OG_Marcus_Fenix-15:0.87>
+
+og_marcus_fenix, looking at viewer, sitting down on chair, laptop, sci-fi room, bright light, t-shirt, shirt, jeans, bandana, coding, computer, <lora:OG_Marcus_Fenix:0.85>
+
+og_marcus_fenix, looking at viewer, tank top, necklace, sitting down on rocks, lush mountain, black bandana, <lora:OG_Marcus_Fenix:0.85>
+
+og_marcus_fenix, looking at viewer, nsfwEM, bathroom, shower, water, wearing towel, short hair, muscular,<lora:OG_Marcus_Fenix:0.85>
+
+og_marcus_fenix, looking at viewer, nsfwEM, bathroom, shower, water, wearing towel, short hair, muscular，<lora:OG_Marcus_Fenix:0.85>
+
+og_marcus_fenix, looking at viewer, standing, nsfwEM, penis, muscular, bedroom, very short hair, bare chest, bare shoulder,<lora:OG_Marcus_Fenix:0.85>
+
+og_marcus_fenix, looking at viewer, pov from above, laying down, anal, nsfwEM, penis, muscular, necklace, bandana, blush, angry, grinning teeth,<lora:OG_Marcus_Fenix:0.85>
+
+og_marcus_fenix, looking at viewer, pov from above, laying down, anal, nsfwEM, penis, muscular, necklace, bandana, blush, angry, grinning teeth, cum, <lora:OG_Marcus_Fenix:0.85>
+
 ### League of Legends
 
 #### Darius
@@ -862,6 +926,14 @@ masterpiece, best quality,  <lora:ganondorf-nvwls-v1:0.9> ganondorf, earrings, c
 
 masterpiece, best quality, <lora:ganondorf-nvwls-v1:0.8> ganondorf, earrings, armor, dark skin, armored legwear, standing, from side, looking at viewer, furrowed brow, night, castle, gothic architecture, night sky, field, red moon, staring
 
+#### Demon King Ganondorf
+
+((masterpiece,best quality)), absurdres,<lora:OoT_Ganondorf_Zelda_Anime:0.8>, OoT_Ganondorf_Zelda, solo, green skin, cape,
+solo, smiling, looking at viewer, cowboy shot, r1ge, glowing, red aura,
+
+((masterpiece,best quality)), muscular ,<lora:OoT_Ganondorf_Zelda_Anime:0.8>, OoT_Ganondorf_Zelda, solo, (green skin), cape,
+solo, 1boy, young handsome face,(fire:1, fiery hair,)solo, smiling, looking at viewer, cowboy shot,
+
 ### The Beauty and the Beast
 
 #### Gaston 
@@ -903,6 +975,34 @@ gaston_disney, solo, long hair, blush, open mouth, black hair, 1boy, navel, nipp
 <lora:geraltW3:0.6>, geralt_soul3142,   solo, gloves, holding, weapon, outdoors, sky, day, sword, cloud, cape, armor, facial hair, bird, grass, scenery, beard, fantasy, castle
 
 <lora:geraltW3:0.6>, geralt_soul3142,  solo, gloves, standing, jacket, white hair, beard, outdoors, open clothes, belt, pants, open jacket, gun, black shirt, tattoo, black pants, holding gun, handgun, smoke, science fiction, cigarette, city, realistic, smoking, road, mechanical arms, motorcycle, cyborg, prosthesis, prosthetic arm, cyberpunk, neon lights, medallion
+
+#### Olgierd 
+
+(masterpiece, best quality) <lora:epi_noiseoffset2:1>  <lora:add_detail:0.6>  <lora:OlgierdWitcher:0.8>
+OlgierdWitcher, solo, smile, short hair, 1boy, jewelry, closed mouth, green eyes, upper body, male focus, earrings, necklace, facial hair, scar, portrait, beard, scar on face, realistic, mustache, scar across eye, manly, undercut, red hair
+
+(masterpiece, best quality) <lora:epi_noiseoffset2:1>  <lora:add_detail:0.6>  <lora:OlgierdWitcher:0.8>
+OlgierdWitcher, solo, shirt, 1boy, closed mouth, jacket, upper body, male focus, outdoors, sky, day, cloud, blue sky, facial hair, parody, portrait, beard, mountain, realistic, mustache, manly, red hair
+
+(masterpiece, best quality) <lora:epi_noiseoffset2:1>  <lora:add_detail:0.6>  <lora:OlgierdWitcher:0.8>
+OlgierdWitcher, solo, looking at viewer, from behind, smile, short hair, shirt, 1boy, brown eyes, jewelry, jacket, upper body, male focus, earrings, looking back, from behind, facial hair, floral print, beard, mustache, undercut, red hair
+
+(masterpiece, best quality) <lora:epi_noiseoffset2:1>  <lora:add_detail:0.6>  <lora:OlgierdWitcher:0.8>
+OlgierdWitcher, solo, short hair, shirt, long sleeves, 1boy, holding, jewelry, flower, male focus, rose, facial hair, scar, ring, beard, scar on face, realistic, mustache, purple flower, holding flower, manly, purple rose, red hair
+
+(masterpiece, best quality) <lora:epi_noiseoffset2:1>  <lora:add_detail:0.6>  <lora:OlgierdWitcher:0.8>
+OlgierdWitcher, solo, looking at viewer, short hair, shirt, 1boy, holding, jewelry, standing, weapon, male focus, earrings, belt, sword, necklace, holding weapon, orange hair, gun, blood, tattoo, muscular, facial hair, scar, bandages, holding sword, ring, fire, pectorals, beard, scar on face, blood on face, mature male, mustache, scar across eye, brown belt, blood on clothes, manly, chest hair, blood on weapon, embers, leather belt, red hair
+
+(masterpiece, best quality) <lora:epi_noiseoffset2:1>  <lora:add_detail:0.6>  <lora:OlgierdWitcher:0.8>
+OlgierdWitcher, solo, 1boy, jewelry, sitting, male focus, necklace, cup, facial hair, chair, ring, beard, alcohol, mustache, wine glass, manly, wine, throne, arm hair, red hair
+
+(masterpiece, best quality) <lora:epi_noiseoffset2:1>  <lora:add_detail:0.6>  <lora:OlgierdWitcher:0.8>
+OlgierdWitcher, solo, 1boy, red hair, undercut, at the beach, casual clothing, palm trees, sundown
+
+(masterpiece, best quality) <lora:epi_noiseoffset2:1>  <lora:add_detail:0.6>  <lora:OlgierdWitcher:0.8>
+OlgierdWitcher, solo, 1boy, red hair, undercut, in a winter wonderland, winter clothes, scarf
+
+
 
 ### webcomic This Guy
 
@@ -1258,13 +1358,9 @@ mike zacharias, pole dancer, hairy, muscular, broad shoulders, biceps, (hairy ch
 
 (1 image only),  solo male,  1boy,  Nile Dok,  Attack on Titan,  lean,  facial hair,  light mustache,  light goatee,  dark brown eyes,  black hair,  short hair,  paradis military uniform,  bolo tie,  handsome,  mature,  charming,  alluring,  upper body in frame,  perfect anatomy,  perfect proportions,  8k,  HQ,  (best quality:1.2,  hyperrealistic:1.2,  photorealistic:1.2,  masterpiece:1.3,  madly detailed photo:1.2),  (hyper-realistic lifelike texture:1.2,  realistic eyes:1.2),  high_resolution,  perfect eye pupil,  dutch angle, Nile Dok,<lora:Nile_240209_ep10_lora:1> 
 
-
-
 ### モロボシ·ダン 诸星团 MoroboshiDan
 
 a japanese man, 25 years old, handsome,<lora:moroboshidan:1>
-
-
 
 ### Musclehunk Billy Herrington
 
@@ -1276,8 +1372,6 @@ male, portrait, <lora:BulkedUpAIR1.5:0.4>. (close up body shot:0.7), jock hairst
 
 (face focus). (close up shot:0.9), <lora:BulkedUpAIR1.5:0.3>, (masculine:1.4), at outdoor sunny wedding, ((bodybuilder wearing designer formal suit)), sexy pose:1.0, confident, handsome, (((masterpiece))), (((best quality))), <lora:more_details:0.1>, (hands on waist), male, athletic, looking at viewer, smile, big pecs:1.2, <lora:Musclehunk_Billy_Herrington:1.1>
 
-
-
 ### Patrick Fillion
 
 #### Naked Justic
@@ -1287,4 +1381,28 @@ Masterpiece, Detailed, Dynamic, Photorealistic, portrait of male twunk, naked_ju
 Masterpiece, Detailed, Dynamic, Photorealistic, male twunk, naked_justice, red mask, red thighhighs, red gloves, huge veiny erection, large veiny testicles, standing in spotlight, hands on hips, heroic pose, looking at viewer, handsome face, green eyes, orange hair, smiling, solo, male focus, indoors,<lora:NakedJustice-v1.0-10:0.90>
 
 Masterpiece, Detailed, Dynamic, Photorealistic, male twunk, naked_justice, red mask, red thighhighs, red gloves, huge thick veiny erect penis, large veiny testicles, standing, hands on hips, heroic pose, looking at viewer, handsome face, green eyes, orange hair, smiling, solo, male focus, daytime, city in background. <lora:NakedJustice-v1.0-10:0.90>
+
+### Cry 4
+
+#### Pagan Min
+
+PaganMinFar, 1boy, solo, male focus, blonde hair, realistic, formal, suit, shirt, mountain, manly, white shirt
+<lora:epi_noiseoffset2:1>,   <lora:PaganMinFar:0.7>
+
+PaganMinFar, 1boy, male focus, solo, formal, suit, realistic, blonde hair, shirt, phone, upper body
+<lora:epi_noiseoffset2:1>,   <lora:PaganMinFar:0.7>
+
+PaganMinFar, 1boy, male focus, solo, blonde hair, mountain, formal, suit, belt, hands in pockets, shirt, pants, leopard print, jacket, shoes, realistic, full body, outdoors, standing, red jacket, looking at viewer, smile, collared shirt, red pants
+<lora:epi_noiseoffset2:1>,   <lora:PaganMinFar:0.7>
+
+PaganMinFar, 1boy, male focus, solo, blonde hair, sitting, beach, palm trees
+<lora:epi_noiseoffset2:1>,   <lora:PaganMinFar:0.7>
+
+### Peter Le Fever
+
+(face focus). (close up shot:0.9), (masculine:1.3), (large strong physique:1.2), at outdoor sunny park, (muscular man wearing tight tshirt :1.3), sexy pose:1.0, styled hair, confident, handsome, (((masterpiece))), (((best quality))), <lora:more_details:1.1>, (hands on waist), male, athletic, looking at viewer, (short hair), lower color saturation:1, lower contract color:1, <lora:Peter_Le_Fever:0.9>, smile, asian:0.5
+
+<lora:BulkedUpAIR1.5:0.1>, (face focus). (close up shot:0.9), (masculine:1.3), (large strong physique:1.2), at outdoor sunny park, (muscular man wearing tight tank top:1.3), sexy pose:1.0, styled hair, confident, handsome, (((masterpiece))), (((best quality))), <lora:more_details:1.1>, (hands on waist), male, athletic, looking at viewer, (short hair), lower color saturation:1, lower contract color:1, <lora:Peter_Le_Fever:0.9>, smile, asian:0.5
+
+
 
