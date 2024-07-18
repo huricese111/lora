@@ -1756,3 +1756,104 @@ realistic, masterpiece, intricate details, detailed background, depth of field, 
 
 (Chinese man), w4x4rmor, wearing wax collared shirt, (dynamic pose), fighting stance, fantasy background, cinematic composition, covered in white liquid, pectorals, thighs, portrait, fantasy city background, walking, close up,, (best quality), (masterpiece), (highly detailed), cinematic, (detailed background), depth of field, intricate details, 8k, bara, photo of a handsome man,<lora:Wax Armor:0.65>
 
+#### lora:Venom_Dick_next_to_Face
+
+Venom, this next two face, leaking precum, Size difference, beard, pecs, Multiple boys, <lora:Venom_Dick_next_to_Face:.6>
+
+rating_questionable, bif,  <lora:Venom_Dick_next_to_Face:.6>, Venom, penis next to face, leaking precum, Size difference, beard, pecs, Multiple boys,(black vein all over the body:3),(black blood:3),muscular male, (beard), facial hair, stubble, bara, mature, penis, (sexy smirk:0.8),(black cum substitute white cum:2),(black  veiny dick with Venom spreading around its skin:2),<lora:slider_StS_detail_slider_v1:3>,<lora:style_Concept Art DarkSide Style LoRA_Pony XL v6:1>,Muscle growth, motion lines, gay masturbation, 2boy,gay fuck,3d render, extremely veiny, extremely attractive, pubic hair, massive bodybuilder muscles, extremely wide shoulders, extremely thick trapezius, black skin, hyper muscular chest, very hairy chest, gay sex, entire body, hyper massive cock, cum dripping, black cum,dramatic lighting, transformation, extreme muscle mass, colossal muscles, flushed cheeks, moaning with pleasure, thick chest, hyper muscular arms, penis erect, extraordinary muscle, extremely wide shoulders, extremely wide legs, muscular feet, extremely wide arms, hyper penis, transformation, extreme muscle mass, colossal muscles, flushed cheeks, moaning with pleasure, thick chest, hyper muscular arms, giant muscles, hyper muscular forearms, muscular hands, blue eyes, hyper muscular calves, huge feet, venom, venom goop, venom from the spider man series, penis upright, balls fully visible,outside, absorption, corruption
+
+male focus, score_9_up, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, best quality, multiple boys, Venom, penis next to face, leaking precum, Size difference, beard, pecs, hyper massive, bodybuilder, ((extreme size difference)), huge penis, licking cock, cum on cock, cuming, big ball,black penis hyper penis, <lora:Venom_Dick_next_to_Face:.6>
+
+male focus, best quality, multiple boys, Venom, penis next to face, leaking precum, Size difference, beard, pecs, hyper massive, bodybuilder, ((extreme size difference)), hyper penis, licking cock, cum on cock, cum on mouth, (blowjob:1.4), big mouth, neck inflation, throat inflation, <lora:Venom_Dick_next_to_Face:.6>
+
+rating_explicit,male focus,chubby man,bara,penis,short hair,body hair,hairy,stubble,beard,precum,soak,zPDXL2,zPDXLrl,,Venom,2boys,<lora:Venom_Dick_next_to_Face:1>
+
+realistic, rating_questionable, bif,  <lora:Venom_Dick_next_to_Face:.6>, Venom, penis next to face, leaking precum, Size difference, beard, pecs, Multiple boys
+,muscular male, (beard), facial hair, stubble, bara, mature, penis, <lora:slider_StS_detail_slider_v1:3>
+
+#### lora:Venomancer
+
+realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome (chinese man), ven0mancer, venom hand, fighting stance, shirt, pants, from side, venom liquid, close up, face portrait, covered in green liquid,<lora:Venomancer:0.65>
+
+realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome (chinese man), ven0mancer, venom liquid, venom orb, dynamic pose, standing,<lora:Venomancer:0.65>
+
+realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome (chinese man), ven0mancer, venom liquid, dynamic pose,<lora:Venomancer:0.65>
+
+realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome (chinese man), ven0mancer, venom liquid, dynamic pose, wizard robe, holding one staff, venom staff, (40 years old), beard,<lora:Venomancer:0.65>
+
+realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome (chinese man), ven0mancer, venom smoke, dynamic pose, wizard robe, (40 years old), beard, outdoors, from side,<lora:Venomancer:0.65>
+
+realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome (chinese man), ven0mancer, venom smoke, dynamic pose, gas mask, bodysuit, fantasy industrial background, swirling green smoke, outdoors,<lora:Venomancer:0.65>
+
+realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome (chinese man), ven0mancer, venom liquid, dynamic pose, gas mask, bodysuit, fantasy industrial background, covered in green liquid,<lora:Venomancer:0.65>
+
+realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome (chinese man), ven0mancer, dynamic pose, (jacket), (pants), from behind, venom liquid, close up, face portrait, swirling green liquid,<lora:Venomancer:0.65>
+
+realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome (chinese man), ven0mancer, dynamic pose, (jacket), shirt, (pants), venom liquid, ((close up)), face portrait, venom orb, swirling green liquid,<lora:Venomancer:0.65>
+
+(chinese man), ven0mancer, fighting stance, shirt, pants, venom liquid, close up, face portrait, fantasy city background, swirling green liquid,, (best quality), (masterpiece), (highly detailed), cinematic, (detailed background), depth of field, intricate details, 8k, bara, photo of a handsome man,<lora:Venomancer:0.65>
+
+(chinese man), ven0mancer, venom liquid, venom orb, dynamic pose, standing, floating green liquid,, (best quality), (masterpiece), (highly detailed), cinematic, (detailed background), depth of field, intricate details, 8k, bara, photo of a handsome man,<lora:Venomancer:0.65>
+
+(chinese man), ven0mancer, venom smoke, dynamic pose, wizard robe, (40 years old), beard, outdoors, from side, swirling green smoke,, (best quality), (masterpiece), (highly detailed), cinematic, (detailed background), depth of field, intricate details, 8k, bara, photo of a handsome man,<lora:Venomancer:0.65>
+
+(chinese man), ven0mancer, venom smoke, dynamic pose, gas mask, bodysuit, fantasy industrial background, swirling green smoke, outdoors, black hair,, (best quality), (masterpiece), (highly detailed), cinematic, (detailed background), depth of field, intricate details, 8k, bara, photo of a handsome man,<lora:Venomancer:0.65>
+
+#### lora:vetsuiteghi_greyjacket_SDLife_Chiasedamme_V10:0.85
+
+vetsuiteghi, (grey coat), 1boy , boy handsome, Haute_Couture, wearing Haute_Couture, posing for a picture, fashion show, Long shaped face, angry, crazy, dark red eyes, short hair, catwalk \(walkway\),  , colorful, vivid colors, masterpiece, best quality, absurdres, highest quality, amazing details, 8k, aesthetic, <lora:vetsuiteghi_greyjacket_SDLife_Chiasedamme_V10:0.68>
+
+#### lora:xyzsankurta
+
+xyzsankurta, (highly detailed:1.3), 1boy, solo, (full body:1.3), Ultra-detail, (highres:1.1), best quality, (masterpiece:1.3), cinematic lighting, (highly detailed face and eyes:1.3),  shalwar, shoe, <lora:xyzsankurta:.8>
+
+xyzsankurta, (highly detailed:1.3), 1boy, solo, (full body:1.3), Ultra-detail, (highres:1.1), best quality, (masterpiece:1.3), cinematic lighting, (highly detailed face and eyes:1.3), blue kurta, shalwar, shoe, <lora:xyzsankurta:.8>
+
+xyzsankurta, (highly detailed:1.3), 1boy, solo, (full body:1.3), Ultra-detail, (highres:1.1), best quality, (masterpiece:1.3), cinematic lighting, (highly detailed face and eyes:1.3), maroon kurta, shalwar, shoe, <lora:xyzsankurta:.8>
+
+xyzsankurta, (highly detailed:1.3), 1boy, solo, (full body:1.3), Ultra-detail, (highres:1.1), best quality, (masterpiece:1.3), cinematic lighting, (highly detailed face and eyes:1.3), kurta, shalwar, shoe, <lora:xyzsankurta:.75>
+
+xyzsankurta, (highly detailed:1.3), 1boy, solo,(full body:1.3), Ultra-detail, (highres:1.1), best quality,(masterpiece:1.3),chair, cinematic lighting, (highly detailed face and eyes:1.3), kurta, shoe, <lora:xyzsankurta:.8>
+
+#### lora:Wet Clothes
+
+realistic, masterpiece, intricate details, photo of a handsome man, wetclothes, t-shirt, underwear, beach, looking at viewer, smirk, beard, submerged in water,<lora:Wet Clothes:0.65>
+
+realistic, masterpiece, intricate details, photo of a handsome man, wetclothes, open shirt, shorts, beach, looking at viewer, smirk,<lora:Wet Clothes:0.65>
+
+realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome man, wetclothes, t-shirt, underwear, standing in a large waterfall, tropical jungle, looking at viewer, (40 years old), from below, water, penis,<lora:Wet Clothes:0.65>
+
+realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome man, wetclothes, compression fit sleeveless sportswear, leggings, running in the park, city, (30 years old), bulge,<lora:Wet Clothes:0.65>
+
+realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome man, wetclothes, sleeveless muscle shirt, legging shorts, lifting weights in the gym, (30 years old), bulge, beard,<lora:Wet Clothes:0.65>
+
+realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome man, wetclothes, t-shirt, swim briefs, poolside, on back, (20 years old), bulge, blonde hair,<lora:Wet Clothes:0.65>
+
+realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome man, wetclothes, (pink pajamas), bedroom, (40 years old), bulge, black hair, beard, back, kneeling on bed, window,<lora:Wet Clothes:0.65>
+
+realistic, masterpiece, intricate details, detailed background, depth of field, photo of a handsome man, wetclothes, tank top, jeans, mechanic workshop, grease stain, (30 years old), bulge, beard, motorcycle, holding wrench, looking at viewer, undercut hair,<lora:Wet Clothes:0.65>
+
+#### lora:Workgear_Lora_v1.3_XL
+
+bulky bald man wearing hi-vis workgear and rubber boots <lora:Workgear_Lora_v1.3_XL:0.5>, ((no_background)), waterptoof
+
+bearded shirtless man wearing olive green  waterproof PVC pants with black  boots ,<<lora:Workgear_Lora_v1.3_XL:0.7>, ((no_background)), hairy chest
+
+a chinese man, dirty sweaty mechanics, dirty, workgear, wearing overalls ,and caps and  boots, <lora:Workgear_Lora_v1.3_XL:0.5>, ((no_background)), rubber boots, dielectric gloves, big biceps, blurred background, bromance
+
+#### lora:unzipped_v10
+
+unzipped pants, a man lying, bed,<lora:unzipped_v10:1>, simple background
+
+unzipped pants, man walking in street <lora:unzipped_v10:1>
+
+unzipped pants, man walking in street <lora:unzipped_v10:1>, penis
+
+#### lora:work Trousers
+
+<lora:work Trousers:1> construction worker standing on scaffolding, dirty work trousers, body hair, beard, shirtless, immaculate lighting, rim lighting, [intricate detailed eyes]
+
+<lora:work Trousers:0.9> butt crack, construction worker sitting, dirty work trousers, looking back, body hair, beard, shirtless, immaculate lighting, rim lighting, [intricate detailed eyes] <lora:ButtCrack:0.8>
+
+<lora:work Trousers:1> ((fly open, erect penis)), man standing, dirty work trousers, body hair, beard, shirtless, immaculate lighting, rim lighting, [intricate detailed eyes]
+
