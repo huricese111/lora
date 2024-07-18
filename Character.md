@@ -16,11 +16,21 @@ ace, cowboy shot, solo, 1boy, black hair, hat, jewelry, belt, necklace, grin, ta
 
 ace, cowboy shot, solo, 1boy, black hair, hat, jewelry, belt, necklace, tattoo, scar, abs, fire, (not smiling:1.2) pectorals, freckles, (topless male:1.2), (natural light:1.2), beach, (ivory skin:1.2), pyrokinesis, <lora:Ace:0.7>
 
-### Yakuza
+### Yakuza (龍が如く)
 
-#### Akiyama 
+#### Akiyama Shun (秋山 駿)
 
 (SFW,8k, RAW photo, best quality, masterpiece:1.2),(realistic, photo-realistic:1.37),1 man,akiyama ,(((portrait,looking at camera))), facial close-up,<lora:Akiyama Yakuza:0.7>
+
+#### Daigo Dojima (堂島大吾)
+
+(1 image only),  solo male,  1boy,  Daigo Dojima,  Yakuza,  34 years old,  Asian,  Japanese,  black hair,  short hair,  slicked back hair,  stubble,  handsome,  white collared shirt,  (black suit jacket:1.4),  black necktie,  fit body,  mature,  manly,  hunk,  masculine,  virile,  confidence,  charming,  alluring,  upper body in frame,  night at Kabukicho Tokyo,  perfect anatomy,  perfect proportions,  8k,  HQ,  (best quality:1.5,  hyperrealistic:1.5,  photorealistic:1.4,  madly detailed CG unity 8k wallpaper:1.5,  masterpiece:1.3,  madly detailed photo:1.2),  (hyper-realistic lifelike texture:1.4,  realistic eyes:1.2),  high_resolution,  picture-perfect face,  perfect eye pupil,  detailed eyes,  perfecteyes,  perfecteyes,  dutch angle,<lora:Daigo_240204_ep10_lora:1> 
+
+(1 image only),  solo male,  1boy,  Daigo Dojima,  Yakuza,  34 years old,  Asian,  Japanese,  black hair,  short hair,  slicked back hair,  stubble,  handsome,  (topless,  shirtless),  (black pants),  fit body,  mature,  manly,  hunk,  masculine,  virile,  confidence,  charming,  alluring,  upper body in frame,  night at Kabukicho Tokyo,  perfect anatomy,  perfect proportions,  8k,  HQ,  (best quality:1.5,  hyperrealistic:1.5,  photorealistic:1.4,  madly detailed CG unity 8k wallpaper:1.5,  masterpiece:1.3,  madly detailed photo:1.2),  (hyper-realistic lifelike texture:1.4,  realistic eyes:1.2),  high_resolution,  picture-perfect face,  perfect eye pupil,  detailed eyes,  perfecteyes,  perfecteyes,  dutch angle, realistic, photorealistic,<lora:Daigo_240204_ep10_lora:1> 
+
+(1 image only),  solo male,  1boy,  Daigo Dojima,  Yakuza,  34 years old,  Asian,  Japanese,  black hair,  short hair,  slicked back hair,  stubble,  handsome,  white collared shirt,  (black suit jacket:1.4),  black necktie,  fit body,  mature,  manly,  hunk,  masculine,  virile,  confidence,  charming,  alluring,  upper body in frame,  night at Kabukicho Tokyo,  perfect anatomy,  perfect proportions,  8k,  HQ,  (best quality:1.5,  hyperrealistic:1.5,  photorealistic:1.4,  madly detailed CG unity 8k wallpaper:1.5,  masterpiece:1.3,  madly detailed photo:1.2),  (hyper-realistic lifelike texture:1.4,  realistic eyes:1.2),  high_resolution,  picture-perfect face,  perfect eye pupil,  detailed eyes,  perfecteyes, perfecteyes, mad-ropolis-movie, futuristic, stylized, art deco, expressionist, 1920s,<lora:Daigo_240204_ep10_lora:1> 
+
+(1 image only),  solo male,  1boy,  Daigo Dojima,  Yakuza,  34 years old,  Asian,  Japanese,  black hair,  short hair,  slicked back hair,  stubble,  handsome,  white collared shirt,  (black suit jacket:1.4),  black necktie,  fit body,  mature,  manly,  hunk,  masculine,  virile,  confidence,  charming,  alluring,  upper body in frame,  night at Kabukicho Tokyo,  perfect anatomy,  perfect proportions,  8k,  HQ,  (best quality:1.5,  hyperrealistic:1.5,  photorealistic:1.4,  madly detailed CG unity 8k wallpaper:1.5,  masterpiece:1.3,  madly detailed photo:1.2),  (hyper-realistic lifelike texture:1.4,  realistic eyes:1.2),  high_resolution,  picture-perfect face,  perfect eye pupil,  detailed eyes,  perfecteyes, perfecteyes, mad-ropolis-movie, futuristic, stylized, art deco, expressionist, 1920s, dutch angle,<lora:Daigo_240204_ep10_lora:1> 
 
 ### Mortal Kombat
 
@@ -256,6 +266,95 @@ clayton, (smirk), arrogant, moustaches, sideburns, undercut, yellow shirt, suspe
 clayton, solo, young man, short hair, brown hair, 1boy, sitting, male focus, pants, muscular, facial hair, frown, crossed arms, thick eyebrows, tank top, pectorals, muscular male, bara, large pectorals, sideburns, mature male, mustache, chest hair, pectoral cleavage, arm hair, hairy, <lora:clayton_disney-50:0.65>,
 
 clayton, shirtless, forest, (smirk), arrogant, moustaches, mature man, undercut, sideburn, (((hairy chest))), muscular, hairy,  <lora:clayton_disney-50:0.55>, large penis, erection
+
+CorvoDis, 1boy, solo, male focus, facial hair, portrait, looking at viewer, beard, realistic, closed mouth, brown eyes, black hair, short hair, thick eyebrows, brown hair,  <lora:CorvoDis:0.7>
+
+### Creedo's Meet the Carters 
+
+#### Creedo Jacob
+
+creedo_jacob, solo, goatee, crossing arms, looking at viewer, smile, short hair, shirt, black hair, 1boy, holding, male focus, glasses, collared shirt, belt, pants, cup, muscular, blurry background, facial hair, thick eyebrows, blue shirt, pectorals, muscular male, bara, beard, large pectorals, mature male, stubble, wristwatch, brown pants, arm hair, thick arms, wrinkled skin <lora:add_detail:1>, <lora:creedo_jacob:0.6>
+
+creedo_jacob, sitting on couch, open legs, sexy smile, goatee, hairy armpits, hands behind head, looking at viewer, short hair, shirt, black hair, 1boy, holding, male focus, glasses, collared shirt, belt, pants, cup, muscular, blurry background, facial hair, thick eyebrows, blue shirt, pectorals, muscular male, bara, beard, large pectorals, mature male, stubble, wristwatch, brown pants, arm hair, thick arms, wrinkled skin <lora:add_detail:1>, <lora:creedo_jacob:0.6>
+
+creedo_jacob, solo, looking at viewer, smile, short hair, shirt, black hair, 1boy, holding, male focus, glasses, collared shirt, belt, pants, cup, muscular, blurry background, facial hair, thick eyebrows, blue shirt, pectorals, muscular male, holding cup, bara, beard, large pectorals, meme, watch, mug, mature male, stubble, wristwatch, brown pants, coffee mug, arm hair, thick arms, wrinkled skin <lora:add_detail:1>, <lora:creedo_jacob:0.6>
+
+creedo_jacob, solo, crossing arms, looking at viewer, smile, short hair, shirt, black hair, 1boy, holding, male focus, glasses, collared shirt, belt, pants, cup, muscular, blurry background, facial hair, thick eyebrows, blue shirt, pectorals, muscular male, bara, beard, large pectorals, mature male, stubble, wristwatch, brown pants, arm hair, thick arms, wrinkled skin <lora:add_detail:1>, <lora:creedo_jacob:0.6>
+
+creedo_jacob, solo, goatee, looking at viewer, hairy chest, short hair, tank top, shorts, male focus, glasses, muscular, blurry background, facial hair, thick eyebrows,  pectorals, bara, beard, large pectorals, mature male, stubble, wristwatch, arm hair, thick arms, wrinkled skin <lora:add_detail:1>, <lora:creedo_jacob:0.6>
+
+creedo_jacob, solo, goatee, hairy armpits, looking at viewer, hairy chest, short hair, tank top, shorts, male focus, glasses, muscular, blurry background, facial hair, thick eyebrows,  pectorals, bara, beard, large pectorals, mature male, stubble, wristwatch, arm hair, thick arms, wrinkled skin <lora:add_detail:1>, <lora:creedo_jacob:0.6>
+
+creedo_jacob, solo, goatee, hairy armpits, looking at viewer, hairy chest, short hair, tank top, shorts, male focus, glasses, muscular, blurry background, facial hair, thick eyebrows,  pectorals, bara, beard, large pectorals, mature male, stubble, wristwatch, arm hair, thick arms, wrinkled skin <lora:add_detail:1>, <lora:creedo_jacob:0.6>
+
+### Gears of War
+
+#### Damon Baird
+
+<lora:Damon_Baird:0.75> damon_baird, standing, armor, living room, television
+
+### League of Legends
+
+#### Darius
+
+best quality,masterpiece,highres,<lora:Darius-League of Legends:1>,darius,1boy,male focus,solo,muscular,manly,muscular maleblack hairfacial hair,short hair,scar on face,thick eyebrows,upper body, full frontal,portrait, armor, looking at viewer, 
+
+best quality,masterpiece,highres,<lora:Darius-League of Legends:1>,darius,1boy,male focus,solo,muscular,manly,muscular maleblack hairfacial hair,short hair,scar,scar on face,thick eyebrows,full body,armor,weapon,shoulder armor,axe,holding,standing,(park:1.1)
+
+### David Licauco
+
+david licauco, young, latex, jacket, studio, mature,portrait, man, serious masterpiece, model <lora:david-licauco-10:1>
+
+david licauco, mesh shirt, studio, mature,portrait, man, serious masterpiece, model <lora:david-licauco-10:1>
+
+david licauco, young, mesh shirt, studio, mature,portrait, man, serious masterpiece, model <lora:david-licauco-10:1>
+
+### 朴轸永 (J.Y. Park)
+
+Best quality, masterpiece, ultra high res, (photorealistic:1.4), raw photo,  <lora:Disown8290_JYP_v1.0:1> jyp, 1boy,
+
+### Dota: Dragon's Blood
+
+#### Davion
+
+davion, <lora:davionv2-lora-nochekaiser:1>, davion, short hair, black hair, dark skin, (black eyes:1.5), dark-skinned male,BREAK shirt, white shirt, muscular, facial hair, thick eyebrows, pectorals, muscular male, bara, mature male, stubble, pectoral cleavage,BREAK looking at viewer,BREAK outdoors,
+
+davion, <lora:davionv2-lora-nochekaiser:1>, davion, short hair, black hair, dark skin, (black eyes:1.5), dark-skinned male,BREAK nude, muscular, scar, pectorals, muscular male, bara, large pectorals, topless male, scar on chest,BREAK looking at viewer,BREAK outdoors,
+
+### Days Gone
+
+#### Boozer 
+
+((ultra detailed, masterpiece, best quality)), <lora:DaysGoneBoozer:0.8>,DaysGoneBoozer, 1boy, solo, portrait
+
+((ultra detailed, masterpiece, best quality)), <lora:DaysGoneBoozer:0.8>,DaysGoneBoozer, 1boy, solo, Within a classic car garage, rugged denim and leather jacket, surrounded by vintage cars, posing with an effortlessly cool stance
+
+((ultra detailed, masterpiece, best quality)),<lora:DaysGoneBoozer:0.8>,DaysGoneBoozer, 1boy, solo, On a yacht at sunset, nautical-inspired fashion, ocean waves in the background, standing on the deck with a charismatic smile
+
+((ultra detailed, masterpiece, best quality))
+ <lora:DaysGoneBoozer:0.8>,DaysGoneBoozer, 1boy, solo, Under a neon-lit city sign, edgy streetwear ensemble, nighttime ambiance, leaning against a graffiti-covered wall with a cool and collected attitude
+
+((ultra detailed, masterpiece, best quality))
+ <lora:DaysGoneBoozer:0.8>
+DaysGoneBoozer, 1boy, solo, Within a classic car garage, rugged denim and leather jacket, surrounded by vintage cars, posing with an effortlessly cool stance
+
+((ultra detailed, masterpiece, best quality))
+ <lora:DaysGoneBoozer:0.8>
+DaysGoneBoozer, 1boy, solo, bald, Under the glow of a streetlamp, fitted leather jacket, casual yet stylish, a glimpse of tattoos visible, hands in pockets with a nonchalant pose
+
+((ultra detailed, masterpiece, best quality))
+ <lora:DaysGoneBoozer:0.8>
+DaysGoneBoozer, 1boy, solo, bald, On a high-rise rooftop, sharp black trench coat, city lights below, hands in pockets with a mysterious gaze into the distance
+
+((ultra detailed, masterpiece, best quality))
+ <lora:DaysGoneBoozer:0.8>
+DaysGoneBoozer, 1boy, solo, bald, Amidst a field of tall grass, rugged jeans and a flannel shirt, golden hour sunlight casting a warm glow, hands casually in pockets with a carefree smile
+
+((ultra detailed, masterpiece, best quality))
+ <lora:DaysGoneBoozer:0.8>
+DaysGoneBoozer, 1boy, solo, bald, swimtrunks, ocean, Seychelles
+
+
 
 
 

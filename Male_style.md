@@ -86,7 +86,11 @@ provocative clothes, (gay muscular man), bald head with stubble, very hairy ches
 
 (perfect detailed eyes, dark sharp pupils, eyeliner:1.2), realistic detailed, white towel around waist, (gay muscular man), with stubble, very hairy chest, 3 day beard, looking up at two big dicks, (two large penis hanging from top of frame on face:1.2), dripping cum on face, cum in mouth, white towels, kneeling, open mouth, cum splatter, getting choked, (inside a steam room, dark atmosphere, night, large black tile walls:1.4),<lora:Kent_Style_XL:1>
 
+#### World of Warcraft Cinematic style LoRa
 
+cinewow,deathwing cat,animal,masterpiece,awardwinning,8k,epic,cinematic,trending on artstation, <lora:cinewow-step00000300:0.9>,explosion in the background
+
+cinewow,snoop dog,death knight ,sitting on the frozen throne,smiling,epic,cinematic,best quality,photoreal,masterpiece,awardwinning,trending on artstation and deviantart, <lora:cinewow_alt:1>
 
 
 
