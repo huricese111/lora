@@ -2,6 +2,12 @@
 
 [toc]
 
+### Checkpoint
+
+##### realcartoon3d_v13
+
+##### dreamshaper_8
+
 ### One Piece
 
 #### Ace
@@ -256,6 +262,54 @@ night, city park, male focus, (black hair), black eyes, looking at viewer, (pubi
 simple background, three point lighting, male focus, black hair, black eyes, black pants, white tank top shirt, low-cut chest, low-cut cleavage, high-cut crewneck, extreme low-cut dropped side holes, hairy, chest hair, spotlight
 
 beach background, male focus, (black hair), black eyes, looking at viewer, open shirt, (red speedo:1.1), hairy, chest hair, (veiny), sunglasses, kiosk, <lora:Carlos_Oliveira:0.8>
+
+#### Dante
+
+(masterpiece, best quality:1.2), cowboy shot, solo, male focus, 1boy, dmc3dante, smirk, looking at viewer, coat, fingerless gloves, pants <lora:dmc3_dante-10:1>
+
+(masterpiece, best quality:1.2), solo, male focus, 1boy, dmc3dante, smirk, IncrsUnsheathingAKatanaMeme, sheath, holding sheath, coat, bandeau, fingerless gloves <lora:dmc3_dante-10:1> <lora:ChihiroUnsheathingAKatanaMeme:1>
+
+
+
+### Resident Evil 5
+
+#### Dante
+
+((ultra detailed, masterpiece, absurdres))
+<lora:DMC5Dante:0.9>
+DMC5Dante, solo,smile,gloves,1boy,holding,standing,full body,weapon,white hair,male focus,boots,sky,teeth,black gloves,belt,sword,fingerless gloves,holding weapon,coat,facial hair,holding sword,beard,open coat,stubble,over shoulder,weapon over shoulder
+
+((ultra detailed, masterpiece, absurdres))
+<lora:DMC5Dante:0.9>
+DMC5Dante, solo,smile,gloves,1boy,holding,standing,full body,weapon,white hair,male focus,boots,sky,teeth,black gloves,belt,sword,fingerless gloves,holding weapon,coat,facial hair,holding sword,beard,open coat,stubble,over shoulder,weapon over shoulder
+
+((ultra detailed, masterpiece, absurdres))
+<lora:DMC5Dante:0.9>
+DMC5Dante, 1boy, solo, short hair, white hair, blue eyes, A modern, high-tech office with glass walls
+
+((ultra detailed, masterpiece, absurdres))
+<lora:DMC5Dante:0.9>
+DMC5Dante, 1boy, solo, short hair, white hair, Cyberpunk streetwear, neon lights, dynamic lighting, standing confident, one hand in pocket, urban cool
+
+((ultra detailed, masterpiece, absurdres))
+<lora:DMC5Dante:0.9>
+DMC5Dante, 1boy, solo, short hair, white hair, Cyberpunk street style, standing pose, neon lights, leather jacket, edgy attitude
+
+((ultra detailed, masterpiece, absurdres))
+<lora:DMC5Dante:0.9>
+DMC5Dante, 1boy, solo, short hair, white hair, Urban grunge alley, dramatic shadows, standing, intense gaze, leather jacket, rugged masculinity
+
+((ultra detailed, masterpiece, absurdres))
+<lora:DMC5Dante:0.9>
+DMC5Dante, 1boy, solo, short hair, white hair, Steampunk-inspired attire, warm tungsten lighting, sitting on a vintage leather chair, retro-futuristic cool
+
+((ultra detailed, masterpiece, absurdres))
+<lora:DMC5Dante:0.9>
+DMC5Dante, 1boy, solo, short hair, white hair, Crystal Cavern, bioluminescent flora, standing on a submerged rock, cowboy shot with a mystical artifact in hand
+
+((ultra detailed, masterpiece, absurdres))
+<lora:DMC5Dante:0.9>
+DMC5Dante, 1boy, solo, short hair, white hair, Sleek leather jacket, rainy night, dynamic lighting, sexy pose against a wet glass window
 
 ### Tarzan (1999 movie)
 
