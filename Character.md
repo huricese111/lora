@@ -8,6 +8,8 @@
 
 ##### dreamshaper_8
 
+##### maturemalemix_v14
+
 ### One Piece
 
 #### Ace
@@ -592,3 +594,47 @@ douglas_reed, ((hand behind head)),(((arrogant smirk))), (evil sight), mature ma
 
 
 
+### Final Fantasy XVI
+
+#### Clive Rosfield/克莱夫
+
+((masterpiece)),((best quality)),high detailed,ultra-detailed,anime,CG,{{Masterpiece, Best Quality, Extremely Detailed CG, Unity Wallpaper }},
+1boy,clive,upper body,facial hair, (facial tattoo:1.2),(left ear clip:1.2),topless, exposing pectoral muscles,exposing abs,black hair, blue eyes, bulge, <lora:Younger version of Clive:0.6> <lora:Bara:0.4>
+
+((masterpiece)),((best quality)),high detailed,ultra-detailed,anime,CG,{{Masterpiece, Best Quality, Extremely Detailed CG, Unity Wallpaper }},
+1boy,clive,upper body,facial hair, facial tattoo,(left ear clip:1.2),topless, exposing pectoral muscles,exposing abs,black hair, blue eyes, <lora:clive-000020:0.8>
+
+((masterpiece)),((best quality)),high detailed,ultra-detailed,anime,CG,{{Masterpiece, Best Quality, Extremely Detailed CG, Unity Wallpaper }},
+1boy,looking at viewer,facial hair, (facial tattoo:1.3),(left ear clip:1.2),topless, pectoral muscles,abs,black hair, blue eyes,boxer shorts, medium hair,<lora:Younger version of Clive:0.7>
+
+((masterpiece)),((best quality)),high detailed,ultra-detailed,anime,CG,{{Masterpiece, Best Quality, Extremely Detailed CG, Unity Wallpaper }},
+1boy,looking at viewer,facial hair, (facial tattoo:1.3),(left ear clip:1.2),topless, pectoral muscles,abs,black hair, blue eyes, naked male, erection,cum on body, <lora:Younger version of Clive:0.7>
+
+((masterpiece)),((best quality)),high detailed,ultra-detailed,anime,CG,{{Masterpiece, Best Quality, Extremely Detailed CG, Unity Wallpaper }},
+1boy,clive,solo,facial hair,left ear clip,pectoral muscles,abs,black hair, blue eyes, naked male, erection,cum on body, large penis,  <lora:Younger version of Clive:0.8>
+
+((masterpiece)),((best quality)),high detailed,ultra-detailed,anime,CG,{{Masterpiece, Best Quality, Extremely Detailed CG, Unity Wallpaper }},
+1boy,solo,facial hair, (facial tattoo:1.3),(left ear clip:1.2),topless, pectoral muscles,abs,black hair, blue eyes, naked male, erection,cum on body, large penis, <lora:Younger version of Clive:0.7>
+
+((masterpiece)),((best quality)),high detailed,ultra-detailed,anime,CG,{{Masterpiece, Best Quality, Extremely Detailed CG, Unity Wallpaper }},
+1boy,solo,facial hair, (facial tattoo:1.3),(left ear clip:1.2),topless, pectoral muscles,abs,black hair, blue eyes, naked male, erection,cum on body, large penis, <lora:Younger version of Clive:0.7>
+
+((masterpiece)),((best quality)),high detailed,ultra-detailed,anime,CG,{{Masterpiece, Best Quality, Extremely Detailed CG, Unity Wallpaper }},
+1boy,clive,solo,facial hair,left ear clip,pectoral muscles,abs,black hair, blue eyes, naked male, erection,cum on body, large penis,  <lora:Younger version of Clive:0.8>
+
+((masterpiece)),((best quality)),high detailed,ultra-detailed,anime,CG,{{Masterpiece, Best Quality, Extremely Detailed CG, Unity Wallpaper }},
+1boy,full body,facial hair, (facial tattoo:1.3),(left ear clip:1.2),topless, pectoral muscles,abs,black hair, blue eyes, naked male, erection,cum on body, large penis, <lora:Younger version of Clive:0.7>
+
+### Assassin's Creed Franchise
+
+### Ezio Auditore
+
+(masterpiece, top quality, best quality, official art, detailed:1.2),<lora:ezio-v1:0.5>, ezio_soul3142, solo, 1boy, weapon, male focus, hood, armor, facial hair, blade, beard, realistic, vambraces, manly
+
+(masterpiece, top quality, best quality, official art, detailed:1.2),<lora:ezio-v1:0.7>, ezio_soul3142, solo, black hair, 1boy, upper body, male focus, armor, looking to the side, facial hair, beard, realistic, manly
+
+(masterpiece, top quality, best quality, official art, detailed:1.2),<lora:ezio-v1:0.7>, ezio_soul3142, solo, black hair, 1boy, weapon, male focus, blade, armor, facial hair, beard, realistic, mustache, manly
+
+(masterpiece, top quality, best quality, official art, detailed:1.2),<lora:ezio-v1:0.7>, ezio_soul3142, solo, gloves, 1boy, weapon, male focus, blade, hood, cape, armor, vambraces
+
+(masterpiece, top quality, best quality, official art, detailed:1.2),<lora:ezio-v1:0.7>, ezio_soul3142, solo, black hair, 1boy, brown eyes, upper body, male focus, looking to the side, facial hair, beard, realistic, mustache, manly
