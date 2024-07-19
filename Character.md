@@ -2253,3 +2253,68 @@ ZagreusHades, laurel crown, 1boy, single bare shoulder, male focus, weapon, swor
 ZagreusHades, 1boy, upper body, fire, smirk,masterpiece, best quality, cinematic lighting,<lora:epi_noiseoffset2:1>,   <lora:ZagreusHades:0.7>
 
 ZagreusHades, 1boy, single bare shoulder, greek clothes, male focus, laurel crown, black hair, heterochromia, pectorals, green eyes, muscular, muscular male, red eyes, nipples, colored sclera, solo, black sclera, bara, arm behind head, armlet,masterpiece, best quality, cinematic lighting,<lora:epi_noiseoffset2:1>,   <lora:ZagreusHades:0.7>
+
+
+
+### Gintama
+
+#### Sakata Gintoki
+
+masterpiece, best quality, detailed, 1boy,  male focus, bamboo, forest, holding weapon, serious, sakata gintoki, outdoors, gintoki outfit, <lora:SakataGintokiV1:0.5>, open clothes, crouching, bokken, (black pants:0.6)
+
+masterpiece, best quality, detailed, 1boy,  male focus, sakata gintoki, <lora:SakataGintokiV1:0.6>, shiroyasha, haori, blood on face, blood on clothes, smoke, dirty, serious, night, stars, death, blood, headband, glaring
+
+
+
+### Saint Seiya
+
+#### Cygnus Hyoga
+
+solo, (detail skin:1.2),best,1 boy,(masterpiece:1.1), (intricate:1.2),(8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37) ,((black hair:1.3)) ,(8k, best quality, masterpiece:1.2), realistic skin texture,best lighting,Fujifilm,(extremely detailed face and eyes and lips and eyelashes and hair :1.100),highres,detailed eyes and mouth and face, pale, skin,<lora:Cygnus_Hyoga_V1:1> Cygnus Hyoga
+
+(masterpiece, ultra quality, high resolution, 8k, intricate: 1.2), (detailed face:1.2), handsome, detailed skin, pores, absurdres , twink, [muscle], 1boy, male focus, ((realistic)), abs, good lighting quality, muscle veins, ((pale skin)), balanced eyes,<lora:Cygnus_Hyoga_V1:1> Cygnus Hyoga
+
+#### Zodiac Aquariu
+
+<lora:Fra_AquariusArmor_V11:0.7>, AquariusArmor, shoulder_armor,  no helmet,  (masterpiece:1.0), (best quality:1.0), (ultra highres:1.0) ,(8k resolution:1.0), (realistic:1.0), (ultra detailed1:0),(RAW photo:1.0), HDR, photography, Kodak Portra 400, film grain, blurry background, vibrant color, bokeh, lens flare, ((perfect hands)), ((perfect arms)), (perfect face), {{perfect anatomy}},(hand of Guido Daniele), wide shot, small hands, slim fingers,
+greek temple, very detailed background,  1girl wear golden AquariusArmor,  golden armor, solo, medium blue hair, black eyes, angry, looking at viewer, focused face, detailed face, vibrant colors, symmetric eyes, visible lips, standing, (upper body:1.2),
+
+#### Zodiac Aries 
+
+<lora:Fra_AriesArmor_V13:0.8>, AriesArmor, shoulder_armor decoration,  (masterpiece:1.0), (best quality:1.0), (ultra highres:1.0) ,(8k resolution:1.0), (realistic:1.0), (ultra detailed1:0),(RAW photo:1.0), HDR, photography, Kodak Portra 400, film grain, blurry background, vibrant color, bokeh, lens flare, ((perfect hands)), ((perfect arms)), (perfect face), {{perfect anatomy}},(hand of Guido Daniele), wide shot, small hands, slim fingers,
+greek temple, very detailed background,  1female wear golden AriesArmor,  golden armor, solo, medium purple hair, black eyes, angry, looking at viewer, focused face, detailed face, vibrant colors, symmetric eyes, visible lips, standing, (upper body:1.2),
+
+#### Leo Armor
+
+masterpiece, best quality, masterpiece, detailed face, detailed eyes, full body,  <lora:LeoArmor:0.6>, Chris Hemsworth , LeoArmor, greek temple, ((anime)), helmet,
+
+#### Libra Armor
+
+masterpiece, best quality, highres, solo, 1man, green eyes, detailed background,waterfall,helmet,armor, <lora:more_details:1>,outdoor ,(medium breasts:1.5) <lora:libra:0.8>,god_cloth,<lora:libra:1> armor,arm_shield
+
+#### Pisces Armor
+
+<lora:PiscesArmor:0.7>, masterpiece, best quality, masterpiece, detailed face, detailed eyes, full body,  Chris Evans wearing golden armor, black scarf, Atlantis  greek temple ruins, fight pose, red atack
+
+#### Sagittarius Armor
+
+<lora:SagittariusArmor:0.6>, SagittariusArmor, gold armor, Henry Cavil as 1boy,  armor, brown hair, blue eyes, long gold wings, dramatic sky, looking at viewer, armor, short hair, closed mouth, upper body, serious, helmet, landing on empty field
+
+<lora:SagittariusArmor:0.7>, masterpiece, best quality, masterpiece, detailed face, detailed eyes, full body,  1boy, wearing golden armor, long metallic wings,  walking on the ancient greek fields
+
+#### Seiya God Cloth 
+
+<lora:saint_cloth_v2:1> masterpiece of photorealism, photorealistic highly detailed 8k photography, best hyperrealistic quality, volumetric lighting and shadows, young man in saint_cloth divine_armor, pixie cut with bangs black, Waterfront Cafés by the Sea, Cinematic Tilt-Up from Ground to Sky
+
+<lora:saint_cloth_v2:1> masterpiece of photorealism, photorealistic highly detailed 8k photography, best hyperrealistic quality, volumetric lighting and shadows, young man in saint_cloth divine_armor, buzz cut honey blonde, Magical Ice Castles in Winter, Dynamic Dolly Zoom Effect
+
+<lora:saint_cloth_v2:1> masterpiece of photorealism, photorealistic highly detailed 8k photography, best hyperrealistic quality, volumetric lighting and shadows, young man in saint_cloth divine_armor, braided hairstyle burgundy, Neon-Lit Amusement Park Rides, First-Person View (FPV) Drone Perspective
+
+<lora:saint_cloth_v2:1> masterpiece of photorealism, photorealistic highly detailed 8k photography, best hyperrealistic quality, volumetric lighting and shadows, young man in saint_cloth divine_armor, half-up half-down hairstyle ash blonde, Mystical Glowing Mushrooms in Forests, 360-Degree Panorama Inside a Cave
+
+#### Taurus Armor
+
+masterpiece, best quality, highres, solo, 1boy, saint seiya, green eyes, cloudy sky,fingerless gloves,medium breasts, pauldrons ,<lora:more_details:1>,   <lora:Taurus:0.8>
+
+masterpiece, best quality, highres, solo, detailed background,subtle smile,standing in front of a picturesque landscape,fingerless gloves ,<lora:more_details:0.8>, pauldrons ,  (gold armor:1.5) , outdoors,(ultra detailed:1.0),(RAW photo:1.0), HDR, photography, Kodak Portra 400, film grain, blurry background, vibrant color,focused face, detailed face,symmetric eyes, visible lips, standing, (upper body:1.2),<lora:Taurus:0.8>,helmet,horns
+
