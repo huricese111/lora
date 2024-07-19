@@ -281,6 +281,22 @@ masterpiece, best quality, Highres, Realistic, RAW photo, 1boy, noctis, yaoi, 18
 
 best quality, solo, mature male focus, looking off into the distance, <lora:noctis-nvwls-v1-final:.9> noctis, black jacket, fingerless gloves, black shirt, belt, black pants, boots
 
+#### Warrior of Light
+
+masterpiece, best quality, 1boy, solo, WarriorOfLight, <lora:Warrior Of LightV1:0.9>, blue armor, gold trim, horned helmet, cape, holding sword and shield, looking at viewer
+
+masterpiece, best quality, comic style, thick outline, 1boy, solo, Warrior Of Light  <lora:WarriorOfLightV1:0.9>, white hair, blue armor, gold trim, horned helmet , cape, abstract background, magic circle, outstretched arms, water fire earth wind background
+
+masterpiece, best quality, 1boy, solo, WarriorOfLight, <lora:Warrior Of LightV1:0.9>, (portrait, close-up) blue armor, gold trim, horned helmet, cape, holding sword and shield, looking at viewer
+
+masterpiece, best quality, 1boy, solo, WarriorOfLight  <lora:Warrior Of LightV1:0.9>,red armor, white trim, cape, holding sword, looking at viewer, action scene, dynamic pose
+
+masterpiece, best quality, 1boy, solo, WarriorOfLight  <lora:Warrior Of LightV1:0.9>,red armor, white trim, cape, holding sword, looking at viewer, (action scene, dynamic pose, slashing)  from side
+
+masterpiece, best quality, 1boy, solo, WarriorOfLight  <lora:Warrior Of LightV1:0.9>, long white hair, blue armor, gold trim, horned helmet , cape, abstract background, magic circle, outstretched arms, water fire earth wind background
+
+
+
 ### Batman
 
 #### Batman 1989
@@ -1998,4 +2014,32 @@ best quality, masterpiece, voldon, standing, outdoor, snow, muscular, <lora:Vold
 best quality, masterpiece, voldon, standing, outdoor, snow, town, muscular, <lora:Voldon-13:0.8>
 
 
+
+### X-Men
+
+#### Cyclops
+
+x-men cyclops man unleashing his optic blast in a fierce battle, set against a fiery background, his face intense and focused, digital art, 4k, dynamic action scene, <lora:XMen-SSCyclops:1>
+
+x-men cyclops man photorealistic unleashing his optic blast in a fierce battle, set against a fiery background, his face intense and focused, digital art, 4k, dynamic action scene, <lora:XMen-SSCyclops:1>
+
+ A dramatic portrait of x-men cyclops man, his visor glowing red, reflecting the inner turmoil and leadership qualities, realism, oil painting, highly detailed, 8k, <lora:XMen-SSCyclops:1>
+
+x-men cyclops man, Jean Grey sharing a moment, their connection and love visible, amidst the chaos of the X-Mansion, photorealistic, 8k, emotional depth, <lora:XMen-SSCyclops:1>
+
+
+
+### 明日方舟/Arknights
+
+#### 休谟斯/Humus
+
+<lora:xiumosi:0.7:MIDD>,  <lora:husbandoLocon_v32:0.4>, xiumosi, 1boy, brown_eyes, big aqua_eyes, red hair, (streaked_hair), facial_hair, ((cow horns)), red stubble,  pointy_ears, male_focus, portrait, :d,  ((solo)), god rays
+
+<lora:xiumosi:0.55:MIDD>,  <lora:husbandoLocon_v32:0.4>, xiumosi, 1boy, brown_eyes, big aqua_eyes, red hair, (streaked_hair), facial_hair, ((cow horns)), red stubble,  pointy_ears, male_focus, portrait, :d,  ((solo)), (masterpiece),portrait,((:d)), crossed arms,male_focus,abs, biceps,bishounen,(bare body),(wet),(abs),nude, (nude), (abs), collarbone, bubble,(((male_focus))),navel,nipples,swimming,nipples,(((upper body))),partially_submerged,pectorals,smile,solo,nude,water,wet,(bath),lapels,ray tracing,god rays
+
+<lora:xiumosi:0.55:MIDD>,  <lora:husbandoLocon_v32:0.4>, 1boy, brown_eyes, big aqua_eyes, red hair, (streaked_hair), facial_hair, ((cow horns)), red stubble,  pointy_ears, male_focus, portrait, :d,  ((solo)), (masterpiece),portrait,((:d)), abs,bishounen,cowboy_shot,(bulge),suit, necktie, white shirt,((brown pants)),crossed arms,male_focus,couple_cup,drinking_glass,male_focus,red_wine,watch,veiny_arms,whiskey,wine,wine_glass,books,night sky, dark, god rays
+
+<lora:xiumosi:0.55:MIDD>,  <lora:husbandoLocon_v32:0.4>, xiumosi, 1boy, brown_eyes, big aqua_eyes, red hair, (streaked_hair), facial_hair, ((cow horns)), red stubble,  pointy_ears, male_focus, portrait, :d,  ((solo)), (bare shoulders),(sweat),(abs),(nude), ((bare body)), (abs), collarbone, collarbone,(((male_focus))),navel,nipples,sea,nipples,(((white boxer_briefs))),partially_submerged,pectorals,smile,solo,water,(((wet))),water on body, topless male,bubble, beach, (ray tracing),god rays,
+
+<lora:xiumosi:0.55:MIDD>,  <lora:husbandoLocon_v32:0.4>, 1boy, brown_eyes, big aqua_eyes, red hair, (streaked_hair), facial_hair, ((cow horns)), red stubble,  pointy_ears, male_focus, portrait, :d,  ((solo)), (masterpiece),portrait,((:d)), crossed arms,male_focus,abs, biceps,bishounen,(bare body),(wet),(abs),nude, (nude), (abs), collarbone, bubble,(((male_focus))),navel,nipples,swimming,nipples,(((upper body))),partially_submerged,pectorals,smile,solo,nude,water,wet,(bath),lapels,ray tracing,god rays
 
