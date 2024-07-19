@@ -98,6 +98,24 @@ ice, blue, cold, energy, aura, swirl water, <lora:ARWmksubzero:1>
 
 1man, portrait of mksubzero battle with group of ninja, glowing eyes, ice, blue, cold, energy, aura, swirl water, ornate, detail, <lora:ARWmksubzero:1>
 
+<lora:zbzr_v3-000009:1> zbzr, masterpiece, best cinematic quality, photorealistic highly detailed 8k raw photo, volumetric lighting, volumetric shadows, man, sitting on a big mountain, gloves, blue armor, A dilapidated, haunted house with creaking floors and whispers in the wind, helmet, mask, holding a sword, extreme close-up
+
+<lora:zbzr_v3-000009:1> zbzr, masterpiece, best cinematic quality, photorealistic highly detailed 8k raw photo, volumetric lighting, volumetric shadows, man, fighting stance, gloves, blue armor, A moonlit lake, with fog rolling over the water and mysterious shapes beneath the surface, long hair, mask, holding an ice ball
+
+<lora:zbzr_v3-000009:1> zbzr, masterpiece, best cinematic quality, photorealistic highly detailed 8k raw photo, volumetric lighting, volumetric shadows, man, fighting stance, gloves, blue armor, A haunted, abandoned school, with shattered windows and eerie whispers in the halls, long hair, mask
+
+<lora:zbzr_v3-000009:1> zbzr, masterpiece, best cinematic quality, photorealistic highly detailed 8k raw photo, volumetric lighting, volumetric shadows, man, dinamic pose, gloves, blue armor, An abandoned asylum, with broken windows and overgrown vegetation, helmet, mask
+
+<lora:zbzr_v3-000009:1> zbzr, masterpiece, best cinematic quality, photorealistic highly detailed 8k raw photo, volumetric lighting, volumetric shadows, man, dinamic pose, gloves, blue armor, A moonlit lake, with fog rolling over the water and mysterious shapes beneath the surface, helmet, mask
+
+<lora:zbzr_v3-000009:1> zbzr, masterpiece, best cinematic quality, photorealistic highly detailed 8k raw photo, volumetric lighting, volumetric shadows, man, fighting stance, gloves, armor, A dimly lit attic, filled with dusty old furniture and cobwebs, long hair
+
+<lora:zbzr_v3-000009:1> zbzr, masterpiece, best cinematic quality, photorealistic highly detailed 8k raw photo, volumetric lighting, volumetric shadows, man, fighting stance, mask, gloves, armor
+
+<lora:zbzr_v3-000009:1> zbzr, masterpiece, best cinematic quality, photorealistic highly detailed 8k raw photo, volumetric lighting, volumetric shadows, man, (dynamic pose:1.2), A creepy, rundown motel in the middle of nowhere, with flickering neon signs, long hair
+
+<lora:zbzr_v3-000009:1> zbzr, masterpiece, best cinematic quality, photorealistic highly detailed 8k raw photo, volumetric lighting, volumetric shadows, man, (dynamic pose:1.2)
+
 #### Kotal Kahn
 
 face photo of kotalkahn11, , face portrait, glowing blue eye color,  beefy, burly,  angry, Scars, imperfect skin, extreme face closeup,<lora:Kotal_Kahn_MK11_Bald_Version:1> 
@@ -551,6 +569,64 @@ shingo, 1guy, male, skin, highres, perfect picture, highly detailed, high contra
 1guy, takumasakazaki, ((TENGU MASK)), ((white hair, white mustache, white bears, pointy nose, big EYES)), sweaty, shirtless, on bed, relaxing, hands behind head, ((scar on chest)), white pants, black belt , bulge, portrait, medium shot, mountains, muscular, 50yo mature man,<lora:TakumaKarate-Stasis:1> 
 
 1guy, takumakarate,(tengu mask, white hair, white beard, white mustache, big eyes), dark karate gi, dark kimono, bara:1.2, , daddy, dark grey pants , black belt , highres, raw photo,  1guy, medium shot , kneeling, smirk , detailed face , at the beach,<lora:TakumaKarate-Stasis:1> 
+
+#### Yashiro Nanakase
+
+<lora:Yashiro:0.7>, yashirokof, solo, looking at viewer, smile, short hair, gloves, 1boy, navel, white hair, male focus, choker, pants, stomach, muscular, black choker, abs, suspenders, pectorals, muscular male,  bara, brown gloves, large pectorals, sideburns, white pants, pectoral cleavage, pointing at self
+
+<lora:Yashiro:0.7>,yashirokof, solo, smile, short hair, simple background, gloves, 1boy, white background, navel, jewelry, jacket, white hair, male focus, earrings, open clothes, choker, pants, dark skin, open jacket, muscular, abs, dark-skinned male, suspenders, pectorals, muscular male, bara, red jacket, cropped legs, white pants
+
+<lora:Yashiro:0.7>,yashirokof, solo, smile, short hair, simple background, gloves, 1boy, white background, navel, jewelry, jacket, white hair, male focus, earrings, open clothes, choker, pants, dark skin, open jacket, muscular, abs, dark-skinned male, suspenders, pectorals, muscular male, bara, pink jacket, cropped legs, white pants, glowing eyes, rock
+
+<lora:Yashiro:0.7>,yashirokof, solo, smile, simple background, 1boy, holding, jewelry, white hair, male focus, earrings, necktie, choker, dark skin, formal, dark-skinned male, suit, card, holding card
+
+<lora:Yashiro:0.7>,yashirokof, solo, short hair, open mouth, gloves, long sleeves, 1boy, hat, monochrome, full body, closed eyes, male focus, shoes, teeth, pants, flying sweatdrops, headwear removed, running, sepia
+
+<lora:Yashiro:0.7>,yashirokof, solo, smile, red eyes, 1boy, jewelry, white hair, male focus, earrings, choker, looking back, dark skin, dark-skinned male
+
+<lora:Yashiro:0.7>, yashirokof, solo, looking at viewer, short hair, simple background, gloves, 1boy, holding, jewelry, jacket, white hair, male focus, open clothes, belt, fingerless gloves, coat, muscular, abs, pectorals, muscular male, black background, skull,  candle, bare pectorals, zombie, halloween,
+
+<lora:Yashiro:0.7>, yashirokof, solo, smile, simple background, gloves, 1boy, white background, jewelry, jacket, white hair, male focus, earrings, open clothes, choker, pants, dark skin, open jacket, muscular, abs, dark-skinned male, suspenders, pectorals, cropped jacket, white pants
+
+<lora:Yashiro:0.7>, yashirokof, solo, looking at viewer, smile, short hair, gloves, 1boy, navel, jewelry, jacket, white hair, male focus, earrings, open clothes, necktie, pants, open jacket, muscular, piercing, abs, suspenders, pectorals, muscular male, ear piercing, bara, red jacket, brown gloves, large pectorals, cropped jacket, sunset, sideburns, mature male, white pants, leather, bare pectorals, pectoral cleavage
+
+<lora:Yashiro:0.7>, yashirokof, solo, looking at viewer, smile, short hair, red eyes, gloves, 1boy, jewelry, jacket, white hair, male focus, earrings, pants, dark skin, grin, muscular, facial hair, dark-skinned male, fire, pectorals, muscular male, bara, rock, mature male, fighting stance, white pants, pectoral cleavage, pyrokinesis
+
+<lora:Yashiro:0.7>, yashirokof, solo, gloves, 1boy, jacket, white hair, male focus, pants, from behind, back, suspenders, red jacket, cropped jacket
+
+<lora:Yashiro:0.7>, yashirokof, solo, smile, short hair, simple background, shirt, gloves, 1boy, jacket, white hair, male focus, choker, pants, hand up, dark skin, from behind, muscular, black choker, dark-skinned male, muscular male, black background, white pants
+
+<lora:Yashiro:0.7>, yashirokof, solo, looking at viewer, short hair, gloves, 1boy, navel, jewelry, standing, jacket, full body, white hair, male focus, earrings, open clothes, shoes, belt, pants, dark skin, open jacket, muscular, abs, dark-skinned male, pectorals, muscular male, black background, bara, red jacket, brown gloves, clenched hands, large pectorals, mature male, fighting stance, white pants, leather, pectoral cleavage, leather jacket, leather belt
+
+<lora:Yashiro:0.7>, yashirokof, solo, looking at viewer, short hair, open mouth, simple background, 1boy, standing, jacket, full body, white hair, male focus, boots, belt, pants, black footwear, muscular, pectorals, muscular male, black background, clenched hand, bara, black belt, fighting stance, white pants
+
+<lora:Yashiro:0.7>, yashirokof, solo, looking at viewer, short hair, open mouth, simple background, 1boy, standing, jacket, full body, white hair, male focus, boots, belt, pants, black footwear, muscular, pectorals, muscular male, black background, clenched hand, bara, black belt, fighting stance, white pants
+
+<lora:Yashiro:0.7>, yashirokof, solo, looking at viewer, smile, short hair, gloves, 1boy, navel, white hair, male focus, choker, pants, stomach, muscular, black choker, abs, suspenders, pectorals, muscular male,  bara, brown gloves, large pectorals, sideburns, white pants, pectoral cleavage, pointing at self
+
+<lora:Yashiro:0.7>,yashirokof, solo, smile, short hair, simple background, gloves, 1boy, white background, navel, jewelry, jacket, white hair, male focus, earrings, open clothes, choker, pants, dark skin, open jacket, muscular, abs, dark-skinned male, suspenders, pectorals, muscular male, bara, red jacket, cropped legs, white pants
+
+<lora:Yashiro:0.7>,yashirokof, solo, smile, short hair, simple background, gloves, 1boy, white background, navel, jewelry, jacket, white hair, male focus, earrings, open clothes, choker, pants, dark skin, open jacket, muscular, abs, dark-skinned male, suspenders, pectorals, muscular male, bara, pink jacket, cropped legs, white pants, glowing eyes, rock
+
+<lora:Yashiro:0.7>,yashirokof, solo, smile, simple background, 1boy, holding, jewelry, white hair, male focus, earrings, necktie, choker, dark skin, formal, dark-skinned male, suit, card, holding card
+
+YashiroKOF, 1guy, white hair, earrings, choker, red jacket, white pants, belt, brown gloves, suspenders, siderburns,  highly detailed, high contrast , digital colors, bright colors black pants, perfect face, looking to viewer  <lora:YashiroKOF:0.9> ((at central park, Autumn:1.3)), view from above, fall season, fighting pose,  best quality, masterpiece, highres, perfect picture, highly detailed, high contrast , colored, bright colors
+
+YashiroKOF, 1guy, spike white hair, earrings, choker,  shirtless, white pants, bulge, muscular,  siderburns, oily skin, freckles, stubble, smirk, hands behind head,  medium shot, lying on bed, bedroom, highres, sharp picture, mood lighting, intricate details, erotic picture, handsome man ,  highly detailed, high contrast , digital colors,perfect face, looking to viewer  <lora:YashiroKOF:1>   best quality, masterpiece, highres, perfect picture, colored, bright colors
+
+YashiroKOF, 1guy, white hair, earrings, choker,  shirtless, white pants, bulge, pilow, sweaty, vapor , steamy, muscular,  siderburns, oily skin, freckles, stubble, smirk, hands behind head,  medium shot, lying on bed, bedroom, highres, sharp picture, mood lighting, intricate details, erotic picture, handsome man ,  highly detailed, high contrast , digital colors,perfect face, looking to viewer  <lora:YashiroKOF:1>   best quality, masterpiece, highres, perfect picture, colored, bright colors
+
+YashiroKOF, 1guy, white hair, earrings, choker, red jacket, white pants, belt, brown gloves, suspenders, siderburns, mountains, sitting, highly detailed, high contrast , digital colors, bright colors black pants, perfect face, looking to viewer  <lora:YashiroKOF:1>   best quality, masterpiece, highres, perfect picture, highly detailed, high contrast , colored, bright colors
+
+YashiroKOF, 1guy, spike white hair, earrings, choker,  shirtless, white pants, bulge, muscular,  siderburns, oily skin, freckles, stubble, smirk, hands behind head,  medium shot, lying on bed, bedroom, highres, sharp picture, mood lighting, intricate details, erotic picture, handsome man ,  highly detailed, high contrast , digital colors,perfect face, looking to viewer  <lora:YashiroKOF:1>   best quality, masterpiece, highres, perfect picture, colored, bright colors
+
+YashiroKOF, 1guy, white hair, earrings, choker,  shirtless, white pants, bulge, pilow, sweaty, vapor , steamy, muscular,  siderburns, oily skin, freckles, stubble, smirk, hands behind head,  medium shot, lying on bed, bedroom, highres, sharp picture, mood lighting, intricate details, erotic picture, handsome man ,  highly detailed, high contrast , digital colors,perfect face, looking to viewer  <lora:YashiroKOF:1>   best quality, masterpiece, highres, perfect picture, colored, bright colors
+
+YashiroKOF, 1guy, white hair, earrings, choker, red jacket, white pants, belt, brown gloves in the pub, beer,  detailed eyes, best quality, masterpiece, highres, perfect picture, highly detailed, high contrast , digital colors, bright colors black pants, perfect face, looking to viewer  <lora:YashiroKOF:1>
+
+YashiroKOF, 1guy, white hair, earrings, choker, red jacket, white pants, belt, brown gloves, suspenders, siderburns,  highly detailed, high contrast , digital colors, bright colors black pants, perfect face, looking to viewer  <lora:YashiroKOF:0.9> ((at central park, Autumn:1.3)), view from above, fall season, fighting pose,  best quality, masterpiece, highres, perfect picture, highly detailed, high contrast , colored, bright colors
+
+
 
 ### Grimmjow Jaegerjaquez 
 
@@ -1107,6 +1183,10 @@ douglas_reed, ((hand behind head)),(((arrogant smirk))), (evil sight), mature ma
 
 ((masterpiece)),((best quality)),high detailed,ultra-detailed,anime,CG,{{Masterpiece, Best Quality, Extremely Detailed CG, Unity Wallpaper }},
 1boy,full body,facial hair, (facial tattoo:1.3),(left ear clip:1.2),topless, pectoral muscles,abs,black hair, blue eyes, naked male, erection,cum on body, large penis, <lora:Younger version of Clive:0.7>
+
+
+
+
 
 ### Assassin's Creed Franchise
 
@@ -1690,6 +1770,12 @@ Masterpiece, Detailed, Dynamic, Photorealistic, male twunk, naked_justice, red m
 
 Masterpiece, Detailed, Dynamic, Photorealistic, male twunk, naked_justice, red mask, red thighhighs, red gloves, huge thick veiny erect penis, large veiny testicles, standing, hands on hips, heroic pose, looking at viewer, handsome face, green eyes, orange hair, smiling, solo, male focus, daytime, city in background. <lora:NakedJustice-v1.0-10:0.90>
 
+#### Zahn
+
+
+
+
+
 ### Cry 4
 
 #### Pagan Min
@@ -1758,7 +1844,9 @@ priapus, [black|green] hair, green eyes, (red pupils:0.8), stubble, shoulder (ta
 
 priapus, [black|green] hair, short hair, completely nude, tattoo, huge penis, cowboy shot, detailed eyes, <lora:Priapus_v1:0.9> 
 
-#### Mario
+
+
+### Mario
 
 photo portrait of super mario in real life, real mario<lora:Real_Mario_sdxl:1.0>
 
@@ -2027,7 +2115,23 @@ x-men cyclops man photorealistic unleashing his optic blast in a fierce battle, 
 
 x-men cyclops man, Jean Grey sharing a moment, their connection and love visible, amidst the chaos of the X-Mansion, photorealistic, 8k, emotional depth, <lora:XMen-SSCyclops:1>
 
+#### Scott Summers (Cyclops)
 
+<lora:XMen-SSCyclops:0.5>, male, cyclops, body, x-men, realistic, ultra quality, highly detailed, ultra HD
+
+<lora:XMen-SSCyclops:0.7>, male, yellow underwear, blue suit, cyclops, body, x-men, red glasses, laser glasses,  (realistic:1.4), ultra quality, highly detailed, ultra HD realistic, ultra quality, highly detailed, ultra HD, masterpierce, super heroes, movie scene
+
+<lora:XMen-SSCyclops:0.65>, male, yellow underwear, blue suit, cyclops, body, x-men,  realistic, ultra quality, highly detailed, ultra HD realistic, ultra quality, highly detailed, ultra HD
+
+<lora:XMen-SSCyclops:0.6>, male, (yellow underwear:1), blue suit, cyclops, body, x-men, red glasses, laser glasses, (masterpierce:1.2), super heroes, flexing the muscles, sitting on the chair
+
+<lora:XMen-SSCyclops:0.65>, male, yellow underwear, blue suit, cyclops, body, x-men, realistic, ultra quality, highly detailed, ultra HD
+
+<lora:XMen-SSCyclops:0.7>, male, yellow underwear, blue suit, cyclops, body, x-men, red glasses, laser glasses, masterpierce, super heroes, movie scene, Cartoon style, cartoon style
+
+<lora:XMen-SSCyclops:0.7>, male, yellow underwear, blue suit, cyclops, body, x-men, red glasses, laser glasses, masterpierce, super heroes, movie scene, Cartoon style, cartoon style
+
+<lora:XMen-SSCyclops:0.6>, male, yellow underwear, blue suit, cyclops, body, x-men, red glasses, laser glasses, masterpierce, super heroes, movie scene, Cartoon style, cartoon style
 
 ### 明日方舟/Arknights
 
@@ -2043,3 +2147,33 @@ x-men cyclops man, Jean Grey sharing a moment, their connection and love visible
 
 <lora:xiumosi:0.55:MIDD>,  <lora:husbandoLocon_v32:0.4>, 1boy, brown_eyes, big aqua_eyes, red hair, (streaked_hair), facial_hair, ((cow horns)), red stubble,  pointy_ears, male_focus, portrait, :d,  ((solo)), (masterpiece),portrait,((:d)), crossed arms,male_focus,abs, biceps,bishounen,(bare body),(wet),(abs),nude, (nude), (abs), collarbone, bubble,(((male_focus))),navel,nipples,swimming,nipples,(((upper body))),partially_submerged,pectorals,smile,solo,nude,water,wet,(bath),lapels,ray tracing,god rays
 
+
+
+### Dragon Ball
+
+#### Yamcha/ヤムチャ
+
+ (8k, best quality, masterpiece:1.2),yamcha, male focus, 1boy, black hair, solo, smile, muscular male, spiked hair, black eyes,long hair, bangs, (green tunic), orange pants, (white sash),ribbon, outdoors, (purple armguards), orange neckerchief, looking at viewer, day, tree, blue sky, grass, rock, kanji,sidelocks,sleeveless,<lora:yamcha_v1_1:1>,
+
+(8k, best quality, masterpiece:1.2),(upper body:1.2),yamcha, male focus, 1boy, black hair, solo, scar on face, smile, muscular male, spiked hair, black eyes, long hair, orange dougi,orange pants, blue sash, outdoors, blue wristband, looking at viewer, day, tree, blue sky, rocky grassfields,insignia,bangs,<lora:yamcha_v1_1:1>,
+
+(8k, best quality, masterpiece:1.2),yamcha, male focus, 1boy, black hair, solo, scar on face, smile, muscular male, spiked hair, black eyes, short hair, forehead, orange dougi, orange pants, blue sash, outdoors, (blue wristband), looking at viewer, day, tree, blue sky, grass, rock, insignia,alternate hairstyle,<lora:yamcha_v1_1:1>,
+
+(8k, best quality, masterpiece:1.2),realistic,yamcha, male focus, 1boy, black hair, solo, smile, muscular male, spiked hair, black eyes,long hair, bangs, (green tunic), orange pants, (white sash),ribbon, outdoors, (purple armguards), orange neckerchief, looking at viewer, day, tree, blue sky, grass, rock, kanji,sidelocks,sleeveless,<lora:yamcha_v1_1:1>,
+
+
+
+### Hades
+
+#### Zagreus
+
+ZagreusHades, 1boy, single bare shoulder, greek clothes, male focus, laurel crown, black hair, heterochromia, pectorals, green eyes, muscular, muscular male, red eyes, nipples, colored sclera, solo, black sclera, bara, arm behind head, armlet,masterpiece, best quality, cinematic lighting,<lora:epi_noiseoffset2:1>,   <lora:ZagreusHades:0.7>
+
+ZagreusHades, 1boy, single bare shoulder, greek clothes, male focus, laurel crown, black hair, blood, red eyes, flower, pool of blood, sword, weapon, petals, nipples, solo, pectorals, bare pectorals, holding, armlet, muscular, skull,masterpiece, best quality, cinematic lighting,<lora:epi_noiseoffset2:1>,   <lora:ZagreusHades:0.7>
+
+ZagreusHades, laurel crown, 1boy, single bare shoulder, male focus, weapon, sword, greek clothes, black hair, sitting, throne, pectorals, skull, muscular male, muscular, nipples, sword over shoulder, weapon over shoulder, solo, dark skin, dark-skinned male, over shoulder, bare pectorals, holding, bara, holding sword, holding weapon
+,masterpiece, best quality, cinematic lighting,<lora:epi_noiseoffset2:1>,   <lora:ZagreusHades:0.7>
+
+ZagreusHades, 1boy, upper body, fire, smirk,masterpiece, best quality, cinematic lighting,<lora:epi_noiseoffset2:1>,   <lora:ZagreusHades:0.7>
+
+ZagreusHades, 1boy, single bare shoulder, greek clothes, male focus, laurel crown, black hair, heterochromia, pectorals, green eyes, muscular, muscular male, red eyes, nipples, colored sclera, solo, black sclera, bara, arm behind head, armlet,masterpiece, best quality, cinematic lighting,<lora:epi_noiseoffset2:1>,   <lora:ZagreusHades:0.7>
