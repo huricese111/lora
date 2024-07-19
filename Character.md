@@ -54,6 +54,18 @@ roronoa zoro, green hair, scar across right eye, single earing, scar blade on ch
 
 Highly detailed, High Quality, Masterpiece, beautiful, <lora:UnlimitedBladeWorksV0.3:0.8>, (Staff:1.2), 1boy, solo, roronoa zoro, muscular male, scar, scar across eye, japanese clothes, green kimono, green hair, <lora:Char_OnePeace_Zoro:1>, (detailed face and eyes:1.3)
 
+#### Trafalgar D Law - Wano Arc
+
+masterpiece, best quality, 1boy, trafalgar law, tdlwano, black hair, hat, chest tattoo, earrings, facial hair, long sideburns, goatee, japanese clothes, kimono, over shoulder, upper body, looking at viewer, smile, solo, blue sky, grass, meadow background <lora:TrafalgarDLawWano:1>
+
+masterpiece, best quality, 1boy, trafalgar law, tdlwano, black hair, hat, chest tattoo, earrings, facial hair, long sideburns, goatee, japanese clothes, kimono, over shoulder, full body, hands on hips, looking at viewer, smile, solo, standing, simple background  <lora:TrafalgarDLawWano:1>
+
+masterpiece, best quality, 1boy, tdlwano, black hair, hat, chest tattoo, earrings, facial hair, long sideburns, goatee, japanese clothes, kimono, over shoulder, , full body, view from above, looking at viewer, smile, solo, sea, sand, tropical island background <lora:TrafalgarDLawWano:1>
+
+masterpiece, best quality, 1boy, tdlwano, black hair, hat, chest tattoo, earrings, facial hair, long sideburns, goatee, japanese clothes, black kimono, coat over shoulder, looking at viewer, cyberpunk, solo, neon light, night, cyberpunk city background <lora:TrafalgarDLawWano:1>
+
+
+
 ### Yakuza (龍が如く)
 
 #### Akiyama Shun (秋山 駿)
@@ -141,6 +153,24 @@ Jago_KI_I, ninja mask, solo, black hair, blue gloves, 1boy, male focus, boots, m
 <lora:mklkng_v3-000011:1> mklkng, masterpiece, best cinematic quality, photorealistic highly detailed 8k raw photo, volumetric lighting, volumetric shadows, man, dynamic pose, fire, A labyrinthine catacomb, with crumbling walls and ancient tombs background
 
 <lora:mklkng_v3-000009:1> mklkng, masterpiece, best cinematic quality, photorealistic highly detailed 8k raw photo, volumetric lighting, volumetric shadows, man, Mimicking a clumsy ballet dancer, jungle background
+
+#### Scorpion - Kuai Liang
+
+masterpiece, best quality, 1boy, mkscorpion, black hair,  mask, sleeveless, solo, looking at viewer, cyberpunk city background, night, neon light <lora:ScorpionMK1:1>
+
+masterpiece, best quality, 1boy, mkscorpion, black hair,  mask, sleeveless, solo, looking at viewer, hands on hips, meadow background, blue sky, cloud<lora:ScorpionMK1:1>
+
+masterpiece, best quality, 1boy, mkscorpion, black hair, sleeveless, smile, closeup, smile, solo, sketch, looking at viewer, simple background <lora:ScorpionMK1:1>
+
+masterpiece, best quality, 1boy, mkscorpion, black hair,  mask, sleeveless, upper body, smile, solo, looking at viewer, simple background <lora:ScorpionMK1:1>
+
+masterpiece, best quality, 1boy, mkscorpion, black hair,  mask, sleeveless, upper body, smile, solo, looking at viewer, simple background <lora:ScorpionMK1:1>
+
+masterpiece, best quality, 1boy, mkscorpion, black hair,  single hair bun, mask, sleeveless, japanese clothes, fingerless gloves, full body, hands on hips, smile, solo, looking at viewer, simple background <lora:ScorpionMK1:1>
+
+masterpiece, best quality, 1boy, mkscorpion, black hair,  mask, sleeveless, solo, looking at viewer, cyberpunk city background, night, neon light <lora:ScorpionMK1:1>
+
+masterpiece, best quality, 1boy, mkscorpion, black hair,  mask, sleeveless, solo, looking at viewer, hands on hips, meadow background, blue sky, cloud<lora:ScorpionMK1:1>
 
 
 ### Assassin's Creed 
@@ -462,6 +492,50 @@ RyuSaka,  1guy,  muscular:1.2,  blonde,  orange dougi,  orange pants,  black bel
 
 RyuSaka,  1guy,  muscular:1.2,  shirtless,  pecs,  abs,  relaxing on bed,  bedroom,  sweaty skin,  blonde,  muscular arms,  orange pants,  black belt,  masterpiece,  perfect face,  perfect picture,  detailed eyes , sharp focus, <lora:RyoSakazaki-DocStasis:1> 
 
+#### Shen Woo
+
+ShenWoo, 1guy, purple shirt, chocker collar, necklace, medium shot, chain, blond hair, pectorals, abs, belt, gloves, portrait, tan skin, in coffeeshop, detailed eyes, best quality, masterpiece, highres, perfect picture, highly detailed, high contrast , digital colors, bright colors black pants, perfect face, looking to viewer  <lora:ShenWoo:1>
+
+ShenWoo, 1guy, detailed face, detailed eyes, handsome, professional art, perfect face, looking to viewer,s smiling, charming, confident   <lora:ShenWoo:1>
+
+ShenWoo, 1guy, purple shirt, chocker collar, necklace, medium shot, chain, blond hair, open shirt, belt, gloves, portrait, tan skin, black pants, perfect face, smiling, looking to viewer ((at central park, Autumn:1.3)), fall season, fighting pose,  best quality, masterpiece, highres, perfect picture, highly detailed, high contrast , colored, bright colors,  <lora:ShenWoo:1>
+
+ShenWoo, 1guy, purple shirt, chocker collar, necklace, medium hair, black pants, chain, open shirt, belt, gloves, medium shot,  mountains,  best quality, masterpiece, highres, perfect picture, highly detailed, high contrast , colored, bright colors, solo <lora:ShenWoo:1>
+
+ShenWoo, 1guy, shirtless chocker collar, black leather speedo, chain, gloves, lying on bed, bedroom, highres, sharp picture, mood lighting, intricate details, erotic picture, handsome man ,   detailed eyes, best quality, masterpiece, highres, perfect picture, highly detailed, high contrast , digital colors, bright colors , perfect face, looking to viewer   <lora:ShenWoo:1>
+
+#### Shingo Yabuki
+
+shingo, medium shot, 1guy, male,headband, jacket, white t-shirt, pants, fingerless gloves, detailed eyes,   best quality,   masterpiece, highres, perfect picture, highly detailed, high contrast, <lora:ShingoKOF:1>
+
+shingo, medium shot, 1guy, male,headband, short sleeves jacket, white t-shirt, pants, fingerless gloves, hands on pocket, at college campus, trees, old building, smiling, anime style, detailed eyes,   best quality,   masterpiece, highres, perfect picture, highly detailed, high contrast <lora:ShingoKOF:1>
+
+shingo, 1guy, male,headband, short sleeves jacket, white t-shirt, deep blue pants, fingerless gloves, reading book, full body, sitting, train station, tired, detailed eyes,   best quality,   masterpiece, highres, perfect picture, highly detailed, high contrast <lora:ShingoKOF:1>  <lora:GoodHands-beta2:1>
+
+shingo, 1guy, male,headband, detailed face, masculine face, perfect eyes, short sleeves jacket, deep blue jacket, white t-shirt, deep blue pants, fingerless gloves, reading one book, full body, smile, closed mouth, detailed eyes, at the park, best quality, masterpiece, highres, perfect picture, highly detailed, high contrast <lora:ShingoKOF:1> <lora:GoodHands-beta2:1> anime style,
+
+shingo, 1boy,detailed eyes, anime eyes, perfect face, smiling  <lora:ShingoKOF:1>
+
+shingo, 1guy, male, skin, highres, perfect picture, highly detailed, high contrast <lora:ShingoKOF:1> <lora:GoodHands-beta2:1>  bokeh
+
+#### Takuma Sakazaki
+
+1guy, takumasakazaki, white kimono , white pants , black belt , highres, raw photo, bara:1.2, 1guy, medium shot , white pants,sitting, ((holding a beer)), smirk , detailed face ,<lora:TakumaKarate-Stasis:1> 
+
+1guy, takumasakazaki, tengu mask, white hair, white mustache, white beard, shirtless, bara:1.1, 45yo man, mature man, chest scar, daddy, dark grey pants , black belt , highres, raw photo, bara:1.2, 1guy, medium shot ,  view from above,, smirk , detailed face , at the city,<lora:TakumaKarate-Stasis:1> 
+
+1guy, takumasakazaki, shirtless, bara:1.1, 45yo man, mature man, daddy, white pants , black belt , highres, raw photo, bara:1.2, 1guy, medium shot , white pants, kneeling, smirk , detailed face , at the city,<lora:TakumaKarate-Stasis:1> 
+
+1guy, takumasakazaki, tengu mask, white hair, white mustache, white beard, shirtless, bara:1.1, 45yo man, mature man, chest scar, daddy, dark grey pants , black belt , highres, raw photo, bara:1.2, 1guy, medium shot ,  view from above,, smirk , detailed face , at the city,<lora:TakumaKarate-Stasis:1> 
+
+1guy, takumasakazaki, shirtless, scar on chest, white pants, black belt, portrait , bara, medium shot , sitting, meditating, garden, muscular:1.3, 50yo mature man,<lora:TakumaKarate-Stasis:1> 
+
+1guy, takumasakazaki, shirtless , on bed, relaxing, hands behind head, ((scar on chest)) , white pants , black belt ,bulge,  portrait , medium shot , mountains , muscular , 50yo mature man,<lora:TakumaKarate-Stasis:1> 
+
+1guy, takumasakazaki, ((TENGU MASK)), ((white hair, white mustache, white bears, pointy nose, big EYES)), sweaty, shirtless, on bed, relaxing, hands behind head, ((scar on chest)), white pants, black belt , bulge, portrait, medium shot, mountains, muscular, 50yo mature man,<lora:TakumaKarate-Stasis:1> 
+
+1guy, takumakarate,(tengu mask, white hair, white beard, white mustache, big eyes), dark karate gi, dark kimono, bara:1.2, , daddy, dark grey pants , black belt , highres, raw photo,  1guy, medium shot , kneeling, smirk , detailed face , at the beach,<lora:TakumaKarate-Stasis:1> 
+
 ### Grimmjow Jaegerjaquez 
 
 ####  Bleach
@@ -507,6 +581,32 @@ a man with a tie and a suit on posing for a picture in a picture frame with a wh
 #### Chris Redfield
 
 (masterpiece, best quality:1.2), <lora:residentevil_chrisredfield-11:1.0>, cowboy shot, solo, male focus, 1boy, chris redfield, muscular male, looking at viewer, crossed arms, green taut shirt, white pants, (fingerless gloves:1.1), belt
+
+#### SXZ Leon S. Kennedy - Eduard Badaluta
+
+dark scene, 1boy, portrait of re2leon, police uniform, bulletproof vest, (blood on face), scared, rim light, athletic, volumetric lighting, best quality, masterpiece, intricate details, tonemapping, sharp focus, hyper detailed, trending on Artstation, looking at viewer, realistic <lora:sxz-leon:0.6>
+
+1boy, cowboy shot of re4leon, leather jacket with fur trim,  long sleeves, black jeans, volumetric lighting, athletic, best quality, masterpiece, intricate details, tonemapping, sharp focus, hyper detailed, trending on Artstation, looking at viewer, realistic <lora:sxz-leon:0.6>
+
+1boy, cowboy shot of re2leon, police uniform, bulletproof vest,  athletic, volumetric lighting, best quality, masterpiece, intricate details, tonemapping, sharp focus, hyper detailed, trending on Artstation, looking at viewer, realistic <lora:sxz-leon:0.6>
+
+dark scene, 1boy, cowboy shot of re4leon, wearing suit, sunglasses, looking at viewer, athletic, volumetric lighting, best quality, masterpiece, intricate details, tonemapping, sharp focus, hyper detailed, trending on Artstation, looking at viewer, realistic <lora:sxz-leon:0.6>
+
+1boy, portrait of re2leon, police uniform, bulletproof vest, (blood on face), scared, athletic, volumetric lighting, best quality, masterpiece, intricate details, tonemapping, sharp focus, hyper detailed, trending on Artstation, looking at viewer, realistic <lora:sxz-leon:0.6>
+
+dark scene, 1boy, cowboy shot of re2leon, medieval golden armor, (crown), garden, tree, looking at viewer, athletic, volumetric lighting, best quality, masterpiece, intricate details, tonemapping, sharp focus, hyper detailed, trending on Artstation, looking at viewer, realistic <lora:sxz-leon:0.6>
+
+1boy, cowboy shot of re4leon,black shirt, holster, black pants, athletic, volumetric lighting, best quality, masterpiece, intricate details, tonemapping, sharp focus, hyper detailed, trending on Artstation, looking at viewer, realistic <lora:sxz-leon:0.6>
+
+1boy, portrait of re2leon, police uniform, bulletproof vest, (blood on face), scared, athletic, volumetric lighting, best quality, masterpiece, intricate details, tonemapping, sharp focus, hyper detailed, trending on Artstation, looking at viewer, realistic <lora:sxz-leon:0.6>
+
+1boy, cowboy shot of re2leon, police uniform, bulletproof vest,  athletic, volumetric lighting, best quality, masterpiece, intricate details, tonemapping, sharp focus, hyper detailed, trending on Artstation, looking at viewer, realistic <lora:sxz-leon:0.6>
+
+dark scene, 1boy, cowboy shot of re4leon, wearing suit, mafia hat, looking at viewer, athletic, volumetric lighting, best quality, masterpiece, intricate details, tonemapping, sharp focus, hyper detailed, trending on Artstation, looking at viewer, realistic <lora:sxz-leon:0.6>
+
+1boy, cowboy shot of re4leon, wearing fur-trimmed jacket, long sleeves, black jeans, volumetric lighting, athletic, best quality, masterpiece, intricate details, tonemapping, sharp focus, hyper detailed, trending on Artstation, looking at viewer, realistic <lora:sxz-leon:0.6>
+
+
 
 ### Resident Evil 3
 
@@ -758,6 +858,20 @@ clayton, shirtless, forest, (smirk), arrogant, moustaches, mature man, undercut,
 
 CorvoDis, 1boy, solo, male focus, facial hair, portrait, looking at viewer, beard, realistic, closed mouth, brown eyes, black hair, short hair, thick eyebrows, brown hair,  <lora:CorvoDis:0.7>
 
+#### Tarzan
+
+tarzan, naked, broad shoulders, green eyes, handsome, beautiful, hot, sexy,  face turned to the viewer, dreadlocks, forest, big biceps, large pectorals, ultra realistic, <lora:tarzan_disney-45:0.65>,
+
+tarzan, naked, broad shoulders, green eyes, handsome, beautiful, hot, sexy,  dreadlocks, big biceps, large pectorals, ultra realistic, <lora:tarzan_disney-45:0.65>,  hairy pectorals, hairy arms, hairy legs, side view, under the shower, wet
+
+tarzan, tank top, shorts, broad shoulders, green eyes, handsome, beautiful, hot, sexy,  face turned to the viewer, dreadlocks, street, daylight, big biceps, large pectorals, ultra realistic, <lora:tarzan_disney-45:0.65>,
+
+tarzan, naked, broad shoulders, green eyes, handsome, beautiful, hot, sexy,  face turned to the viewer, dreadlocks, forest, big biceps, large pectorals, ultra realistic, <lora:tarzan_disney-45:0.7>,  <lora:add_detail:1>,  <lora:BettercocksFlaccid:0.6>, large penis, erection
+
+tarzan, naked, broad shoulders, green eyes, handsome, beautiful, hot, sexy,  face turned to the viewer, dreadlocks, forest, big biceps, large pectorals, ultra realistic, <lora:tarzan_disney-45:0.7>,  <lora:add_detail:1>,  <lora:BettercocksFlaccid:0.6>, large penis, erection
+
+
+
 ### Resident Evil 6
 
 #### Jake
@@ -833,6 +947,22 @@ Highly detailed, High Quality, Masterpiece, beautiful <lora:more_details:1>, <lo
 Highly detailed, High Quality, Masterpiece, beautiful <lora:more_details:1>, <lora:Kayn-08:0.7>, kayn, 1boy, solo, In the rugged, war-torn lands of Valorguard, emotions run wild, threatening to tear society apart. As a battle-hardened warrior with a unique gift for stable diffusion, you must forge alliances, confront powerful foes, and harness the strength of your emotions to bring peace back to the realm
 
 Highly detailed, High Quality, Masterpiece, beautiful <lora:more_details:1>, <lora:Kayn-08:0.7>, kayn, 1boy, solo, A realm of mythical creatures is on the verge of destruction due to uncontrolled emotions. You are the last of the 'EmoRiders,' a revered order of knights who ride majestic emotion-fueled beasts. Embark on a thrilling quest to restore the emotional balance and protect the creatures from extinction, long_shot
+
+#### Sett, The Boss
+
+A vector art anime image of manly man Sett with serious face features,( from below:1.25), ((fighting weith fists,looking bossy,low ground view, nice figure)),scar on nose, shirtless male torso, red hair, square face, square male chin, feathred owl ears, red glow cornea, golden ornament with details, symmetrical outfit, wide broad shoulders, small head, huge male arms , solo figure shot, league of legends, white pants, (character reference, bent knees) ,<lora:Sett:0.85>
+
+A vector art anime image of manly man Sett with serious face features, painting the canvas, towering figure, ((standing as boss,low ground view, wide figure)),scar on nose, shirtless male torso, red hair, square face, square male chin, feathred owl ears, red glow cornea, golden ornament with details, symmetrical outfit, wide broad shoulders, small head, huge male arms , solo figure shot, league of legends, white pants, (character reference, calves, knees, barefeet, toes,soles, bent knees), <lora:Sett:0.85>
+
+photo art of manly Sett posing in the gym, lifting the weights, guy in the gym, public place, legs male pose, red hair, wearing his white -  (golgen outfit) and feathered owl ears, metal gold ornament, amazing composition, wide male chest, small head, broad shoulders, huge arms and hands,jagged scar runs the length of his prominent nose, attire is simple but well-crafted, a sleeveless tunic and leather bracers,frame rippling with muscle,muted color palette and rough brush strokes of the scene evoke a gritty realism fitting, fit male torso, <lora:Sett:0.75>
+
+A selfie of manly man Sett, shirtless male torso, <lora:Sett:1>
+
+#### Sylas 
+
+(masterpiece, best quality:1.2), intricate details, <lyco:GoodHands-beta2:1>, <lora:sylas_lol-000011:1>, sylas \(league of legends\), 1boy, male focus, topless male, shackles, chain
+
+(masterpiece, best quality:1.2), intricate details, <lyco:GoodHands-beta2:1>, <lora:sylas_lol-000011:1>, sylas \(league of legends\), 1boy, male focus, open clothes, fur coat, fur trim, shackles, chain
 
 ### David Licauco
 
@@ -985,6 +1115,10 @@ douglas_reed, ((hand behind head)),(((arrogant smirk))), (evil sight), mature ma
 #### Vulcan Joseph
 
 (masterpiece, best quality:1.2), <lora:fireforce_vulcanjoseph-10:1>, cowboy shot, solo, male focus, 1boy, vulcan joseph, muscular male, smile, looking at viewer, black tank top, orange pants, (gloves:1.1)
+
+
+
+
 
 ### Fist of the North Star / Hokuto no Ken / 北斗の拳
 
@@ -1192,6 +1326,10 @@ guanyu,white bangs,Streaked hair,1boy,muscular,masterpiece, best quality, long b
 liubei,public hair,bulge,nude,muscular,white hair,ponytail,red mark,1boy,masterpiece, best quality,<lora:liubei-3-000008:0.7>,
 outdoor
 
+#### Sunce/孫策
+
+face,sunce,1boy,muscular male,<lora:sunce2-v1-000008:0.9>, masterpiece, best quality,
+
 ### 王牌战士/Ace Force
 
 #### 赵海龙（zhao hai long）
@@ -1312,11 +1450,21 @@ river_ward, solo, looking at viewer, short hair, 1boy, navel, nipples, male focu
 
 river_ward,  darker skin, hairy, big biceps, large pectorals, (naked), erect penis, large penis,  looking at the viewer, street,  sweat, ejaculation, sperm, realistic,  front view,<lora:BetterCocks:0.5> ,    <lora:river_ward-60:0.5>  , <lora:add_detail:1>
 
-### Fire Emblem: Blazing Blade
+### Fire Emblem
 
 #### Jaffar 
 
 (masterpiece,best quality:1.2),1boy,jaffarfe,standing,holding dagger,fingerless gloves,cowboy shot,headband,sleeveless,tattoo,midriff,navel,cape,cloak,headband,pants,looking at viewer,(indoors,in dark castle:1.2),expressionless,<lora:JaffarFE:0.85>, 
+
+#### Sylvain (Summer)
+
+<lora:Sylvain_Jose_Gautier_Summer_Fire_Emblem:1>, Sylvain_Jose_Gautier_Summer_Fire_Emblem, solo, looking at viewer, smile, 1boy, navel, jewelry, nipples, male focus, red hair, outdoors, one eye closed, sky, shorts, day, cloud, necklace, bracelet, cup, muscular, abs, cloudy sky, pectorals, muscular male, towel, armband, bara, large pectorals, topless male, male swimwear, swim trunks, ultra realistic,32k,RAW photo,(high detailed skin:1.2), 8k uhd, dslr, soft lighting, high quality, film grain
+
+<lora:Sylvain_Jose_Gautier_Summer_Fire_Emblem:1>,Sylvain_Jose_Gautier_Summer_Fire_Emblem, solo, looking at viewer, blush, smile, short hair, 1boy, navel, jewelry, sitting, nipples, male focus, outdoors, one eye closed, penis, necklace, orange hair, mosaic censoring, pubic hair, muscular, erection, abs, testicles, pectorals, muscular male, male pubic hair, bara, finger to mouth, large pectorals, veins, veiny penis, large penis, male swimwear, huge penis, ultra realistic,32k,RAW photo,(high detailed skin:1.2), 8k uhd, dslr, soft lighting, high quality, film grain
+
+<lora:Sylvain_Jose_Gautier_Summer_Fire_Emblem:1>, Sylvain_Jose_Gautier_Summer_Fire_Emblem, solo, looking at viewer, blush, smile, short hair, 1boy, navel, jewelry, sitting, nipples, male focus, outdoors, one eye closed, penis, necklace, orange hair, mosaic censoring, pubic hair, muscular, erection, abs, testicles, pectorals, muscular male, male pubic hair, bara, finger to mouth, large pectorals, veins, veiny penis, large penis, male swimwear, huge penis, ultra realistic,32k,RAW photo,(high detailed skin:1.2), 8k uhd, dslr, soft lighting, high quality, film grain
+
+
 
 ### Tekken
 
@@ -1339,6 +1487,8 @@ Jin_Kazama_Tekken, solo, black hair, standing, male focus, muscular, abs, pector
 Jin_Kazama_Tekken, solo, black hair, 1boy, navel, male focus, barefoot, pants, muscular, abs, gauntlets, topless male <lora:Jin_Kazama_Tekken3-07:0.7>, tattoo, japanese room, ultra realistic,32k,RAW photo,(high detailed skin:1.2), 8k uhd, dslr, soft lighting, high quality, film grain
 
 Jin_Kazama_Tekken, solo, black hair, 1boy, navel, male focus, barefoot, pants, muscular, abs, red gauntlets, topless male <lora:Jin_Kazama_Tekken3-07:0.7>, japanese room, kneeling, red eyes, masterpiece, high quality, highres, ultra realistic,32k,RAW photo,(high detailed skin:1.2), 8k uhd, dslr, soft lighting, high quality, film grain
+
+(masterpiece, best quality:1.2), <lora:tekken_kazama-10:0.9>, cowboy shot, solo, male focus, 1boy, kazama jin, topless male, serious, closed mouth, pants, fingerless gloves
 
 #### Miguel Caballero
 
@@ -1667,7 +1817,185 @@ masterpiece, best quality, movie still, 1boy, solo, male focus, looking at viewe
 
 masterpiece, best quality, illustration, 1boy, solo, male focus, looking at viewer, upper body, depth of field, , realistic, <lora:roy_mustang:0.70>, roy_mustang, black hair, black eyes, disco costume, The Kingdom of the Unicorn, HD-DVD
 
-### City Hunter
+### The Evil Within 2
+
+#### Sebastian
+
+(masterpiece, best quality:1.3),<lora:add_detail:0.7> <lora:epi_noiseoffset2:1> <lora:SebastianEvil:0.8>,SebastianEvil, solo, black hair, 1boy, weapon, male focus, necktie, belt, vest, gun, facial hair, lantern, stubble, holster, waistcoat, shoulder holster
+
+(masterpiece, best quality:1.3),<lora:add_detail:0.7> <lora:epi_noiseoffset2:1> <lora:SebastianEvil:0.7>,SebastianEvil, solo, looking at viewer, short hair, shirt, black hair, 1boy, closed mouth, jacket, white shirt, upper body, male focus, outdoors, collared shirt, uniform, wet, military, military uniform, facial hair, portrait, beard, rain, serious, realistic, mustache, wet hair, manly
+
+(masterpiece, best quality:1.3),<lora:add_detail:0.7> <lora:epi_noiseoffset2:1> <lora:SebastianEvil:0.7>,SebastianEvil, solo, looking at viewer, short hair, shirt, black hair, long sleeves, 1boy, closed mouth, standing, white shirt, male focus, outdoors, open clothes, necktie, collared shirt, belt, vest, coat, facial hair, beard, open coat, black vest, realistic, mustache
+
+(masterpiece, best quality:1.3),<lora:add_detail:0.7> <lora:epi_noiseoffset2:1> <lora:SebastianEvil:0.7>,SebastianEvil, solo, brown hair, black hair, 1boy, brown eyes, weapon, male focus, necktie, vest, gun, blood, facial hair, backpack, rifle, beard, injury, realistic, stubble
+
+(masterpiece, best quality:1.3),<lora:add_detail:0.7> <lora:epi_noiseoffset2:1> <lora:SebastianEvil:0.7>,SebastianEvil, solo, 1boy, at the beach, casual clothing, palm trees, sundown
+
+(masterpiece, best quality:1.3),<lora:add_detail:0.7> <lora:epi_noiseoffset2:1> <lora:SebastianEvil:0.7>,SebastianEvil, solo, 1boy, at the beach, swim trunks, sitting,topless male, cocktail
+
+### The Evil Within 2
+
+#### Sebastian
+
+(masterpiece, best quality:1.3),<lora:add_detail:0.7> <lora:epi_noiseoffset2:1> <lora:Sebastian2Evil:0.7>,Sebastian2Evil, 1boy, solo, looking at viewer, shirt, black hair
+
+(masterpiece, best quality:1.3),<lora:add_detail:0.7> <lora:epi_noiseoffset2:1> <lora:Sebastian2Evil:0.7>,Sebastian2Evil, solo, looking at viewer, simple background, shirt, black hair, 1boy, holding, jacket, upper body, weapon, male focus, teeth, holding weapon, gun, blood, facial hair, holding gun, beard, handgun, realistic, mustache, manly, aiming, aiming at viewer
+
+(masterpiece, best quality:1.3),<lora:add_detail:0.7> <lora:epi_noiseoffset2:1> <lora:Sebastian2Evil:0.7>,Sebastian2Evil, solo, shirt, 1boy, at the beach, swim trunks, sitting,topless male, cocktail
+
+(masterpiece, best quality:1.3),<lora:add_detail:0.7> <lora:epi_noiseoffset2:1> <lora:Sebastian2Evil:0.7>,Sebastian2Evil, solo, shirt, 1boy, at the beach, casual clothing, palm trees, sundown
+
+(masterpiece, best quality:1.3),<lora:add_detail:0.7> <lora:epi_noiseoffset2:1> <lora:Sebastian2Evil:0.7>,Sebastian2Evil, solo, looking at viewer, shirt, black hair, 1boy, brown eyes, jacket, upper body, male focus, parted lips, collared shirt, facial hair, portrait, beard, green jacket, realistic, mustache, stubble, manly, brick wall
+
+### Street Fighter
+
+#### Ryu 
+
+<lora:sfr1v:1> sfr1v portrait, cyberpunk style
+
+<lora:alt3ryv:0.5>, <lora:0.7>,sfr1v, portrait, charging alt3ryv energy
+
+<lora:sfr1v:1>,sfr1v, dungeon, sitting, eyes closed, concentrate, flowing green energy
+
+<lora:sfr1v:1>,sfr1v, forest, side portrait, standing
+
+<lora:sfr1v:1>,sfr1v, prison, raw analog photo, sitting, eyes closed, real human skin, dramatic lighting, black and white photo, monochrome
+
+(masterpiece, best quality:1.2), <lora:streetfighter_ryu-10:1>, cowboy shot, solo, male focus, 1boy, ryu \(sf\), serious, closed mouth, looking at viewer, black hair, dougi, fingerless gloves
+
+(masterpiece, best quality:1.2), <lora:streetfighter_ryu-10:1>, cowboy shot, solo, male focus, 1boy, ryu \(sf\), serious, closed mouth, looking at viewer, black hair, headband, dougi, white pants, fingerless gloves
+
+### Spider-Man
+
+masterpiece, best quality, spider-man costume, nomask, 1boy, blonde hair, blue eyes, standing, new york background <lora:Spider-Man Costume_v1:1>
+
+masterpiece, best quality, spider-man costume, nomask, 1girl, red hair, green eyes, standing, new york background <lora:Spider-Man Costume_v1:1>
+
+### Fairy Tail
+
+#### Sting Eucliffe
+
+masterpiece, best quality, movie still, 1boy, solo, male focus, looking at viewer, upper body, , anime coloring, realistic, <lora:sting_eucliffe:0.72>, sting_eucliffe, blonde hair, blue eyes, spiked hair
+
+masterpiece, best quality, game cg, 1boy, solo, male focus, looking at viewer, upper body, , anime coloring, realistic, <lora:sting_eucliffe:0.70>, sting_eucliffe, blonde hair, blue eyes, spiked hair, , A tropical paradise where the sun shines brightly every day, HD
+
+masterpiece, best quality, , 1boy, solo, male focus, looking at viewer, upper body, depth of field, ligne claire, , <lora:sting_eucliffe:0.68>, sting_eucliffe, blonde hair, blue eyes, spiked hair, pea coat, , , 2k resolution
+
+masterpiece, best quality, game cg, 1boy, solo, male focus, looking at viewer, upper body, depth of field, ligne claire, , <lora:sting_eucliffe:0.74>, sting_eucliffe, blonde hair, blue eyes, spiked hair, swashbuckler costume, ,
+
+masterpiece, best quality, game cg, 1boy, solo, male focus, looking at viewer, upper body, , ligne claire, realistic, <lora:sting_eucliffe:0.66>, sting_eucliffe, blonde hair, blue eyes, , jacket, , ancient greece,
+
+masterpiece, best quality, illustration, 1boy, solo, male focus, looking at viewer, upper body, depth of field, ligne claire, realistic, <lora:sting_eucliffe:0.72>, sting_eucliffe, blonde hair, blue eyes, , , feudal japan,
+
+masterpiece, best quality, illustration, 1boy, solo, male focus, looking at viewer, , , , , <lora:sting_eucliffe:0.68>, sting_eucliffe, blonde hair, blue eyes, spiked hair, mackintosh, , graveyard, High definition
+
+masterpiece, best quality, , 1boy, solo, male focus, looking at viewer, upper body, , anime coloring, , <lora:sting_eucliffe:0.74>, sting_eucliffe, blonde hair, blue eyes, spiked hair, graduation costume, The Crystal Cave: A fantastical place where gemstones and crystals grow in abundance,
+
+masterpiece, best quality, movie still, 1boy, solo, male focus, looking at viewer, upper body, , ligne claire, , <lora:sting_eucliffe:0.72>, sting_eucliffe, blonde hair, blue eyes, , zombie costume, The Isle of Doom,
+
+### Jujutsu Kaisen
+
+#### Sukuna
+
+masterpiece, best quality, ultra-detailed, texture, detail eyes,8k, 1boy, Sukuna, a man with pink hair and shirtless, tattoo_ryoumen, tattoo_on_his_face, looking at viewer, abs, detailed eyes, detailed face, (masterpiece:1.4),(best quality:1.4),(shiny skin),realistic, bright, neon lights, night, midnight, city, cyberpunk, light ,  <lora:sukuna:0.8>
+
+
+
+### SYAHASIAN
+
+#### Asian men
+
+masterpiece, best quality, high resolution, realistic, handsome, photogenic, <lora:syahasian:1>, syahnk, SFW,  a photo of a 35 year old gym frat (man:1.2) portrait, standing in a gym , doing military press, weights, stunning , short buzzcut hair,stubble head , (hypermuscle),looking at the viewer, flirting with the camera, charming, (tight white gym shirt ),<lora:add_detail:1>, (GS-Masculine:1), 8K UHD
+
+masterpiece, best quality, highres, realistic, handsome, photogenic, syahnk, as (handsome fuckboy, confident smirk, looking at viewer, torn jeans, (huge biceps),muscular male, (skin tight blue t-shirt), ((induction cut, buzzcut, black hair, stubble head)), (shopping mall background), intricate detail, HDR, octane, 8k) ,<lora:add_detail:1.5>, <lora:syahasian:1>
+
+masterpiece, best quality, highres, realistic, handsome, photogenic, masculine, (big muscles),<lora:syahasian:0.75>, a  portrait photo, face of syahnk as a (dark tanned skin:1.4) athletic jock bulging  with  huge pectorals, in the middle of soccer field, with his smirking dumb face view the viewer, (he is bald or shaved head),<lora:add_detail:1>,HDR, octane, 8k, dinamic light,studio light,high detailed skin,high detailed face,DSLR,high quality, film grain, Fujifilm XT3,skin pore
+
+masterpiece, best quality, highres, realistic, handsome, photogenic, masculine, (big muscles),<lora:syahasian:1>, a  portrait photo, face of syahnk as a (dark tanned skin:1.4) athletic jock bulging  with  huge pectorals, in the middle of soccer field, with his smirking dumb face view the viewer, he is bald or shaved head,<lora:add_detail:1>,HDR, octane, 8k, dinamic light,studio light,high detailed skin,high detailed face,DSLR,high quality, film grain, Fujifilm XT3,skin pore
+
+#### South east Asian male
+
+masterpiece, best quality, highres, realistic, handsome, photogenic, masculine, (big muscles),<lora:syahnkV4-08:0.5>, syahnk as  ((dark tanned)) athletic jock bulging with huge pectorals, he with his (tight gymsuit) flexing in the middle of soccer field stadium, he proud face due to victory ,<lora:add_detail:1>,HDR, octane, 8k, subsurface scattering,dinamic light,sunkissess,high detailed skin,high detailed face, Epic
+
+Face of syahnk, pectoral, 8K UHD, Studio lighting, photoshoot ,( african male swimmer :1.3), body portrait, outdoor photoshoot,oiled skin, glowing, high detailed face, high detailed skin,HD, RAW photo, subsurface scattering , wearing boxer, shredded, (golden tanned skin), smirked face, ,HDR, shadow, outdoor theme, Military haircut, buff,beefy, realistic,<lora:syahnkV4-08:0.5>, 
+
+masterpiece, best quality, highres, realistic, handsome, photogenic,half body shot, <lora:syahnkV4-08:0.65>, syahnk, as  (handsome ,1man, Charming male with light brown hair, a genuine smile, and sparkling green eyes, male focus, full body,Muscular,(wearing sweatsuit), new york city street,realistic, dramatic lighting, atmospheric, intricate detail, HDR, octane, 8K) ,<lora:add_detail:0.8>,
+
+masterpiece, best quality, highres, realistic, handsome, photogenic, masculine, (big muscles),<lora:syahnkV4-08:0.5>, syahnk as an  dark tanned athletic jock bulging  with huge pectorals in his tight shorts stretching in middle of soccer field blushing from embarrassment ,<lora:add_detail:1>,HDR, octane, 8k, subsurface scattering,dinamic light,sunkissed
+
+masterpiece, best quality, highres, realistic, handsome, photogenic, masculine, (big muscles),<lora:syahnkV4-08:0.5>, syahnk as an  ((dark tanned)) athletic jock bulging  with huge pectorals, he with  his (tight gymsuit) running  in middle of soccer field blushing from embarrassment ,<lora:add_detail:1>,HDR, octane, 8k,Stadium lighting ,dinamic light,sunkisses, ringlights,sunshine,high detailed skin,high detailed face
+
+Face of syahnk, pectoral, 8K UHD, Studio lighting, photoshoot , muscular,( african male swimmer :1.3), body portrait, outdoor photoshoot,oiled skin, glowing, high detailed face, high detailed skin,HD, RAW photo, subsurface scattering , wearing boxer, shredded, (golden tanned skin), smirked face, ,HDR, shadow, outdoor theme, Military haircut, buff,beefy, realistic,
+
+Face of syahnk, pectoral, 8K UHD, Studio lighting, photoshoot , muscular,( african male  :1.3),, formal yearbook photoshoot,, glowing, high detailed face, high detailed skin,HD, RAW photo, subsurface scattering, shredded, (dark tanned skin), smirked face, ,HDR, shadow, outdoor theme, Military haircut, buff,beefy, realistic,(90's  American yearbook photoshoot:1.3), (retro, vintage), wearing tuxedo,<lora:syahnkV4-08:0.5>, 
+
+syahnk,1boy, sexy vintage american pinup, mustache, patriotic backdrop, sailor attire, flexing, blue neckerchief scarf, ship captains hat, white casual shorts with a leather belt, front side view, close up shot, looking at viewer, Very detailed handsome face, heroic, detailed realistic open eyes, (soft smile), large muscles,<lora:syahnkV4-08:0.5>, 
+
+
+
+### Legiones Cataegis
+
+#### Thunder Warriors
+
+photo of 1man, wearing thunderwarrior armor, intricate mask, helmet details, red plume, full armor, gold armor, armor detail, gold trimmings,  cape, fur trim, holding sword, holding gun, aiming gun at viewer,  dual wielding, pointing gun, tall stature, <lora:tool - add_detail:1> ,battle, army, firing, gun, standing by desert storm, sandstorm, dune, dark ambiance,   <lora:THUNDERWARRIORS MK1 by CARAXES:0.7> , <lora:pose - gunAimingAtYouV1:0.4>
+
+photo of josuke, wearing thunderwarrior armor, visor, smoking cigar, helmet visor,  full armor, gold armor, armor detail,  red plume, cape, fur trim, holding gun, hand on hilt, tall stature, <lora:tool - add_detail:1> ,battle, army, firing, gun, standing by desert storm, sandstorm, dune, dark ambiance,   <lora:THUNDERWARRIORS MK1 by CARAXES-000029:0.7>, <lora:subject - josukejojo2:0.6>
+
+photo of josuke, wearing thunderwarrior armor, visor, smoking cigar, helmet visor,  full armor, gold armor, armor detail,  red plume, cape, fur trim, holding gun, hand on hilt, tall stature, <lora:tool - add_detail:1> ,standing by desert storm, sandstorm, dune, dark ambiance,   <lora:THUNDERWARRIORS MK1 by CARAXES-000029:0.7>, <lora:subject - josukejojo2:0.6>
+
+
+
+### The Legend of Korra
+
+#### Tonraq 
+
+(cowboy shot),  sfw, (masterpiece), (best quality:1.0), (ultra highres:1.0), detailed eyes, scenic shot,BREAK,<lora:Tonraq:0.9>TonraqTLOK , muscular male, dynamic pose
+blue coat, fur trim, belt, waistband, bracers, necklace,winter, gorgeous view
+
+(cowboy shot),  sfw, (masterpiece), (best quality:1.0), (ultra highres:1.0), detailed eyes, scenic shot,BREAK,<lora:TonraqTLOK-000007:0.7>TonraqTLOK , muscular male,
+ dark-blue capelet, blue shirt, long sleeves, blue pants, (riding polar bear),winter, gorgeous view
+
+(cowboy shot),  sfw, (masterpiece), (best quality:1.0), (ultra highres:1.0), detailed eyes
+BREAK,<lora:TonraqTLOK-000007:0.7>TonraqTLOK , suit, formal, tuxedo, necktie, adjusting tie,party, gorgeous view
+
+(cowboy shot),  sfw, (masterpiece), (best quality:1.0), (ultra highres:1.0), detailed eyes
+BREAK,<lora:TonraqTLOK-000007:0.7>TonraqTLOK , muscular male, knight, wolf-shoulder armor, holding, weapon,outdoors, gorgeous view
+
+(cowboy shot),  sfw, (masterpiece), (best quality:1.0), (ultra highres:1.0), detailed eyes
+BREAK,<lora:TonraqTLOK-000007:0.7>TonraqTLOK , dynamic pose, samurai robes, ronin, samurai hat,holding katana, pouches,paddy fields, gorgeous view
+
+(cowboy shot),  sfw, (masterpiece), (best quality:1.0), (ultra highres:1.0), detailed eyes
+BREAK,<lora:TonraqTLOK-000007:0.7>TonraqTLOK ,cowboy outfit, boots, riding horse
+,holding gun, holster,desert, gorgeous view
+
+
+
+### GTA V
+
+#### Trevor
+
+TrevorGTA, weapon, gun, 1boy, bag, male focus, shirt, holding, pants, holding gun, black hair, holding weapon, handgun, tattoo, looking at viewer, city, black shirt, sleeveless, t-shirt, facial hair, building, blood,masterpiece, best quality, cinematic lighting,<lora:epi_noiseoffset2:1>,   <lora:TrevorGTA:0.7>
+
+TrevorGTA, 1boy, male focus, solo, realistic, tattoo, phone, facial hair, denim, topless male, pants, jeans, black hair, cellphone, beard, nipples,masterpiece, best quality, cinematic lighting,<lora:epi_noiseoffset2:1>,   <lora:TrevorGTA:0.7>
+
+TrevorGTA, 1boy, male focus, hat, solo, gloves, weapon, aircraft, gun, holding, pants, holding weapon, sunglasses, sky, glasses, cloud, holding gun, outdoors, vest, black headwear, airplane, facial hair, black gloves, standing, beanie, handgun, baseball cap
+,masterpiece, best quality, cinematic lighting,<lora:epi_noiseoffset2:1>,   <lora:TrevorGTA:0.7>
+
+TrevorGTA, 1boy, male focus, solo, shirt, facial hair, ground vehicle, day, pants, plaid shirt, outdoors, crossed arms, motor vehicle, sky, denim, jeans, plaid, car, realistic, standing, building, manly, beard, looking at viewer,masterpiece, best quality, cinematic lighting,<lora:epi_noiseoffset2:1>,   <lora:TrevorGTA:0.7>
+
+
+
+### Pokemon
+
+#### Voldon
+
+voldon, looking at viewer, armor, mountain, rain, thunder, lightning, thunderstorm (muscular:1.1) <lora:Voldon-13:0.85>
+
+best quality, masterpiece, voldon, standing, dojo, gym, muscular, 1man, hat, tanktop, sitting, <lora:Voldon-13:0.8> sugimori ken \(style\)<lora:pokemon_v3_offset:1>
+
+best quality, masterpiece, voldon, standing, outdoor, snow, muscular, <lora:Voldon-13:0.8>
+
+best quality, masterpiece, voldon, standing, outdoor, snow, town, muscular, <lora:Voldon-13:0.8>
 
 
 
