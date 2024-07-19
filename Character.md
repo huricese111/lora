@@ -370,6 +370,56 @@ comic book art of  Cinematic Film stock footage in (arri alexa style) Kodak film
 
 ### The King of Fighters
 
+#### Benimaru Nikaido
+
+<lora:BenimaruKOF-byStasis:1> BenimaruKOF, solo, simple background,
+
+#### Ryu
+
+ryu, 1guy, white karate gi,white pants, red headband, fighting glove, barefoot, black belt, kimono, white pants, detailed eyes, detailed face, masterpiece, highres, perfect picture, at the river, fighting stance, (detailed:1.2), atmospheric, <lora:ClassicHotRyu:1>
+
+ryu, 1guy, shirtless, beard, ripped white pants, muscular, red headband, fighting glove, barefoot, black belt, kimono, white pants, detailed eyes, detailed face, masterpiece, highres, perfect picture, at the river, fighting stance, (detailed:1.2), atmospheric, <lora:ClassicHotRyu:1>
+
+ryu, 1guy, white karate gi, ripped white pants, muscular, red headband, fighting glove, barefoot, black belt, kimono, white pants, detailed eyes, detailed face, masterpiece, highres, perfect picture, at the park bench, fall season, sitting, (detailed:1.2), atmospheric, <lora:ClassicHotRyu:1>
+
+ryu, 1guy, white karate gi, muscular, red headband, fighting glove,  black belt, kimono, ((white pants)), detailed eyes, detailed face, masterpiece, highres, perfect picture, medium shot, crossed arms, (detailed:1.2), atmospheric, <lora:ClassicHotRyu:1>
+
+ryu, 1guy, beard, shirtless, muscular, red headband, fighting glove,  black belt, kimono, ((white pants)), detailed eyes, detailed face, masterpiece, highres, perfect picture, medium shot, crossed arms, (detailed:1.2), atmospheric, <lora:ClassicHotRyu:1>
+
+ryu, 1guy, beard, shirtless, muscular, red headband, stretching, arms up, sexy scene, sweaty, messy hair, oily skin, at the beach,  black belt, kimono, ((white pants)), detailed eyes, detailed face, masterpiece, highres, perfect picture, medium shot, crossed arms, (detailed:1.2), atmospheric, <lora:ClassicHotRyu:1>
+
+ryu, 1guy,white kimono gi, muscular, (red headband:1.3), stretching, ripped pants, fighting, blue glow, meditating, kneeling, at the beach, palms, clouds, blue hour, sunrays, sweaty, messy hair, oily skin, at the beach,  ((black belt)), kimono, ((white pants)), detailed eyes, detailed face, masterpiece, highres, perfect picture,(detailed:1.2), atmospheric, <lora:ClassicHotRyu:0.92> hidden feet, feet out  of frame
+
+ryu, 1guy, white karate gi,white pants, red headband, fighting glove, barefoot, black belt, kimono, white pants, detailed eyes,  in the pub, holding a beer, sitting, detailed eyes, best quality, masterpiece, highres, perfect picture, highly detailed, high contrast , digital colors, bright colors black pants, perfect face, looking to viewer  (detailed:1.2), atmospheric, <lora:ClassicHotRyu:1>
+
+ryu, 1guy, beard, smirk, drunk, shirtless,headband, , fighting glove,black belt, , ((white pants:1.1)), detailed eyes,  in the pub, holding a beer, detailed eyes, best quality, masterpiece, highres, perfect picture, highly detailed, high contrast , digital colors, bright colors black pants, perfect face, looking to viewer  (detailed:1.2), atmospheric, <lora:ClassicHotRyu:1>
+
+ryu, 1guy, beard, smirk,  shirtless,headband, ,(white pants:1.1), detailed eyes,  oily skin, smirk, hands behind head, bulge, medium shot, lying on bed, bedroom, highres, sharp picture, mood lighting, intricate details, erotic picture, handsome man , detailed eyes, best quality, masterpiece, highres, perfect picture, highly detailed, high contrast , digital colors, bright colors , perfect face, looking to viewer <lora:ClassicHotRyu:1>
+
+#### Geese Howard
+
+masterpiece, highquality, smiling, crossed arms, opened eyes, mafia fancy restaurant, man, GeeseHoward,detailed eyes,, shirtless, red hakana, socks, black belt, bracelets,  1guy, solo  style-empire , pectorals, abs, best quality, masterpiece, highres, perfect picture, highly detailed, high contrast , colored, bright colors   <lora:GeeseHowardV2-000004:0.9>
+
+masterpiece, best quality, detailed, 1guy, 45y.o. , GeeseHoward,Japan forest, sunlight, lightray,  light particles, red pants, black belt,  <lora:GeeseHowardV2-000004:0.9> digital colors, bright colors
+
+masterpiece, highquality, serious, open eye, night city, 45.y.o., man, GeeseHoward, shirtless, red pants, red hakana, black belt, hanging jacket, bracelets, fighting pose, 1guy, solo <lora:GeeseHowardV2:1>  style-empire, ighting pose, best quality, masterpiece, highres, perfect picture, highly detailed, high contrast , colored, bright colors
+
+masterpiece, highquality, serious, open eye, night city, 45.y.o., man, GeeseHoward,detailed eyes, white socks, shirtless, ((red pants, red hakana:1.1)), black belt, hanging jacket, bracelets, fighting pose, 1guy, solo  style-empire, fighting pose, best quality, masterpiece, highres, perfect picture, highly detailed, high contrast , colored, bright colors  <lora:GeeseHowardV2-000004:1>
+
+masterpiece, highquality, serious, open eye, night city, 45.y.o., man, GeeseHoward,detailed eyes, white socks, shirtless, ((red pants, red hakana:1.1)), black belt, hanging jacket, bracelets, fighting pose, 1guy, solo  style-empire, fighting pose, best quality, masterpiece, highres, perfect picture, highly detailed, high contrast , colored, bright colors  <lora:GeeseHowardV2-000004:1>
+
+masterpiece, best quality, detailed, 1guy, 45y.o. , GeeseHoward, shirtless, red pants, black belt, white jacket, sunrise, backlighting:1.2, socks <lora:GeeseHowardV2-000004:0.9> mountains, sitting, highly detailed, high contrast , digital colors, bright colors black pants, perfect face, looking to viewer,  best quality, masterpiece, highres, perfect picture, highly detailed, high contrast , colored, bright colors
+
+#### Goro Daimon
+
+masterpiece, highres, raw photo, GoroDaimon, bara:1.2, 1guy, Japan headband , medium shot , white pants, squinty eyes, black belt ,sitting, ((holding a beer)), smirk , detailed face,<lora:GoroDaimon2-Stasis:1> 
+
+masterpiece, highres, raw photo, muscular:1.3, bara, GoroDaimon, 1guy, white headband, bracelets, medium shot, snow, black belt, squinty eyes, white pants, detailed face, hands on hips,<lora:GoroDaimon2-Stasis:1>
+
+masterpiece, highres, raw photo, GoroDaimon, 1guy, Japan headband, medium shot, squinty eyes, crossed arms, black belt, white pants, detailed face, <lora:GoroDaimon2-Stasis:1> 
+
+
+
 #### Iori Yagami
 
 <lora:IoriYagami:0.75> ,iorikof, solo, simple background, 1boy, white background, upper body, male focus, red hair, choker, hair over one eye, fire, pectorals, pectoral cleavage, pyrokinesis, purple fire
@@ -1564,6 +1614,14 @@ river_ward,  darker skin, hairy, big biceps, large pectorals, (naked), erect pen
 
 ### Tekken
 
+#### Feng Wei 
+
+fengwei, 1guy,  detailed face, detailed eyes, (big eyes:1.2), open eyes, closed mouth, shirtless, braided hair, pectorals, vambraces, chinese pants, <lora:FengWei:1>
+
+fengwei, 1guy,  detailed face, detailed eyes, (big eyes:1.2), open eyes, closed mouth,smirk, seducing, shirtless, braided hair, pectorals, speedo, Lying in bed, reading a book, comfy , sexy <lora:FengWei:1>
+
+(anime style:1.2), masterpiece,  fengwei, 1guy, open eyes, anime eyes, detailed eyes , muscular, shirtless, braided hair <lora:FengWei:1>  medium shot, portrait
+
 #### Jin Kazama
 
 masterpiece, best quality, male focus, jin kazama, jacket, fingerless gloves <lora:jin_kazama-000018:0.9>
@@ -1968,6 +2026,24 @@ masterpiece, best quality, illustration, 1boy, solo, male focus, looking at view
 (masterpiece, best quality:1.2), <lora:streetfighter_ryu-10:1>, cowboy shot, solo, male focus, 1boy, ryu \(sf\), serious, closed mouth, looking at viewer, black hair, dougi, fingerless gloves
 
 (masterpiece, best quality:1.2), <lora:streetfighter_ryu-10:1>, cowboy shot, solo, male focus, 1boy, ryu \(sf\), serious, closed mouth, looking at viewer, black hair, headband, dougi, white pants, fingerless gloves
+
+#### Guy
+
+(masterpiece,  best quality:1.2),  (depth of field:1.1), FFguy,  1guy,  orange dougi,  fishnet top,  hand wraps,  belt,  orange pants,  sneakers,  full body,  hands on hips,  city at night,  masterpiece,  highness,  perfect face,  perfect picture,  sharp focus,<lora:GuyFinalFight-DocStasis:1> 
+
+(masterpiece,  best quality:1.2),  solo,  man,  FFguy,  1guy,  orange dougi,  orange gi,  karate clothes,  (fishnet top:1.2),  hand wraps,  belt,  orange pants,  medium shot, ,  cowboy shot,  sakura tree,  romantic,  hands on hips,  golden hour,  smirk,  masterpiece,  perfect face,  perfect picture,  detailed eyes,  sharp focus, High detailed view, , High detailed,<lora:GuyFinalFight-DocStasis:1> 
+
+(masterpiece,  best quality:1.2),  solo,  man,  FFguy,  1guy,  orange dougi,  orange gi,  karate clothes,  (fishnet top:1.2),  hand wraps,  belt,  orange pants,  cowboy shot,  star tattoos,  flowers, garden,  romantic,  golden hour,  smirk,  masterpiece,  perfect face,  perfect picture,  detailed eyes,  sharp focus, High detailed view, , High detailed , best quality ,<lora:GuyFinalFight-DocStasis:1> 
+
+(masterpiece,  best quality:1.2),  solo, FFguy,  1guy,  orange dougi,  orange gi,  karate clothes,  (fishnet top:1.2),  hand wraps,  belt,  orange pants,  sneakers,  kneeling,  at the beach,  smirk,  masterpiece,  perfect face,  perfect picture,  detailed eyes,  sharp focus, High detailed view, High detailed , best quality,<lora:GuyFinalFight-DocStasis:1> 
+
+(masterpiece,  best quality:1.2),  man,  solo,  FFguy,  1guy,  orange dougi,  orange gi,  karate clothes,  (fishnet top:1.2),  hand wraps,  belt,  orange pants,  medium shot, ,  at the forest,  rain,  sideview,  masterpiece,  highness,  perfect face,  perfect picture,  detailed eyes,  sharp focus,<lora:GuyFinalFight-DocStasis:1> 
+
+(masterpiece,  best quality:1.2),   ,  (depth of field:1.1), FFguy,  1guy,  orange dougi,  (fishnet top:1.4),  hand wraps,  belt,  orange pants,  medium shot,  at the pub,  table,  sitting,  holding a beer,  masterpiece,  highness,  perfect face,  perfect picture,  sharp focus,<lora:GuyFinalFight-DocStasis:1> 
+
+(masterpiece,  best quality:1.2),  solo,  man,  FFguy,  1guy,  ((orange dougi)), fishnet top,  hand wraps,  belt,  orange pants,  sneakers, ,  full body,  smirk,  at the corn field,  wheat field,  agriculture,  masterpiece,  perfect face,  perfect picture,  detailed eyes,  sharp focus, High detailed view, High detailed , best quality,<lora:GuyFinalFight-DocStasis:1> 
+
+(masterpiece,  best quality:1.2),   ,  (depth of field:1.1),  FFguy,  1guy,  orange dougi,  (fishnet top:1.3),  hand wraps,  belt,  orange pants,  sneakers,  full body,  sitting,  Japanese temple,  masterpiece,  highness,  perfect face,  perfect picture,  sharp focus,<lora:GuyFinalFight-DocStasis:1> 
 
 ### Spider-Man
 
