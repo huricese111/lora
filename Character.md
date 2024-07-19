@@ -414,6 +414,54 @@ nestskyo, 1guy, solo, white jacket, fingerless gloves, black t-shirt, cross t-sh
 
 nestskyo, 1guy, solo, (white jacket:1.1), chains, denim pants, brown eyes,  shirtless:1.3, pectorals, abs, bulge:1.1, laying on bed, relaxing,oily skin, smirk, hands behind head, handsome, charming, masterpiece, highres, detailed face, detailed eyes, erotic feelings, pillow, perfect picture, highly detailed, high contrast , colored, bright colors, perfect color palette,<lora:KyoNests:0.95>
 
+#### Robert Garcia
+
+<lora:RobertGarcia-10:0.7> ,robertkof, solo, looking at viewer, black hair, gloves, 1boy, upper body, ponytail, male focus, sleeveless, black gloves, fingerless gloves, vest, muscular
+
+<lora:RobertGarcia-10:0.7> ,robertkof, solo, blue eyes, brown hair, shirt, gloves, 1boy, jewelry, upper body, male focus, black gloves, collared shirt, necklace, vest, facial hair, blue shirt, pectorals, beard, sleeves rolled up, black vest, sideburns, mature male, mustache, solo
+
+RobertKOF,  1guy,  muscular,  male,  orange vest,  view from back,  black turtleneck, looking to viewer,  white pants,  smirk,  ponytail:0.9,  slicked hair,  black hair,  denim pants,  ((big round ass:1.4)),  on the forest,  sunset,  cinematic lighting,  detailed face,  detailed eyes,  masterpiece,  high_res,  perfect face,  , High detailed , nijistyle, 3DMM, Color magic, csr style, <lora:EMS-34736-EMS:0.400000>, , <lora:EMS-5482-EMS:0.600000>, , <lora:EMS-64400-EMS:1.000000>
+
+RobertKOF,  1guy,  orange vest,  medallion,  muscular,  male,  crossed arms,  black turtleneck, looking to viewer,  white pants,  smirk,  ponytail:0.9,  slicked hair,  black hair,  on the forest,  sunset,  cinematic lighting,  detailed face,  detailed eyes,  masterpiece,  high_res,  perfect face,  , High detailed , nijistyle, 3DMM, Color magic, csr style, <lora:RobertGarcia-DocStasis:1> 
+
+RobertKOF,  1guy,  medallion,  muscular,  male,  crossed arms,  ((blue dress shirt)),  open shirt, , looking to viewer,  white pants,  smirk,  ponytail:0.9,  slicked hair,  black hair,  at the beach,  sunset,  cinematic lighting,  detailed face,  detailed eyes,  masterpiece,  high_res,  perfect face,  , High detailed , nijistyle, 3DMM, Color magic, csr style, <lora:RobertGarcia-DocStasis:1> 
+
+RobertKOF,  1guy,  lying on bed,  relaxing,  shirtless,  view from above,  smirk,  hands behind head,  sweaty skin,  abs,  pectorals,  slicked hair,  (low ponytail:0.8),  shirtless,  white pants,  at the bed,  relaxing,  view from high,  looking to viewer, natural lighting,  detailed face,  detailed eyes,  masterpiece,  high_res,  perfect face,  , High detailed,  full body,  bulge, <<lora:RobertGarcia-DocStasis:1> >
+
+RobertKOF,  1guy,  medallion,  muscular,  male,  beer pint,  ((blue dress shirt)),  open shirt, , medium shot,  smiling, at the pub,  ponytail:0.9,  slicked hair,  black hair,  at the beach,  sunset,  cinematic lighting,  detailed face,  detailed eyes,  masterpiece,  high_res,  perfect face,  , High detailed,  <<lora:RobertGarcia-DocStasis:1> >
+
+RobertKOF,  1guy,  (orange vest),  sleeveless turtleneck,  arms,  black turtleneck,  medallion,  pants,  sitting,  flowers,  garden, natural lighting,  detailed face,  detailed eyes,  masterpiece,  high_res,  perfect face,  , High detailed,  <<lora:RobertGarcia-DocStasis:1> >
+
+#### Rock Howard
+
+RockHoward, 1guy, jacket, black t-shirt, medium shot, , fingerless gloves, black pants, belt,, centered picture, best quality, masterpiece, highres, perfect picture, highly detailed, high contrast , colored, bright colors, perfect color palette, solo, <lora:RockHoward:1>  smirk, detailed eyes,
+
+masterpiece, highquality, angry,  RockHoward, 1guy, jacket, black t-shirt, medium shot,  fingerless gloves, black pants, belt,, ,Japan forest, sunlight, lightray, light particles,centered picture, best quality, masterpiece, highres, perfect picture, highly detailed, high contrast , colored, bright colors, perfect color palette, solo , smile  detailed eyes, blonde hair, <lora:RockHoward:1>
+
+masterpiece, highquality, RockHoward, 1guy, smile, red  jacket, black shirt, shoes,   fingerless gloves, black pants, belt, sitting, best quality, masterpiece, highres, perfect picture, highly detailed, high contrast , colored, bright colors, perfect color palette, solo , smile  detailed eyes, blonde hair, night at the mountain, <lora:RockHoward:1>, style-empire
+
+red leather, red jacket, leather masterpiece, best quality, masterpiece, highres, perfect picture, highly detailed, high contrast , colored, bright colors, perfect color palette,<lora:RockHoward:1>
+
+RockHoward, 1guy, red jacket, black t-shirt, medium shot, at the park, fingerless gloves, black pants, belt,, centered picture, best quality, masterpiece, highres, perfect picture, highly detailed, high contrast , colored, bright colors, perfect color palette, solo  smirk,   detailed eyes, blonde hair, <lora:RockHoward:1>
+
+#### Ryo Sakazaki
+
+RyuSaka,  1guy,  muscular:1.2,  blonde,  muscular arms,  orange dougi,  orange pants,  black belt,  masterpiece,  highness,  perfect face,  perfect picture,  detailed eyes , sharp focus, fighting stance,  at the waterfall, <lora:RyoSakazaki-DocStasis:1> 
+
+RyuSaka,  1guy,  muscular:1.2,  muscular arms,  orange dougi,  orange pants,  black belt,  masterpiece,  highness,  perfect face,  perfect picture,  detailed eyes , sharp focus, fighting stance,  flowers, <lora:RyoSakazaki-DocStasis:1> 
+
+(masterpiece,  best quality:1.2),  solo,  photo of person,   ,  man,  smiling,  (depth of field:1.1),  photo of person,  ((closeup,  portrait)),  muscular:1.2,  muscular arms,  orange dougi,  orange pants,  black belt,  masterpiece,  highness,  perfect face,  perfect picture,  detailed eyes , sharp focus,  city at night,  hidden hands, <lora:RyoSakazaki-DocStasis:1> 
+
+RyuSaka,  1guy,  muscular:1.2,  muscular arms,  orange dougi,  orange pants,  black belt,  masterpiece,  highness,  perfect face,  perfect picture,  detailed eyes , sharp focus,  crossed arms,  snow,  pines,  winter, <lora:RyoSakazaki-DocStasis:1> 
+
+RyuSaka,  1guy,  holding beer pint,  at the pub,  blonde,  dougi,  orange pants,  black belt, bracelets,  sitting,  masterpiece,  perfect face,  perfect picture,  detailed eyes , sharp focus, medium shot,<lora:RyoSakazaki-DocStasis:1> 
+
+RyuSaka,  1guy,  muscular:1.2,  blonde,  orange dougi,  orange pants,  black belt,  relaxing,  smirk, ,  sitting,  ,  perfect face,  perfect picture,  detailed eyes , sharp focus,  at the beach, <lora:RyoSakazaki-DocStasis:1> 
+
+(masterpiece,  best quality:1.2),  solo,  photo of person,   ,  man,  smiling,  (depth of field:1.1),  photo of person,  ((closeup,  portrait)),  muscular:1.5,  muscular arms,  orange dougi,  orange pants,  black belt,  ) masterpiece,  highness,  perfect face,  perfect picture,  detailed eyes , sharp focus,  city at night,  hidden hands, <lora:RyoSakazaki-DocStasis:1> 
+
+RyuSaka,  1guy,  muscular:1.2,  shirtless,  pecs,  abs,  relaxing on bed,  bedroom,  sweaty skin,  blonde,  muscular arms,  orange pants,  black belt,  masterpiece,  perfect face,  perfect picture,  detailed eyes , sharp focus, <lora:RyoSakazaki-DocStasis:1> 
+
 ### Grimmjow Jaegerjaquez 
 
 ####  Bleach
@@ -453,6 +501,12 @@ bolin_avatar, muscular, looking at viewer, smile, short hair, simple background,
 a man with a black hair and a white shirt is staring at the camera with a serious look on his face, <lora:BruceLee:1>
 
 a man with a tie and a suit on posing for a picture in a picture frame with a white background,<lora:BruceLee:1>
+
+### Resident Evil
+
+#### Chris Redfield
+
+(masterpiece, best quality:1.2), <lora:residentevil_chrisredfield-11:1.0>, cowboy shot, solo, male focus, 1boy, chris redfield, muscular male, looking at viewer, crossed arms, green taut shirt, white pants, (fingerless gloves:1.1), belt
 
 ### Resident Evil 3
 
@@ -555,6 +609,22 @@ DmCDante, 1boy, solo, short hair, brown hair, Underwater city ruins with dynamic
 ((ultra detailed, masterpiece, best quality)), <lora:RE4Leon:0.8>,RE4Leon, 1boy, solo, blonde hair, Within a bustling city square, business-casual attire, surrounded by urban life, confidently strolling with a coffee cup in hand
 
 ((ultra detailed, masterpiece, best quality)), <lora:RE4Leon:0.8>,RE4Leon, 1boy, solo, blonde hair, In an upscale loft with industrial aesthetics, sharp business attire, large windows with city views, standing near a leather couch with a confident look
+
+### Resident Evil4
+
+#### Luis 
+
+((ultra detailed, masterpiece, best quality)), <lora:RE4Luis:0.8>,RE4Luis, 1boy, solo,  brown eyes, portrait
+
+((ultra detailed, masterpiece, best quality)), <lora:RE4Luis:0.8>,RE4Luis, 1boy, solo, brown hair, Beneath a cherry blossom tree in bloom, modern suit with a hint of traditional influence, stoic expression while holding a sakura branch
+
+((ultra detailed, masterpiece, best quality)), <lora:RE4Luis:0.8>,RE4Luis, 1boy, solo, brown hair, In a dimly lit urban alley, tailored black suit, ambient neon lights casting shadows, leaning confidently against a brick wall
+
+((ultra detailed, masterpiece, best quality)),<lora:RE4Luis:0.8>,RE4Luis, 1boy, solo, brown hair, In a modern urban setting, tailored suit and tie, skyscrapers in the background, confidently walking with a cityscape behind
+
+((ultra detailed, masterpiece, best quality)), <lora:RE4Luis:0.8>,RE4Luis, 1boy, solo, brown hair, Inside a luxurious penthouse suite, sophisticated yakuza attire, reclining on a leather chair with a glass of whiskey, surrounded by opulence
+
+((ultra detailed, masterpiece, best quality)), <lora:RE4Luis:0.8>,RE4Luis, 1boy, solo, brown hair, In an urban alley, tailored suit, city lights reflecting on wet pavement, leaning against a brick wall with a mysterious gaze
 
 ### Resident Evil 5
 
@@ -687,6 +757,22 @@ clayton, solo, young man, short hair, brown hair, 1boy, sitting, male focus, pan
 clayton, shirtless, forest, (smirk), arrogant, moustaches, mature man, undercut, sideburn, (((hairy chest))), muscular, hairy,  <lora:clayton_disney-50:0.55>, large penis, erection
 
 CorvoDis, 1boy, solo, male focus, facial hair, portrait, looking at viewer, beard, realistic, closed mouth, brown eyes, black hair, short hair, thick eyebrows, brown hair,  <lora:CorvoDis:0.7>
+
+### Resident Evil 6
+
+#### Jake
+
+((ultra detailed, masterpiece, absurdres)), <lora:RE6Jake:0.8>,RE6Jake, 1boy, bald, looking at viewer, portrait
+
+((ultra detailed, masterpiece, absurdres)), <lora:RE6Jake:0.8>,RE6Jake, 1boy, bald, looking at viewer, reclining on a luxurious fur rug, with candlelight casting a warm glow
+
+((ultra detailed, masterpiece, absurdres)), <lora:RE6Jake:0.8>,RE6Jake, 1boy, bald, looking at viewer, at a beach, holding a cocktail, palm trees, sand, ocean
+
+((ultra detailed, masterpiece, absurdres)), <lora:RE6Jake:0.8>,RE6Jake, 1boy, bald, looking at viewer, sitting on a vintage motorcycle, with an open road stretching into the distance
+
+((ultra detailed, masterpiece, absurdres)), <lora:RE6Jake:0.8>,RE6Jake, 1boy, bald, looking at viewer, meditating on a peaceful mountaintop, with the sunrise painting the sky in vibrant colors
+
+((ultra detailed, masterpiece, absurdres)), <lora:RE6Jake:0.8>,RE6Jake, 1boy, bald, looking at viewer, posing confidently on a rooftop overlooking a city skyline
 
 ### Creedo's Meet the Carters 
 
@@ -1048,8 +1134,6 @@ OlgierdWitcher, solo, 1boy, red hair, undercut, at the beach, casual clothing, p
 (masterpiece, best quality) <lora:epi_noiseoffset2:1>  <lora:add_detail:0.6>  <lora:OlgierdWitcher:0.8>
 OlgierdWitcher, solo, 1boy, red hair, undercut, in a winter wonderland, winter clothes, scarf
 
-
-
 ### webcomic This Guy
 
 #### Giant
@@ -1215,6 +1299,18 @@ masterpiece, best quality, movie still, 1boy, solo, male focus, looking at viewe
 (masterpiece, best quality:1.3), <lora:add_detail:0.5> .<lora:KerryEurodyneCyber:0.8>,KerryEurodyneCyber, 1boy, solo, white hair, cyberpunk, vibrant street art district, twilight, colorful and artistic with murals illuminated by fading daylight
 
 (masterpiece, best quality:1.3), <lora:add_detail:0.5>, <lora:KerryEurodyneCyber:0.7>,KerryEurodyneCyber, 1boy, solo, white hair, cyberpunk, portrait
+
+#### River Ward
+
+river_ward, muscles, tank top, earring,  veiny arms, large pectorals, big biceps, realistic, right hand prothesis, cybernetic eye, street, daylight <lora:river_ward-60:0.6>
+
+river_ward, muscles,  earring, jacket, fur trim, realistic, right hand prothesis, cybernetic eye, street, daylight,  <lora:river_ward-60:0.6>
+
+river_ward, sitting, armchair, living room, daylight, muscles, shirtless, unbuttoned jeans, navel hair, earring,  veiny arms, large pectorals, big biceps, realistic,  <lora:river_ward-40:0.65>
+
+river_ward, solo, looking at viewer, short hair, 1boy, navel, nipples, male focus, thighs, dark skin, muscular, facial hair, thick thighs, erection, abs, dark-skinned male, pectorals, muscular male, towel, bara, beard, large pectorals, bulge, naked towel, erection under clothes, chest hair, navel hair, leg hair, arm hair, hairy, buzz cut <lora:river_ward-50:0.6>
+
+river_ward,  darker skin, hairy, big biceps, large pectorals, (naked), erect penis, large penis,  looking at the viewer, street,  sweat, ejaculation, sperm, realistic,  front view,<lora:BetterCocks:0.5> ,    <lora:river_ward-60:0.5>  , <lora:add_detail:1>
 
 ### Fire Emblem: Blazing Blade
 
@@ -1495,4 +1591,83 @@ priapus, greek god, muscular man, [black|dark green|black] hair, short hair, gre
 priapus, [black|green] hair, green eyes, (red pupils:0.8), stubble, shoulder (tattoo:0.8), facial tattoo, sitting, spread legs, Greek clothes, pelvic curtain, bulge, topless male, broad shoulders, muscular male, pectorals, detailed eyes, mature male, solo, from below, <lora:Priapus_v1:1>
 
 priapus, [black|green] hair, short hair, completely nude, tattoo, huge penis, cowboy shot, detailed eyes, <lora:Priapus_v1:0.9> 
+
+#### Mario
+
+photo portrait of super mario in real life, real mario<lora:Real_Mario_sdxl:1.0>
+
+### Overwatch
+
+#### Reinhardt
+
+reinhardt, old man, screaming, beard, white hair, scar across eye, power armor, battle, holding hammer, warhammer, light, futuristic city, glowing, fire, lion shield, <lora:reinLast:0.7>, best quality
+
+portrait, reinhardt, old man, beard, scar across eye, white hair, sunlight, window background, <lora:reinLast:0.8>, best quality
+
+reinhardt, old man, beard, white hair, scar across eye, casual clothes, shirt, jeans, sunlight, city street, <lora:reinLast:0.8>, best quality
+
+### Tokyo Ghoul
+
+#### Renji Yomo
+
+masterpiece, best quality, sketch, 1boy, solo, male focus, looking at viewer, , depth of field, , realistic, <lora:renji_yomo:0.76>, renji_yomo, grey hair, grey eyes
+
+masterpiece, best quality, game cg, 1boy, solo, male focus, looking at viewer,, anime coloring, realistic, <lora:renji_yomo:0.74>, renji_yomo, grey hair, grey eyes, tracksuit, , gradient, High definition
+
+### Dream Daddy
+
+#### Robert Small
+
+robert_dd a 47 yo man wearing a black jacket, red shirt, and jeans sitting in a bar, holding a glass of beer, looking at the viewer. 4k, backlight, cinematic, cinematic  light, master piece, ultra detailed, correct eyes and face, (photorealistic:1.2), (side view:0.6) <lora:robert_dream_daddy-10:0.9>
+
+robert_dreamdaddy, staing in street, wearing red shirt and jeans, <lora:Robert_DreamDaddy-08:0.8>
+
+robert_dd a 47 yo man, laying down on the couch, drunk wearing jeans and a open black jaquet, hair with gray tips, (smirk:0.85). 4k, backlight, cinematic, cinematic  light, master piece, ultra detailed, correct eyes and face, (photorealistic:1.2), (front view:1) <lora:robert_dream_daddy-10:0.8>
+
+robert_dd a 47 yo man, daddy, dilf, laying down on the couch, drunk wearing jeans and a open black jacket, hair with gray tips. 4k, backlight, cinematic, cinematic  light, master piece, ultra detailed, correct eyes and face, (photorealistic:1.2), (side view:0.8) , <lora:RobertGarcia-DocStasis:1> RobertKOF
+
+### Rococo Prince
+
+HDR,UHD,8K, best quality, masterpiece, Highly detailed, Studio lighting, physically-based rendering, 1boy, solo,1boy, black hair, uniform, white rococo costume, rococo style, boots, white gloves, big crown, half cape, flowers background,  <lora:add_detail:0.3> <lora:RococoPrince:0.6>
+
+### Caribbean treasure island
+
+#### Rogue Traders Militant
+
+8K masterpiece, detailed, realistic, digital art, octane render, trending on artstation, action SHOT, movie poster,rough features , 28 years old, tall stature,  (rogue trader),
+battle aged, ((solo:1.5)), upper body, blonde hair, blue eyes, one-red eye, one-red glowing eye, single-mechanical eye, determined, long hair,pirate hat, epaulettes, armor, cuirass, (ocular prosthetic:1.2), coat, fur trim, pauldron, holding sword, blood, facial scar, destruction, desert wasteland, war background, dueling enemy, hectic battle, flying dynamic pose, dynamic angle,nice hands, prefect hands,    <lora:Rogue Traders MK1 by CARAXES:0.7> <lora:tool - add_detail:0.7>
+
+8K masterpiece, detailed, realistic, digital art, octane render, trending on artstation, cowboy shot,1boy, jack sparrow, rough features , 40 years old, tall stature,  (rogue trader), (tanned skin:1.3),bicorne, pirate hat, battle aged, upper body, white hair, long white dreadlocks, hair ornaments, (smirk:1.2),sash, jewelry, earrings, gold tooth, rings, cuirass, (prosthetic arm, metal arm:1.2), red cape, military uniform, fur trim, holding cane, blood, facial scar,treasure room, sitting on throne, treasure chest scattered, gold coins on the floor, massive chandelier,nice hands, prefect hands,    <lora:Rogue Traders MK1 by CARAXES:0.8> < <lora:subject - jack_sparrow_offset:0.7>
+
+8K masterpiece, detailed, realistic, digital art, octane render, trending on artstation, cowboy shot,1boy, jack sparrow, rough features , 40 years old, tall stature,  (rogue trader), (tanned skin:1.3),battle aged, upper body, white hair, long white dreadlocks, hair ornaments, single eyepatch, one-red eye, one-red glowing eye, single-mechanical eye, (laughing:1.2),sash, jewelry, earrings, gold tooth, rings, cuirass, (prosthetic arm, metal arm:1.2), red cape, fur trim, holding cane, blood, facial scar,treasure room, sitting on throne, treasure chest scattered, gold coins on the floor, massive chandelier,nice hands, prefect hands,    <lora:Rogue Traders MK1 by CARAXES:0.8> < <lora:subject - jack_sparrow_offset:0.7>
+
+### Roman Legionary
+
+best quality,masterpiece,highly detailed,ultra-detailed,<lora:neg4all_bdsqlsz_V3.5:-1>,
+ <lora:RomanLegionary:1>1boy, armor, facial hair, helmet, holding, holding sword, holding weapon, knife, male focus, realistic, romanlegionary, shield, sword, war, weapon, white hair
+
+best quality,masterpiece,highly detailed,ultra-detailed,<lora:neg4all_bdsqlsz_V3.5:-1>,
+ <lora:RomanLegionary:1>1boy, armor, facial hair, helmet, holding, holding sword, holding weapon, knife, male focus, realistic, romanlegionary, shield, sword, war, weapon, white hair
+
+### Fullmetal Alchemist: Brotherhood
+
+#### Roy Mustang
+
+masterpiece, best quality, wallpaper, 1boy, solo, male focus, looking at viewer, , depth of field, ligne claire, , <lora:roy_mustang:0.74>, roy_mustang, black hair, black eyes
+
+masterpiece, best quality, , 1boy, solo, male focus, looking at viewer, , depth of field, anime coloring, realistic, <lora:roy_mustang:0.74>, roy_mustang, black hair, black eyes, , cloche hat, field of flowers, 12k resolution
+
+masterpiece, best quality, wallpaper, 1boy, solo, male focus, looking at viewer, upper body, , (watercolor illustration, soft pastel colors:1.1), realistic, <lora:roy_mustang:0.74>, roy_mustang, black hair, black eyes, henley, , science fiction cyberpunk, 4k resolution
+
+masterpiece, best quality, game cg, 1boy, solo, male focus, looking at viewer, upper body,  <lora:roy_mustang:0.72>, roy_mustang, black hair, black eyes,  cyberpunk,
+
+masterpiece, best quality, illustration, 1boy, solo, male focus, looking at viewer, , , , , <lora:roy_mustang:0.66>, roy_mustang, black hair, black eyes, jester costume, The Enchanted Forest, 16k resolution
+
+masterpiece, best quality, movie still, 1boy, solo, male focus, looking at viewer, upper body, depth of field, anime coloring, , <lora:roy_mustang:0.72>, roy_mustang, black hair, black eyes, firefighter costume, , HDR
+
+masterpiece, best quality, illustration, 1boy, solo, male focus, looking at viewer, upper body, depth of field, , realistic, <lora:roy_mustang:0.70>, roy_mustang, black hair, black eyes, disco costume, The Kingdom of the Unicorn, HD-DVD
+
+### City Hunter
+
+
 
