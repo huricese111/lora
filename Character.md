@@ -352,7 +352,33 @@ BrianBattler,  1guy,  muscular,  face paint,  male,  blue jersey,  shoulder armo
 
 (masterpiece:1.2, best quality),  KOFOrochi, 1man, muscular, white hair, medium hair, body paint, hands raised, white pants, belt, green abstract background <lora:KOFOROCHI:0.65>
 
- 
+#### Ralf Jones
+
+RalfKOF,  1guy, detailed eyes, open eyes, a handsome man sitting in the pub, full body,mature male,,  red bandana, ((green vest:1.2)), denim pants, sleevless t-shirt, ammunition,  (best quality, masterpiece, ultra detailed:1.2) <lora:RalfKOF:0.95>,
+
+RalfKOF,  1guy, detailed eyes, open eyes, cute face, sweaty, (brown eyes:1.2), head bandana, ((green vest:1.2)), ((white t-shirt:1.2)), necklace,, handsome man,bulge, masterpiece, best quality, highres,closeup, portrait, in a desert, big pectorals,  solo, handsome, sexually suggestive, naughty face, detailed eyes,,  (hidden hands) <lora:RalfKOF:1>
+
+masterpiece, detailed face, highres, ralfkof, 1guy, solo,looking at viewer, stubble, green vest, denim pants, necklace, head bandana,  beach, semi-realistic,   <lora:RalfKOF:1>
+
+masterpiece, detailed face, highres, ralfkof, 1guy, solo,looking at viewer, view from high, crossed arms, hidden hands, stubble, green vest,sleeveless shirt, green pants, smiling, charming, head bandana,  rain forest, semi-realistic,   <lora:RalfKOF:1>
+
+masterpiece, detailed face, highres, ralfkof, 1guy, solo,looking at viewer, view from high, military salute, stubble, sleeveless shirt, green pants, smirk, sitting,  head bandana,  military training,   <lora:RalfKOF:1>
+
+ralfKOF ,  1guy, red bandana, green vest, pants, (sleeveless shirt:1.2), holding a beer, masterpiece, detailed face, handsome, stubble, medium hair, at the mountains  <lora:RalfKOF:0.8>  
+
+#### Ramon
+
+ramonkof, 1guy, eyepatch, bracelets, tight t-shirt, black and green t-shirt, hands on pocket, green pants, shoes, detailed eyes, best quality, masterpiece, highres, perfect picture, highly detailed, high contrast , digital colors, bright colors,  <lora:RamonKOF:1> solo
+
+ramonkof, green pants,  green and black shirt, tight shirt, eye patch, facial hair, detailed face, bracelets, fighting stance, at the mountains, medium shot <lora:RamonKOF:0.98>  detailed eyes, best quality, masterpiece, highres, perfect picture, highly detailed, high contrast , digital colors, bright colors <lora:LowRA:0.1>
+
+ramonkof, green pants, black and green shirt, tight shirt, eyepatch, bracelets,  smirk, confident, hands behind him, at the top of a building, sunset  detailed eyes, best quality, masterpiece, highres, perfect picture, highly detailed, high contrast , digital colors, bright colors <lora:RamonKOF:1>
+
+ramonkof, 1guy, eyepatch, bracelets, tight t-shirt, black and green t-shirt, hands on hips, (green pants:1.3), shoes, detailed eyes, best quality, masterpiece, highres, perfect picture, highly detailed, high contrast , digital colors,  <lora:RamonKOF:1> solo, medium shot
+
+ramonkof, green pants, smirking, seducing, eye patch, facil hair, detailed face, steamy, sweaty, oily skin,   lying on bed, bed:1.2, pillow:1.2, ((bedroom:1.2)), relaxing, hands behind head,  white hair, shirtless, bracelets <lora:RamonKOF:0.88>  detailed eyes, best quality, masterpiece, highres, perfect picture, highly detailed, high contrast , digital colors, bright colors, shirtless, pectorals, nipples, abs <lora:LowRA:0.3>
+
+ramonkof, 1guy, eyepatch, bracelets, tight t-shirt, black and green t-shirt, hands on pocket, (green pants:1.3), shoes, detailed eyes, best quality, masterpiece, highres, perfect picture, highly detailed, high contrast , digital colors,  <lora:RamonKOF:1> solo
 
 #### Kim Kaphwan
 
@@ -442,6 +468,16 @@ simple background, three point lighting, male focus, black hair, black eyes, bla
 
 beach background, male focus, (black hair), black eyes, looking at viewer, open shirt, (red speedo:1.1), hairy, chest hair, (veiny), sunglasses, kiosk, <lora:Carlos_Oliveira:0.8>
 
+((ultra detailed, masterpiece, best quality)), <lora:RE3Carlos:0.8>,RE3Carlos, 1boy, solo, brown eyes, portrait
+
+((ultra detailed, masterpiece, best quality)), <lora:RE3Carlos:0.8>,RE3Carlos, 1boy, solo, brown eyes, Under the glow of a streetlamp, fitted leather jacket, casual yet stylish, a glimpse of tattoos visible, hands in pockets with a nonchalant pose
+
+((ultra detailed, masterpiece, best quality) <lora:RE3Carlos:0.8>,RE3Carlos, 1boy, solo, brown eyes, Beneath a cherry blossom tree in bloom, modern suit with a hint of traditional influence, stoic expression while holding a sakura branch
+
+((ultra detailed, masterpiece, best quality)), <lora:RE3Carlos:0.8>,RE3Carlos, 1boy, solo, brown eyes, On a yacht at sunset, nautical-inspired fashion, ocean waves in the background, standing on the deck with a charismatic smile
+
+((ultra detailed, masterpiece, best quality)), <lora:RE3Carlos:0.8>,RE3Carlos, 1boy, solo, brown eyes, On a sandy beach with a sophisticated twist, linen suit with an unbuttoned shirt, ocean waves and palm trees, walking barefoot in the sand
+
 #### Dante
 
 (masterpiece, best quality:1.2), cowboy shot, solo, male focus, 1boy, dmc3dante, smirk, looking at viewer, coat, fingerless gloves, pants <lora:dmc3_dante-10:1>
@@ -509,6 +545,16 @@ DmCDante, 1boy, solo, short hair, brown hair, Moonlit castle courtyard with dyna
 ((ultra detailed, masterpiece, absurdres))
  <lora:DmCDante:0.9>
 DmCDante, 1boy, solo, short hair, brown hair, Underwater city ruins with dynamic lighting filtering through the ocean, highlighting detailed architecture and marine life
+
+#### Leon 
+
+((ultra detailed, masterpiece, best quality)), <lora:RE4Leon:0.8>,RE4Leon, 1boy, solo, blonde hair, portrait
+
+((ultra detailed, masterpiece, best quality)), <lora:RE4Leon:0.8>,RE4Leon, 1boy, solo, blonde hair, On a stylish, modern street in Tokyo, sporting a trendy Harajuku fashion look
+
+((ultra detailed, masterpiece, best quality)), <lora:RE4Leon:0.8>,RE4Leon, 1boy, solo, blonde hair, Within a bustling city square, business-casual attire, surrounded by urban life, confidently strolling with a coffee cup in hand
+
+((ultra detailed, masterpiece, best quality)), <lora:RE4Leon:0.8>,RE4Leon, 1boy, solo, blonde hair, In an upscale loft with industrial aesthetics, sharp business attire, large windows with city views, standing near a leather couch with a confident look
 
 ### Resident Evil 5
 
@@ -1404,5 +1450,49 @@ PaganMinFar, 1boy, male focus, solo, blonde hair, sitting, beach, palm trees
 
 <lora:BulkedUpAIR1.5:0.1>, (face focus). (close up shot:0.9), (masculine:1.3), (large strong physique:1.2), at outdoor sunny park, (muscular man wearing tight tank top:1.3), sexy pose:1.0, styled hair, confident, handsome, (((masterpiece))), (((best quality))), <lora:more_details:1.1>, (hands on waist), male, athletic, looking at viewer, (short hair), lower color saturation:1, lower contract color:1, <lora:Peter_Le_Fever:0.9>, smile, asian:0.5
 
+### Alchemy Stars 白夜極光
 
+1boy,pittman,masterpiece,arm,best quality,absurdres,incredibly absurdres,full shot,day,shop,<lora:pittman-I-000005:1>,
+
+1boy,pittman,masterpiece,best quality,open cloth,(smile:0.6),absurdres,incredibly absurdres,day,<lora:pittman-I-000006:0.8>,in winter,available light,single_glove,wristband,close-up,walkking,looking_at_viewer,depth of field,front view,gothic architecture,church,
+
+1boy,pittman,masterpiece,arm,best quality,absurdres,incredibly absurdres,day,shop,<lora:pittman-I-000006:0.8>,pajamas,lip biting,bleeding,moody lighting,
+
+### GYEE 盖伊传说
+
+#### **Priapus A. Tarou** (プリアポス・A・太郎)
+
+ASCII<lora:Priapas:0.9>  photo of a man, slim, tattoos, green hair, looking at viewer, face, huge penis, outside, nude, detailed background, hi-res, 8k, (Masterpiece, high quality:1.3), masterpiece, depth of field, bokeh, detailed, highly detailed, sharp focus, intricate, smooth, elegant, fantasy, cinematic lighting, cinematic, masterpiece, matte, photorealistic, 4k, beautiful, volumetric lighting, dramatic,
+
+ASCII<lora:Priapas:0.8> RAW photo of a man, green hair, beard, highly detailed textures, skin pores, nose piercing, perfect lighting, photorealism, photo realistic, hard focus, smooth, depth of field, sky with northern lights background, 8K UHD, photo taken by a Sony Alpha 1 , 85mm lens, f/1. 4 aperture, 1/500 shutter speed, ISO 100 film, neutral colors, muted colors
+
+ASCIIpriapus, [black|green] hair, short hair, completely nude, tattoo, huge penis, cowboy shot, detailed eyes, <lora:priapus_v1:0.9> <lora:holo_eden_v1:0.8>
+
+ASCII<lora:Priapas:0.8> RAW photo, portrait of beautiful green haired man, beard, highly detailed textures, skin pores, nose piercing, perfect lighting, photorealism, photo realistic, hard focus, smooth, depth of field, sky with northern lights background, 8K UHD, photo taken by a Sony Alpha 1 , 85mm lens, f/1. 4 aperture, 1/500 shutter speed, ISO 100 film, neutral colors, muted colors
+
+ASCII<lora:Priapas:0.8> RAW photo of a man, green hair, beard, cocky expression, tattoos, abs, penis, highly detailed textures, skin pores, nose piercing, perfect lighting, photorealism, photo realistic, hard focus, smooth, depth of field, sky with northern lights background, 8K UHD, photo taken by a Sony Alpha 1 , 85mm lens, f/1. 4 aperture, 1/500 shutter speed, ISO 100 film, neutral colors, muted colors
+
+ASCII<lora:Priapas:0.5> nude man, huge penis, lying in bed, legs spread, abs, tattoos, green pubes, looking at viewer, green hair, high detail, realistic details, 4k, dramatic lighting
+
+priapus, [black|green] hair, green eyes, (red pupils:0.8), stubble, shoulder (tattoo:0.8), facial tattoo, sitting, spread legs, Greek clothes, pelvic curtain, bulge, topless male, broad shoulders, muscular male, pectorals, detailed eyes, mature male, solo, from below, <lora:Priapus_v1:1>
+
+priapus, [black|green] hair, short hair, completely nude, tattoo, huge penis, cowboy shot, detailed eyes, <lora:Priapus_v1:0.9> 
+
+priapus, [black|green|black] hair, short hair, green eyes, stubble, tattoo, sportswear, sweat, see-through shirt, solo, muscular male, <lora:Priapus_v1:1>
+
+priapus, [black|green|black] hair, short hair, green eyes, stubble, tattoo, sportswear, sweat, see-through shirt, solo, muscular male, <lora:Priapus_v1:1>
+
+priapus, [black|green|black] hair, short hair, green eyes, stubble, tattoo, greek clothes, gold laurel head wreath, fantasy, detailed eyes, in a garden, (mature male:1.3), square jaw, solo, bara, manly, <lora:Priapus_v1:1>
+
+priapus, [black|green|black] hair, short hair, green eyes, stubble, tattoo, fantasy, detailed eyes, (mature male:1.3), square jaw, solo, bara, manly, <lora:Priapus_v1:1>
+
+priapus, [black|green|black] hair, short hair, green eyes, stubble, black tank top, white shorts, sportswear, track pants, standing, (leaning forward:1.1), hands on own knees, ejaculation under clothes, bulge, (cum:1.2), breath, blush, sweat, on a street, detailed eyes, (mature male:1.3), solo, bara, (manly:1.2), <lora:Priapus_v1:0.9>
+
+priapus, [black|green] hair, short hair, spiked hair, green eyes, stubble, tattoo, stomach tattoo, leg tattoo, toned male, large penis, (detailed eyes:1.1), mature male, cowboy shot, solo, <lora:priapus_v1:0.9> 
+
+priapus, greek god, muscular man, [black|dark green|black] hair, short hair, green eyes, stubble, (red tattoo:1.2),solo, open gilded greek robe, (magic:1.2), cowboy shot, digital illustration by Greg Rutkowski, Craig Mullins, (Alphonse Mucha:0.6), volumetric cinematic lighting, tone mapped, masterpiece, best quality, highly detailed, sharp focus <lora:Priapus_v1:0.9>
+
+priapus, [black|green] hair, green eyes, (red pupils:0.8), stubble, shoulder (tattoo:0.8), facial tattoo, sitting, spread legs, Greek clothes, pelvic curtain, bulge, topless male, broad shoulders, muscular male, pectorals, detailed eyes, mature male, solo, from below, <lora:Priapus_v1:1>
+
+priapus, [black|green] hair, short hair, completely nude, tattoo, huge penis, cowboy shot, detailed eyes, <lora:Priapus_v1:0.9> 
 
