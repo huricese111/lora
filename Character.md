@@ -2318,3 +2318,117 @@ masterpiece, best quality, highres, solo, 1boy, saint seiya, green eyes, cloudy 
 
 masterpiece, best quality, highres, solo, detailed background,subtle smile,standing in front of a picturesque landscape,fingerless gloves ,<lora:more_details:0.8>, pauldrons ,  (gold armor:1.5) , outdoors,(ultra detailed:1.0),(RAW photo:1.0), HDR, photography, Kodak Portra 400, film grain, blurry background, vibrant color,focused face, detailed face,symmetric eyes, visible lips, standing, (upper body:1.2),<lora:Taurus:0.8>,helmet,horns
 
+
+
+### Dragon Ball
+
+#### Perfect Cell
+
+1boy, perfect_cell, full_body, masterpiece, grin, front_view <lora:Cell:1>   NOTE: The face was inpainted.
+
+#### Vegetto
+
+(masterpiece, best quality:1.2), <lora:db_vegetto-10:0.7>, <lora:lightningvfxCreateMore_v1:0.2>, solo, male focus, 1boy, vegetto, super saiyan, grin, looking at viewer, hands on hip, flying, floating, blonde hair, spiked hair, blue eyes, dougi, white boots, white gloves, pectorals, tail, surrounded by yellow lightning
+
+(masterpiece, best quality:1.2), <lora:db_vegetto-10:0.7>, cowboy shot, solo, male focus, 1boy, vegetto, smile, looking at viewer, crossed arms, black hair, spiked hair, blue eyes, dougi, white gloves, pectorals, tail
+
+#### Broly 
+
+(masterpiece, best quality:1.2), <lora:dbs_broly-10:1>, solo, male focus, 1boy, broly, muscular male, abs, large pectorals, angry, screaming, looking at viewer, (green hair:1.2), no pupils, topless, pants
+
+#### 드래곤볼
+
+Super Saiyan Goku unleashes a massive energy wave while standing on top of a mountain, the surroundings are filled with lush greenery, and the sky is a mix of orange and purple hues. The energy wave is bright blue with electric sparks around it. (anime:1.2), (dramatic lighting:1.1), (vibrant colors:1.3), (cell-shaded:1.1), (dynamic composition:1.2) <lora:Dragon Ball_v2:0.6>,
+
+Super Saiyan Goku unleashes a massive energy wave while standing on top of a mountain, the surroundings are filled with lush greenery, and the sky is a mix of orange and purple hues. Orange smoke energy emanates from Goku's entire body. The energy wave is bright blue with electric sparks around it. (anime:1.2), (dramatic lighting:1.1), (vibrant colors:1.3), (cell-shaded:1.1), (dynamic composition:1.2) <lora:Dragon Ball_v2:0.6>,
+
+Super Saiyan Broly unleashes a colossal energy wave that shatters the ground and creates a massive shockwave. He stands on a rocky terrain with a stormy sky in the background. The energy wave is a mix of green and blue hues with a swirling pattern. (dark:1.2), (epic:1.3), (chaotic composition:1.2), (metallic:1.1), (gritty texture:1.1), (comic book:1.2), (((3D))), (((realistic))), <lora:Dragon Ball_v2:0.6>,
+
+#### Bardock 
+
+(masterpiece, best quality:1.2), <lora:dragonball_bardock-11:0.8>, portrait, solo, male focus, 1boy, bardock, muscular male, RocksEyebrowRaise, raised eyebrow, thick eyebrows, black hair, headband, black eyes, saiyan armor
+
+(masterpiece, best quality:1.2), <lora:dragonball_bardock-11:0.8>, cowboy shot, solo, male focus, 1boy, bardock, muscular male, smile, looking at viewer, crossed arms, black hair, headband, black eyes, saiyan armor
+
+#### Goku Ki 
+
+<lora:Gijanki_v1:0.7> gijanki
+Masterpiece, best quality, (highly detailed raw photo:1. 2), 8k render in octane, volumetric lighting, volumetric shadows, <lora:more_details:0.6>
+young man, autofellatio, honey blonde, <lora:epi_noiseoffset2:0.7>
+An environment with a very vast and very humid fauna
+
+<lora:Gijanki_v1:0.7> gijanki
+Masterpiece, best quality, (highly detailed raw photo:1. 2), 8k render in octane, volumetric lighting, volumetric shadows, <lora:more_details:0.6>
+young man, tentacle sex, dark brown, <lora:epi_noiseoffset2:0.7>
+A dark and evil land
+
+#### Piccolo
+
+masterpiece, best quality, piccolo,1boy, male focus, upper body, solo, standing, pointy ears,purple dougi,purple pants,green skin,blue sash,(white turban), white cape,smile,closed mouth, looking at viewer, bald,black eyes, from below,crossed arms, rocky grassfields, pink patches,<lora:piccolo_v1_4_15ep-000015:0.4>
+
+masterpiece, best quality,piccolo, 1boy, male focus, solo, sitting, pointy ears,(purple dougi), green skin, oni horns, purple pants, closed mouth, looking at viewer, ((bald)), (waving),pink patches,black eyes, blue sash,<lora:piccolo_v1_4_15ep-000015:0.4>
+
+#### Raditz
+
+inusen,raditz, (1boy,,male focus), solo, black hair, black eyes, cowboy shot,white prince outfit,(closed white jacket),black pants,castle in the background,tail around waist,double-breasted,collared jacket,gold trim,military uniform,high collar, moat, tree, grass,very long hair, (best quality, masterpiece) , <lora:raditz_v1:1>  
+
+raditz, 1boy,,male focus, solo, black hair, black eyes, cowboy shot,grey suit, grey blazer, grey pants, white collared shirt, black necktie, (tail around waist), sitting, bar, indoors,very long hair,night,stool, (best quality, masterpiece) , <lora:raditz_v1:1>
+
+raditz,anime coloring, 1boy,nude, penis, erection, solo, black hair, black eyes,muscular male, green scouter, very long hair,standing,  smirk,lake, forest, mountain,hand on hip,(best quality, masterpiece) <lora:raditz_v1:0.8>
+
+raditz, 1boy, solo, black hair, black eyes, (upper body:1.5,).portrait, smirk, saiyan armor, shoulder armor,(green scouter), faulds,very long hair,blue sky,plateau,tree,grass,standing,looking at viewer,tail around waist, red armband,black briefs,rocks, muscular male, (best quality, masterpiece) ,<lora:raditz_v1:1>
+
+### Son Goku
+
+son_goku, ultra_instinct, full_body, realism, smile, action_pose, aura <lora:son_goku:0.5>
+
+son_goku, base_form, 1boy, portrait, full_body, standing, detailed_shading, aura, dramatc_lighting <lora:son_goku:0.9>
+
+#### Vegetto 
+
+<lora:Vegetto:1> Vegetto, Vegetto, 1boy, male focus, solo, earrings, jewelry, white gloves, muscular, spiked hair, looking at viewer, dougi, closed mouth, hands on hips, black hair, black eyes, outdoors, mountain,
+
+
+
+### Yo-Gi-Oh
+
+#### Black Luster Soldier (YGO)
+
+(masterpiece, best quality:1.2), bls, holding shield, red eyes, detailed night sky, moonlight, glow_white_particle,<lora:BLS-10:1>,bls
+
+(masterpiece, best quality:1.2), bls, ponytail, colored skin, holding shield,<lora:BLS-10:1>,bls
+
+#### 阿图姆 游戏王/ATEM Yu-Gi-Oh
+
+ATEM,1boy,solo,armlet,black_shirt,(blonde_hair:0.5),spiked_hair,collar,collarbone,purple_eyes,shirt,sleeveless_shirt,girdle,pants,nice hands,perfect hands,widow's peak,juvenile body shape,hands in pockets,black school uniform coat behind,<lora:ATEM:0.8>
+
+#### Celtic Guardian (YGO)
+
+celtic_ygo, red eyes, weapon, pointy ears, sword, cape, muscular, helmet, blue sky background, extremely detailed game CG,<lora:Celtic_YGO-10:1>,
+
+celtic_ygo, hat, weapon, pointy ears, sword, cape, holding weapon, holding sword,<lora:Celtic_YGO-10:1>,
+
+celtic_ygo, hat, weapon, pointy ears, sword, cape, helmet, elf, specular lighting, HDR, bokeh, garden,<lora:Celtic_YGO-10:1>,
+
+celtic_ygo, gloves, holding, weapon, boots, belt, sword, cape, holding weapon, holding sword, helmet,<lora:Celtic_YGO-10:1>,
+
+#### Dark Magician
+
+masterpiece,best quality,1boy,male focus,magic,dark,darkness,magic circle,glowing,glow,looking at viewer,<lora:dark_magician:1>,ygodm,armor,helmet,robe,purple hair,blue eyes,scepter,black background
+
+,<lora:dark_magician:1>,ygodm, 1man, armor, robe, helmet, purple hair, blue eyes, standing, rooftop, skyscraper, from below, silhouette, against the light, night, bloodmoon, from a distance,
+
+lora:dark_magician:1>, ygodm, 1man, purple hair, blue eyes, armor, robe, helmet, ancient, indoors, library, fantasy, holding book, grimoire, spellbook, from side
+
+<lora:dark_magician:1>, ygodm, 1man, armor, robe, helmet, purple hair, blue eyes, one knee down, looking up, hand on one knee,
+
+<lora:dark_magician:1>, ygodm, 1man, armor, robe, helmet, purple hair, blue eyes, standing, rooftop, skyscraper, from below, big city, crossed arms, looking at viewer
+
+<lora:dark_magician:1>, ygodm, 1man, purple hair, blue eyes, armor, robe, helmet, outer space, darkness, standing, scepter, upper body, holding scepter, sitting down, from below
+
+<lora:dark_magician:1>, ygodm, 1man, (red:1.3) armor, (red:1.3) robe, red helmet, white hair, blue eyes, walking, dark skin, upper body
+
+<lora:dark_magician:1>, ygodm, 1man, purple hair, blue eyes, armor, robe, helmet, ancient, outdoors, desert, pyramid, reaching, streched hand, open hand, foreshortening
+
+<lora:dark_magician:1>, ygodm, 1man, purple hair, armor, robe, helmet, city, modern city, from below, standing, foreshortening, crossed arms
+
