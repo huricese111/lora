@@ -6,6 +6,14 @@
 
 
 
+## CheckPoints
+
+#### ManlyApha
+
+#### 3D_ReV Animated - V2 Rebirth
+
+
+
 ## Model
 
 Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 883266159, Size: 576x1024, Model hash: eae1e5e50d, Model: Male_ManlyAlpha - v1.0, Clip skip: 2, Lora hashes: "Ace: 93eae4b3b71b", Version: f0.0.17v1.8.0rc-latest-278-gbfee03d8
@@ -88,19 +96,27 @@ portrait of handsome man sanjiop, natural skin texture, 24mm, 4k textures, soft 
 
 
 
-a muscular male,  moan, handsome, exhausted (realistic, masterpiece, best quality, detail eye,  smooth:1.3), full naked, penis, sweaty, cum, dungeon, dog collar, anal sex, orgasm, erection, bend over, zoro, from side<lora:onepiece_zoro-10:1>
+(((masterpiece))),(((best quality))),((realistic)),<lora:epi_noiseoffset2:1>,best quality,cinematic lighting,natural shadow,highest detail,professional photography,detailed background,depth of field,insane details,intricate,aesthetic,detailed face,subsurface scattering,realistic hair,realistic eyes,muscular,<lora: more_details:1.1>,<lora:Better_Nude_Men:0.5>,<lora:BBC-BIG-WHITE-COCKS:1>,(((a man))),a muscular male,  moan, handsome, exhausted (realistic, masterpiece, best quality, detail eye,  smooth:1.3), full naked, penis, sweaty, cum, dungeon, dog collar, anal sex, orgasm, erection, bend over, zoro, from side<lora:onepiece_zoro-10:1>
+
+```
+Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 3901429397, Size: 576x1024, Model hash: 8463ca6405, Model: 3D_ReV Animated - V2 Rebirth, Denoising strength: 0.75, Clip skip: 2, ADetailer model: mediapipe_face_full, ADetailer confidence: 0.3, ADetailer dilate erode: 4, ADetailer mask blur: 4, ADetailer denoising strength: 0.4, ADetailer inpaint only masked: True, ADetailer inpaint padding: 32, ADetailer version: 24.4.2, ControlNet 0: "Module: canny, Model: control_lora_rank128_v11p_sd15_canny_fp16 [5c99b5e5], Weight: 1, Resize Mode: Crop and Resize, Processor Res: 809, Threshold A: 100, Threshold B: 200, Guidance Start: 0, Guidance End: 1, Pixel Perfect: True, Control Mode: Balanced, Hr Option: Both", ControlNet 1: "Module: lineart_standard (from white bg & black line), Model: control_lora_rank128_v11p_sd15_lineart_fp16 [b9f17bb9], Weight: 1, Resize Mode: Crop and Resize, Processor Res: 809, Threshold A: 0.5, Threshold B: 0.5, Guidance Start: 0, Guidance End: 1, Pixel Perfect: True, Control Mode: Balanced, Hr Option: Both", TI hashes: "an14: 8a77601988b3, bad-hands-5: aa7651be154c, EasyNegative: c74b4e810b03, FastNegativeV2: a7465e7cc2a2", Version: f0.0.17v1.8.0rc-latest-278-gbfee03d8
+```
+
+![00003](Roronoa Zoro\00003.png)
 
 
 
+(((masterpiece))),(((best quality))),((realistic)), masterpiece, best quality, cinematic lighting, natural shadow, highest detail, professional photography, detailed background, depth of field, insane details, intricate, aesthetic, detailed face, subsurface scattering, realistic hair, realistic eyes, muscular, <lora: more_details:1.1>,<lora:Better_Nude_Men:0.5>,<lora:BBC-BIG-WHITE-COCKS:1>,(((a man))),deep jungle,handsome face,(zoro_optimize:1.2),scar across left eye,tentacle sex,plant tentacle,huge green tentacle in ass,arms up,exhausted,big bugle,tentacles on body,sweat,(scar_optimize:1.2),(plant tentacles_optimize:1.2),anal penetration,huge tentacle in ass,(achieve anal penetration),stare to viewer,sweat,oily,wet,cum,plant tentacle pit,orgasm,huge tentacle in penis,ejaculation (achieve blowjob),full naked,muscular,strong arms,bicep,abs,big pectorals,exhausted,saliva,<lora:onepiece_zoro-10:1>
+
+```
+Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 3901429397, Size: 576x1024, Model hash: 8463ca6405, Model: 3D_ReV Animated - V2 Rebirth, Denoising strength: 0.75, Clip skip: 2, ADetailer model: mediapipe_face_full, ADetailer confidence: 0.3, ADetailer dilate erode: 4, ADetailer mask blur: 4, ADetailer denoising strength: 0.4, ADetailer inpaint only masked: True, ADetailer inpaint padding: 32, ADetailer version: 24.4.2, ControlNet 0: "Module: canny, Model: control_lora_rank128_v11p_sd15_canny_fp16 [5c99b5e5], Weight: 1, Resize Mode: Crop and Resize, Processor Res: 809, Threshold A: 100, Threshold B: 200, Guidance Start: 0, Guidance End: 1, Pixel Perfect: True, Control Mode: Balanced, Hr Option: Both", ControlNet 1: "Module: lineart_standard (from white bg & black line), Model: control_lora_rank128_v11p_sd15_lineart_fp16 [b9f17bb9], Weight: 1, Resize Mode: Crop and Resize, Processor Res: 809, Threshold A: 0.5, Threshold B: 0.5, Guidance Start: 0, Guidance End: 1, Pixel Perfect: True, Control Mode: Balanced, Hr Option: Both", TI hashes: "an14: 8a77601988b3, bad-hands-5: aa7651be154c, EasyNegative: c74b4e810b03, FastNegativeV2: a7465e7cc2a2", Version: f0.0.17v1.8.0rc-latest-278-gbfee03d8
+```
+
+![00000](Roronoa Zoro\00000.png)
 
 
-deep jungle,  handsome face,  (zoro_optimize:1.2), scar across left eye, tentacle sex, plant tentacle , huge green tentacle in ass, arms up, exhausted, big bugle, tentacles on body, sweat, (scar_optimize:1.2),(plant tentacles_optimize:1.2), anal penetration,  huge tentacle in ass, (achieve anal penetration), stare to viewer, sweat, oily, wet, cum, plant tentacle pit , orgasm, huge tentacle in penis, ejaculation (achieve blowjob),  full naked, muscular, strong arms, bicep, abs, big pectorals, exhausted, saliva, big pregnant<lyco:Oviposition_Pony:1><lora:onepiece_zoro-10:1>
 
-
-
-
-
-roronoa zoro, green hair, scar across right eye, single earing, scar blade on chest, naked, male focus, solo focus, on bed, male, hairy, beefy, scruffy, manly, multiple boys, 2boys, penis, multiple penises, anal, sex, erection, uncensored, blush, on back, lying, testicles, large pectorals, thick thighs, muscular male, short hair, brown hair, happy sex, moaning, ejaculation, cum in ass, ejaculating while penetrated, cum on body, sweat, brown eyes, armpits, looking at viewer,  bottomless, spread legs, wet, sweat, oily<lora:onepiece_zoro-10:1>
+(((masterpiece))),(((best quality))),((realistic)),best quality,cinematic lighting,natural shadow,highest detail,professional photography,detailed background,depth of field,insane details,intricate,aesthetic,detailed face,subsurface scattering,realistic hair,realistic eyes,muscular,<lora: more_details:1.1>,<lora:Better_Nude_Men:0.5>,<lora:BBC-BIG-WHITE-COCKS:1>,(((a man))),roronoa zoro, green hair, scar across right eye, single earing, scar blade on chest, naked, male focus, solo focus, on bed, male, hairy, beefy, scruffy, manly, multiple boys, 2boys, penis, multiple penises, anal, sex, erection, uncensored, blush, on back, lying, testicles, large pectorals, thick thighs, muscular male, short hair, brown hair, happy sex, moaning, ejaculation, cum in ass, ejaculating while penetrated, cum on body, sweat, brown eyes, armpits, looking at viewer,  bottomless, spread legs, wet, sweat, oily<lora:onepiece_zoro-10:1>
 
 
 
