@@ -97,3 +97,9 @@ masterpiece, best quality, 1boy, trafalgar law, tdlwano, black hair, hat, chest 
 masterpiece, best quality, 1boy, tdlwano, black hair, hat, chest tattoo, earrings, facial hair, long sideburns, goatee, japanese clothes, kimono, over shoulder, , full body, view from above, looking at viewer, smile, solo, sea, sand, tropical island background <lora:TrafalgarDLawWano:1>
 
 masterpiece, best quality, 1boy, tdlwano, black hair, hat, chest tattoo, earrings, facial hair, long sideburns, goatee, japanese clothes, black kimono, coat over shoulder, looking at viewer, cyberpunk, solo, neon light, night, cyberpunk city background <lora:TrafalgarDLawWano:1>
+
+#### Monkey D. Luffy
+
+<lora:mdluffy:1.0>MDLuffy, a man wearing ((a straw hat)) and ((a red shirt)), medieval ship, blurry background, realistic, portrait close-up, looking at viewer, smile
+
+<lora:mdluffy:1.0>, MDLuffy, a young man wearing a straw hat and red shirt and blue pants, (grin, smile:1.3), (masterpiece:1.2), cinematic lighting, realism, realistic, RAW photo, 4k, highres, photorealistic, best quality, photo, real, extremely detailed, amazing, fine detail, rich colors, dramatic lighting, unrealengine, trending on artstation, cinestill 800 tungsten, high quality, sharp focus,8k uhd, absurdres
