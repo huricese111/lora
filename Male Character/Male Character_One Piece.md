@@ -10,39 +10,37 @@
 
 Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 883266159, Size: 576x1024, Model hash: eae1e5e50d, Model: Male_ManlyAlpha - v1.0, Clip skip: 2, Lora hashes: "Ace: 93eae4b3b71b", Version: f0.0.17v1.8.0rc-latest-278-gbfee03d8
 
-
-
 ## Parameter
 
 #### 波特卡斯·D·艾斯 (Portgas D. Ace)
 
 ace, cowboy shot, solo, 1boy, black hair, hat, jewelry, belt, necklace, grin, tattoo, scar, abs, fire, pectorals, sheath, freckles, (topless male:1.2), sheathed, pyrokinesis, <lora:Ace:0.7>
 
-![00000](Ace\00000.png)
+![00000](\lora\Male Character\Ace\00000.png)
 
 
 
 ace, cowboy shot, solo, 1boy, black hair, hat, jewelry, belt, necklace, tattoo, scar, abs, fire, (not smiling:1.2) pectorals, freckles, (topless male:1.2), (natural light:1.2), beach, (ivory skin:1.2), pyrokinesis, <lora:Ace:0.7>
 
-![00001](Ace\00001.png)
+![00000](\lora\Male Character\Ace\00001.png)
 
 
 
 ace, cowboy shot, looking at viewer, solo, 1boy, black hair, hat, jewelry, belt, necklace, tattoo, scar, abs, fire, (not smiling:1.2) pectorals, freckles, (topless male:1.2), (natural light:1.2), beach, fire on arm, (ivory skin:1.2), pyrokinesis, <lora:Ace:0.7>
 
-![00002](Ace\00002.png)
+![00000](\lora\Male Character\Ace\00002.png)
 
 
 
 ace, cowboy shot, solo, 1boy, black hair, hat, jewelry, belt, necklace, grin, tattoo, scar, abs, fire, pectorals, sheath, freckles, (topless male:1.2), sheathed, pyrokinesis, <lora:Ace:0.7>
 
-![00003](Ace\00003.png)
+![00000](\lora\Male Character\Ace\00003.png)
 
 
 
 ace, cowboy shot, solo, 1boy, black hair, hat, jewelry, belt, necklace, tattoo, scar, abs, fire, (not smiling:1.2) pectorals, freckles, (topless male:1.2), (natural light:1.2), beach, (ivory skin:1.2), pyrokinesis, <lora:Ace:0.7>
 
-![00004](Ace\00004.png)
+![00000](\lora\Male Character\Ace\00004.png)
 
 
 
@@ -52,19 +50,19 @@ ace, cowboy shot, solo, 1boy, black hair, hat, jewelry, belt, necklace, tattoo, 
 
 sanjiop, handsome man in front of (clean plain yellow background:1), one model, studio portrait, medium close-up, detailed skin, pores, goosebumps, scaled skin, sony alpha, advertising photography, bright high-key lighting, professional headshot, smirk, black blazer, tie <lora:OnePiece_Sanji_V1-08:0.9
 
-![00000](Sanji\00000.png)
+![00000](\lora\Male Character\Sanji\00000.png)
 
 
 
 closeup upper body portrait of handsome man sanjiop, wearing a jacket, (bisexual lighting:1.15), promotional photograph, (hdr),sharp focus, (cinematic), soothing tones, exposure blend, rim lighting, looking at viewer <lora:OnePiece_Sanji_V1-08:0.8>
 
-![00001](Sanji\00001.png)
+![00001](\lora\Male Character\Sanji\00001.png)
 
 
 
 portrait of handsome man sanjiop, natural skin texture, 24mm, 4k textures, soft cinematic light, (hdr:1.2), intricate, elegant, highly detailed, sharp focus, (cinematic:1.3), soothing tones, insane details, intricate details, hyperdetailed, exposure blend, indoors, wearing black blazer, (shirtless:1.1) <lora:OnePiece_Sanji_V1-08:0.8>
 
-![00002](Sanji\00002.png)
+![00002](\lora\Male Character\Sanji\00002.png)
 
 
 
