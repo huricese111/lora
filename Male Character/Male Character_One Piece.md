@@ -8,9 +8,11 @@
 
 ## CheckPoints
 
-#### ManlyApha
+#### ManlyAlpha
 
-#### Realism_epiCPhotoGasm
+#### Male_GaiJourney 
+
+#### Realism_epiCPhotoGasm （img2img）
 
 
 
@@ -114,7 +116,7 @@ Checkpoint: Realism_epiCPhotoGasm
 
 ### Trafalgar D Law - Wano Arc
 
-masterpiece, best quality, 1boy, trafalgar law, tdlwano, black hair, hat, chest tattoo, earrings, facial hair, long sideburns, goatee, japanese clothes, kimono, over shoulder, upper body, looking at viewer, smile, solo, blue sky, grass, meadow background <lora:TrafalgarDLawWano:1>
+masterpiece,best quality,1boy,trafalgar law,tdlwano,black hair,hat,chest tattoo,earrings,facial hair,long sideburns,goatee,japanese clothes,kimono,over shoulder,upper body,looking at viewer,smile,solo,blue sky,grass,meadow background,<lora:TrafalgarDLawWano:1>,
 
 ![00000](Trafalgar D Law\00000.png)
 
@@ -122,28 +124,28 @@ masterpiece, best quality, 1boy, trafalgar law, tdlwano, black hair, hat, chest 
 
 masterpiece, best quality, 1boy, trafalgar law, tdlwano, black hair, hat, chest tattoo, earrings, facial hair, long sideburns, goatee, japanese clothes, kimono, over shoulder, full body, hands on hips, looking at viewer, smile, solo, standing, simple background  <lora:TrafalgarDLawWano:1>
 
-
-
-
+![00001](Trafalgar D Law\00001.png)
 
 masterpiece, best quality, 1boy, tdlwano, black hair, hat, chest tattoo, earrings, facial hair, long sideburns, goatee, japanese clothes, kimono, over shoulder, , full body, view from above, looking at viewer, smile, solo, sea, sand, tropical island background <lora:TrafalgarDLawWano:1>
 
-
+![00003](Trafalgar D Law\00003.png)
 
 
 
 masterpiece, best quality, 1boy, tdlwano, black hair, hat, chest tattoo, earrings, facial hair, long sideburns, goatee, japanese clothes, black kimono, coat over shoulder, looking at viewer, cyberpunk, solo, neon light, night, cyberpunk city background <lora:TrafalgarDLawWano:1>
 
+![00002](Trafalgar D Law\00002.png)
 
 
 
-
-### Monkey D. Luffy
+### 蒙奇·D·路飞 (Monkey D. Luffy)
 
 <lora:mdluffy:1.0>MDLuffy, a man wearing ((a straw hat)) and ((a red shirt)), medieval ship, blurry background, realistic, portrait close-up, looking at viewer, smile
 
-
+![00000](Luffy\00000.png)
 
 
 
 <lora:mdluffy:1.0>, MDLuffy, a young man wearing a straw hat and red shirt and blue pants, (grin, smile:1.3), (masterpiece:1.2), cinematic lighting, realism, realistic, RAW photo, 4k, highres, photorealistic, best quality, photo, real, extremely detailed, amazing, fine detail, rich colors, dramatic lighting, unrealengine, trending on artstation, cinestill 800 tungsten, high quality, sharp focus,8k uhd, absurdres
+
+![00001](Luffy\00001.png)
