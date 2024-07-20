@@ -2432,3 +2432,45 @@ lora:dark_magician:1>, ygodm, 1man, purple hair, blue eyes, armor, robe, helmet,
 
 <lora:dark_magician:1>, ygodm, 1man, purple hair, armor, robe, helmet, city, modern city, from below, standing, foreshortening, crossed arms
 
+
+
+### Pokémon
+
+#### Archie
+
+masterpiece,best quality,<lora:Archie Lora-10:0.7>,archie \(pokemon\),dark skin,evil smile,teeth,wide smile,bodysuit,bandana,aquarium,neck chain,high collar,beard,facial hair,confident
+
+#### Brock
+
+(masterpiece),hdr,1boy,brkani,<lora:add_detail:1>,<lora:Brock-10:0.95>,abstract background of stones,black background,dim light,brown pants,orange shirt,short sleeves,green vest,open vest
+
+1boy, brkani, brown hair,  <lora:add_detail:1> <lora:Brock-10:0.95>, abstract background of stones,
+
+#### Cyrus
+
+masterpiece,best quality,<lora:CyrusLora-10:0.7>,cyrus \(pokemon\),frown,grey vest,black shirt,black pants,arms behind back,space,galaxy,stars,long sleeves,ribbed shirt,ribbed legwear
+
+#### Ghetsis
+
+masterpiece,best quality,<lora:GhetsisLora-10:0.7>,ghetsis \(pokemon\),1boy,city,new york,frown,black cloak,red-tinted eyewear,holding sword,cowboy shot,red eyes,one eye covered
+
+#### Guzma
+
+masterpiece,best quality,<lora:GuzmaLora-10:0.7>,guzma \(pokemon\),smile,slouching,white shirt,black jacket,hoodie,black pants,gold chain,graffiti,concrete,standing,slouch,bent over
+
+#### Looker 
+
+<lora:LookerPkmn:0.7> LookerPkmn, solo, smile, shirt, 1boy, closed mouth, jacket, white shirt, upper body, male focus, outdoors, necktie, day, collared shirt, tree, coat, grey eyes, thick eyebrows, brown jacket, thumbs up
+
+#### Lysandre
+
+masterpiece,best quality,<lora:LysandreLora-10:0.7>,lysandre \(pokemon\),frown,facial hair,beard,black pants,black jacket,fur collar,fire,orange ascot,blue eyes
+
+masterpiece, best quality, <lora:LysandreLora:0.7>, lysandre \(pokemon\), frown, facial hair, beard, black pants, black jacket, fur collar, fire, orange ascot, blue eyes,
+
+#### Raihan
+
+highres, masterpiece, high quality, masculine male, raihan \(pokemon\), jacket, shorts, headband,<lora:raihan:1> 
+
+highres, masterpiece, high quality, masculine male, raihan \(pokemon\), jacket, headband, claw pose, ((dark skin)),<lora:raihan:1> 
+

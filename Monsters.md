@@ -118,6 +118,29 @@ full-length character portrait of a dragon hi res, soft shading, good anatomy, c
 
 ### Pokémon
 
+#### Starter Pokemon
+
+vivid bright colors, zzChikorita, looking at viewer, smile, open mouth, standing, full body, flower, :d, outdoors, pink eyes, happy, rain, water drop, hydrangea, <lora:StarterPokemon_PDXL:1>
+
+vivid bright colors, zzPikachu, day, forest, grass, killert 0401, moss, mushroom, outdoors, standing, smile, tree stump,cowboy shot<lora:StarterPokemon_PDXL:1>
+
+vivid bright colors, zzCharmander, looking at viewer, smile, open mouth, standing, full body, lava, rocks, outdoors, green eyes, happy,<lora:StarterPokemon_PDXL:1>
+
+zzBulbasaur, smile, open mouth, red eyes, standing, :d, outdoors, sky, day, tongue, tree, leaf, looking up, bright pupils, white pupils, autumn leaves, falling leaves,<lora:StarterPokemon_PDXL:1>
+
+zTotodile, looking at viewer, smile, open mouth, standing, full body, flower, :d, outdoors, pink eyes, happy, rain, water drop, hydrangea,<lora:StarterPokemon_PDXL:1>
+
+vivid bright colors, zzSquirtle, looking at viewer, smile, open mouth, standing, full body, flower, :d, pink eyes, happy, bubbles, coral reef, underwater,<lora:StarterPokemon_PDXL:1>
+
+vivid bright colors, zzSquirtle, sunglasses, smile, abstract background, full body, blue background, blue theme,<lora:StarterPokemon_PDXL:1>
+
+vivid bright colors, zzPikachu, day, forest, grass, killert 0401, moss, mushroom, outdoors, standing, smile, tree stump,cowboy shot,<lora:StarterPokemon_PDXL:1>
+
+vivid bright colors, zzChikorita, looking at viewer, smile, closed mouth, standing, full body
+abstract background,<lora:StarterPokemon_PDXL:1>
+
+vivid bright colors, zzTotodile, open mouth, red eyes, full body, flower, outdoors, sky, day, cloud, water, tree, grass,<lora:StarterPokemon_PDXL:1>
+
 #### Absol
 
 absol,animal focus,cute,nigth,grass,flowers, <lora:Absol:0.75>
@@ -227,3 +250,188 @@ furfrou, <lora:furfrou-08:0.85>,animal focus,cute,nigth,flowers, frozen forest, 
 
 zzGiratina, creature, dark, energy, english commentary, giratina (origin), highres, looking at viewer, pokemon move, red eyes, shadow force (pokemon), tapwing,  ,<lora:Giratina_P3:0.8>,  embedding:zPDXL,  <lora:Vivid:0.8>,
 
+#### Goldeen 
+
+goldeen, underwater, <lora:goldeen-08:0.85>, fish, no humans, coral,
+
+#### Gourgeist
+
+((masterpiece,best quality)), absurdres, <lora:Gourgeist_Pokemon_Anime:1>, Gourgeist_Pokemon, no humans, pokemon \(creature\),solo, smiling, looking at viewer,
+purple theme, graveyard in background,
+
+#### Grovyle 
+
+grovyle, <lora:grovyle-08:1>, no humans, animal, cute,grass, flower, masterpiece, looking away,
+
+#### Shedinja
+
+<lora:guichan_v1b:1> guichan,masterpiece,best quality,
+
+#### Gyarados
+
+((masterpiece,best quality)), absurdres,<lora:Gyarados:0.8>, Gyarados, blue scales, animal focus, fangs, gen 1 pokemon, highres, nanamiyuki, nintendo, open mouth, red eyes, solo, tongue, tongue out, waves, whiskers, no humans,
+
+((masterpiece,best quality)), absurdres,<lora:Gyarados:0.8>, Gyarados, solo, no humans,
+alternate color, fangs, fins, gen 1 pokemon, nintendo, open mouth, palm tree, partially submerged, red eyes, sailorclef, shiny pokemon, solo, tree, water
+
+((masterpiece,best quality)), absurdres,<lora:Gyarados:0.8>, Gyarados, solo, blue scales, 
+animal focus, fangs, gen 1 pokemon, highres, nanamiyuki, nintendo, open mouth, red eyes, solo, tongue, tongue out, waves, whiskers, no humans, glowing red eyes, rage, thunder and lighting, storm clouds, partially submerged,
+
+((masterpiece,best quality)), absurdres,<lora:Gyarados:0.8>, Gyarados, solo, no humans,
+black sunglasses,eastern dragon,gen 1 pokemon, nintendo,  partially submerged, simple background, white_background, looking at viewer,
+
+((masterpiece,best quality)), absurdres,<lora:Gyarados:0.8>, Gyarados, solo, blue scales, 
+animal focus, blue background, bubble, cosmo (465lilia), creepy, fangs, gen 1 pokemon, glowing, glowing eyes, highres, nintendo, open mouth, small fish, red eyes, sharp teeth, size difference, snorkel, swimming, teeth, underwater, water
+
+#### Haunter 
+
+(masterpiece),Haunter_Pokemon, floating,  no humans, pokemon \(creature\),,
+HDR, 8k, intricated detail, trending on artstation,<lora:Haunter_Pokemon_SDXL:1>
+
+<lora:Haunter_Pokemon_SDXL:1>,Haunter_Pokemon, floating, no humans, pokemon \(creature\), red sclera, v-shaped eyebrows, black eyes, evil smile, graveyard, starry sky, dynamic pose, graveyard, dark theme, bokeh, depth of field, looking at viewer
+
+#### Growlithe 
+
+hisuiangrowlithe,forest,flower, <lora:HisuianGrowlithe-08:1>, animal focus,cute
+
+#### Incineroar
+
+incineroar ,forest, night, bara,<lora:incineroar:1>, bulge, thick thighs, 
+
+#### Koraidon 
+
+koraidon,<lora:koraidon-08:0.85>,animal focus,cute,nigth,flowers,frozen forest,flowers
+
+koraidon,<lora:koraidon-08:0.85>,animal focus,cute,nigth,flowers, frozen forest, flowers ,(solo)
+
+#### Leafeon 
+
+leafeon, pokemon (creature), cute, grass,flowers,nigth,  animal focus  <lora:Leafeon-08:0.75>
+
+#### Magikarp 
+
+centered, award winning photo, (looking at viewer:1.2),  Magikarp_Pokemon,  fish, splash, pectoral fins, two whiskers,underwater, bubbles, bokeh, depth of field, cinematic composition, <lora:Magikarp_Pokemon-15:0.7>
+
+#### Meloetta 
+
+1girl, meloetta, pokemon \(creature\), <lora:Meloetta-08:0.8>, mobface, blue eyes, full body, black dress, green waist, concert stage, singing, dancing
+
+#### Mewtwo
+
+lizard tail, flowers,frozen forest,mevmewtwo,shiny skin, <lora:MevMewtwo-08:0.70>,cute,pokemon (creature),
+
+#### Midnight Lycanroc
+
+midnightlycanroc,animal focus,cute,nigth,grass,flowers, <lora:MidnightLycanroc-08:0.75>
+
+#### Mightyena 
+
+centered, award winning photo, (looking at viewer:1.2), Mightyena_Pokemon, snowy forest, bokeh, depth of field, cinematic composition, <lora:Mightyena_Pokemon_Anime:0.8>
+
+#### Mimikyu
+
+((masterpiece,best quality)),absurdres,<lora:Mimikyu_Pokemon_Anime:0.7>,Mimikyu_Pokemon,  no humans,  purple star, sparkle, starry_background, solo, looking at viewer, cinematic composition,
+
+#### Miraidon 
+
+miraidon,animal focus,<lora:miraidon-08:1>,forest,night
+
+miraidon, <lora:miraidon-08:1>,forest, night, large breasts, thick thighs, netorare, faceless male,
+
+#### Mudkip 
+
+centered, award winning photo, (looking at viewer:1.2), Mudkip_Pokemon,pond, lily pads,  bokeh, depth of field, cinematic composition,<lora:Mudkip_Pokemon:0.8>
+
+centered, award winning photo, (looking at viewer:1.2), Mudkip_Pokemon,tropical, bokeh, depth of field, cinematic composition, <lora:Mudkip_Pokemon:0.7>
+
+centered, award winning photo, (looking at viewer:1.2), Mudkip_Pokemon, open mouth,
+underwater, bubbles, bokeh, depth of field, cinematic composition,<lora:Mudkip_Pokemon:0.8>
+
+centered, award winning photo, (looking at viewer:1.2), Mudkip_Pokemon, happy, smile,
+underwater, coral reef, | bokeh, depth of field, cinematic composition, 
+<lora:Mudkip_Pokemon:0.8>
+
+#### Numel 
+
+numel,animal focus,cute,nigth,grass,flowers, <lora:numel-08:0.75>
+
+numel, <lora:numel-08:0.75>,large breasts, thick thighs, fire, flowers,volcano, molten rock,
+
+#### Rayquaza
+
+((masterpiece,best quality)), absurdres,<lora:Rayquaza:0.8>, Rayquaza, solo, no humans, 
+angry, claws, cloud, dragon, eastern dragon, fangs, gen 3 pokemon, kimbo-demonica, legendary pokemon, lightning, looking at viewer, nintendo, pokemon, scowl, sky, thunder, yellow eyes
+
+((masterpiece,best quality)), absurdres,<lora:Rayquaza:0.8>, Rayquaza, no humans, solo, 
+animal focus, artist name, black sclera, colored sclera, dragon, flying, full body, gen 3 pokemon, glowing, glowing eyes, grey background, highres, legendary pokemon, lucas (mono luca), mountain, neon trim, nintendo, outdoors, pokemon, river, twitter username, watermark, yellow eyes
+
+((masterpiece,best quality)), absurdres,<lora:Rayquaza:0.8>, Rayquaza, solo, 1girl, gen 3 pokemon, green hair, legendary pokemon, long hair, midriff, navel, nintendo, personification, pokemon, ponytail, smile, sumeshi, underboob, very long hair, yellow eyes, 
+armor, gauntlet, pants, shoulder armor, helmet, horns,
+
+#### Scorbunny 
+
+scorbunny, <lora:Scorbunny-08:0.8>,grass
+
+#### Squirtle 
+
+centered, award winning photo, (looking at viewer:1.2), Squirtle_Pokemon,underwater, bubbles, bokeh, depth of field, cinematic composition,<lora:Squirtle_Pokemon:0.8>
+
+#### Sylveon
+
+sylveon,animal focus,cute,nigth,grass,flowers,  <lora:Sylveon:0.75>
+
+#### Tapu Lele
+
+<lora:TapuLele-08:1>,tapulele,forest, chibi, cute
+
+#### Totodile 
+
+((masterpiece,best quality)), absurdres, <lora:Totodile_Pokemon_v2:0.8>,  totodile,  smile, red eyes, tongue, water, pokemon (creature), fangs,
+underwater, bubbles, coral reef,
+
+((masterpiece,best quality)), absurdres,<lora:Totodile_Pokemon_v2:0.8>,  totodile,
+smile, open mouth, simple background, red eyes, white background, full body, teeth, tongue, water, pokemon (creature), fangs, watermark, sharp teeth
+
+((masterpiece,best quality)), absurdres, <lora:Totodile_Pokemon_v2:0.8>,  totodile, 
+smile,  red eyes, outdoors, lily pad, standing, teeth, tongue, water, pokemon (creature), sharp teeth
+
+((masterpiece,best quality)), absurdres, <lora:Totodile_Pokemon_v2:0.8>,  totodile, animal focus, 
+ red eyes, outdoors, sunny, pokemon (creature), sharp teeth,
+<lora:Delfino_Plaza:0.3>, Delfino_Plaza, small house, (big watermelon:1.2), palm tree, ocean in background,
+
+((masterpiece,best quality)), absurdres, <lora:Totodile_Pokemon_v2:0.8>,  totodile, 
+brown eyes, from above, gen 2 pokemon, gen 3 pokemon, looking at another, nintendo, plant, plant request, pokemon, pokemon (creature), swimming, water
+
+#### Treecko
+
+centered, award winning photo, (looking at viewer:1.2), Treecko_Pokemon, forest,  bokeh, depth of field, cinematic composition,  <lora:Treecko_Pokemon_Anime:0.8>
+
+#### Turtwig 
+
+centered, award winning photo, (looking at viewer:1.2), Turtwig_Pokemon, garden, flowers,  bokeh, depth of field, cinematic composition, <lora:Turtwig_Pokemon_Anime:0.8>
+
+#### Umbreon 
+
+umbreon,animal focus,cute,nigth,grass,flowers,<lora:Umbreon: 0.75>
+
+umbreon,,large breasts, thick thighs, frozen forest, flowers,<lora:Umbreon: 0.75>
+
+centered, award winning photo, (looking at viewer:1.2),  Umbreon_Pokemon, starry night, moon,  bokeh, depth of field, cinematic composition, <lora:Umbreon_Pokemon_Anime:0.8>
+
+#### Wartortle
+
+centered, award winning photo, (looking at viewer:1.2), Wartortle_Pokemon, underwater, bubbles,  bokeh, depth of field, cinematic composition,<lora:Wartortle_Pokemon_Anime:0.8>
+
+#### Wooloo 
+
+<lora:Wooloo-08:1>,wooloo,cute,pokemon (creature), forest, dirt road,grass
+
+<lora:Wooloo-08:1>,wooloo,forest, large breasts, thick thighs
+
+#### Wooper 
+
+1other,  happy, wooper, pokemon \(creature\), no humans, shiny pokemon, :d, ^o^,  <lora:wooperV1:1>, smile,  water, swamp, lake,tree, black eyes, open mouth, tail,, (masterpiece),(best quality),extreamly delicate and beautiful,illustration,
+
+#### Sprigatito
+
+xinyemiao,masterpiece,best quality,Highest picture quality, <lora:xinyemiao_v1b:1>

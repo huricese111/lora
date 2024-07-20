@@ -92,7 +92,11 @@ cinewow,deathwing cat,animal,masterpiece,awardwinning,8k,epic,cinematic,trending
 
 cinewow,snoop dog,death knight ,sitting on the frozen throne,smiling,epic,cinematic,best quality,photoreal,masterpiece,awardwinning,trending on artstation and deviantart, <lora:cinewow_alt:1>
 
+#### Ken Sugimori Style for Fakemon and Characters
 
+sugimori style, masterpiece, best quality, 1girl, aqua eyes, baseball cap, blonde hair, closed mouth, earrings, green background, hat, hoop earrings, jewelry, looking at viewer, shirt, short hair, simple background, solo, upper body, yellow shirt <lora:pokemon_v3_offset:1>
+
+sugimori ken \(style\), electric pokemon, rabbit, yellow body, (masterpiece), high quality, best quality, high-definition, ultra-detailed, outdoors, grass  <lora:pokemon_v3_offset:1>
 
 
 
