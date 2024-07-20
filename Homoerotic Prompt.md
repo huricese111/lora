@@ -19,7 +19,7 @@ Muses - Erato
 
 ## Universal
 
-(((masterpiece))),(((best quality))),<lora: more_details:1.1>, Asian: 0.8, (a muscular Chinese man:1.3),<lora:Adonis_belt:1>,<lora:Better_Nude_Men:0.5>,
+(((masterpiece))),(((best quality))),<lora: more_details:1.1>, Asian: 0.8, (a muscular Chinese man:1.3),<lora:Adonis_belt:1>,<lora:Better_Nude_Men:0.5>,,<lora:BBC-BIG-WHITE-COCKS:1>,
 
 ## Base Naked Man
 
