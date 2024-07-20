@@ -145,5 +145,213 @@ mysticalygo, large breasts, closed eyes, dress, cleavage, bare shoulders, barefo
 
 
 
+### 魔卡少女樱 Card Captor
+
+#### 木之本樱
+
+1girl, kinomoto sakura, solo,tomoeda elementary school uniform, green eyes, brown hair, skirt, school uniform, open mouth,  hat, short sleeves, short hair, looking at viewer, smile, petals, puffy sleeves, black skirt, puffy short sleeves, antenna hair,  white headwear, looking back, cherry blossoms, sailor collar, :d, white shirt, shirt, bangs, arms behind back,   <lora:Card Captor Sakura Anime:0.8>
+
+1girl, brown hair, kinomoto sakura, hat, gloves, dress, green eyes, white gloves, kero,  wings, magical girl, bow, short hair, short sleeves, pink headwear,  puffy sleeves, looking at viewer, puffy short sleeves, petals, smile, red bow,  antenna hair, frills, solo focus, white wings, <lora:Card Captor Sakura Anime:0.8>
+
+1girl, kinomoto sakura, brown hair, solo, school uniform, skirt, green eyes, tomoeda elementary school uniform, short hair, hat, white skirt, white headwear, magical girl,  antenna hair, smile, serafuku, pleated skirt, open mouth, looking at viewer,  cowboy shot, long sleeves, star (symbol), neckerchief, sailor collar, <lora:Card Captor Sakura Anime:0.8>
+
+1girl, kinomoto sakura, brown hair, solo, school uniform, skirt, green eyes, tomoeda elementary school uniform, short hair, hat, white skirt, white headwear, magical girl,  antenna hair, smile, serafuku, pleated skirt, open mouth, looking at viewer,  cowboy shot, long sleeves, star (symbol), neckerchief, sailor collar, <lora:Card Captor Sakura Anime:0.8>
+
+1girl, kinomoto sakura, animal ears, one eye closed, cat ears, solo, tail, brown hair, bell, green eyescat tail, magical girl, dress, paw pose, short hair, smile, open mouth, 1990s (style), retro artstyle, ;d, jingle bell, wand, looking at viewer, pink dress, antenna hair,   <lora:Card Captor Sakura Anime:0.8>
+
+1girl, brown hair, kinomoto sakura, hat, gloves, dress, green eyes, white gloves, kero, fuuin no tsue, wings, magical girl, bow, short hair, short sleeves, pink headwear, holding, puffy sleeves, looking at viewer, puffy short sleeves, petals, smile, red bow, holding wand, antenna hair, frills, solo focus, white wings, <lora:Card Captor Sakura Anime:0.8>
+
+kinomoto sakura, 1girl, japanese clothes, seiza, kimono, brown hair, floral print, flower, vase, long sleeves, obi, green eyes, sitting, sash, 1990s (style), indoors, bangs, antenna hair, short hair, smile, looking at viewer, kero, retro artstyle, hair intakes, hand fan, open mouth, potted plant, print kimono, plant, hair ornament, wide sleeves, full body, solo, head tilt, :d, orange kimono, two side up, zabuton, female child, ribbon, picture frame,   <lora:Card Captor Sakura Anime:0.8>
+
+kinomoto sakura, 1girl, japanese clothes, seiza, kimono, brown hair, floral print, flower, vase, long sleeves, obi, green eyes, sitting, sash, 1990s (style), indoors, bangs, antenna hair, short hair, smile, looking at viewer, kero, retro artstyle, hair intakes, hand fan, open mouth, potted plant, print kimono, plant, hair ornament, wide sleeves, full body, solo, head tilt, :d, orange kimono, two side up, zabuton, female child, ribbon, picture frame,   <lora:Card Captor Sakura Anime:0.8>
+
+1girl, kinomoto sakura, dress, 1990s (style), full body, solo, holding, retro artstyle, puffy sleeves, gloves, short sleeves, white gloves, puffy short sleeves, striped, short hair, flower, ribbon trim, antenna hair, smile, wand, two side up, shoes, holding wand, standing, green eyes, looking at viewer, green footwear, ribbon, choker, bow, brown hair, green dress, bangs, closed mouth, magical girl, green bow, short twintails, yellow background, hair ornament, green ribbon, frills, vertical stripes, green choker, socks, white flower, striped dress, vertical-striped dress, ribbon choker, twintails, white dress, ribbon-trimmed sleeves, hair bow, star (symbol),   <lora:Card Captor Sakura Anime:0.8>
+
+1girl, solo, swimsuit, one-piece swimsuit, brown hair, kinomoto sakura, school swimsuit, green eyes,gradient background, gradient, short hair, open mouth, smile, antenna hair, blue one-piece swimsuit, looking at viewer, standing, :d,   <lora:Card Captor Sakura Anime:0.8>
+
+1girl, kinomoto sakura, solo, gloves, thighhighs, wings, brown hair, elbow gloves, dress, green eyes, full body, magical girl, short hair, white gloves, white thighhighs, yellow dress, <lora:Card Captor Sakura Anime:0.8>
+
+1girl, roller skates, skates, kinomoto sakura, kero, one eye closed, brown hair, skirt, knee pads, school uniform, white headwear, green eyes, gloves, elbow pads, tomoeda elementary school uniform, hat, star (symbol), short hair, pleated skirt, fingerless gloves, inline skates, smile, short sleeves, full body, open mouth, serafuku, antenna hair, black skirt, shirt, white shirt, white sailor collar, sailor collar, pink gloves,   <lora:Card Captor Sakura Anime:0.8>
+
+1girl, brown hair, hat, solo, kinomoto sakura, gloves, full body, boots, blue headwear, green eyes, blue footwear, thighhighs, short hair, dress, wand, star (symbol), magical girl, blue gloves, thigh boots, smile, cape, looking at viewer, standing, holding, antenna hair, holding wand, <lora:Card Captor Sakura Anime:0.8>
+
+1girl, kinomoto sakura, animal ears, one eye closed, cat ears, solo, tail, brown hair, bell, green eyescat tail, magical girl, dress, paw pose, short hair, smile, open mouth, 1990s (style), retro artstyle, ;d, jingle bell, wand, looking at viewer, pink dress, antenna hair,<lora:Card Captor Sakura Anime_XL:0.8>
+
+1girl, kinomoto sakura, solo,tomoeda elementary school uniform, green eyes, brown hair, skirt, school uniform, open mouth, hat, short sleeves, short hair, looking at viewer, smile, petals, puffy sleeves, black skirt, puffy short sleeves, antenna hair, white headwear, looking back, cherry blossoms, sailor collar, :d, white shirt, shirt, bangs, arms behind back,<lora:Card Captor Sakura Anime_XL:0.8>
+
+1girl, kinomoto sakura, dress, 1990s (style), blue dress, retro artstyle, puffy sleeves, green eyes, open mouth, solo, bow, holding, short sleeves, puffy short sleeves, brown hair, petals, fuuin no tsue, smile, short hair, apron, looking at viewer, frills, :d, blue bow, antenna hair, hair bow, white background, bangs, white bow, hairband, petticoat, frilled dress, white apron, simple background, magical girl, wand, frilled apron, cowboy shot, blue hairband, female child, holding wand, traditional media,<lora:Card Captor Sakura Anime_XL:0.8>
+
+kinomoto sakura, 1girl, japanese clothes, seiza, kimono, brown hair, floral print, flower, vase, long sleeves, obi, green eyes, sitting, sash, 1990s (style), indoors, bangs, antenna hair, short hair, smile, looking at viewer, kero, retro artstyle, hair intakes, hand fan, open mouth, potted plant, print kimono, plant, hair ornament, wide sleeves, full body, solo, head tilt, :d, orange kimono, two side up, zabuton, female child, ribbon, picture frame,<lora:Card Captor Sakura Anime_XL:0.8>
+
+roller skates, 1girl, kero, brown hair, kinomoto sakura, white skirt, inline skates, skates, tomoeda elementary school uniform, cherry blossoms, school uniform, skirt, green eyes, white headwear, bag, backpack, open mouth, hat, 1990s (style), petals, short hair, smile, retro artstyle, pleated skirt, hair bobbles, :d, knee pads, full body, bangs, looking at viewer, serafuku, antenna hair, female child, hair ornament, creature, black shirt, wings, long sleeves, neckerchief, sailor collar, outdoors, shirt, day, <lora:Card Captor Sakura Anime_XL:0.8>
+
+1girl, brown hair, kinomoto sakura, hat, gloves, dress, green eyes, white gloves, kero, wings, magical girl, bow, short hair, short sleeves, pink headwear, puffy sleeves, looking at viewer, puffy short sleeves, petals, smile, red bow, antenna hair, frills, solo focus, white wings,<lora:Card Captor Sakura Anime_XL:0.8>
+
+1girl, solo, swimsuit, one-piece swimsuit, brown hair, kinomoto sakura, school swimsuit, green eyes,gradient background, gradient, short hair, open mouth, smile, antenna hair, blue one-piece swimsuit, looking at viewer, standing, :d,<lora:Card Captor Sakura Anime_XL:0.8>
+
+1girl, kinomoto sakura, dress, 1990s (style), full body, solo, holding, retro artstyle, puffy sleeves, gloves, short sleeves, white gloves, puffy short sleeves, striped, short hair, flower, ribbon trim, antenna hair, smile, wand, two side up, shoes, holding wand, standing, green eyes, looking at viewer, green footwear, ribbon, choker, bow, brown hair, green dress, bangs, closed mouth, magical girl, green bow, short twintails, yellow background, hair ornament, green ribbon, frills, vertical stripes, green choker, socks, white flower, striped dress, vertical-striped dress, ribbon choker, twintails, white dress, ribbon-trimmed sleeves, hair bow, star (symbol),<lora:Card Captor Sakura Anime_XL:0.8>
+
+1girl, kinomoto sakura, brown hair, yellow gloves, solo, hat, green eyes, gloves, short hair, petals, magical girl, smile, blue headwear, cape, open mouth, shorts, cowboy shot, looking at viewer, staff,<lora:Card Captor Sakura Anime_XL:0.8>
+
+1girl, animal ears, cat ears, solo, black dress, dress, 1990s (style), green eyes, kinomoto sakura, black gloves, gloves, thighhighs, retro artstyle, holding, wand, short hair, looking at viewer, single thighhigh, blonde hair, white background, elbow gloves, antenna hair, fake animal ears, magical girl, black thighhighs, cowboy shot, hairband, ribbon, bangs, holding wand, wings, short dress, jewelry, brown hair, star (symbol), standing, :o, parted lips, earrings, simple background,<lora:Card Captor Sakura Anime_XL:0.8>
+
+1girl, roller skates, skates, kinomoto sakura, kero, one eye closed, brown hair, skirt, knee pads, school uniform, white headwear, green eyes, gloves, elbow pads, tomoeda elementary school uniform, hat, star (symbol), short hair, pleated skirt, fingerless gloves, inline skates, smile, short sleeves, full body, open mouth, serafuku, antenna hair, black skirt, shirt, white shirt, white sailor collar, sailor collar, pink gloves,<lora:Card Captor Sakura Anime_XL:0.8>
+
+1girl, kinomoto sakura, brown hair, solo, school uniform, skirt, green eyes, tomoeda elementary school uniform, short hair, hat, white skirt, white headwear, magical girl, antenna hair, smile, serafuku, pleated skirt, open mouth, looking at viewer, cowboy shot, long sleeves, star (symbol), neckerchief, sailor collar,<lora:Card Captor Sakura Anime_XL:0.8>
+
+1girl,kinomoto sakura,solo,tomoeda elementary school uniform,skirt,hat,green eyes,school uniform,holding,white headwear,petals,short sleeves,black skirt,pleated skirt,smile,antenna hair,puffy sleeves,brown hair,white shirt,shirt,puffy short sleeves,wand,1990s (style),looking at viewer,cowboy shot,closed mouth,short hair,cherry blossoms,serafuku,holding wand,white sailor collar,fuuin no tsue,retro artstyle,bangs,sailor collar,beret,neckerchief,magical girl,red necktie,<lora:Card Captor Sakura_XL:0.8>,
+
+1girl, kinomoto sakura, solo, candy, bow, red gloves, green eyes, food, animal ears, striped bow, gloves, smile, mouse ears, short hair, 1990s (style), striped, antenna hair, retro artstyle, dress, v,looking at viewer, candy cane, long sleeves, fake animal ears, bangs, head rest, closed mouth, red dress, bowtie, gift, ribbon, box, swirl lollipop, lollipop, brown hair, blonde hair, red bow, flower, gift box,<lora:Card Captor Sakura_XL:0.8>,
+
+1girl,kinomoto sakura,animal ears,one eye closed,cat ears,solo,tail,brown hair,bell,green eyescat tail,magical girl,dress,paw pose,short hair,smile,open mouth,1990s (style),retro artstyle,;d,jingle bell,wand,looking at viewer,pink dress,antenna hair,<lora:Card Captor Sakura_XL:0.8>,
+
+1girl, kinomoto sakura, dress, 1990s (style), blue dress, retro artstyle, puffy sleeves, green eyes, open mouth, solo, bow, holding, short sleeves, puffy short sleeves, brown hair, petals, fuuin no tsue, smile, short hair, apron, looking at viewer, frills, :d, blue bow, antenna hair, hair bow, white background, bangs, white bow, hairband, petticoat, frilled dress, white apron, simple background, magical girl, wand, frilled apron, cowboy shot, blue hairband, female child, holding wand, traditional media,<lora:Card Captor Sakura_XL:0.8>,
+
+daidouji tomoyo, multiple girls, animal ears, 2girls, cat ears, kinomoto sakura, long hair, 1990s (style), smile, wavy hair, wings, bangs, green eyes, heart, white background, dress, retro artstyle, short hair, blunt bangs, looking at viewer, open mouth, holding hands, fake animal ears, brown hair, black dress, simple background, shorts, hairband, :d, sleeveless, cowboy shot, antenna hair, purple eyes, purple hair, white wings, bare shoulders, leaning forward, sleeveless dress, black shorts, short dress, standing, blue hair,<lora:Card Captor Sakura_XL:0.8>,
+
+kinomoto sakura,1girl,brown hair,1990s (style),kero,smile,black hair,1boy,short hair,green eyes,:d,open mouth,chinese clothes,antenna hair,bangs,retro artstyle,long sleeves,wings,looking at viewer,petals,closed mouth,flower,dress,cherry blossoms,black eyes,<lora:Card Captor Sakura_XL:0.8>,
+
+1girl,kinomoto sakura,dress,1990s (style),full body,solo,holding,retro artstyle,puffy sleeves,short sleeves,gloves,white gloves,puffy short sleeves,antenna hair,striped,short hair,smile,wand,ribbon trim,standing,flower,holding wand,green eyes,shoes,two side up,looking at viewer,bow,green footwear,choker,brown hair,ribbon,bangs,green dress,green bow,closed mouth,magical girl,green choker,yellow background,short twintails,vertical stripes,green ribbon,frills,ribbon choker,hair ornament,striped dress,white flower,vertical-striped dress,socks,twintails,hair bow,white dress,star (symbol),ribbon-trimmed sleeves,<lora:Card Captor Sakura_XL:0.8>,
+
+black dress,hat,dress,ribbon,1girl,kinomoto sakura,wings,gloves,red gloves,tail,brown hair,green eyes,witch hat,sleeveless dress,red ribbon,demon tail,kero,black footwear,short hair,cloud,1990s (style),moon,sleeveless,shoes,black headwear,looking at viewer,full body,retro artstyle,bangs,crescent moon,leg ribbon,neck ribbon,antenna hair,crescent,tail ornament,smile,star (symbol),bare shoulders,closed mouth,sky,bow,demon wings,solo focus,<lora:Card Captor Sakura_XL:0.8>,
+
+1girl,kinomoto sakura,1990s (style),solo,white skirt,green eyes,white gloves,smile,star (symbol),open mouth,gloves,retro artstyle,holding,blue headwear,brown hair,petals,short hair,:d,skirt,hat,cowboy shot,white background,long sleeves,looking at viewer,magical girl,antenna hair,pleated skirt,bangs,wand,simple background,holding wand,jacket,blue jacket,cape,standing,blue cape,<lora:Card Captor Sakura_XL:0.8>,
+
+1girl,solo,kinomoto sakura,green eyes,hat,gloves,dress,white background,striped,white gloves,short hair,simple background,looking at viewer,long sleeves,puffy sleeves,antenna hair,apron,brown hair,blue dress,finger to mouth,1990s (style),juliet sleeves,index finger raised,retro artstyle,vertical stripes,:o,striped dress,blue headwear,bangs,<lora:Card Captor Sakura_XL:0.8>,
+
+1girl,kinomoto sakura,dress,pink headwear,hat,holding,gloves,open mouth,smile,green eyes,brown hair,short sleeves,magical girl,petals,fuuin no tsue,solo,white gloves,pink dress,short hair,bow,wings,white background,puffy sleeves,looking at viewer,puffy short sleeves,:d,frills,frilled dress,wand,simple background,1990s (style),bangs,pink footwear,thighhighs,antenna hair,pink bow,retro artstyle,petticoat,cherry blossoms,shoes,white wings,holding wand,leg up,<lora:Card Captor Sakura_XL:0.8>,
+
+1girl, kinomoto sakura, 1990s (style), green eyes, hat, retro artstyle, gloves, smile, brown hair, fuuin no tsue, short hair, cowboy shot, magical girl, open mouth, holding, green gloves, shorts, :d, wand, green shorts, solo, green headwear, white background, antenna hair, holding wand, wings, bangs, kero, cape, looking at viewer, hand on headwear, arm up, sleeveless, petals, simple background,<lora:Card Captor Sakura_XL:0.8>,
+
+1girl,kinomoto sakura,mini crown,dress,solo,gloves,1990s (style),green eyes,retro artstyle,brown hair,smile,open mouth,short hair,choker,puffy sleeves,petals,white background,striped,magical girl,antenna hair,looking at viewer,yellow gloves,short sleeves,:d,puffy short sleeves,yellow dress,simple background,bangs,vertical stripes,ribbon,bow,cape,star (symbol),cowboy shot,white dress,<lora:Card Captor Sakura_XL:0.8>,
+
+kinomoto sakura,1girl,japanese clothes,seiza,kimono,brown hair,floral print,flower,vase,long sleeves,obi,green eyes,sitting,sash,1990s (style),indoors,bangs,antenna hair,short hair,smile,looking at viewer,retro artstyle,hair intakes,open mouth,potted plant,print kimono,plant,hair ornament,wide sleeves,full body,solo,head tilt,:d,orange kimono,two side up,zabuton,ribbon,picture frame,<lora:Card Captor Sakura_XL:0.8>,
+
+1girl,kinomoto sakura,solo,tomoeda elementary school uniform,green eyes,brown hair,skirt,school uniform,open mouth,hat,short sleeves,short hair,looking at viewer,smile,petals,puffy sleeves,black skirt,puffy short sleeves,antenna hair,white headwear,looking back,cherry blossoms,sailor collar,:d,white shirt,shirt,bangs,arms behind back,traditional media,<lora:Card Captor Sakura_XL:0.8>,
+
+(Photo:1.3), highdetail, <lora:Cardcaptor_Sakura:0.8>, Cardcaptor_Sakura, smile,, (masterpiece, best quality, detailed:1.3)
+
+best quality, masterpiece, extremely detailed, detailed background, 1girl, solo, green eyes, flower, short hair, parted lips, looking at viewer, holding, bangs, blonde hair, blue background, upper body, pink flower, cherry blossoms, kinomoto sakura, hair ornament, ourdoors, scenery,<lora:clamp128dim-epoch-000006:1>
+
+best quality, masterpiece, extremely detailed, detailed background, 1girl, brown hair, animal ears, long hair, solo, stuffed toy, bear ears, brown eyes, stuffed animal, teddy bear, indoors, bedroom, scenery, close up, solo focus, frills, skirt,<lora:clamp128dim-epoch-000006:1>
+
+best quality, masterpiece, extremely detailed, detailed background, 1girl, solo, green eyes, kinomoto sakura, hat, pink headwear, long sleeves, looking at viewer, smile, short hair, traditional media, white sweater, cherry, fruit, bangs, closed mouth, sweater, leaf, upper body, beret, food, sleeves past wrists, head tilt, brown hair, frills, antenna hair, frilled sleeves, marker (medium), berry, scenery, close up, solo focus, frills, skirt,<lora:clamp128dim-epoch-000006:1>
+
+best quality, masterpiece, extremely detailed, detailed background, 1girl, flower, kinomoto sakura, dress, hat, striped dress, blue dress, cloud, ribbon, blue ribbon, open mouth, smile, short hair, cross-laced footwear, white headwear, retro artstyle, petals, :d, striped, vertical stripes, green eyes, basket, full body, kero, bangs, vertical-striped dress, blue footwear, sky, brown hair, standing, yellow flower, boots, neck ribbon, purple flower, leg up, antenna hair, holding, short dress, pink flower, frills, looking at viewer, daisy, blue sky, cloudy sky, happy, cat, shoes, striped skirt, holding basket, hat ribbon, blue flower, lace-up boots, outdoors, suspenders,<lora:clamp128dim-epoch-000006:1>
+
+best quality, masterpiece, extremely detailed, detailed background, 1girl, dress, solo, green eyes, short hair, holding, kinomoto sakura, smile, looking at viewer, star (symbol), green dress, drinking straw, hairband, ribbon, bangs, short sleeves, brown hair, hair ribbon, cup, blue dress, frilled dress, holding cup, frills, closed mouth, fruit, black hairband, <lora:clamp128dim-epoch-000006:1>
+
+best quality, masterpiece, extremely detailed, detailed background, 1girl, solo, green eyes, japanese clothes, kimono, kinomoto sakura, cherry blossoms, blonde hair, floral print, parted lips, flower, short hair, hair ornament, upper body, white kimono, bangs, petals, hair flower, pink flower, print kimono, obi, sash, tassel, antenna hair, looking at viewer,<lora:clamp128dim-epoch-000006:1>
+
+best quality, masterpiece, extremely detailed, detailed background, 1girl, solo, green eyes, japanese clothes, kimono, kinomoto sakura, cherry blossoms, blonde hair, floral print, parted lips, flower, short hair, hair ornament, upper body, white kimono, bangs, petals, hair flower, pink flower, print kimono, obi, sash, tassel, antenna hair, looking at viewer,<lora:clamp128dim-epoch-000006:1>
+
+best quality, masterpiece, extremely detailed, detailed background, 1girl, solo, green eyes, japanese clothes, kimono, kinomoto sakura, cherry blossoms, blonde hair, floral print, parted lips, flower, short hair, hair ornament, upper body, white kimono, bangs, petals, hair flower, pink flower, print kimono, obi, sash, tassel, antenna hair, looking at viewer,<lora:clamp128dim-epoch-000006:1>
+
+masterpiece, best quality, highres, kinomoto sakura, 1girl, brown hair, short hair, antenna hair, red headwear, green eyes, frills, red dress, puffy short sleeves, white gloves, red bow, white thighhighs, wings, <lora:kinomoto_sakura_v1:0.7>, fly, sky, holding staff, wand, fuuin no tsue, open mouth, bound, petals, cowboy shot
+
+masterpiece, best quality, highres, kinomoto sakura, 1girl, brown hair, short hair, antenna hair, two side up, hair bobbles, green eyes, school uniform, white sailor collar, black shirt, long sleeves, white skirt, pleated skirt, <lora:kinomoto_sakura_v1:0.7>, cowboy shot, standing, cherry blossoms, outdoors, smile
+
+masterpiece, best quality, highres, kinomoto sakura, 1girl, brown hair, short hair, antenna hair, red headwear, green eyes, frills, red dress, puffy short sleeves, white gloves, red bow, white thighhighs, wings, <lora:kinomoto_sakura_v1:0.7>, cowboy shot, standing, outdoors, field,
+
+masterpiece, best quality, highres, kinomoto sakura, 1girl, brown hair, short hair, antenna hair, pink headwear, green eyes, capelet, pink dress, striped ribbon, long sleeves, white gloves, <lora:kinomoto_sakura_v1:0.7>, reaching out, smile, open mouth, garden, flower, sunset
+
+masterpiece, best quality, highres, kinomoto sakura, 1girl, brown hair, short hair, antenna hair, ahoge, crown, green eyes, white dress, sleeveless, white gloves,<lora:kinomoto_sakura_v1:0.7>, water, wet, wariza, kero,
+
+masterpiece, best quality, highres, kinomoto sakura, 1girl, brown hair, short hair, antenna hair, white headwear, green eyes, school uniform, white sailor collar, black shirt, long sleeves, white skirt, pleated skirt, <lora:kinomoto_sakura_v1:0.7>, waving, smile, open mouth, standing, cowboy shot, outdoors,
+
+masterpiece, best quality, highres, kinomoto sakura, 1girl, brown hair, short hair, antenna hair, red headwear, green eyes, frills, red dress, puffy short sleeves, white gloves, red bow, white thighhighs, wings, <lora:kinomoto_sakura_v1:0.7>, field, :o, wariza, grass, kero
+
+masterpiece, best quality, highres, kinomoto sakura, 1girl, brown hair, short hair, antenna hair, pink headwear, green eyes, capelet, pink dress, striped ribbon, long sleeves, white gloves, <lora:kinomoto_sakura_v1:0.7>, outdoors, garden, sitting, table, smile
+
+masterpiece, best quality, highres, kinomoto sakura, 1girl, brown hair, short hair, antenna hair, ahoge, crown, green eyes, white dress, sleeveless, white gloves,<lora:kinomoto_sakura_v1:0.7>, holding staff, smile, open mouth, cowboy shot, blue sky,
+
+masterpiece, best quality, highres, kinomoto sakura, 1girl, brown hair, short hair, antenna hair, two side up, hair bobbles, green eyes, school uniform, white sailor collar, black shirt, long sleeves, white skirt, pleated skirt, <lora:kinomoto_sakura_v1:0.7>, sitting, eating, outdoors, bench, food, leaf,
+
+masterpiece, best quality, highres, kinomoto sakura, 1girl, brown hair, short hair, antenna hair, pink headwear, green eyes, capelet, pink dress, striped ribbon, long sleeves, white gloves, <lora:kinomoto_sakura_v1:0.7>, standing, cowboy shot, smile, garden, petals,
+
+masterpiece, best quality, highres, kinomoto sakura, 1girl, brown hair, short hair, antenna hair, ahoge, crown, green eyes, white dress, sleeveless, white gloves,<lora:kinomoto_sakura_v1:0.7>, cowboy shot, blue sky,
+
+(masterpiece:1.2), best quality, ultra high resolution, unity 8k wallpaper, (illustration:1.0), (beautiful detailed eyes:1.6), extremely detailed face, perfect lighting, extremely detailed CG, (perfect hands,perfect anatomy), (dynamic angle and pose:1.3), nice angle, (1girl, solo:1.5), 
+kinomoto sakura, green eyes, brown hair, short hair, antenna hair, fake animal ears, animal ears, cat ears, tail, cat tail, dress, black dress, long sleeves, pink dress, apron, pink apron, bell, open mouth, pantyhose, black pantyhose, jingle bell, boots, pink footwear, kero, 
+smile, paw pose, open mouth, (palm tree:1.3), (ocean:1.3), (outdoors:1.2), (sky:1.2), (beach:1.4), (walking:1.3),(medium full shot:1.4),(raising one hand:1.4),
+
+
+
+#### 大道世知世
+
+1girl, solo, cherry blossoms, meiji schoolgirl uniform, hakama, long hair, japanese clothes, skirt,  hakama skirt, 1990s (style), purple hair, petals, yagasuri, purple eyes, bangs, hair bow, retro artstyle, bow, daidouji tomoyo, smile, kimono, long sleeves, red hakama, red bow, wavy hair, wide sleeves, looking at viewer, blunt bangs, flower, traditional media,cowboy shot,   <lora:Card Captor Sakura Anime:0.8>
+
+1girl, daidouji tomoyo, skirt, school uniform, white skirt, solo, long hair, pleated skirt, smile, bangs, hairband, tomoeda elementary school uniform, holding, open mouth, long sleeves, cloud, blunt bangs, 1990s (style), day, leaf, retro artstyle, :d, sky, holding book, outdoors, book, white sailor collar, black shirt, shirt, standing, sailor collar, serafuku, blue sky, cowboy shot, blue eyes, looking at viewer, bag, black hairband, purple eyes,   <lora:Card Captor Sakura Anime:0.8>
+
+1girl, daidouji tomoyo, skirt, school uniform, white skirt, solo, long hair, purple hair, pleated skirt, smile, bangs, hairband, tomoeda elementary school uniform, holding, open mouth, long sleeves, cloud, blunt bangs, 1990s (style), day, leaf, retro artstyle, :d, sky, holding book, outdoors, book, white sailor collar, black shirt, shirt, standing, sailor collar, serafuku, blue sky, cowboy shot, blue eyes, looking at viewer, bag, black hairband, purple eyes,<lora:Card Captor Sakura Anime_XL:0.8>
+
+1girl, solo, cherry blossoms, meiji schoolgirl uniform, hakama, long hair, japanese clothes, skirt, hakama skirt, 1990s (style), purple hair, petals, yagasuri, purple eyes, bangs, hair bow, retro artstyle, bow, daidouji tomoyo, smile, kimono, long sleeves, red hakama, red bow, wavy hair, wide sleeves, looking at viewer, blunt bangs, flower, traditional media,cowboy shot,<lora:Card Captor Sakura Anime_XL:0.8>
+
+1girl, solo, cherry blossoms, meiji schoolgirl uniform, hakama, long hair, japanese clothes, skirt, hakama skirt, 1990s (style), purple hair, petals, yagasuri, purple eyes, bangs, hair bow, retro artstyle, bow, daidouji tomoyo, smile, kimono, long sleeves, red hakama, red bow, wavy hair, wide sleeves, looking at viewer, blunt bangs, flower, traditional media,cowboy shot, <lora:Card Captor Sakura Anime_XL:0.6>, <lora:Urushihara Satoshi_XL:0.7>
+
+1girl,solo,cherry blossoms,meiji schoolgirl uniform,hakama,long hair,japanese clothes,skirt,hakama skirt,1990s (style),purple hair,petals,yagasuri,purple eyes,bangs,hair bow,retro artstyle,bow,daidouji tomoyo,smile,kimono,long sleeves,red hakama,red bow,wavy hair,wide sleeves,looking at viewer,blunt bangs,flower,traditional media,cowboy shot,<lora:Card Captor Sakura_XL:0.8>,
+
+best quality, masterpiece, extremely detailed, detailed background, 1girl, dress, flower, solo, long hair, day, sky, blue hair, smile, long sleeves, yellow flower, cloud, bangs, outdoors, holding, bonnet, looking at viewer, field, purple eyes, blue sky, pink dress, flower field, blunt bangs, holding flower, looking back, arm up, blue eyes, white dress, frills, wavy hair,<lora:clamp128dim-epoch-000006:1>
+
+best quality, masterpiece, extremely detailed, detailed background, 1girl, japanese clothes, solo, long hair, miko, hand fan, hakama, wide sleeves, hakama skirt, red hakama, holding, kimono, purple hair, ribbon, skirt, long sleeves, red ribbon, petals, looking at viewer, purple eyes, ribbon trim, hairband, tassel, holding fan, folding fan, smile, ribbon-trimmed sleeves, bangs, white kimono, traditional media, hair ribbon, egasumi, floating hair, from side, blue hair, bell,<lora:clamp128dim-epoch-000006:1>
+
+masterpiece, best quality, <lora:TomoyoDaidoji-128:1>,tomoyo,hat,smile,cowboy shot, (clamp:1.5),
+
+
+
+#### 李小狼
+
+1boy, solo, Li Syaoran, brown hair,  hat, short hair,holding, blue background, full body, green footwear,   <lora:Card Captor Sakura Anime:0.8>
+
+1boy, Li Syaoran, solo, brown hair, school uniform, brown eyes, tomoeda elementary school uniform, hat, simple background, white background, sailor hat, looking at viewer, long sleeves, white headwear, retro artstyle, 1990s (style),<lora:Card Captor Sakura Anime_XL:0.8>
+
+Li Syaoran, solo, green eyes, brown hair, shorts, male focus, hat, 1boy, full body, socks, white socks, black shorts, standing, chinese clothes, green headwear, long sleeves, hands in pockets, looking at viewer, green footwear, closed mouth, shoes, short hair, shirt, white shirt, bangs,<lora:Card Captor Sakura Anime_XL:0.8>
+
+Li Syaoran,1990s (style),star (symbol),retro artstyle,hat,1boy,long sleeves,looking at viewer,male child,solo,wide sleeves,male focus,brown hair,green headwear,standing,brown eyes,yin yang,bangs,short hair,sword,closed mouth,starry background,tassel,star (sky),weapon,hands in opposite sleeves,cowboy shot,sky,crossed arms,<lora:Card Captor Sakura_XL:0.8>,
+
+Li Syaoran,solo,pocket,in tree,breast pocket,male focus,pants,1boy,sitting,long sleeves,tree,holding,shirt,sitting in tree,white footwear,white pants,branch,white shirt,closed mouth,collared shirt,full body,bangs,brown eyes,outdoors,leaf,flower,1990s (style),retro artstyle,shoes,autumn leaves,holding flower,brown hair,looking at viewer,short hair,autumn,blonde hair,light particles,smile,<lora:Card Captor Sakura_XL:0.8>,
+
+best quality, masterpiece, extremely detailed, detailed background, 1boy, male focus, staff, solo, purple eyes, looking at viewer, gears, sitting, blue hair, robe, long hair, moon, hood, wide sleeves, black hair, jewelry, long sleeves, white robe,<lora:clamp128dim-epoch-000006:1>
+
+best quality, masterpiece, extremely detailed, detailed background, 1boy, male focus, black hair, solo, purple eyes, hat, looking back, looking at viewer, fire,<lora:clamp128dim-epoch-000006:1>
+
+
+
+#### 李莓鈴
+
+1girl, Li Meiling, solo, double bun, hair bun, black hair, long hair, brown eyes,  smile,  hair ribbon, open mouth, long sleeves, blush, chinese clothes,  bangs, twintails,  simple background, <lora:Card Captor Sakura Anime:0.8>
+
+1girl, Li Meiling, solo, double bun, hair bun, black hair, long hair, brown eyes, smile, hair ribbon, open mouth, long sleeves, blush, chinese clothes, bangs, twintails, simple background,<lora:Card Captor Sakura Anime_XL:0.8>
+
+masterpiece, best quality, <lora:meiling_scc:0.7> meiling_scc, 1girl, solo, long hair, black hair, looking at viewer, smile, open mouth, bangs, red eyes, twintails, hair ribbon, double bun, red dress, white dress,  chinese clothes, long sleeves, wide sleeves, jingle bell, anime coloring,
+
+masterpiece, best quality, <lora:meiling_scc:0.7> meiling_scc, 1girl, solo, long hair, black hair, looking at viewer, smile, open mouth, bangs, red eyes, twintails, hair ribbon, double bun, red dress, white dress,  chinese clothes, long sleeves, wide sleeves, jingle bell
+
+<lora:meiling_scc:0.7> masterpiece, best quality, solo, 1girl, one eye closed, school uniform, simple background, skirt, hair bun, black hair, serafuku, twintails, double bun, long hair, open mouth, hand on hip, red eyes, pleated skirt, white sailor collar, white skirt, bangs,, tomoeda elementary school uniform, looking at viewer
+
+
+
+#### 基路仔
+
+kero, solo, smile,  no humans, happy, tail, wings, <lora:Card Captor Sakura Anime:0.8>
+
+kero, solo, smile, no humans, happy, tail, wings,<lora:Card Captor Sakura Anime_XL:0.8>
+
+
+
+#### 雪兔
+
+1boy,male focus,solo,feathers,glasses,stuffed toy,pillow,smile,white feathers,long sleeves,stuffed animal,green eyes,stuffed bunny,holding,looking at viewer,grey hair,lying,traditional media,closed mouth,pajamas,yellow background,bangs,upper body,under covers,short hair,<lora:Card Captor Sakura_XL:0.8>,
+
+1boy,solo,male focus,food,glasses,bag,smile,bread,shirt,grocery bag,white shirt,looking at viewer,open mouth,holding,outdoors,brown eyes,grey hair,paper bag,shopping bag,:d,fruit,short sleeves,from side,pants,baguette,day,sunlight,leaf,traditional media,<lora:Card Captor Sakura_XL:0.8>,
+
+
+
+
+
+#### 
+
+
+
 
 
