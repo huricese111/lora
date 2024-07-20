@@ -12,7 +12,7 @@ Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 883266159, Size: 576x10
 
 ## Parameter
 
-#### 波特卡斯·D·艾斯 (Portgas D. Ace)
+### 波特卡斯·D·艾斯 (Portgas D. Ace)
 
 ace, cowboy shot, solo, 1boy, black hair, hat, jewelry, belt, necklace, grin, tattoo, scar, abs, fire, pectorals, sheath, freckles, (topless male:1.2), sheathed, pyrokinesis, <lora:Ace:0.7>
 
@@ -46,7 +46,7 @@ ace, cowboy shot, solo, 1boy, black hair, hat, jewelry, belt, necklace, tattoo, 
 
 
 
-#### 山治 (Sanji)
+### 山治 (Sanji)
 
 sanjiop, handsome man in front of (clean plain yellow background:1), one model, studio portrait, medium close-up, detailed skin, pores, goosebumps, scaled skin, sony alpha, advertising photography, bright high-key lighting, professional headshot, smirk, black blazer, tie <lora:OnePiece_Sanji_V1-08:0.9
 
@@ -66,9 +66,13 @@ portrait of handsome man sanjiop, natural skin texture, 24mm, 4k textures, soft 
 
 
 
-#### Smoker 
+### Smoker 
 
 (masterpiece, best quality:1.2), <lora:onepiece_smoker-10:1.0>, cowboy shot, solo, male focus, 1boy, smoker \(one piece\), mature male, muscular male, looking at viewer, crossed arms, smoking, cigar, sunglasses, jacket, epaulettes, pants
+
+
+
+
 
 #### Roronoa Zoro
 
