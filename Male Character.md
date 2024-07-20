@@ -14,7 +14,7 @@
 
 ### One Piece
 
-#### Ace
+#### 波特卡斯·D·艾斯 (Portgas D. Ace)
 
 ace, cowboy shot, solo, 1boy, black hair, hat, jewelry, belt, necklace, grin, tattoo, scar, abs, fire, pectorals, sheath, freckles, (topless male:1.2), sheathed, pyrokinesis, <lora:Ace:0.7>
 
