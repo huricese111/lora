@@ -38,13 +38,13 @@ anime artwork Cinematic scene, hero view, Dark Magician Girl, Yu-Gi-Oh! <lora:da
 
 
 
-### Dark Magician Girl the Dragon Knight 
+#### Dark Magician Girl the Dragon Knight 
 
 <lora:DMGDragKn1ght-10:1>,DMGDragKn1ght,1girl,solo,long hair,blue eyes,pink skirt,blonde hair,medium breasts,thighhighs,fingerless gloves,navel,hair between eyes,midriff,light blue armor,helmet,shoulder armor,gauntlets,pauldrons,breastplate
 
 
 
-### Harpie's Pet Dragon
+#### Harpie's Pet Dragon
 
 Harpie's pet dragon, vivid, colorful, detailed background, masterpiece, best quality, high quality, absurdres,<lora:harpies_pet_dragon_xl_v1:1> 
 
@@ -130,6 +130,18 @@ vennominaga, looking at viewer, smile, large breasts, navel, cleavage, jewelry, 
 vennominaga, looking at viewer, from below, large breasts, navel, jewelry, fangs, slit pupils, colored sclera, snake, blue skin, scales, forehead jewel, lamia, forked tongue, snake hair, <lora:Vennominaga-10:1>,
 
 
+
+#### Mystical Elf (YGO)
+
+mysticalygo, open mouth, bare shoulders, closed eyes, sky, cloud, own hands together, own hands clasped, duel monster, praying, <lora:Mystical_Elf-10:1>,
+
+mysticalygo, looking at viewer, smile, bare shoulders, green eyes, collarbone, upper body, tree, nature, forest, duel monster, <lora:Mystical_Elf-10:1>,
+
+mysticalygo, bare shoulders, closed eyes, own hands together, own hands clasped, duel monster, praying, indoors, bed, bedroom, seiza, from above, <lora:Mystical_Elf-10:1>,
+
+mysticalygo, large breasts, closed eyes, blue skin, dress, cleavage, bare shoulders, barefoot, bridal gauntlets, side slit, green dress, against wall, <lora:Mystical_Elf-10:1>,
+
+mysticalygo, large breasts, closed eyes, dress, cleavage, bare shoulders, barefoot, bridal gauntlets, side slit, green dress, against wall, <lora:Mystical_Elf-10:1>,
 
 
 
