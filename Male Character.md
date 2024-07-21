@@ -12,6 +12,16 @@
 
 #### airfucksBruteMix_v10
 
+
+
+## How to fix the hands?
+
+#### Tool: Photoshop
+
+Parameters: a perfect detailes male hand, short clear nails
+
+
+
 ### One Piece
 
 #### 波特卡斯·D·艾斯 (Portgas D. Ace)

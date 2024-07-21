@@ -22,6 +22,18 @@
 
 Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 883266159, Size: 576x1024, Model hash: eae1e5e50d, Model: Male_ManlyAlpha - v1.0, Clip skip: 2, Lora hashes: "Ace: 93eae4b3b71b", Version: f0.0.17v1.8.0rc-latest-278-gbfee03d8
 
+
+
+## How to fix the hands?
+
+#### Tool: Photoshop
+
+Parameters:
+
+ a perfect male hand, short clear nails
+
+
+
 ## Parameter
 
 ### 波特卡斯·D·艾斯 (Portgas D. Ace)

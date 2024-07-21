@@ -347,11 +347,160 @@ kero, solo, smile, no humans, happy, tail, wings,<lora:Card Captor Sakura Anime_
 
 
 
+### Sailor Moon 
+
+#### Sailor Mercury
+
+masterpiece, best quality, highres, mer1, tiara, sailor senshi uniform, blue sailor collar, bow, knee boots, choker, white gloves, blue choker, elbow gloves, jewelry, earrings, blue skirt, <lora:mercury_v2:0.7>, cowboy shot, 1990s \(style\), outdoors,
+
+masterpiece, best quality, highres, mer1, tiara, sailor senshi uniform, blue skirt, blue sailor collar, tiara, bow, knee boots, choker, white gloves, blue choker, elbow gloves, jewelry, earrings, pleated skirt, <lora:mercury_v2:0.7>, cowboy shot, outdoors
+
+masterpiece, best quality, highres, mer1, tiara, sailor senshi uniform, blue sailor collar, bow, knee boots, choker, white gloves, blue choker, elbow gloves, jewelry, earrings, blue skirt, <lora:mercury_v2:0.7>, cowboy shot, 1990s \(style\), outdoors, hand on hip, smile, indoors,
+
+masterpiece, best quality, highres, mer1, tiara, sailor senshi uniform, blue sailor collar, bow, knee boots, choker, white gloves, blue choker, elbow gloves, jewelry, earrings, blue skirt, <lora:mercury_v2:0.7>, cowboy shot, 1990s \(style\), sitting, bench
+
+masterpiece, best quality, highres, mer1, tiara, sailor senshi uniform, blue skirt, blue sailor collar, tiara, bow, knee boots, choker, white gloves, blue choker, elbow gloves, jewelry, earrings, pleated skirt, <lora:mercury_v2:0.7>, cowboy shot, hand on hip, city
+
+masterpiece, best quality, highres, mer1, tiara, sailor senshi uniform, blue sailor collar, bow, knee boots, choker, white gloves, blue choker, elbow gloves, jewelry, earrings, blue skirt, <lora:mercury_v2:0.7>, cowboy shot, 1990s \(style\), outdoors, lifted by self, white leotard,
+
+masterpiece, best quality, highres, mer1, tiara, sailor senshi uniform, blue skirt, blue sailor collar, tiara, bow, knee boots, choker, white gloves, blue choker, elbow gloves, jewelry, earrings, pleated skirt, <lora:mercury_v2:0.7>, cowboy shot, standing, (lifted by self:1.2), white leotard, outdoors frown
+
+masterpiece, best quality, highres, mer1, tiara, sailor senshi uniform, blue sailor collar, bow, knee boots, choker, white gloves, blue choker, elbow gloves, jewelry, earrings, blue skirt, <lora:mercury_v2:0.7>, cowboy shot, standing, space_background, 1990s \(style\),
+
+masterpiece, best quality, highres, mer1, tiara, sailor senshi uniform, blue sailor collar, bow, knee boots, choker, white gloves, blue choker, elbow gloves, jewelry, earrings, <lora:mercury_v2:0.7>, white leotard, cowboy shot, standing, outdoors, crossed arms,
+
+masterpiece, best quality, highres, mer1, tiara, sailor senshi uniform, blue sailor collar, bow, knee boots, choker, white gloves, blue choker, elbow gloves, jewelry, earrings, <lora:mercury_v2:0.7>, underboob, navel, cowboy shot, embarrassed, outdoors, white thong, 1990s \(style\),
+
+masterpiece, best quality, highres, mer1, tiara, sailor senshi uniform, blue sailor collar, bow, knee boots, choker, white gloves, blue choker, elbow gloves, jewelry, earrings, blue skirt, <lora:mercury_v2:0.7>, underboob, navel, cowboy shot, embarrassed, outdoors,
 
 
-#### 
+
+#### Sailor Mars
+
+(solo, 1girl), (absurdres, highres, official wallpaper, poster), (masterpiece, best quality:1.2), (illustration, realistic), (perfect details, highest detailed, extreme detailed), dramatic light, <lora:Reihino:0.9>, ReiHino, (sailor mars, neck ribbon, long hair, circlet, jewelry, crescent earrings), (skirt, red dress, high heels), (standing), (full moon, forest, fire)
+
+(solo, 1girl), (absurdres, highres, official wallpaper, poster), (masterpiece, best quality:1.2), (illustration, realistic), (perfect details, highest detailed, extreme detailed), dramatic light, <lora:Reihino:0.9>, ReiHino, (sailor mars, neck ribbon, long hair, circlet, jewelry, crescent earrings), (city, starry sky), ((print lingerie), (print bra), (print panties), garter belt, thighhighs),  (restrained, tpit, tentacles, tentacle pit:1.3), (angry, tears, embarrassed, blush), <lora:poseV3_3:0.1>
+
+(solo, 1girl), (absurdres, highres, official wallpaper, poster), (masterpiece, best quality:1.2), (illustration, realistic), (perfect details, highest detailed, extreme detailed), dramatic light, <lora:Reihino:0.9>, ReiHino, (sailor mars, neck ribbon, long hair, circlet, jewelry, crescent earrings), (city, starry sky), ((print lingerie), (print bra), (print panties), garter belt, thighhighs),  (sitting, spread legs, hands on own knees), (blush) (shrine, night, full moon, east asian architecture)
 
 
+
+#### Sailor Venus
+
+(solo, 1girl), (absurdres, highres, official wallpaper, poster), (masterpiece, best quality:1.2), (illustration, realistic), (perfect details, highest detailed, extreme detailed), dramatic light, <lora:MinakoAino:0.9>, MinakoAino, (sailor Venus ,hair bow, elbow gloves, neck ribbon, bangs, long hair, circlet, jewelry, flower earrings), (London, elizabeth tower, street, bridge, river, sunlight,standing)
+
+(solo, 1girl), (absurdres, highres, official wallpaper, poster), (masterpiece, best quality:1.2), (illustration, realistic), (perfect details, highest detailed, extreme detailed), dramatic light, <lora:MinakoAino:0.9>, MinakoAino, (sailor Venus ,hair bow, elbow gloves, neck ribbon, bangs, long hair, circlet, jewelry, flower earrings), (London, elizabeth tower, street, bridge, river, sunlight, standing, hands on hips)
+
+(solo, 1girl), (absurdres, highres, official wallpaper, poster), (masterpiece, best quality:1.2), (illustration, realistic), (perfect details, highest detailed, extreme detailed), dramatic light, <lora:MinakoAino:0.9>, MinakoAino, (sailor Venus ,hair bow, elbow gloves, neck ribbon, bangs, long hair, circlet, jewelry, flower earrings), (london, elizabeth tower, street, english flag, city, union jack, people), ((print lingerie), (print bra), (print panties), white thighhighs), (walking,  seductive smile)
+
+(solo, 1girl), (absurdres, highres, official wallpaper, poster), (masterpiece, best quality:1.2), (illustration, realistic), (perfect details, highest detailed, extreme detailed), dramatic light, <lora:MinakoAino:0.9>, MinakoAino, (sailor Venus ,hair bow, elbow gloves, neck ribbon, bangs, long hair, circlet, jewelry, flower earrings), (galaxy, space, starry sky), ((print lingerie), (print bra), (print panties), white thighhighs, seductive smile, ahagao), (restrained, cum, tpit, tentacles, tentacle pit:1.3) <lora:poseV3_3:0.1>
+
+
+
+#### Sailor Uranus
+
+(solo, 1girl), (absurdres, highres, official wallpaper, poster), (masterpiece, best quality:1.2), (illustration, realistic), (perfect details, highest detailed, extreme detailed), dramatic light, <lora:HarukaTenou:0.9>, HarukaTenou, (sailor uranus ,hair bow, elbow gloves, neck ribbon, bangs, short hair, circlet, jewelry), (dress, skirt), (street, people, city, standing, blush, heart-shaped pupils, seductive smile, high heels),
+
+(solo, 1girl), (absurdres, highres, official wallpaper, poster), (masterpiece, best quality:1.2), (illustration, realistic), (perfect details, highest detailed, extreme detailed), dramatic light, <lora:HarukaTenou:0.9>, HarukaTenou, (sailor uranus ,hair bow, elbow gloves, neck ribbon, bangs, short hair, circlet, jewelry), (street, people, city, sitting, blush, heart-shaped pupils, seductive smile, high heels),
+
+(solo, 1girl), (absurdres, highres, official wallpaper, poster), (masterpiece, best quality:1.2), (illustration, realistic), (perfect details, highest detailed, extreme detailed), dramatic light, <lora:HarukaTenou:0.9>, HarukaTenou, (sailor uranus ,hair bow, elbow gloves, neck ribbon, bangs, short hair, circlet, jewelry), ((side-up lingerie), (print bra), (print panties)), (space, uranus \(planet\), standing, seductive smile)
+
+(best quality:1.1), (masterpiece:1.4), (absurdres:1.0), portrait, close-up,
+1girl, sailor uranus, KizukiAi, mature woman, small breasts, aqua eyes, blonde hair, sailor senshi uniform, sailor collar, chest bow, back bow, plead skirt, white elbow gloves, city, street, alley, (blush:1.2), looking at viewer, (smile:1.2),
+ <lora:Kizuki - Sailor Moon - Sailor Uranus:0.85>
+
+
+
+#### Sailor Neptune
+
+(best quality:1.1), (masterpiece:1.4), (absurdres:1.0), portrait, close-up,
+1girl, sailor neptune, (mature woman:1.3), small breasts, aqua eyes, dark green hair, medium hair, sailor senshi uniform, plead skirt, looking at viewer, alley, (blush:1.2), smile, aged up, hand on chest,<lora:Kizuki - Sailor Moon - Sailor Neptune:0.95>
+
+(best quality:1.1), (masterpiece:1.4), (absurdres:1.0), bent over,  from behind,
+1girl, sailor neptune, mature woman, aged up, small breasts, aqua eyes, dark green hair, medium hair, (sailor senshi uniform:1.1), (back bow:0.75), white elbow gloves, plead skirt, looking at viewer, alley, (blush:1.2), smirk, ass, (anus:1.25), 
+<lora:Kizuki - Sailor Moon - Sailor Neptune:0.85>
+
+(anime:1.4), best quality, masterpiece, portrait, close-up,
+1girl, sailor neptune, mature woman, aged up, small breasts, aqua eyes, dark green hair, medium hair, (sailor senshi uniform:1.2), back bow, white elbow gloves, plead skirt, looking at viewer, alley, (blush:1.2), smile,<lora:Kizuki - Sailor Moon - Sailor Neptune:1>
+
+best quality, masterpiece, upper body, standing, solo focus,
+1girl, kaiou michiru, sailor neptune, mature woman, aged up, small breasts, aqua eyes, dark green hair, medium hair, tank top, jeans, looking at viewer, mall, (blush:1.2), smile, 
+<lora:Kizuki - Sailor Moon - Sailor Neptune:0.85>
+
+(best quality:1.1), (masterpiece:1.4), (absurdres:1.0), bent over,  from behind,
+1girl, sailor neptune, mature woman, aged up, small breasts, aqua eyes, dark green hair, medium hair, (sailor senshi uniform:1.1), (back bow:0.75), white elbow gloves, plead skirt, looking at viewer, alley, (blush:1.2), smirk, ass, (anus:1.25), 
+<lora:Kizuki - Sailor Moon - Sailor Neptune:0.85>
+
+
+
+#### Sailor Pluto
+
+(masterpiece), 1girl, solo, perfect sexy female body, anime screencap,1990s \(style\), (art by Naoko Takeuchi), rooftop, skyline, night, fog, starry sky, full moon, bishoujo senshi sailor moon,<lora:EPsmPluto-08:1.0>, EPsmPluto, 1girl, arm up, back bow, black choker, black ribbon, black sailor collar, black skirt, boots, bow, brooch, choker, circlet, earrings, elbow gloves, gloves, green hair, grey bow, hair bun, holding, jewelry, knee boots, long hair, looking at viewer, magical girl, open mouth, pleated skirt, puffy sleeves, red bow, red eyes, ribbon, sailor collar, sailor senshi uniform, see-through, see-through sleeves, skirt, solo,star (symbol), star brooch, star choker, star earrings, white footwear, white gloves
+
+(masterpiece), 1girl, solo, perfect sexy female body, repetition, niagara falls, evening, pray hand on hip, expressionless,<lora:EPsmPluto-08:0.7>, EPsmPluto, 1girl,  green hair, grey bow, hair bun, single hair bun, long hair, looking at viewer, red eyes,star
+off-shoulder sweater, pom-pom pants, thigh high boots
+
+(masterpiece), 1girl, solo, perfect sexy female body, anime screencap,1990s \(style\), (art by Naoko Takeuchi), city, street, sidewalk, taxi, skyscraper, looking at viewer,<lora:EPsmPluto-08:0.7>, EPsmPluto, 1girl,  green hair, grey bow, hair bun, sing, long hair, looking at viewer, red eyes,star earrings,red sweater, turtleneck,jeans
+
+masterpiece, best quality, 1girl, solo, looking at viewer, facing viewer, night, rooftop, city, cityscape, anime screencap,1990s \(style\), (art by Naoko Takeuchi),<lora:EPsmPluto-08:1>, EPsmPluto, arrow earrings, bishoujo senshi sailor moon, black bow, black choker, black sailor collar, black skirt, bow, brooch, choker, circlet, elbow gloves, garnet rod, gem, gloves, green hair, jewelry, long hair, meiou setsuna, miniskirt, pleated skirt, red eyes, red gemstone, sailor collar, shirt, short sleeves, skirt, solo, star (symbol), star choker, swept bangs, very long hair, white shirt
+
+
+
+#### Sailor Moon 1
+
+usagitsukino, 1girl, solo, blue eyes, blonde hair, very long hair, twintails, hair bun, double bun, parted bangs, hair ornament,sailor senshi uniform, white leotard, blue skirt, pleated skirt, miniskirt, red bow, elbow gloves, white gloves, blue sailor collar, red choker, brooch, crescent choker, tiara, jewelry, crescent earrings,smile,closed mouth,cowboy shot,
+forest,outdoor,(insanely detailed, beautiful detailed face, masterpiece, best quality) cinematic lighting,<lora:Sailor_Moon_v4:1>, <lora:more_details:0.3>,
+
+
+
+#### Sailor Moon 2
+
+masterpiece, best quality, highres, 1girl, aausagi, double bun, twintails, parted bangs, circlet, jewelry, earrings, choker, red bow, white gloves, elbow gloves, blue skirt, <lora:sailor_moon_v1:0.7>, standing, cowboy shot, night, outdoors, moon, smile, city,
+
+masterpiece, best quality, highres, 1girl, aausagi, double bun, twintails, parted bangs, hair ornament, circlet, jewelry, earrings, choker, see-through, red bow, white gloves, elbow gloves, multicolored skirt, <lora:sailor_moon_v1:0.7>, sitting, throne, crossed legs, smile, red footwear, knee boots,
+
+masterpiece, best quality, highres, 1girl, aausagi, double bun, twintails, parted bangs, hair ornament, circlet, jewelry, earrings, choker, red bow, white gloves, elbow gloves, blue skirt, <lora:sailor_moon_v1:0.7>, cowboy shot, standing
+
+masterpiece, best quality, highres, 1girl, aausagi, double bun, twintails, parted bangs, hair ornament, crescent facial mark, jewelry, earrings, choker, puffy short sleeves, pink sleeves, heart brooch, white gloves, elbow gloves, layered skirt, wings, <lora:sailor_moon_v1:0.7>, sky, fly, cowboy shot, smile
+
+masterpiece, best quality, highres, 1girl, aausagi, double bun, twintails, parted bangs, hair ornament, circlet, jewelry, earrings, choker, red bow, white gloves, elbow gloves, blue skirt, <lora:sailor_moon_v1:0.7>,  (1990s \(style\):1.1),
+
+masterpiece, best quality, highres, 1girl, aausagi, double bun, twintails, parted bangs, circlet, jewelry, earrings, choker, red bow, white gloves, elbow gloves, blue skirt, <lora:sailor_moon_v1:0.7>, standing, cowboy shot, night, outdoors, moon, city,
+
+masterpiece, best quality, highres, 1girl, aausagi, double bun, twintails, parted bangs, hair ornament, circlet, jewelry, earrings, choker, see-through, red bow, white gloves, elbow gloves, multicolored skirt, <lora:sailor_moon_v1:0.7>, standing, night, smile, cowboy shot
+
+masterpiece, best quality, highres, 1girl, aausagi, double bun, twintails, parted bangs, hair ornament, crescent facial mark, jewelry, earrings, choker, puffy short sleeves, pink sleeves, heart brooch, white gloves, elbow gloves, layered skirt, <lora:sailor_moon_v1:0.7>, standing, cowboy shot, outdoors, smile,
+
+masterpiece, best quality, highres, 1girl, aausagi, double bun, twintails, parted bangs, hair ornament, circlet, jewelry, earrings, choker, see-through, red bow, white gloves, elbow gloves, multicolored skirt, <lora:sailor_moon_v1-3-000003:0.7>, standing, night, smile, cowboy shot, (1990s \(style\):1.3),
+
+masterpiece, best quality, highres, 1girl, aausagi, double bun, twintails, parted bangs, hair ornament, circlet, jewelry, earrings, choker, red bow, white gloves, elbow gloves, blue skirt, <lora:sailor_moon_v1:0.7>, cowboy shot, standing
+
+
+
+#### Sailor Saturn
+
+sailorsaturn, <lora:sailorsaturn-lora-nochekaiser:1>,
+sailor saturn, (purple eyes:1.1), short hair, purple hair, circlet,
+BREAK brooch, choker, earrings, gloves, jewelry, magical girl, miniskirt, purple sailor collar, sailor collar, sailor senshi uniform, skirt, star choker, white gloves,
+BREAK outdoors, night, sky, star \(sky\), moon,
+BREAK looking at viewer, (cowboy shot:1.5),
+BREAK <lyco:GoodHands-beta2:1>, (masterpiece:1.2), best quality, high resolution, unity 8k wallpaper, (illustration:0.8), (beautiful detailed eyes:1.6), extremely detailed face, perfect lighting, extremely detailed CG, (perfect hands, perfect anatomy),
+
+hotarutomoe, 1girl, solo, purple eyes, black hair, short hair, bangs,
+sailor senshi uniform, pleated skirt, purple skirt, miniskirt, elbow gloves, white gloves, gold tiara, star choker, purple  sailor collar, red bow, heart brooch,
+smile,closed mouth,cowboy shot,upper body,hands behind back,
+forest,outdoor,
+(insanely detailed, beautiful detailed face, masterpiece, best quality) cinematic lighting,<lora:Sailor_Saturn_Reborn_v1:1>, <lora:more_details:0.3>,
+
+hotarutomoe, 1girl, solo, purple eyes, black hair, short hair, bangs,
+sailor senshi uniform, pleated skirt, purple skirt, miniskirt, elbow gloves, white gloves, gold tiara, purple choker, purple  sailor collar, red bow,
+smile,closed mouth,cowboy shot,upper body,hands behind back,
+forest,outdoor,
+(insanely detailed, beautiful detailed face, masterpiece, best quality) cinematic lighting,<lora:Sailor_Saturn_v1:1>, <lora:more_details:0.3>,
+
+
+
+#### Eternal Sailor Moon
 
 
 
