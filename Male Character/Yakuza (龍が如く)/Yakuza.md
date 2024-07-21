@@ -100,21 +100,11 @@ Yakuza, Kazuma Kiryu, manly, solo, black hair, 1boy, manly, black eyes, facial h
 (masterpiece,best quality, detailed), movie-level quality <lora:more_details:0.3><lora:GoodHands-beta2:1.0> 
 Yakuza, Kazuma Kiryu, manly, solo, black hair, 1boy, manly, black eyes, facial hair,  <lora:1 Kazuma Kiryu:0.9>,jacket, white shirt, necktie, black eyes, facial hair, formal suit,  blue necktie, black formal suit jacket and pants,
 
+![00003](Kazuma Kiryu (Yakuza)\00003.png)
 
 
 
 
-(masterpiece,best quality, detailed), movie-level quality <lora:more_details:0.3><lora:GoodHands-beta2:1.0> 
-Yakuza, Kazuma Kiryu, manly, solo, black hair, 1boy, manly, black eyes, facial hair,  <lora:1 Kazuma Kiryu:0.9>
-Topless, abs, muscular, eastern dragon tattoo, back tattoo, 
- from behind, fisheye lens
-
-
-
-(masterpiece,best quality, detailed), movie-level quality <lora:more_details:0.3><lora:GoodHands-beta2:1.0> 
-Yakuza, Kazuma Kiryu, manly, solo, black hair, 1boy, manly, black eyes, facial hair,  <lora:1 Kazuma Kiryu:0.9>
-jacket, white shirt, necktie, black eyes, facial hair, formal suit,  blue necktie, black formal suit jacket and pants,
-sunglasses, look through glasses, 
 
 
 
