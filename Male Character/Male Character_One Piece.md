@@ -1,5 +1,7 @@
 # One Piece 海贼王
 
+[toc]
+
 ## Negative prompt
 
 (worst quality, bad quality, low quality, poor quality:1.4),lowres,blurry,(nsfw, bent over, lying, standing:1.4),grayscale,monochrome,deformed,bad anatomy,disfigured,poorly drawn face,mutation,mutated,extra limb,ugly,disgusting,poorly drawn hands,missing limb,floating limbs,disconnected limbs,malformed hands,blurry,((((mutated hands and fingers)))),text,watermark,watermarked,oversaturated,censored,distorted hands,amputation,missing hands,obese,doubled face,double hands,fcNeg,receding hairline,((receding hairline)),bald,(bald),((balding)),balding,widows peak hairline,an14,bad-hands-5,EasyNegative,FastNegativeV2Ace
