@@ -92,6 +92,16 @@ masterpiece, best quality, 1boy, tdlwano, black hair, hat, chest tattoo, earring
 
 (1 image only),  solo male,  1boy,  Daigo Dojima,  Yakuza,  34 years old,  Asian,  Japanese,  black hair,  short hair,  slicked back hair,  stubble,  handsome,  white collared shirt,  (black suit jacket:1.4),  black necktie,  fit body,  mature,  manly,  hunk,  masculine,  virile,  confidence,  charming,  alluring,  upper body in frame,  night at Kabukicho Tokyo,  perfect anatomy,  perfect proportions,  8k,  HQ,  (best quality:1.5,  hyperrealistic:1.5,  photorealistic:1.4,  madly detailed CG unity 8k wallpaper:1.5,  masterpiece:1.3,  madly detailed photo:1.2),  (hyper-realistic lifelike texture:1.4,  realistic eyes:1.2),  high_resolution,  picture-perfect face,  perfect eye pupil,  detailed eyes,  perfecteyes, perfecteyes, mad-ropolis-movie, futuristic, stylized, art deco, expressionist, 1920s, dutch angle,<lora:Daigo_240204_ep10_lora:1> 
 
+#### Kazuma Kiryu (Yakuza)
+
+(AS-Young:1.3), 1boy, solo, kazuma kiryu, ryu ga gotoku, yakuza, young, 20yo, (black hair, brown eyes) (buzz cut:1.45), thick eyebrows, (collared shirt, orange shirt, satin shirt, white suit:1.35), jewelry, necklace, chest hair, wristwatch, muscular, upper body, looking to viewer, walking, in the streets of Okinawa, (realistic:1.5), (unreal engine:1.3), (cinematic color, color accuracy:1.45), (masterpiece, best quality:1.5), extremely detailed, high resolution, 8k uhd unity wallpaper, <lora:Kazuma Kiryu:0.7>
+
+(masterpiece,best quality, detailed), movie-level quality,<lora:more_details:0.3><lora:GoodHands-beta2:1.0> 
+Yakuza, Kazuma Kiryu, manly, solo, black hair, 1boy, manly, black eyes, facial hair,  <lora:1 Kazuma Kiryu:0.9>,shirt, jacket, shoes, belt, pants, formal, suit, red shirt, black belt, white pants, grey jacket, grey pants
+
+(masterpiece,best quality, detailed), movie-level quality <lora:more_details:0.3><lora:GoodHands-beta2:1.0> 
+Yakuza, Kazuma Kiryu, manly, solo, black hair, 1boy, manly, black eyes, facial hair,  <lora:1 Kazuma Kiryu:0.9>,jacket, white shirt, necktie, black eyes, facial hair, formal suit,  blue necktie, black formal suit jacket and pants,
+
 ### Mortal Kombat
 
 #### Scorpion
